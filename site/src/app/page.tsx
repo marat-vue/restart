@@ -27,10 +27,10 @@ export default function HomePage() {
   return (
     <main className="flex-1">
       <HeroScene>
-        <div className="hero-content relative mx-auto max-w-[1440px] px-4 pb-16 pt-16 sm:px-6 sm:pb-20 sm:pt-24">
+        <div className="relative mx-auto max-w-[1440px] px-4 pb-14 pt-14 sm:px-6 sm:pb-16 sm:pt-20">
           <div className="flex flex-wrap items-center gap-x-4 gap-y-3 animate-rise">
-            <span className="hero-badge">
-              <span className="status-spark" aria-hidden="true" />
+            <span className="hero-tag">
+              <span className="accent-square" aria-hidden="true" />
               1С:Предприятие
             </span>
             <span className="label">
@@ -39,14 +39,12 @@ export default function HomePage() {
               шпаргалки
             </span>
           </div>
-          <h1 className="hero-title mt-7 text-[clamp(3.1rem,8.6vw,8rem)] font-semibold leading-[0.94] tracking-[-0.055em] animate-rise [animation-delay:80ms]">
-            <span className="hero-prefix">re:</span>
-            <span className="hero-1c">start</span>
+          <h1 className="mt-8 font-display text-[clamp(2.9rem,8vw,7.25rem)] font-semibold uppercase leading-[0.95] tracking-[-0.02em] animate-rise [animation-delay:60ms]">
+            <span className="hero-muted">re:</span>start
             <br />
-            <span className="hero-muted">от основ</span>{" "}
-            <span className="hero-underline">до&nbsp;разработки</span>
+            <span className="hero-muted">от основ</span> до&nbsp;разработки
           </h1>
-          <div className="mt-10 grid gap-10 lg:grid-cols-[1fr_auto] lg:items-end animate-rise [animation-delay:160ms]">
+          <div className="mt-10 grid gap-10 border-t pt-8 lg:grid-cols-[1fr_auto] lg:items-end animate-rise [animation-delay:120ms]">
             <p className="max-w-xl text-base leading-relaxed text-muted-foreground sm:text-lg">
               Изучайте 1С:Предприятие шаг за шагом: от первого справочника до
               запросов, управляемых форм и интеграций. Читайте конспект,
@@ -54,7 +52,7 @@ export default function HomePage() {
             </p>
             <HomeStats allIds={allIds} />
           </div>
-          <div className="mt-10 animate-rise [animation-delay:240ms]">
+          <div className="mt-10 animate-rise [animation-delay:180ms]">
             <ContinueCard />
           </div>
         </div>
@@ -66,11 +64,11 @@ export default function HomePage() {
       >
         <Reveal className="mb-8 flex items-end justify-between gap-4">
           <div>
-            <div className="label mb-3 flex items-center gap-2">
-              <span className="accent-dash" />
+            <div className="label mb-3 flex items-center gap-2.5">
+              <span className="accent-square" />
               Ваш маршрут
             </div>
-            <h2 className="text-2xl font-semibold tracking-tight sm:text-3xl">
+            <h2 className="text-2xl font-semibold uppercase sm:text-4xl">
               Разделы
             </h2>
           </div>
@@ -78,31 +76,31 @@ export default function HomePage() {
             Пройдено <CompletionPct ids={allIds} className="text-brand-text" />
           </span>
         </Reveal>
-        <div className="section-grid grid border-l border-t sm:grid-cols-2 lg:grid-cols-3">
+        <div className="grid border-l border-t sm:grid-cols-2 lg:grid-cols-3">
           {sections.map((s, i) => {
             const ids = lessonIdsOf(s);
             return (
               <Reveal key={s.id} className="h-full" delay={(i % 3) * 0.06}>
                 <SectionCard href={s.href}>
                   <div className="flex items-start justify-between">
-                    <span className="section-number font-mono text-5xl font-light tracking-tighter">
+                    <span className="section-number font-display text-5xl font-semibold">
                       {s.num}
                     </span>
                     <span className="section-arrow">
                       <ArrowUpRightIcon className="size-4" />
                     </span>
                   </div>
-                  <h3 className="mt-auto pt-8 text-xl font-medium leading-tight tracking-tight">
+                  <h3 className="mt-auto pt-8 text-xl font-semibold leading-tight">
                     {s.title}
                   </h3>
                   <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
                     {descriptions[s.num ?? ""]}
                   </p>
-                  <div className="mt-5 flex items-center justify-between font-mono text-[11px] uppercase tracking-wider text-muted-foreground">
+                  <div className="section-meta mt-5 flex items-center justify-between font-mono text-[11px] uppercase tracking-wider text-muted-foreground">
                     <span>{ids.length} ур.</span>
                     <CompletionText ids={ids} />
                   </div>
-                  <CompletionBar ids={ids} className="mt-3" />
+                  <CompletionBar ids={ids} className="mt-3 h-0.5" />
                 </SectionCard>
               </Reveal>
             );
@@ -118,7 +116,7 @@ export default function HomePage() {
                   href={e.href}
                   className="extra-link group flex items-center gap-4 border-b border-r px-6 py-5"
                 >
-                  <span className="font-mono text-sm text-brand-text">
+                  <span className="font-mono text-sm text-faint">
                     {e.num}
                   </span>
                   <span className="font-medium">{e.title}</span>

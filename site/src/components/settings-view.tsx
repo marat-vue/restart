@@ -40,12 +40,12 @@ export function SettingsView() {
     } catch { toast.error("Не удалось прочитать резервную копию re:1c. Текущий прогресс сохранён."); }
   };
   return <main className={cn("mx-auto w-full max-w-4xl flex-1 px-4 py-12 sm:px-6 sm:py-16", !hydrated && "opacity-0")}>
-    <div className="label">Параметры</div><h1 className="mt-3 text-5xl font-semibold tracking-[-0.045em] sm:text-7xl">Настройки</h1>
+    <div className="label">Параметры</div><h1 className="mt-3 text-5xl font-semibold uppercase sm:text-7xl">Настройки</h1>
     <h2 className="label mt-14">Оформление</h2>
-    <div className="border-t"><Row title="Тема" desc="Светлая и тёмная палитры с тёплыми акцентами.">
-      <div className="inline-flex rounded-lg border p-0.5">
+    <div className="border-t"><Row title="Тема" desc="Молочно-белая или графитовая палитра.">
+      <div className="inline-flex border p-0.5">
         {[["light", "Светлая"], ["dark", "Тёмная"], ["system", "Системная"]].map(([k, l]) =>
-          <button key={k} onClick={() => setTheme(k)} aria-pressed={theme === k} className={cn("rounded-md px-3 py-1.5 text-sm transition-colors", theme === k ? "bg-foreground text-background" : "text-muted-foreground hover:text-foreground")}>{l}</button>)}
+          <button key={k} onClick={() => setTheme(k)} aria-pressed={theme === k} className={cn("px-3 py-1.5 text-sm transition-colors", theme === k ? "bg-foreground text-background" : "text-muted-foreground hover:text-foreground")}>{l}</button>)}
       </div>
     </Row></div>
     <h2 className="label mt-14">Данные</h2>

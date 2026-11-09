@@ -10,7 +10,7 @@ export function CompletionBar({ ids, className }: { ids: string[]; className?: s
   const hydrated = useHydrated();
   const { pct } = useCompletion(ids);
   return (
-    <div className={cn("h-px w-full bg-border overflow-hidden", className)}>
+    <div className={cn("completion-track h-px w-full bg-border overflow-hidden", className)}>
       <div
         className="completion-fill h-full transition-[width] duration-700 ease-out"
         style={{ width: hydrated ? `${pct * 100}%` : 0 }}
@@ -45,13 +45,13 @@ export function LessonMark({ id, className }: { id: string; className?: string }
   return (
     <span
       className={cn(
-        "relative grid size-4 shrink-0 place-items-center rounded-full border transition-colors",
-        done ? "border-brand bg-brand text-brand-ink" : seen ? "border-brand-text/60" : "border-border",
+        "relative grid size-4 shrink-0 place-items-center border transition-colors",
+        done ? "border-brand bg-brand text-brand-ink" : seen ? "border-foreground/60" : "border-border",
         className,
       )}
       title={done ? "Изучено" : seen ? "Открыт" : "Не начат"}
     >
-      {done ? <CheckIcon className="size-2.5" strokeWidth={3} /> : seen ? <span className="size-1 rounded-full bg-brand-text/70" /> : null}
+      {done ? <CheckIcon className="size-2.5" strokeWidth={3} /> : seen ? <span className="size-1.5 bg-foreground/70" /> : null}
     </span>
   );
 }

@@ -17,22 +17,18 @@ export function ThemeToggle() {
       size="icon"
       aria-label="Сменить тему"
       className="theme-toggle"
-      onClick={(event) => {
+      onClick={() => {
         const next = resolvedTheme === "dark" ? "light" : "dark";
         if (reduced || !document.startViewTransition || document.visibilityState !== "visible") {
           setTheme(next); return;
         }
         if (busy.current) return;
         busy.current = true;
-        const rect = event.currentTarget.getBoundingClientRect();
-        const x = rect.left + rect.width / 2;
-        const y = rect.top + rect.height / 2;
-        const radius = Math.hypot(Math.max(x, window.innerWidth - x), Math.max(y, window.innerHeight - y));
         const transition = document.startViewTransition(() => flushSync(() => setTheme(next)));
         void transition.ready.then(() => {
           return document.documentElement.animate(
-            { clipPath: [`circle(0px at ${x}px ${y}px)`, `circle(${radius}px at ${x}px ${y}px)`] },
-            { duration: 600, easing: "cubic-bezier(.22,1,.36,1)", pseudoElement: "::view-transition-new(root)" },
+            { clipPath: ["inset(0 0 100% 0)", "inset(0 0 0 0)"] },
+            { duration: 450, easing: "cubic-bezier(.7,0,.2,1)", pseudoElement: "::view-transition-new(root)" },
           ).finished;
         }).catch(() => {}).finally(() => { busy.current = false; });
       }}

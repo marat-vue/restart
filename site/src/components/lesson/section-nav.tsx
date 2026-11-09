@@ -28,11 +28,11 @@ function LessonLink({ node, active }: { node: NavNode; active: boolean }) {
       href={node.href}
       data-active={active || undefined}
       className={cn(
-        "group flex items-start gap-2.5 rounded-md py-1.5 pl-2 pr-2 text-[13px] leading-snug text-muted-foreground transition-colors hover:bg-muted/60 hover:text-foreground",
+        "group flex items-start gap-2.5 py-1.5 pl-2 pr-2 text-[13px] leading-snug text-muted-foreground transition-colors hover:bg-muted/60 hover:text-foreground",
         active && "lesson-link-active",
       )}
     >
-      <LessonMark id={node.id} className={cn("mt-px scale-90", active && "border-background/40")} />
+      <LessonMark id={node.id} className={cn("mt-px scale-90", active && "border-background/50")} />
       <span className="min-w-0 flex-1">{node.title}</span>
     </Link>
   );
@@ -52,7 +52,7 @@ function Group({ node, currentId }: { node: NavNode; currentId: string }) {
     <div>
       <button
         onClick={() => setOpen((o) => !o)}
-        className="group flex w-full items-center gap-2 rounded-md px-2 py-2 text-left text-[13px] font-medium transition-colors hover:bg-muted/60"
+        className="group flex w-full items-center gap-2 px-2 py-2 text-left text-[13px] font-medium transition-colors hover:bg-muted/60"
         aria-expanded={open}
       >
         <ChevronRightIcon className={cn("size-3.5 shrink-0 text-muted-foreground transition-transform duration-200", open && "rotate-90")} />
@@ -88,7 +88,7 @@ export function SectionNav({ tree, sections, currentId }: { tree: NavNode | null
         <div className="border-b px-5 pb-4 pt-6">
           <Link href={tree.href} className="group block">
             <div className="label">Раздел {tree.num}</div>
-            <div className="mt-1 text-lg font-semibold tracking-tight group-hover:underline underline-offset-4 decoration-1">{tree.title}</div>
+            <div className="mt-1 font-display text-lg font-semibold group-hover:underline underline-offset-4 decoration-1">{tree.title}</div>
           </Link>
           <div className="mt-3 flex items-center gap-3">
             <CompletionBar ids={ids} className="flex-1" />
@@ -108,7 +108,7 @@ export function SectionNav({ tree, sections, currentId }: { tree: NavNode | null
               key={s.id}
               href={s.href}
               className={cn(
-                "flex items-center gap-2.5 rounded-md px-2 py-1.5 text-[13px] text-muted-foreground transition-colors hover:bg-muted/60 hover:text-foreground",
+                "flex items-center gap-2.5 px-2 py-1.5 text-[13px] text-muted-foreground transition-colors hover:bg-muted/60 hover:text-foreground",
                 s.id === tree?.id && "text-foreground",
               )}
             >

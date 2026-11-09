@@ -33,8 +33,8 @@ export function FolderView({ node }: { node: ContentNode }) {
 
       <header className="mt-8 grid gap-8 border-b pb-10 md:grid-cols-[1fr_auto] md:items-end">
         <div className="animate-rise">
-          {node.num && <div className="font-mono text-7xl font-extralight leading-none tracking-tighter text-muted-foreground/40 sm:text-8xl">{node.num}</div>}
-          <h1 className="mt-4 text-4xl font-semibold leading-[1.02] tracking-[-0.04em] sm:text-6xl">{node.title}</h1>
+          {node.num && <div className="font-display text-7xl font-semibold leading-none text-faint sm:text-8xl">{node.num}</div>}
+          <h1 className="mt-4 text-4xl font-semibold uppercase leading-[1.02] sm:text-6xl">{node.title}</h1>
           <div className="mt-5 flex flex-wrap items-center gap-x-5 gap-y-2 font-mono text-xs uppercase tracking-wider text-muted-foreground">
             {folders.length > 0 && (
               <span>
@@ -51,7 +51,7 @@ export function FolderView({ node }: { node: ContentNode }) {
         </div>
         <FolderActions ids={ids} />
       </header>
-      <CompletionBar ids={ids} className="-mt-px" />
+      <CompletionBar ids={ids} className="-mt-px h-0.5" />
 
       {directLessons.length > 0 && (
         <div className="mt-10">
@@ -68,7 +68,7 @@ export function FolderView({ node }: { node: ContentNode }) {
             <section key={f.id} className="animate-rise" style={{ animationDelay: `${Math.min(i, 8) * 50}ms` }}>
               <div className="sticky top-14 z-10 -mx-1 flex items-end gap-4 bg-background/90 px-1 pb-3 pt-6 backdrop-blur sm:-mx-3 sm:px-3">
                 <span className="font-mono text-sm text-faint">{f.num}</span>
-                <Link href={f.href} className="min-w-0 flex-1 text-xl font-semibold tracking-tight hover:underline underline-offset-4 decoration-1">
+                <Link href={f.href} className="min-w-0 flex-1 font-display text-xl font-semibold hover:underline underline-offset-4 decoration-1">
                   {f.title}
                 </Link>
                 <span className="font-mono text-xs text-muted-foreground">
