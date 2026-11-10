@@ -11,6 +11,7 @@ import { Kbd } from "@/components/ui/kbd";
 
 const NAV = [
   { href: "/", label: "Разделы", match: (p: string) => p === "/" || p.startsWith("/l/") },
+  { href: "/exam/", label: "Экзамен", match: (p: string) => p.startsWith("/exam") },
   { href: "/stats/", label: "Статистика", match: (p: string) => p.startsWith("/stats") },
   { href: "/settings/", label: "Настройки", match: (p: string) => p.startsWith("/settings") },
 ];

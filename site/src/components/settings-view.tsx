@@ -8,6 +8,7 @@ import { Dialog, DialogClose, DialogContent, DialogDescription, DialogFooter, Di
 import { useAppDispatch, useAppStore, useHydrated } from "@/store/hooks";
 import { hydrate, resetAll, selectPersisted } from "@/store";
 import { parseBackup } from "@/lib/progress-data";
+import { normalizeExam } from "@/lib/exam/data";
 import { dayKey } from "@/lib/date";
 import { cn } from "@/lib/utils";
 
@@ -34,8 +35,10 @@ export function SettingsView() {
   };
   const importData = async (file: File) => {
     try {
-      const progress = parseBackup(JSON.parse(await file.text()));
-      dispatch(hydrate({ progress }));
+      const raw = JSON.parse(await file.text());
+      const progress = parseBackup(raw);
+      const exam = raw.exam !== undefined ? normalizeExam(raw.exam) : null;
+      dispatch(hydrate(exam ? { progress, exam } : { progress }));
       toast("Прогресс восстановлен из файла");
     } catch { toast.error("Не удалось прочитать резервную копию re:1c. Текущий прогресс сохранён."); }
   };
@@ -50,7 +53,7 @@ export function SettingsView() {
     </Row></div>
     <h2 className="label mt-14">Данные</h2>
     <div className="border-t">
-      <Row title="Резервная копия" desc="Прогресс хранится в этом браузере. Экспортируйте его для переноса на другое устройство. При импорте отметки заменяются данными из файла.">
+      <Row title="Резервная копия" desc="Прогресс уроков и подготовки к экзамену хранится в этом браузере. Экспортируйте его для переноса на другое устройство. При импорте данные заменяются содержимым файла.">
         <div className="flex gap-2">
           <Button variant="outline" onClick={exportData}><DownloadIcon /> Экспорт</Button>
           <Button variant="outline" onClick={() => fileRef.current?.click()}><UploadIcon /> Импорт</Button>

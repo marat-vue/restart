@@ -40,3 +40,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# банк вопросов экзамена: сборник «1С» запрещено распространять по сети
+/public/exam/

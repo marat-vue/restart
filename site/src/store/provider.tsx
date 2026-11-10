@@ -2,16 +2,27 @@
 
 import { useEffect, useState } from "react";
 import { Provider } from "react-redux";
-import { hydrate, makeStore, selectPersisted, STORAGE_KEY, type AppStore, type PersistedState } from "./index";
+import { EXAM_KEY, hydrate, makeStore, STORAGE_KEY, type AppStore, type PersistedState, type RootState } from "./index";
 
-function load(): Partial<PersistedState> | null {
+function read(key: string): unknown {
   try {
-    const raw = localStorage.getItem(STORAGE_KEY);
-    return raw ? (JSON.parse(raw) as Partial<PersistedState>) : null;
+    const raw = localStorage.getItem(key);
+    return raw ? JSON.parse(raw) : null;
   } catch {
     return null;
   }
 }
+function load(): Partial<PersistedState> {
+  const stored = read(STORAGE_KEY) as Partial<PersistedState> | null;
+  return { progress: stored?.progress, exam: read(EXAM_KEY) as PersistedState["exam"] };
+}
+
+// Прогресс чтения и прогресс экзамена хранятся под разными ключами:
+// история ответов растёт быстрее и не должна рисковать отметками уроков.
+const SLICES = [
+  { key: STORAGE_KEY, pick: (s: RootState) => s.progress, wrap: (v: unknown) => ({ progress: v }) },
+  { key: EXAM_KEY, pick: (s: RootState) => s.exam, wrap: (v: unknown) => v },
+];
 
 /**
  * Redux-стор живёт только в браузере. Состояние читается из localStorage
@@ -24,32 +35,36 @@ export function StoreProvider({ children }: { children: React.ReactNode }) {
   useEffect(() => {
     store.dispatch(hydrate(load()));
 
-    let timer: ReturnType<typeof setTimeout> | undefined;
-    let prev = selectPersisted(store.getState());
-    const save = () => {
+    const timers = new Map<string, ReturnType<typeof setTimeout>>();
+    let prev = SLICES.map((s) => s.pick(store.getState()));
+    const save = (i: number) => {
+      timers.delete(SLICES[i].key);
       try {
-        localStorage.setItem(STORAGE_KEY, JSON.stringify(selectPersisted(store.getState())));
+        localStorage.setItem(SLICES[i].key, JSON.stringify(SLICES[i].wrap(SLICES[i].pick(store.getState()))));
       } catch {}
     };
     const unsubscribe = store.subscribe(() => {
-      const next = selectPersisted(store.getState());
-      if (next.progress === prev.progress) return;
+      const next = SLICES.map((s) => s.pick(store.getState()));
+      next.forEach((v, i) => {
+        if (v === prev[i]) return;
+        clearTimeout(timers.get(SLICES[i].key));
+        timers.set(SLICES[i].key, setTimeout(() => save(i), 250));
+      });
       prev = next;
-      clearTimeout(timer);
-      timer = setTimeout(save, 250);
     });
 
     // синхронизация между вкладками
     const onStorage = (e: StorageEvent) => {
-      if (e.key !== STORAGE_KEY) return;
+      if (!SLICES.some((s) => s.key === e.key)) return;
       store.dispatch(hydrate(load()));
-      prev = selectPersisted(store.getState());
+      prev = SLICES.map((s) => s.pick(store.getState()));
     };
     const flush = () => {
-      if (timer) {
-        clearTimeout(timer);
-        save();
-      }
+      SLICES.forEach((s, i) => {
+        if (!timers.has(s.key)) return;
+        clearTimeout(timers.get(s.key));
+        save(i);
+      });
     };
     window.addEventListener("storage", onStorage);
     window.addEventListener("pagehide", flush);

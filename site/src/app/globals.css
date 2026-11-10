@@ -32,6 +32,7 @@
   --color-brand: var(--brand);
   --color-brand-text: var(--brand-text);
   --color-brand-ink: var(--brand-ink);
+  --color-ok: var(--ok);
   /* угловатая шкала: максимум пара пикселей скругления */
   --radius-sm: 1px;
   --radius-md: 2px;
@@ -92,6 +93,7 @@
   --accent: #e6e1d6;
   --accent-foreground: var(--graphite);
   --destructive: #a3341f;
+  --ok: #3c7046;
   --border: #d5d0c4;
   --line: #e3dfd5;
   --input: #cfc9bc;
@@ -132,6 +134,7 @@
   --accent: #34373b;
   --accent-foreground: var(--milk);
   --destructive: #e07a63;
+  --ok: #86c08f;
   --border: #3a3d42;
   --line: #303337;
   --input: #44474c;
