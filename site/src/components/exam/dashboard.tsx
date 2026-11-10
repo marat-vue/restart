@@ -5,7 +5,6 @@ import { useMemo, useState } from "react";
 import { ArrowRightIcon, BugIcon, FlagIcon, LibraryIcon, RotateCcwIcon, TimerIcon, Trash2Icon } from "lucide-react";
 import { toast } from "sonner";
 import { buildQueue, daysUntilExam, forecast, isLeech, passChance, scheduler, statusOf, topicChances } from "@/lib/exam/scheduler";
-import { removeImportedBank, type BankSource } from "@/lib/exam/bank";
 import type { ExamBank } from "@/lib/exam/types";
 import { examReset, settingsChanged } from "@/store";
 import { useAppDispatch } from "@/store/hooks";
@@ -38,7 +37,7 @@ function ActionLink({ href, icon: Icon, title, sub, disabled }: { href: string; 
   return <Link href={href} className="continue-link group flex items-center gap-4 p-5">{body}</Link>;
 }
 
-export function ExamDashboard({ bank, source, reload }: { bank: ExamBank; source: BankSource; reload: () => void }) {
+export function ExamDashboard({ bank }: { bank: ExamBank }) {
   const exam = useExam();
   const dispatch = useAppDispatch();
   const [confirm, setConfirm] = useState(false);
@@ -222,10 +221,8 @@ export function ExamDashboard({ bank, source, reload }: { bank: ExamBank; source
           <Row title="Перемешивать варианты" desc="Чтобы запоминался ответ, а не его место в списке. Номера в вариантах вида «Варианты 1 и 2» пересчитываются автоматически.">
             <Switch checked={exam.settings.shuffle} onCheckedChange={(v) => dispatch(settingsChanged({ shuffle: v }))} aria-label="Перемешивать варианты" />
           </Row>
-          <Row title="Банк вопросов" desc={`${bank.source}. ${source === "build" ? "Загружен из сборки сайта." : "Загружен из файла и хранится в этом браузере."}`}>
-            {source === "import"
-              ? <Button variant="outline" onClick={async () => { await removeImportedBank(); toast("Банк вопросов удалён из браузера"); reload(); }}><Trash2Icon />Удалить из браузера</Button>
-              : <span className="font-mono text-xs text-muted-foreground">public/exam/bank.json</span>}
+          <Row title="Банк вопросов" desc={`${bank.source}. Общий для всех, публикуется вместе с сайтом.`}>
+            <span className="font-mono text-xs text-muted-foreground">{bank.questions.length} вопросов</span>
           </Row>
           <Row title="Сбросить подготовку" desc="Удалит историю ответов, расписание, попытки экзамена, отметки и заметки. Настройки сохранятся.">
             <Button variant="destructive" onClick={() => setConfirm(true)}><Trash2Icon />Сбросить</Button>

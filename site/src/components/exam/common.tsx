@@ -1,10 +1,8 @@
 "use client";
 
-import { useRef, useState } from "react";
-import { FileUpIcon, LoaderIcon } from "lucide-react";
-import { toast } from "sonner";
+import { LoaderIcon } from "lucide-react";
 import { ImageZoom } from "@/components/lesson/image-zoom";
-import { importBank, useBank, type BankSource } from "@/lib/exam/bank";
+import { useBank } from "@/lib/exam/bank";
 import { statusOf, type CardStatus } from "@/lib/exam/scheduler";
 import type { ExamBank, ExamQuestion, StoredCard } from "@/lib/exam/types";
 import { useAppSelector, useHydrated } from "@/store/hooks";
@@ -12,56 +10,21 @@ import { cn } from "@/lib/utils";
 
 export const useExam = () => useAppSelector((s) => s.exam);
 
-/** Показывает содержимое, когда банк вопросов загружен, иначе — форму загрузки файла. */
-export function BankGate({ children }: { children: (bank: ExamBank, source: BankSource, reload: () => void) => React.ReactNode }) {
-  const { status, bank, source, reload } = useBank();
+/** Показывает содержимое, когда банк вопросов загружен. */
+export function BankGate({ children }: { children: (bank: ExamBank) => React.ReactNode }) {
+  const { status, bank } = useBank();
   const hydrated = useHydrated();
-  if (status === "loading" || !hydrated) {
+  if (status === "error") {
+    return <main className="mx-auto w-full max-w-3xl flex-1 px-4 py-12 sm:px-6 sm:py-16">
+      <div className="label">Сертификация · 1С:Профессионал</div>
+      <h1 className="mt-3 text-4xl font-semibold uppercase sm:text-6xl">Экзамен</h1>
+      <p className="mt-6 max-w-xl leading-relaxed text-muted-foreground">Не удалось загрузить банк вопросов. Проверьте соединение и обновите страницу.</p>
+    </main>;
+  }
+  if (status === "loading" || !bank || !hydrated) {
     return <div className="grid flex-1 place-items-center py-32 text-muted-foreground"><LoaderIcon className="size-5 animate-spin" /></div>;
   }
-  if (status === "missing" || !bank) return <BankImport onDone={reload} />;
-  return <>{children(bank, source!, reload)}</>;
-}
-
-function BankImport({ onDone }: { onDone: () => void }) {
-  const ref = useRef<HTMLInputElement>(null);
-  const [busy, setBusy] = useState(false);
-  const [drag, setDrag] = useState(false);
-  const load = async (file: File) => {
-    setBusy(true);
-    try {
-      const bank = await importBank(file);
-      toast(`Загружено ${bank.questions.length} вопросов`);
-      onDone();
-    } catch (e) {
-      toast.error(e instanceof Error ? e.message : "Не удалось прочитать файл");
-    } finally { setBusy(false); }
-  };
-  return <main className="mx-auto w-full max-w-3xl flex-1 px-4 py-12 sm:px-6 sm:py-16">
-    <div className="label">Сертификация · 1С:Профессионал</div>
-    <h1 className="mt-3 text-4xl font-semibold uppercase sm:text-6xl">Экзамен</h1>
-    <p className="mt-6 max-w-xl leading-relaxed text-muted-foreground">
-      Вопросы взяты из официального сборника фирмы «1С». Его нельзя распространять по сети,
-      поэтому банк вопросов не публикуется вместе с сайтом. Загрузите свой файл: он сохранится
-      только в этом браузере.
-    </p>
-    <button type="button" onClick={() => ref.current?.click()} disabled={busy}
-      onDragOver={(e) => { e.preventDefault(); setDrag(true); }} onDragLeave={() => setDrag(false)}
-      onDrop={(e) => { e.preventDefault(); setDrag(false); const f = e.dataTransfer.files[0]; if (f) void load(f); }}
-      className={cn("mt-10 flex w-full flex-col items-center gap-3 border border-dashed px-6 py-14 text-center transition-colors hover:border-foreground/60 hover:bg-muted/40", drag && "border-brand bg-brand/5")}>
-      {busy ? <LoaderIcon className="size-6 animate-spin" /> : <FileUpIcon className="size-6" />}
-      <span className="font-medium">Выберите или перетащите bank.json</span>
-      <span className="text-sm text-muted-foreground">около 6,5 МБ · 961 вопрос</span>
-    </button>
-    <input ref={ref} type="file" accept="application/json,.json" className="hidden" aria-label="Загрузить банк вопросов"
-      onChange={(e) => { const f = e.target.files?.[0]; if (f) void load(f); e.target.value = ""; }} />
-    <div className="mt-10 border-t pt-6 text-sm leading-relaxed text-muted-foreground">
-      <div className="font-medium text-foreground">Где взять файл</div>
-      <p className="mt-2">Соберите его из PDF-сборника скриптом в папке конспекта:</p>
-      <pre className="mt-3 overflow-x-auto border bg-muted px-4 py-3 font-mono text-xs">python .tools/build_exam.py &quot;Сборник вопросов 1С-Профессионал 2021.pdf&quot;</pre>
-      <p className="mt-3">Файл появится в <code className="font-mono text-xs">site/public/exam/bank.json</code>. При локальном запуске сайт подхватит его сам.</p>
-    </div>
-  </main>;
+  return <>{children(bank)}</>;
 }
 
 const STATUS: Record<CardStatus, { label: string; className: string }> = {

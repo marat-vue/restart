@@ -5,19 +5,24 @@
 
 Правильные ответы в PDF отмечены жёлтыми аннотациями Highlight, формулировки
 вопросов — зелёными. Результат: site/public/exam/bank.json (картинки внутри
-как data URI). Файл не хранится в Git: сборник запрещено распространять по сети.
+как data URI). Файл хранится в Git и публикуется вместе с сайтом.
 """
 import base64, collections, json, os, re, sys, time
+sys.stdout.reconfigure(encoding="utf-8")
 import pymupdf
 
 QUESTION_PAGES = range(7, 239)   # страницы 8–239: раздел 1
 SAMPLE_PAGES = range(239, 245)   # 240–245: примеры заданий
 ANSWER_PAGES = range(245, 249)   # 246–249: ответы с комментариями
+FIRST_PAGE = 8                   # номер в книге первой страницы раздела 1
 OUT = os.path.join(os.path.dirname(__file__), "..", "site", "public", "exam", "bank.json")
 
 # Разметка двух вопросов в сборнике противоречива (выделено несколько вариантов).
 # Выбран вариант, верный для актуальной платформы; вопрос помечается как спорный.
 DISPUTED = {"10.57": 2, "10.108": 5}
+
+
+OFFSET = 0  # сдвиг номеров страниц файла относительно книги
 
 
 def page_lines(page):
@@ -50,6 +55,7 @@ def page_lines(page):
     items.sort(key=lambda it: it["bbox"][1])
     for it in items:
         it["page"] = page.number + 1
+        it["book"] = page.number + 1 + OFFSET
     # колонтитулы
     return [it for it in items if it["kind"] == "img" or 60 <= it["bbox"][1] <= 780]
 
@@ -95,7 +101,7 @@ def parse_questions(doc):
             qs.append(cur); state = "q"
             continue
         mt = t_re.match(t)
-        indent = 60 if it["page"] % 2 == 0 else 74  # заголовки тем стоят на уровне номеров вопросов
+        indent = 60 if it["book"] % 2 == 0 else 74  # заголовки тем стоят на уровне номеров вопросов
         if not it["g"] and mt and abs(it["bbox"][0] - indent) < 6 and int(mt.group(1)) == topic + 1:
             topic = int(mt.group(1)); topics[topic] = mt.group(2).strip(); cur = None; state = None
             continue
@@ -160,7 +166,13 @@ def words(text):
 
 
 def main(pdf):
+    global QUESTION_PAGES, OFFSET
     doc = pymupdf.open(pdf)
+    # Выписка только раздела 1 (232 страницы): без примеров заданий и разборов.
+    full = doc.page_count >= ANSWER_PAGES.stop
+    if not full:
+        OFFSET = FIRST_PAGE - 1
+        QUESTION_PAGES = range(0, min(doc.page_count, QUESTION_PAGES.stop - OFFSET))
     topics, qs = parse_questions(doc)
     problems = []
     for q in qs:
@@ -180,7 +192,7 @@ def main(pdf):
 
     sig = {q["id"]: words(q["text"]) for q in qs}
     jaccard = lambda a, b: len(a & b) / len(a | b) if a and b else 0
-    for s in parse_samples(doc):
+    for s in parse_samples(doc) if full else []:
         w = words(s["question"])
         q = max(qs, key=lambda q: jaccard(w, sig[q["id"]]))
         if jaccard(w, sig[q["id"]]) < 0.7:

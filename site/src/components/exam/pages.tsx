@@ -8,7 +8,7 @@ import { ExamSimulation } from "./simulation";
 import { ExamBankView } from "./bank-view";
 
 export function ExamHome() {
-  return <BankGate>{(bank, source, reload) => <ExamDashboard bank={bank} source={source} reload={reload} />}</BankGate>;
+  return <BankGate>{(bank) => <ExamDashboard bank={bank} />}</BankGate>;
 }
 
 const SETS: PracticeSet[] = ["mistakes", "marked", "leeches", "topic"];
