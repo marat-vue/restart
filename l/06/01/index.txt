@@ -1,0 +1,309 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1b:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:"ViewportBoundary"
+1f:I[97367,["$2","$3","$4","$5","$6","$7"],"$1e"]
+21:"MetadataBoundary"
+22:I[97367,["$2","$3","$4","$5","$6","$7"],"$21"]
+24:I[68027,["$2","$3","$4","$5","$6","$7"],"default",1]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+:HL["/restart/_next/static/media/051742360c26797e-s.p.1bkzbscqrt8rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/26f284dcc38c84c0-s.p.3hlisc-pwq13z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/42b035f1a63f268d-s.p.2m8t2-vl1h1kf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/b4a06a523f527a0e-s.p.3psl0_mnhzy2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/cfdfbee4d6cf0a93-s.p.1jwcpm6w583_v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/e8768c288fbd3aa6-s.p.1t1z0xjflawjj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+17:X
+19:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L1a",[["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true,"nonce":"$undefined"}]],["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]]}],"p":false,"v":null}}]]
+18:[["children",{"s":{"n":"slug","t":"c","k":"06/01","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q19"}]]
+16:[["children",{"s":"l","h":131584,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q18"}]]
+0:{"P":null,"c":["","l","06","01",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true,"nonce":"$undefined"}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":false,"v":null},"c":"$Q16"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$L20"}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":"$L23"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$24",[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+17:C
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]
+25:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+26:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+27:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+28:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+29:T9014,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p><strong>Алгоритм</strong> — точная последовательность шагов, которая из входных данных получает результат. На собеседовании важна не только правильность, но и <strong>ход рассуждений</strong>: понять задачу → разобрать примеры → придумать простое решение → улучшить его → проверить крайние случаи. Все задачи раздела решаем на встроенном языке 1С в учебной «песочнице» — внешней обработке с кнопкой «Выполнить» и процедурой <code>Проверить()</code>.</p></div>
+</div>
+<h2 id="зачем-1с-разработчику-алгоритмы">Зачем 1С-разработчику алгоритмы</h2>
+<p>В повседневной работе 1С-разработчик чаще пишет запросы и формы, чем сортировки. Но алгоритмы нужны по трём причинам:</p>
+<ol>
+<li><strong>Собеседования.</strong> Многие компании, особенно крупные банки и IT-компании, на стажировку и junior-позиции дают задачи «на алгоритмы» — и 1С-разработчикам тоже.</li>
+<li><strong>Производительность.</strong> Обработка, которая ищет совпадения двумя вложенными циклами, на 100 строках работает мгновенно, а на 100 000 — часами. Понимание сложности алгоритма помогает этого не допустить.</li>
+<li><strong>Мышление.</strong> Умение разложить задачу на шаги и предусмотреть крайние случаи делает любой код надёжнее.</li>
+</ol>
+<h2 id="что-такое-алгоритм">Что такое алгоритм</h2>
+<p><strong>Алгоритм</strong> — это точная инструкция: какие шаги в каком порядке выполнить, чтобы из <strong>входных данных</strong> получить <strong>результат</strong>.</p>
+<p>Пример из жизни — рецепт омлета:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="plaintext" data-theme="mono"><code data-language="plaintext" data-theme="mono" style="display: grid;"><span data-line=""><span>Вход: 2 яйца, молоко, соль</span></span>
+<span data-line=""><span>1. Разбить яйца в миску.</span></span>
+<span data-line=""><span>2. Добавить 50 мл молока и щепотку соли.</span></span>
+<span data-line=""><span>3. Взбить вилкой.</span></span>
+<span data-line=""><span>4. Вылить на разогретую сковороду.</span></span>
+<span data-line=""><span>5. Жарить 3 минуты под крышкой.</span></span>
+<span data-line=""><span>Результат: омлет</span></span></code></pre></figure>
+<p>Пример из программирования — найти <strong>наибольшее</strong> число в списке <code>[3, 8, 1, 9, 4]</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="plaintext" data-theme="mono"><code data-language="plaintext" data-theme="mono" style="display: grid;"><span data-line=""><span>1. Запомнить первое число как «максимум»: максимум = 3.</span></span>
+<span data-line=""><span>2. Посмотреть на следующее число. Если оно больше максимума — запомнить его.</span></span>
+<span data-line=""><span>   8 > 3 → максимум = 8</span></span>
+<span data-line=""><span>   1 > 8? нет</span></span>
+<span data-line=""><span>   9 > 8 → максимум = 9</span></span>
+<span data-line=""><span>   4 > 9? нет</span></span>
+<span data-line=""><span>3. Когда числа закончились — ответ в «максимуме»: 9.</span></span></code></pre></figure>
+<p>Хороший алгоритм:</p>
+<ul>
+<li><strong>правильный</strong> — даёт верный ответ на <strong>любых</strong> допустимых входных данных, включая крайние случаи (пустой список, одно число, все числа одинаковые);</li>
+<li><strong>понятный</strong> — его можно объяснить словами;</li>
+<li><strong>эффективный</strong> — не делает лишней работы (об этом — следующий урок).</li>
+</ul>
+<h2 id="как-решать-задачу-на-собеседовании">Как решать задачу на собеседовании</h2>
+<p>На собеседовании проверяют не столько знание готовых решений, сколько умение <strong>рассуждать</strong>. Интервьюер хочет слышать ход мыслей. Используйте один и тот же план для любой задачи:</p>
+<pre><pre class="mermaid-source">flowchart TD
+    A["1. Понять задачу&#x3C;br/>переспросить условие"] --> B["2. Разобрать примеры&#x3C;br/>руками на бумаге"]
+    B --> C["3. Простое решение&#x3C;br/>пусть медленное"]
+    C --> D["4. Оценить сложность&#x3C;br/>и улучшить"]
+    D --> E["5. Написать код"]
+    E --> F["6. Проверить&#x3C;br/>на примерах и крайних случаях"]
+</pre></pre>
+<p><strong>1. Понять задачу.</strong> Перескажите условие своими словами и задайте уточняющие вопросы:</p>
+<ul>
+<li>Что на входе? Могут ли числа быть отрицательными? Может ли массив быть пустым?</li>
+<li>Что вернуть, если ответа нет?</li>
+<li>Насколько большие данные: 10 элементов или миллион?</li>
+</ul>
+<p><strong>2. Разобрать примеры.</strong> Возьмите маленький пример и решите его <strong>руками</strong>. Часто именно здесь видно, как устроено решение.</p>
+<p><strong>3. Простое решение.</strong> Сначала придумайте <strong>любое</strong> правильное решение, даже медленное («перебрать все пары»). Скажите о нём вслух — это уже ответ.</p>
+<p><strong>4. Улучшить.</strong> Оцените, сколько операций делает простое решение, и подумайте, как убрать лишнюю работу. В уроках раздела мы разберём типовые приёмы: хеш-таблица, два указателя, окно, сортировка, бинарный поиск.</p>
+<p><strong>5. Написать код.</strong> Аккуратно, с понятными именами переменных.</p>
+<p><strong>6. Проверить.</strong> «Прогоните» код руками по примеру и по <strong>крайним случаям</strong>:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Крайний случай</th><th>Пример</th></tr></thead><tbody><tr><td>Пустые данные</td><td>Пустой массив, пустая строка</td></tr><tr><td>Один элемент</td><td><code>[5]</code></td></tr><tr><td>Все элементы одинаковые</td><td><code>[2, 2, 2]</code></td></tr><tr><td>Отрицательные числа и ноль</td><td><code>[-3, 0, -1]</code></td></tr><tr><td>Ответа нет</td><td>Искомого числа нет в массиве</td></tr><tr><td>Граничные позиции</td><td>Ответ — первый или последний элемент</td></tr></tbody></table></div>
+<h2 id="песочница-для-задач">Песочница для задач</h2>
+<p>Все примеры раздела удобно запускать в отдельной <strong>внешней обработке</strong> — она не меняет учебную конфигурацию (<a href="/restart/l/01/23/" data-internal="true">23. Обработки и внешние файлы</a>).</p>
+<ol>
+<li>В Конфигураторе: <strong>Файл → Новый → Внешняя обработка</strong>, имя <code>ПесочницаАлгоритмов</code>.</li>
+<li><strong>Формы → Добавить</strong> → форма обработки, флажок «Назначить форму основной» → <strong>Готово</strong>.</li>
+<li>В редакторе формы на вкладке <strong>Команды</strong> создаём команду <code>Выполнить</code>, в её свойстве «Действие» создаём обработчик <strong>на клиенте</strong> (<a href="/restart/l/04/06/" data-internal="true">06. Команды формы и кнопки</a>). Перетаскиваем команду в дерево элементов — появится кнопка.</li>
+<li>Во вкладке <strong>Модуль</strong> вставляем код ниже.</li>
+<li>Сохраняем обработку в файл <code>ПесочницаАлгоритмов.epf</code> (<code>Ctrl+S</code>).</li>
+<li>Запускаем 1С:Предприятие, <strong>Файл → Открыть</strong> → выбираем файл → нажимаем «Выполнить». Результаты появятся в окне сообщений.</li>
+</ol>
+<p>Каркас модуля формы:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> Выполнить</span><span style="color:var(--shiki-foreground)">(Команда)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ЗапуститьПроверки()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">// Сюда добавляем вызовы проверок для текущей задачи.</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> ЗапуститьПроверки</span><span style="color:var(--shiki-foreground)">()</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Проверить(</span><span style="color:var(--shiki-token-string-expression)">"Максимум"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Максимум(ЧислаИзСтроки(</span><span style="color:var(--shiki-token-string-expression)">"3,8,1,9,4"</span><span style="color:var(--shiki-foreground)">))</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 9</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Проверить(</span><span style="color:var(--shiki-token-string-expression)">"Максимум из одного"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Максимум(ЧислаИзСтроки(</span><span style="color:var(--shiki-token-string-expression)">"5"</span><span style="color:var(--shiki-foreground)">))</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 5</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">// Решение задачи.</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> Максимум</span><span style="color:var(--shiki-foreground)">(Числа)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Результат </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Числа[</span><span style="color:var(--shiki-token-constant)">0</span><span style="color:var(--shiki-foreground)">]</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для Каждого</span><span style="color:var(--shiki-foreground)"> Элемент </span><span style="color:var(--shiki-token-keyword)">Из</span><span style="color:var(--shiki-foreground)"> Числа </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Если</span><span style="color:var(--shiki-foreground)"> Элемент </span><span style="color:var(--shiki-token-keyword)">></span><span style="color:var(--shiki-foreground)"> Результат </span><span style="color:var(--shiki-token-keyword)">Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			Результат </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Элемент</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-foreground)"> Результат</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">#Область</span><span style="color:var(--shiki-foreground)"> Служебные</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">// Сравнивает результат с ожидаемым и выводит ОК или ОШИБКА.</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> Проверить</span><span style="color:var(--shiki-foreground)">(Название</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Получено</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Ожидается)</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Если</span><span style="color:var(--shiki-foreground)"> Получено </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Ожидается </span><span style="color:var(--shiki-token-keyword)">Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-token-function)">		Сообщить</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-string-expression)">"ОК: "</span><span style="color:var(--shiki-token-keyword)"> +</span><span style="color:var(--shiki-foreground)"> Название)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Иначе</span></span>
+<span data-line=""><span style="color:var(--shiki-token-function)">		Сообщить</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-string-expression)">"ОШИБКА: "</span><span style="color:var(--shiki-token-keyword)"> +</span><span style="color:var(--shiki-foreground)"> Название </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-string-expression)"> ". Получено: "</span><span style="color:var(--shiki-token-keyword)"> +</span><span style="color:var(--shiki-token-function)"> XMLСтрока</span><span style="color:var(--shiki-foreground)">(Получено)</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">			+</span><span style="color:var(--shiki-token-string-expression)"> ", ожидалось: "</span><span style="color:var(--shiki-token-keyword)"> +</span><span style="color:var(--shiki-token-function)"> XMLСтрока</span><span style="color:var(--shiki-foreground)">(Ожидается))</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">// "3,8,1" → массив чисел [3, 8, 1]. Пустая строка → пустой массив.</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> ЧислаИзСтроки</span><span style="color:var(--shiki-foreground)">(Текст)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Результат </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> Массив</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Если</span><span style="color:var(--shiki-token-function)"> ПустаяСтрока</span><span style="color:var(--shiki-foreground)">(Текст) </span><span style="color:var(--shiki-token-keyword)">Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Возврат</span><span style="color:var(--shiki-foreground)"> Результат</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для Каждого</span><span style="color:var(--shiki-foreground)"> Часть </span><span style="color:var(--shiki-token-keyword)">Из</span><span style="color:var(--shiki-token-function)"> СтрРазделить</span><span style="color:var(--shiki-foreground)">(Текст</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> ","</span><span style="color:var(--shiki-foreground)">) </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Результат.Добавить(</span><span style="color:var(--shiki-token-function)">Число</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-function)">СокрЛП</span><span style="color:var(--shiki-foreground)">(Часть)))</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-foreground)"> Результат</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">// Массив [3, 8, 1] → строка "3,8,1" — удобно сравнивать результат-массив.</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> МассивВСтроку</span><span style="color:var(--shiki-foreground)">(Значения)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Части </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> Массив</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для Каждого</span><span style="color:var(--shiki-foreground)"> Элемент </span><span style="color:var(--shiki-token-keyword)">Из</span><span style="color:var(--shiki-foreground)"> Значения </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Части.Добавить(</span><span style="color:var(--shiki-token-function)">XMLСтрока</span><span style="color:var(--shiki-foreground)">(Элемент))</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-token-function)"> СтрСоединить</span><span style="color:var(--shiki-foreground)">(Части</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> ","</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">#КонецОбласти</span></span></code></pre></figure>
+<p>Нажимаем «Выполнить» — в окне сообщений:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="plaintext" data-theme="mono"><code data-language="plaintext" data-theme="mono" style="display: grid;"><span data-line=""><span>ОК: Максимум</span></span>
+<span data-line=""><span>ОК: Максимум из одного</span></span></code></pre></figure>
+<p>Разберём служебные процедуры:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Процедура</th><th>Зачем</th></tr></thead><tbody><tr><td><code>Проверить(Название, Получено, Ожидается)</code></td><td>Мини-тест: сравнивает ответ функции с правильным. Так решение проверяется сразу на нескольких примерах</td></tr><tr><td><code>ЧислаИзСтроки("3,8,1")</code></td><td>В 1С нет записи массива «в одну строку» вроде <code>[3, 8, 1]</code>. Эта функция строит массив из строки — примеры становятся короткими</td></tr><tr><td><code>МассивВСтроку(Массив)</code></td><td>Два разных массива с одинаковыми элементами при сравнении через <code>=</code> <strong>не равны</strong> (<a href="/restart/l/02/08/" data-internal="true">08. Операции сравнения</a>). Поэтому массив-результат превращаем в строку и сравниваем строки</td></tr></tbody></table></div>
+<div class="callout callout-info" data-callout="info">
+<div class="callout-title">Почему</div>
+<div class="callout-body"><p><code>XMLСтрока</code>, а не <code>Строка</code>
+<code>Строка(1000)</code> вернёт «1 000» с пробелом-разделителем разрядов, а <code>Формат(0, "ЧГ=0")</code> — пустую строку. <code>XMLСтрока(1000)</code> всегда даёт «1000», <code>XMLСтрока(0)</code> — «0», <code>XMLСтрока(-2.5)</code> — «-2.5». Для вывода и сравнения чисел в задачах это удобнее.</p></div>
+</div>
+<p>Все функции алгоритмов в разделе — <strong>клиентские</strong> (<code>&#x26;НаКлиенте</code>): им не нужна база данных, только переменные и коллекции. Массив, Соответствие, СписокЗначений и строки доступны на клиенте. А вот <code>ТаблицаЗначений</code> на клиенте недоступна — в алгоритмических задачах обходимся без неё.</p>
+<div class="callout callout-tip" data-callout="tip">
+<div class="callout-title">Как работать с уроками</div>
+<div class="callout-body"><p>Каждую задачу сначала попробуйте решить <strong>сами</strong> в песочнице, и только потом читайте разбор. Прочитанное решение забывается за день, решённое самостоятельно — остаётся.</p></div>
+</div>
+<h2 id="пример-полного-рассуждения">Пример полного рассуждения</h2>
+<p><strong>Задача.</strong> Дан массив чисел. Вернуть сумму <strong>чётных</strong> чисел.</p>
+<p><strong>1. Понимаем.</strong> Чётное — делится на 2 без остатка. Могут ли быть отрицательные? Допустим, да: −4 тоже чётное. Пустой массив → сумма 0.</p>
+<p><strong>2. Пример руками.</strong> <code>[1, 2, 3, 4, -6]</code> → чётные 2, 4, −6 → сумма 0.</p>
+<p><strong>3. Решение.</strong> Пройти по всем числам, складывать те, у которых остаток от деления на 2 равен 0.</p>
+<p><strong>4. Сложность.</strong> Каждое число смотрим один раз — быстрее не бывает (подробнее — в следующем уроке).</p>
+<p><strong>5. Код:</strong></p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> СуммаЧетных</span><span style="color:var(--shiki-foreground)">(Числа)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Сумма </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для Каждого</span><span style="color:var(--shiki-foreground)"> Элемент </span><span style="color:var(--shiki-token-keyword)">Из</span><span style="color:var(--shiki-foreground)"> Числа </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Если</span><span style="color:var(--shiki-foreground)"> Элемент </span><span style="color:var(--shiki-token-keyword)">%</span><span style="color:var(--shiki-token-constant)"> 2</span><span style="color:var(--shiki-token-keyword)"> =</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)"> Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			Сумма </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Сумма </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-foreground)"> Элемент</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-foreground)"> Сумма</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure>
+<p><strong>6. Проверки:</strong></p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">Проверить(</span><span style="color:var(--shiki-token-string-expression)">"Обычный случай"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> СуммаЧетных(ЧислаИзСтроки(</span><span style="color:var(--shiki-token-string-expression)">"1,2,3,4,-6"</span><span style="color:var(--shiki-foreground)">))</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Проверить(</span><span style="color:var(--shiki-token-string-expression)">"Только нечётные"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> СуммаЧетных(ЧислаИзСтроки(</span><span style="color:var(--shiki-token-string-expression)">"1,3,5"</span><span style="color:var(--shiki-foreground)">))</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Проверить(</span><span style="color:var(--shiki-token-string-expression)">"Пустой массив"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> СуммаЧетных(ЧислаИзСтроки(</span><span style="color:var(--shiki-token-string-expression)">""</span><span style="color:var(--shiki-foreground)">))</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Проверить(</span><span style="color:var(--shiki-token-string-expression)">"Одно чётное"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> СуммаЧетных(ЧислаИзСтроки(</span><span style="color:var(--shiki-token-string-expression)">"8"</span><span style="color:var(--shiki-foreground)">))</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 8</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span></code></pre></figure>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Остаток от отрицательного числа</div>
+<div class="callout-body"><p>В 1С <code>-6 % 2</code> равно <code>0</code>, а <code>-5 % 2</code> равно <code>-1</code> (знак остатка совпадает со знаком делимого). Поэтому чётность проверяем условием <code>Элемент % 2 = 0</code>, а <strong>не</strong> «нечётное, если остаток равен 1» — для −5 это условие не сработает.</p></div>
+</div>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Перечислите шесть шагов решения задачи на собеседовании.</p>
+</li>
+<li>
+<p>Назовите четыре крайних случая, которые стоит проверить почти в любой задаче на массив.</p>
+</li>
+<li>
+<p>Почему массив-результат сравниваем через <code>МассивВСтроку</code>, а не напрямую?</p>
+</li>
+<li>
+<p>Почему в функции <code>Максимум</code> из песочницы для пустого массива будет ошибка и как её избежать?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Понять задачу → разобрать примеры → простое решение → оценить и улучшить → код → проверка на примерах и крайних случаях.</li>
+<li>Пустой массив, один элемент, все элементы одинаковые, отрицательные числа/ноль (также: ответа нет, ответ на краю).</li>
+<li>Оператор <code>=</code> сравнивает массивы по экземпляру: два разных массива с одинаковыми элементами не равны.</li>
+<li><code>Числа[0]</code> у пустого массива — обращение к несуществующему элементу. В начале функции проверяем <code>Если Числа.Количество() = 0 Тогда Возврат Неопределено; КонецЕсли;</code> (или договариваемся с интервьюером, что массив не пустой).</li>
+</ol></div>
+</details></div>
+</details>1a:[["$","$L25",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L26",null,{"tree":{"kind":"folder","id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/","children":[{"kind":"lesson","id":"kmxf89","num":"00","title":"Навигация по разделу","href":"/l/06/00/","children":"$undefined"},{"kind":"lesson","id":"59cugg","num":"01","title":"Что такое алгоритм и как решать задачи","href":"/l/06/01/","children":"$undefined"},{"kind":"lesson","id":"lds9qn","num":"02","title":"Сложность алгоритмов","href":"/l/06/02/","children":"$undefined"},{"kind":"lesson","id":"1pjoju1","num":"03","title":"Массивы — базовые приёмы","href":"/l/06/03/","children":"$undefined"},{"kind":"lesson","id":"3cctbr","num":"04","title":"Строки и символы","href":"/l/06/04/","children":"$undefined"},{"kind":"lesson","id":"1ydqhou","num":"05","title":"Соответствие как хеш-таблица","href":"/l/06/05/","children":"$undefined"},{"kind":"lesson","id":"t6dz7i","num":"06","title":"Два указателя","href":"/l/06/06/","children":"$undefined"},{"kind":"lesson","id":"nbwllp","num":"07","title":"Скользящее окно","href":"/l/06/07/","children":"$undefined"},{"kind":"lesson","id":"fr1gf6","num":"08","title":"Префиксные суммы","href":"/l/06/08/","children":"$undefined"},{"kind":"lesson","id":"3irwp2","num":"09","title":"Сортировки","href":"/l/06/09/","children":"$undefined"},{"kind":"lesson","id":"12gwpp6","num":"10","title":"Бинарный поиск","href":"/l/06/10/","children":"$undefined"},{"kind":"lesson","id":"1u9yaso","num":"11","title":"Стек и очередь","href":"/l/06/11/","children":"$undefined"},{"kind":"lesson","id":"dz6s3r","num":"12","title":"Рекурсия","href":"/l/06/12/","children":"$undefined"},{"kind":"lesson","id":"2qxixv","num":"13","title":"Обход в глубину и ширину","href":"/l/06/13/","children":"$undefined"},{"kind":"lesson","id":"ufdpje","num":"14","title":"Динамическое программирование","href":"/l/06/14/","children":"$undefined"},{"kind":"lesson","id":"iokjmp","num":"15","title":"Жадные алгоритмы и интервалы","href":"/l/06/15/","children":"$undefined"},{"kind":"lesson","id":"1jbpe","num":"16","title":"Практика — задачи с собеседований","href":"/l/06/16/","children":"$undefined"},{"kind":"lesson","id":"1h9efqa","num":"17","title":"Памятка — шаблоны и ошибки","href":"/l/06/17/","children":"$undefined"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"59cugg"}]}],["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L27",null,{"children":"$1a:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","18v7yvg",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/06/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"06"}],"Алгоритмы для 1С"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","01"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[8," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Что такое алгоритм и как решать задачи"}],["$","div",null,{"className":"mt-7","children":["$","$L28",null,{"id":"59cugg","href":"/l/06/01/","title":"Что такое алгоритм и как решать задачи"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$29"}}],"$L2a","$L2b","$L2c","$L2d","$L2e"]}]]}],"$L2f"]}]]
+30:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+31:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+32:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+33:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+34:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+2a:["$","$L30",null,{"targetId":"lesson-body"}]
+2b:["$","$L31",null,{"targetId":"lesson-body"}]
+2c:["$","$L32",null,{"targetId":"lesson-body"}]
+2d:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L28",null,{"id":"59cugg","href":"/l/06/01/","title":"Что такое алгоритм и как решать задачи","variant":"footer"}]}]
+2e:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/06/00/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L33",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Навигация по разделу"}]]}],["$","$L13",null,{"href":"/l/06/02/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L33",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Сложность алгоритмов"}]]}]]}]
+2f:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L34",null,{"items":[{"id":"зачем-1с-разработчику-алгоритмы","text":"Зачем 1С-разработчику алгоритмы","depth":2},{"id":"что-такое-алгоритм","text":"Что такое алгоритм","depth":2},{"id":"как-решать-задачу-на-собеседовании","text":"Как решать задачу на собеседовании","depth":2},{"id":"песочница-для-задач","text":"Песочница для задач","depth":2},{"id":"пример-полного-рассуждения","text":"Пример полного рассуждения","depth":2}]}]}]
+35:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+1d:null
+23:[["$","title","0",{"children":"Что такое алгоритм и как решать задачи · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L35","3",{}]]

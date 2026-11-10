@@ -1,0 +1,218 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1b:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:"ViewportBoundary"
+1f:I[97367,["$2","$3","$4","$5","$6","$7"],"$1e"]
+21:"MetadataBoundary"
+22:I[97367,["$2","$3","$4","$5","$6","$7"],"$21"]
+24:I[68027,["$2","$3","$4","$5","$6","$7"],"default",1]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+:HL["/restart/_next/static/media/051742360c26797e-s.p.1bkzbscqrt8rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/26f284dcc38c84c0-s.p.3hlisc-pwq13z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/42b035f1a63f268d-s.p.2m8t2-vl1h1kf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/b4a06a523f527a0e-s.p.3psl0_mnhzy2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/cfdfbee4d6cf0a93-s.p.1jwcpm6w583_v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/e8768c288fbd3aa6-s.p.1t1z0xjflawjj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+17:X
+19:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L1a",[["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true,"nonce":"$undefined"}]],["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]]}],"p":false,"v":null}}]]
+18:[["children",{"s":{"n":"slug","t":"c","k":"04/04","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q19"}]]
+16:[["children",{"s":"l","h":131584,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q18"}]]
+0:{"P":null,"c":["","l","04","04",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true,"nonce":"$undefined"}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":false,"v":null},"c":"$Q16"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$L20"}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":"$L23"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$24",[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+17:C
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]
+25:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+26:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+1a:[["$","$L25",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L26",null,{"tree":{"kind":"folder","id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/","children":[{"kind":"lesson","id":"g6edv1","num":"00","title":"Навигация по разделу","href":"/l/04/00/","children":"$undefined"},{"kind":"lesson","id":"1xnmznj","num":"01","title":"Управляемая форма и её данные","href":"/l/04/01/","children":"$undefined"},{"kind":"lesson","id":"mhgb45","num":"02","title":"Создание формы документа","href":"/l/04/02/","children":"$undefined"},{"kind":"lesson","id":"a7qf8u","num":"03","title":"Реквизиты формы и ПутьКДанным","href":"/l/04/03/","children":"$undefined"},{"kind":"lesson","id":"2o6zyr","num":"04","title":"Группы и страницы","href":"/l/04/04/","children":"$undefined"},{"kind":"lesson","id":"svgi2d","num":"05","title":"Модуль формы и клиент-сервер","href":"/l/04/05/","children":"$undefined"},{"kind":"lesson","id":"oby9em","num":"06","title":"Команды формы и кнопки","href":"/l/04/06/","children":"$undefined"},{"kind":"lesson","id":"7le7s3","num":"07","title":"Создание, открытие и закрытие формы","href":"/l/04/07/","children":"$undefined"},{"kind":"lesson","id":"1k0fki6","num":"08","title":"Изменение полей и обработчики событий","href":"/l/04/08/","children":"$undefined"},{"kind":"lesson","id":"nd996n","num":"09","title":"Таблица формы и текущая строка","href":"/l/04/09/","children":"$undefined"},{"kind":"lesson","id":"11wtbct","num":"10","title":"Пересчёт строк и итога товаров","href":"/l/04/10/","children":"$undefined"},{"kind":"lesson","id":"i96h1o","num":"11","title":"Видимость, доступность и ТолькоПросмотр","href":"/l/04/11/","children":"$undefined"},{"kind":"lesson","id":"8hedv0","num":"12","title":"Проверка заполнения и сообщения","href":"/l/04/12/","children":"$undefined"},{"kind":"lesson","id":"co25zd","num":"13","title":"Запись из формы и события записи","href":"/l/04/13/","children":"$undefined"},{"kind":"lesson","id":"nnmm5o","num":"14","title":"Данные формы и прикладной объект","href":"/l/04/14/","children":"$undefined"},{"kind":"lesson","id":"emmzl6","num":"15","title":"Открытие форм и параметры","href":"/l/04/15/","children":"$undefined"},{"kind":"lesson","id":"xzv03w","num":"16","title":"Общая форма для подбора товара","href":"/l/04/16/","children":"$undefined"},{"kind":"lesson","id":"1k0ilgs","num":"17","title":"Выбор и возврат результата","href":"/l/04/17/","children":"$undefined"},{"kind":"lesson","id":"myamgl","num":"18","title":"Ограничение выбора значений","href":"/l/04/18/","children":"$undefined"},{"kind":"lesson","id":"j1pkry","num":"19","title":"Форма списка и динамический список","href":"/l/04/19/","children":"$undefined"},{"kind":"lesson","id":"1x5teva","num":"20","title":"Программный отбор списка","href":"/l/04/20/","children":"$undefined"},{"kind":"lesson","id":"1cqww30","num":"21","title":"Условное оформление","href":"/l/04/21/","children":"$undefined"},{"kind":"lesson","id":"1xnnjfs","num":"22","title":"Асинхронные вопросы пользователю","href":"/l/04/22/","children":"$undefined"},{"kind":"lesson","id":"8aaryv","num":"23","title":"Программное создание элементов формы","href":"/l/04/23/","children":"$undefined"},{"kind":"lesson","id":"ey1csk","num":"24","title":"Загрузка таблицы формы на сервере","href":"/l/04/24/","children":"$undefined"},{"kind":"lesson","id":"1bgryr1","num":"25","title":"Отладка управляемой формы","href":"/l/04/25/","children":"$undefined"},{"kind":"lesson","id":"1hg970j","num":"26","title":"Практика по форме документа","href":"/l/04/26/","children":"$undefined"},{"kind":"lesson","id":"1xgw5tl","num":"27","title":"Практика по взаимодействию форм","href":"/l/04/27/","children":"$undefined"},{"kind":"lesson","id":"3yhy1m","num":"28","title":"Ошибки и памятка для повторения","href":"/l/04/28/","children":"$undefined"},{"kind":"lesson","id":"lrcdc9","num":"29","title":"Учебная обработка и проверка примеров","href":"/l/04/29/","children":"$undefined"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"2o6zyr"}]}],["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":["$L27","$L28"]}],"$L29"]}]]
+2a:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+2b:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+32:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+27:["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L2a",null,{"children":"$1a:1:props:children:0:props:children"}]}]
+2c:T37f6,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p>Расположение элементов задаёт <strong>дерево</strong>: обычные <strong>группы</strong> объединяют поля (вертикально или горизонтально), группа <strong>Страницы</strong> со вложенными <strong>Страница</strong> раскладывает блоки по вкладкам. Группы меняют только интерфейс — данные остаются на месте. Для размещения код не нужен.</p></div>
+</div>
+<h2 id="как-платформа-раскладывает-элементы">Как платформа раскладывает элементы</h2>
+<p>В управляемой форме мы не задаём координаты полей. Расположение определяет <strong>дерево элементов</strong>: что внутри чего лежит и в каком порядке. Платформа читает дерево сверху вниз и выводит элементы.</p>
+<p>Чтобы управлять раскладкой, используют <strong>группы</strong> — «контейнеры» для элементов. Аналогия — <strong>коробки на полке</strong>: можно сложить несколько вещей в одну коробку, поставить коробки рядом или друг на друга, а можно сделать «картотеку» с вкладками-разделителями.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Вид группы</th><th>Как выглядит</th><th>Для чего</th></tr></thead><tbody><tr><td><strong>Обычная группа</strong>, группировка «Вертикальная»</td><td>Элементы друг под другом</td><td>Блок «Данные накладной» с рамкой и заголовком</td></tr><tr><td><strong>Обычная группа</strong>, группировка «Горизонтальная»</td><td>Элементы в одну строку</td><td>Номер и дата рядом</td></tr><tr><td><strong>Страницы</strong></td><td>Набор вкладок</td><td>Переключение «Товары / Услуги»</td></tr><tr><td><strong>Страница</strong></td><td>Одна вкладка внутри «Страниц»</td><td>Содержимое вкладки «Товары»</td></tr></tbody></table></div>
+<p>Группы меняют <strong>только внешний вид</strong>. Данные документа от них не меняются.</p>
+<h2 id="дерево-определяет-вложенность">Дерево определяет вложенность</h2>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/04.%20%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D1%8B%D0%B5%20%D1%84%D0%BE%D1%80%D0%BC%D1%8B/%D0%A3%D0%A4-05-%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D0%BE-%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2.png" alt="УФ-05-Дерево-элементов.png" loading="lazy" decoding="async"></p>
+<p><em>Дерево элементов формы: колонки <code>ТоварыТовар</code>, <code>ТоварыКоличество</code>… вложены в таблицу <code>Товары</code>.</em></p>
+<p>Переносим таблицу — переносится весь её блок со всеми колонками. Переносим одну колонку — меняется устройство таблицы. Перед перетаскиванием проверяем, <strong>что именно</strong> выделено.</p>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Группы — только интерфейс</div>
+<div class="callout-body"><p>Создание страницы не создаёт табличную часть, а перенос таблицы на другую страницу не меняет <code>Объект.Товары</code>. Мы лишь раскладываем поля по «коробкам».</p></div>
+</div>
+<h2 id="шаг-1-группа-шапки">Шаг 1. Группа шапки</h2>
+<p>Если подходящей группы ещё нет:</p>
+<ol>
+<li>В дереве элементов выделяем корень <strong>Форма</strong> → <strong>ПКМ → Добавить</strong> (или кнопка «Добавить» над деревом).</li>
+<li>В окне выбора — <strong>Группа — обычная группа</strong>.</li>
+<li>В свойствах группы:
+<ul>
+<li><strong>Имя</strong> — <code>ГруппаШапкаУчебная</code> (для кода);</li>
+<li><strong>Заголовок</strong> — «Данные накладной» (видит пользователь);</li>
+<li><strong>Группировка</strong> — Вертикальная.</li>
+</ul>
+</li>
+<li>Перетаскиваем в группу <strong>существующие</strong> поля номера, даты и покупателя. Не создаём новые поля — у перенесённых сохранится <code>ПутьКДанным</code>.</li>
+</ol>
+<p><strong>Номер и дата в одну строку:</strong> внутри <code>ГруппаШапкаУчебная</code> добавляем ещё одну обычную группу с <strong>горизонтальной</strong> группировкой и переносим в неё поля номера и даты.</p>
+<h2 id="шаг-2-страницы-товары-и-услуги">Шаг 2. Страницы «Товары» и «Услуги»</h2>
+<ol>
+<li>После группы шапки: <strong>Добавить → Группа — Страницы</strong>, имя <code>СтраницыСоставУчебные</code>.</li>
+<li>Выделяем <code>СтраницыСоставУчебные</code> → <strong>Добавить → Группа — Страница</strong>, имя <code>СтраницаТоварыУчебная</code>, заголовок «Товары».</li>
+<li>Так же — вторая страница <code>СтраницаУслугиУчебная</code>, заголовок «Услуги».</li>
+<li>Перетаскиваем таблицу <code>Товары</code> и поле <code>ИтогТоваров</code> на первую страницу, таблицу <code>Услуги</code> — на вторую.</li>
+</ol>
+<p>Должно получиться дерево:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="plaintext" data-theme="mono"><code data-language="plaintext" data-theme="mono" style="display: grid;"><span data-line=""><span>Форма</span></span>
+<span data-line=""><span>├─ ГруппаШапкаУчебная          ← обычная группа «Данные накладной»</span></span>
+<span data-line=""><span>│  ├─ (группа номер + дата)    ← горизонтальная</span></span>
+<span data-line=""><span>│  └─ Покупатель</span></span>
+<span data-line=""><span>├─ СтраницыСоставУчебные        ← группа «Страницы»</span></span>
+<span data-line=""><span>│  ├─ СтраницаТоварыУчебная    ← вкладка «Товары»</span></span>
+<span data-line=""><span>│  │  ├─ Товары</span></span>
+<span data-line=""><span>│  │  │  └─ колонки…</span></span>
+<span data-line=""><span>│  │  └─ ИтогТоваров</span></span>
+<span data-line=""><span>│  └─ СтраницаУслугиУчебная    ← вкладка «Услуги»</span></span>
+<span data-line=""><span>│     └─ Услуги</span></span>
+<span data-line=""><span>└─ общий итог документа        ← вне страниц: виден всегда</span></span></code></pre></figure>
+<p>А на экране пользователь увидит:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="plaintext" data-theme="mono"><code data-language="plaintext" data-theme="mono" style="display: grid;"><span data-line=""><span>┌ Данные накладной ─────────────────────┐</span></span>
+<span data-line=""><span>│ Номер: [000000001]   Дата: [05.10.2026]│</span></span>
+<span data-line=""><span>│ Покупатель: [Ромашка               ]   │</span></span>
+<span data-line=""><span>└────────────────────────────────────────┘</span></span>
+<span data-line=""><span> [ Товары ] [ Услуги ]</span></span>
+<span data-line=""><span>┌────────────────────────────────────────┐</span></span>
+<span data-line=""><span>│ Товар      Количество   Цена   Сумма   │</span></span>
+<span data-line=""><span>│ Чайник          2        150    300    │</span></span>
+<span data-line=""><span>│ Итого товаров: 300                     │</span></span>
+<span data-line=""><span>└────────────────────────────────────────┘</span></span>
+<span data-line=""><span>Итоговая сумма: 450</span></span></code></pre></figure>
+<p><strong>Имя</strong> группы нужно для кода, <strong>заголовок</strong> видит пользователь. Используем понятные идентификаторы без пробелов, в стиле ВерблюжийРегистр.</p>
+<p><code>ИтогТоваров</code> относится только к товарам — поэтому он на странице товаров. Общий итог документа (<code>ИтоговаяСумма</code>, с услугами) оставляем <strong>вне</strong> страниц, чтобы он был виден на любой вкладке, и не меняем его путь на <code>ИтогТоваров</code>.</p>
+<h2 id="группы-в-коде">Группы в коде</h2>
+<p>Код для раскладки не нужен — всё делается мышкой. Но к группе можно обратиться по имени, как к любому элементу:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">Элементы.ГруппаШапкаУчебная.Видимость </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> Ложь</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">   // скрыть весь блок шапки целиком</span></span></code></pre></figure>
+<p>Поэтому имя группы должно быть уникальным и осмысленным: <code>Группа1</code> через месяц никто не узнает.</p>
+<h2 id="проверка">Проверка</h2>
+<p><code>Ctrl+S</code> → <code>F7</code> → открываем накладную <strong>заново</strong>:</p>
+<ol>
+<li>Поля шапки на месте, в рамке «Данные накладной», номер и дата в одной строке.</li>
+<li>На вкладке «Товары» — таблица и итог; на «Услугах» — таблица услуг.</li>
+<li>Общий итог документа виден при переключении вкладок.</li>
+<li>Растяните и сузьте окно — форма остаётся удобной.</li>
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Симптом</th><th>Что проверить</th></tr></thead><tbody><tr><td>Пустая вкладка</td><td>Есть ли элементы <strong>внутри</strong> страницы (а не рядом с ней)</td></tr><tr><td>Вместо вкладок — обычный блок</td><td>Вид родительской группы — «Страницы», а не «Обычная группа»</td></tr><tr><td>Пропали колонки таблицы</td><td>Не перенесли ли колонку вместо всей таблицы</td></tr><tr><td>Поле пустое после переноса</td><td>Создали новое поле вместо переноса существующего — нет <code>ПутьКДанным</code></td></tr></tbody></table></div>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Перенесли таблицу <code>Услуги</code> на страницу. Изменилась ли табличная часть документа?</p>
+</li>
+<li>
+<p>Как расположить номер и дату в одной строке?</p>
+</li>
+<li>
+<p>Почему общий итог лучше держать вне страниц?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Нет, изменилось только размещение элемента.</li>
+<li>Поместить их в обычную группу с горизонтальной группировкой.</li>
+<li>Он виден при переключении между вкладками.</li>
+</ol></div>
+</details></div>
+</details>28:["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","wfg5ts",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/04/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"04"}],"Программирование управляемых форм"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","04"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[5," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Группы и страницы"}],["$","div",null,{"className":"mt-7","children":["$","$L2b",null,{"id":"2o6zyr","href":"/l/04/04/","title":"Группы и страницы"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$2c"}}],"$L2d","$L2e","$L2f","$L30","$L31"]}]
+29:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L32",null,{"items":[{"id":"как-платформа-раскладывает-элементы","text":"Как платформа раскладывает элементы","depth":2},{"id":"дерево-определяет-вложенность","text":"Дерево определяет вложенность","depth":2},{"id":"шаг-1-группа-шапки","text":"Шаг 1. Группа шапки","depth":2},{"id":"шаг-2-страницы-товары-и-услуги","text":"Шаг 2. Страницы «Товары» и «Услуги»","depth":2},{"id":"группы-в-коде","text":"Группы в коде","depth":2},{"id":"проверка","text":"Проверка","depth":2}]}]}]
+33:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+34:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+35:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+36:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+2d:["$","$L33",null,{"targetId":"lesson-body"}]
+2e:["$","$L34",null,{"targetId":"lesson-body"}]
+2f:["$","$L35",null,{"targetId":"lesson-body"}]
+30:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L2b",null,{"id":"2o6zyr","href":"/l/04/04/","title":"Группы и страницы","variant":"footer"}]}]
+31:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/04/03/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L36",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Реквизиты формы и ПутьКДанным"}]]}],["$","$L13",null,{"href":"/l/04/05/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L36",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Модуль формы и клиент-сервер"}]]}]]}]
+37:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+1d:null
+23:[["$","title","0",{"children":"Группы и страницы · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L37","3",{}]]

@@ -1,0 +1,196 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1e:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+1f:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+25:"ViewportBoundary"
+26:I[97367,["$2","$3","$4","$5","$6","$7"],"$25"]
+27:"MetadataBoundary"
+28:I[97367,["$2","$3","$4","$5","$6","$7"],"$27"]
+29:"$Sreact.suspense"
+2a:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+17:X
+1a:X
+1a:C
+1d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L1e",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L1f",null,{"tree":{"kind":"folder","id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/","children":[{"kind":"lesson","id":"g6edv1","num":"00","title":"Навигация по разделу","href":"/l/04/00/"},{"kind":"lesson","id":"1xnmznj","num":"01","title":"Управляемая форма и её данные","href":"/l/04/01/"},{"kind":"lesson","id":"mhgb45","num":"02","title":"Создание формы документа","href":"/l/04/02/"},{"kind":"lesson","id":"a7qf8u","num":"03","title":"Реквизиты формы и ПутьКДанным","href":"/l/04/03/"},{"kind":"lesson","id":"2o6zyr","num":"04","title":"Группы и страницы","href":"/l/04/04/"},{"kind":"lesson","id":"svgi2d","num":"05","title":"Модуль формы и клиент-сервер","href":"/l/04/05/"},{"kind":"lesson","id":"oby9em","num":"06","title":"Команды формы и кнопки","href":"/l/04/06/"},{"kind":"lesson","id":"7le7s3","num":"07","title":"Создание, открытие и закрытие формы","href":"/l/04/07/"},{"kind":"lesson","id":"1k0fki6","num":"08","title":"Изменение полей и обработчики событий","href":"/l/04/08/"},{"kind":"lesson","id":"nd996n","num":"09","title":"Таблица формы и текущая строка","href":"/l/04/09/"},{"kind":"lesson","id":"11wtbct","num":"10","title":"Пересчёт строк и итога товаров","href":"/l/04/10/"},{"kind":"lesson","id":"i96h1o","num":"11","title":"Видимость, доступность и ТолькоПросмотр","href":"/l/04/11/"},{"kind":"lesson","id":"8hedv0","num":"12","title":"Проверка заполнения и сообщения","href":"/l/04/12/"},{"kind":"lesson","id":"co25zd","num":"13","title":"Запись из формы и события записи","href":"/l/04/13/"},{"kind":"lesson","id":"nnmm5o","num":"14","title":"Данные формы и прикладной объект","href":"/l/04/14/"},{"kind":"lesson","id":"emmzl6","num":"15","title":"Открытие форм и параметры","href":"/l/04/15/"},{"kind":"lesson","id":"xzv03w","num":"16","title":"Общая форма для подбора товара","href":"/l/04/16/"},{"kind":"lesson","id":"1k0ilgs","num":"17","title":"Выбор и возврат результата","href":"/l/04/17/"},{"kind":"lesson","id":"myamgl","num":"18","title":"Ограничение выбора значений","href":"/l/04/18/"},{"kind":"lesson","id":"j1pkry","num":"19","title":"Форма списка и динамический список","href":"/l/04/19/"},{"kind":"lesson","id":"1x5teva","num":"20","title":"Программный отбор списка","href":"/l/04/20/"},{"kind":"lesson","id":"1cqww30","num":"21","title":"Условное оформление","href":"/l/04/21/"},{"kind":"lesson","id":"1xnnjfs","num":"22","title":"Асинхронные вопросы пользователю","href":"/l/04/22/"},{"kind":"lesson","id":"8aaryv","num":"23","title":"Программное создание элементов формы","href":"/l/04/23/"},{"kind":"lesson","id":"ey1csk","num":"24","title":"Загрузка таблицы формы на сервере","href":"/l/04/24/"},{"kind":"lesson","id":"1bgryr1","num":"25","title":"Отладка управляемой формы","href":"/l/04/25/"},{"kind":"lesson","id":"1hg970j","num":"26","title":"Практика по форме документа","href":"/l/04/26/"},{"kind":"lesson","id":"1xgw5tl","num":"27","title":"Практика по взаимодействию форм","href":"/l/04/27/"},{"kind":"lesson","id":"3yhy1m","num":"28","title":"Ошибки и памятка для повторения","href":"/l/04/28/"},{"kind":"lesson","id":"lrcdc9","num":"29","title":"Учебная обработка и проверка примеров","href":"/l/04/29/"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"8aaryv"}]}],"$L20","$L21"]}]],["$L22"],"$L23"]}],"p":"$@24","v":null,"s":"$17"}}]]
+1b:[["children",{"s":{"n":"slug","t":"c","k":"04/23","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@1c","v":"$1a","s":"$17"},"c":"$Q1d"}]]
+18:[["children",{"s":"l","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@19","v":"$1a","s":"$17"},"c":"$Q1b"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]]}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":"$@16","v":null,"s":"$17"},"c":"$Q18"},"h":{"r":["$","$1","h",{"children":[null,["$","$L26",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]}],["$","$L28",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$29",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Программное создание элементов формы · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L2a","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@2b","v":null,"s":"$17"}},"a":"$@2c","u":"$@2d","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+2e:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+2f:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+36:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+37:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+30:T54f9,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p>Элементы, реквизиты и команды можно создавать кодом <strong>на сервере</strong> (обычно в <code>ПриСозданииНаСервере</code>): реквизиты — <code>ИзменитьРеквизиты(МассивРеквизитовФормы)</code> одним вызовом, поля и кнопки — <code>Элементы.Добавить(Имя, Тип, Родитель)</code>, команды — <code>Команды.Добавить()</code>, обработчики — <code>УстановитьДействие()</code> / <code>Действие</code>. Это нужно, когда состав формы заранее неизвестен; в остальных случаях — редактор.</p></div>
+</div>
+<h2 id="когда-форму-собирают-кодом">Когда форму собирают кодом</h2>
+<p>Обычно форму рисуют мышкой в редакторе — так нагляднее и проще. Но иногда <strong>состав формы заранее неизвестен</strong>: например, в настройках пользователь добавляет произвольные дополнительные реквизиты, и для каждого нужно поле. Или внешняя обработка должна построить таблицу под структуру загружаемого файла. Тогда элементы создают <strong>кодом</strong> при открытии формы.</p>
+<p>Порядок всегда одинаковый — как при сборке мебели: сначала <strong>данные</strong> (реквизит), потом <strong>элемент</strong>, который их показывает, затем <strong>команда</strong> и <strong>кнопка</strong>:</p>
+<pre><pre class="mermaid-source">flowchart LR
+    A["1. Реквизит&#x3C;br/>ИзменитьРеквизиты"] --> B["2. Поле&#x3C;br/>Элементы.Добавить"] --> C["3. Команда&#x3C;br/>Команды.Добавить"] --> D["4. Кнопка&#x3C;br/>Элементы.Добавить"]
+</pre></pre>
+<p>Создавать элементы можно <strong>только на сервере</strong> — обычно в <code>ПриСозданииНаСервере</code>.</p>
+<p>Пример: в форме накладной создать поле «Учебный комментарий», обработчик его изменения и кнопку «Показать комментарий». Значение живёт только в форме.</p>
+<h2 id="подготовка">Подготовка</h2>
+<ol>
+<li>В редакторе — обычная группа <code>ГруппаУчебныхЭлементов</code> (заголовок «Учебные элементы»): место для новых элементов.</li>
+<li>Имён <code>КомментарийУчебный</code>, <code>ПоказатьКомментарийУчебный</code>, <code>КнопкаКомментарияУчебного</code> в форме ещё нет.</li>
+<li>В <code>ПриСозданииНаСервере</code> добавляем вызов <code>ДобавитьУчебныеЭлементы()</code>.</li>
+</ol>
+<h2 id="серверный-код">Серверный код</h2>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаСервере</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> ДобавитьУчебныеЭлементы</span><span style="color:var(--shiki-foreground)">()</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Если</span><span style="color:var(--shiki-foreground)"> Элементы.Найти(</span><span style="color:var(--shiki-token-string-expression)">"КомментарийУчебный"</span><span style="color:var(--shiki-foreground)">) </span><span style="color:var(--shiki-token-keyword)">&#x3C;></span><span style="color:var(--shiki-token-constant)"> Неопределено</span><span style="color:var(--shiki-token-keyword)"> Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Возврат;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЕсли;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">	// 1. Реквизит формы (все новые реквизиты — одним вызовом ИзменитьРеквизиты)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ТипКомментария </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> ОписаниеТипов(</span><span style="color:var(--shiki-token-string-expression)">"Строка"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-keyword)"> ,</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> КвалификаторыСтроки(</span><span style="color:var(--shiki-token-constant)">200</span><span style="color:var(--shiki-foreground)">))</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	НовыеРеквизиты </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> Массив</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	НовыеРеквизиты.Добавить(</span><span style="color:var(--shiki-token-function)">Новый</span><span style="color:var(--shiki-foreground)"> РеквизитФормы(</span><span style="color:var(--shiki-token-string-expression)">"КомментарийУчебный"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> ТипКомментария))</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ИзменитьРеквизиты(НовыеРеквизиты)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ЭтотОбъект.КомментарийУчебный </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-string-expression)"> "Введите учебный комментарий"</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">	// 2. Поле, связанное с реквизитом</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Поле </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Элементы.Добавить(</span><span style="color:var(--shiki-token-string-expression)">"КомментарийУчебный"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-function)"> Тип</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-string-expression)">"ПолеФормы"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Элементы.ГруппаУчебныхЭлементов)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Поле.Вид </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> ВидПоляФормы.ПолеВвода</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Поле.ПутьКДанным </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-string-expression)"> "КомментарийУчебный"</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Поле.Заголовок </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-string-expression)"> "Учебный комментарий"</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Поле.УстановитьДействие(</span><span style="color:var(--shiki-token-string-expression)">"ПриИзменении"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "КомментарийУчебныйПриИзменении"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">	// 3. Команда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Команда </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Команды.Добавить(</span><span style="color:var(--shiki-token-string-expression)">"ПоказатьКомментарийУчебный"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Команда.Заголовок </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-string-expression)"> "Показать комментарий"</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Команда.Действие </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-string-expression)"> "ПоказатьКомментарийУчебный"</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">	// 4. Кнопка этой команды</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Кнопка </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Элементы.Добавить(</span><span style="color:var(--shiki-token-string-expression)">"КнопкаКомментарияУчебного"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-function)"> Тип</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-string-expression)">"КнопкаФормы"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Элементы.ГруппаУчебныхЭлементов)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Кнопка.Вид </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> ВидКнопкиФормы.ОбычнаяКнопка</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Кнопка.ИмяКоманды </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-string-expression)"> "ПоказатьКомментарийУчебный"</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span></code></pre></figure>
+<h2 id="клиентские-обработчики">Клиентские обработчики</h2>
+<p>Процедуры пишем заранее: <code>Действие</code> и <code>УстановитьДействие</code> лишь связывают событие с <strong>существующим</strong> кодом.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> КомментарийУчебныйПриИзменении</span><span style="color:var(--shiki-foreground)">(Элемент)</span></span>
+<span data-line=""><span style="color:var(--shiki-token-function)">	Сообщить</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-string-expression)">"Длина комментария: "</span><span style="color:var(--shiki-token-keyword)"> +</span><span style="color:var(--shiki-token-function)"> СтрДлина</span><span style="color:var(--shiki-foreground)">(ЭтотОбъект.КомментарийУчебный))</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> ПоказатьКомментарийУчебный</span><span style="color:var(--shiki-foreground)">(Команда)</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Если</span><span style="color:var(--shiki-token-function)"> ПустаяСтрока</span><span style="color:var(--shiki-foreground)">(ЭтотОбъект.КомментарийУчебный) </span><span style="color:var(--shiki-token-keyword)">Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-token-function)">		Сообщить</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-string-expression)">"Комментарий не заполнен"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Иначе</span></span>
+<span data-line=""><span style="color:var(--shiki-token-function)">		Сообщить</span><span style="color:var(--shiki-foreground)">(ЭтотОбъект.КомментарийУчебный)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span></code></pre></figure>
+<p>К динамическому реквизиту обращаемся через <code>ЭтотОбъект.Имя</code>: при проверке модуля он ещё не объявлен, и простое <code>КомментарийУчебный</code> вызвало бы «Переменная не определена».</p>
+<h2 id="порядок-и-правила">Порядок и правила</h2>
+<ol>
+<li><strong>Данные → элемент → команда → кнопка.</strong> Поле без <code>ПутьКДанным</code> ничего не покажет.</li>
+<li>Все реквизиты — <strong>одним</strong> вызовом <code>ИзменитьРеквизиты</code> (каждый вызов перестраивает форму). См. раздел 7.9.4 <a href="https://1c-dn.com/download-trial/files/guides/developer_guide.pdf" target="_blank" rel="noopener noreferrer">руководства разработчика 1С</a>.</li>
+<li>Изменения живут только в <strong>текущем экземпляре</strong> формы: дерево в Конфигураторе не меняется, при следующем открытии код создаст элементы заново.</li>
+<li>Удалять программно можно только программно созданное; обычный элемент скрываем <code>Видимость</code>.</li>
+</ol>
+<p>Тот же приём использован в учебной обработке темы 29:</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/04.%20%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D1%8B%D0%B5%20%D1%84%D0%BE%D1%80%D0%BC%D1%8B/%D0%A3%D0%A4-27-%D0%9F%D1%83%D1%81%D1%82%D0%B0%D1%8F-%D1%84%D0%BE%D1%80%D0%BC%D0%B0-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC%D0%B0.png" alt="УФ-27-Пустая-форма-практикума.png" loading="lazy" decoding="async"></p>
+<p><em>Форма обработки <code>ПрактикумУправляемыхФорм</code> в Конфигураторе почти пуста: таблица, поля и кнопка создаются кодом при открытии.</em></p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/04.%20%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D1%8B%D0%B5%20%D1%84%D0%BE%D1%80%D0%BC%D1%8B/%D0%A3%D0%A4-28-%D0%AD%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%B8%D1%82%D1%8C.png" alt="УФ-28-Элементы-Добавить.png" loading="lazy" decoding="async"></p>
+<p><em>Модуль этой формы: реквизиты собираются в массив и создаются одним <code>ИзменитьРеквизиты</code>, затем <code>Элементы.Добавить</code> создаёт таблицу, колонки и поле итога.</em></p>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Комментарий не сохраняется</div>
+<div class="callout-body"><p>Реквизит формы не записывается в документ. Для хранения нужен реквизит <strong>документа</strong> — его создают в Конфигураторе.</p></div>
+</div>
+<h2 id="проверка">Проверка</h2>
+<ol>
+<li>Переоткрываем накладную → в группе есть поле и кнопка.</li>
+<li>Кнопка показывает начальный текст; меняем текст и уходим из поля → сообщение о длине.</li>
+<li>Переоткрываем документ → снова начальный текст.</li>
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Симптом</th><th>Проверить</th></tr></thead><tbody><tr><td>«Имя уже существует»</td><td>Реквизиты, команды и элементы формы</td></tr><tr><td>Поле пустое</td><td>Порядок создания, <code>ПутьКДанным</code></td></tr><tr><td>Кнопка не работает</td><td><code>ИмяКоманды</code> кнопки и <code>Действие</code> команды</td></tr></tbody></table></div>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Почему все новые реквизиты добавляют одним <code>ИзменитьРеквизиты</code>?</p>
+</li>
+<li>
+<p>Почему к созданному реквизиту обращаются через <code>ЭтотОбъект.</code>?</p>
+</li>
+<li>
+<p>Сохранится ли созданное поле в Конфигураторе?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Каждый вызов перестраивает форму — это дорого.</li>
+<li>На этапе компиляции модуля реквизита нет, прямое имя даст ошибку.</li>
+<li>Нет, оно существует только в открытом экземпляре формы.</li>
+</ol></div>
+</details></div>
+</details>20:["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L2e",null,{"children":"$1d:0:1:d:r:props:children:0:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","wfg5ts",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/04/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"04"}],"Программирование управляемых форм"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","23"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[4," ","минуты"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Программное создание элементов формы"}],["$","div",null,{"className":"mt-7","children":["$","$L2f",null,{"id":"8aaryv","href":"/l/04/23/","title":"Программное создание элементов формы"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$30"}}],"$L31","$L32","$L33","$L34","$L35"]}]]}]
+21:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L36",null,{"items":[{"id":"когда-форму-собирают-кодом","text":"Когда форму собирают кодом","depth":2},{"id":"подготовка","text":"Подготовка","depth":2},{"id":"серверный-код","text":"Серверный код","depth":2},{"id":"клиентские-обработчики","text":"Клиентские обработчики","depth":2},{"id":"порядок-и-правила","text":"Порядок и правила","depth":2},{"id":"проверка","text":"Проверка","depth":2}]}]}]
+22:["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true}]
+23:["$","$L37",null,{"children":["$","$29",null,{"name":"Next.MetadataOutlet","children":"$@38"}]}]
+39:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+3a:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+3b:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+3c:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+17:300
+31:["$","$L39",null,{"targetId":"lesson-body"}]
+32:["$","$L3a",null,{"targetId":"lesson-body"}]
+33:["$","$L3b",null,{"targetId":"lesson-body"}]
+34:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L2f",null,{"id":"8aaryv","href":"/l/04/23/","title":"Программное создание элементов формы","variant":"footer"}]}]
+35:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/04/22/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L3c",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Асинхронные вопросы пользователю"}]]}],["$","$L13",null,{"href":"/l/04/24/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L3c",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Загрузка таблицы формы на сервере"}]]}]]}]
+38:null
+2d:true
+17:C
+2c:0
+1c:"$undefined"
+19:"$undefined"
+16:"$undefined"
+2b:"$undefined"
+24:"$undefined"

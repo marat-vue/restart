@@ -1,0 +1,289 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1e:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+1f:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+25:"ViewportBoundary"
+26:I[97367,["$2","$3","$4","$5","$6","$7"],"$25"]
+27:"MetadataBoundary"
+28:I[97367,["$2","$3","$4","$5","$6","$7"],"$27"]
+29:"$Sreact.suspense"
+2a:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+17:X
+1a:X
+1a:C
+1d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L1e",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L1f",null,{"tree":{"kind":"folder","id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/","children":[{"kind":"lesson","id":"1hx2s48","num":"00","title":"Навигация по разделу","href":"/l/07/00/"},{"kind":"lesson","id":"1vki0ku","num":"01","title":"Зачем нужно тестирование","href":"/l/07/01/"},{"kind":"lesson","id":"1ft8vz9","num":"02","title":"Основные понятия тестирования","href":"/l/07/02/"},{"kind":"lesson","id":"5olfwt","num":"03","title":"Виды и уровни тестирования","href":"/l/07/03/"},{"kind":"lesson","id":"1s0acu1","num":"04","title":"Техники тест-дизайна","href":"/l/07/04/"},{"kind":"lesson","id":"1ept4s1","num":"05","title":"Тест-кейсы и баг-репорты","href":"/l/07/05/"},{"kind":"lesson","id":"1qld6tb","num":"06","title":"Что и чем тестировать в 1С","href":"/l/07/06/"},{"kind":"lesson","id":"fm5x90","num":"07","title":"Модульные тесты своими руками","href":"/l/07/07/"},{"kind":"lesson","id":"2e0v2y","num":"08","title":"Модульные тесты в YAxUnit","href":"/l/07/08/"},{"kind":"lesson","id":"e3l0hr","num":"09","title":"BDD и язык Gherkin","href":"/l/07/09/"},{"kind":"lesson","id":"79gt5r","num":"10","title":"Vanessa Automation — установка и запуск","href":"/l/07/10/"},{"kind":"lesson","id":"1lcgo32","num":"11","title":"Первый сценарий в Vanessa Automation","href":"/l/07/11/"},{"kind":"lesson","id":"j3qawi","num":"12","title":"Шаги, проверки и запись действий","href":"/l/07/12/"},{"kind":"lesson","id":"1aeq2d9","num":"13","title":"Тестовые данные и независимость сценариев","href":"/l/07/13/"},{"kind":"lesson","id":"1qqfmo6","num":"14","title":"Регрессия, отчёты и запуск без участия человека","href":"/l/07/14/"},{"kind":"lesson","id":"shckox","num":"15","title":"Практика — тестируем расходную накладную","href":"/l/07/15/"},{"kind":"lesson","id":"11nejw8","num":"16","title":"Памятка — тестирование","href":"/l/07/16/"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"1lcgo32"}]}],"$L20","$L21"]}]],["$L22"],"$L23"]}],"p":"$@24","v":null,"s":"$17"}}]]
+1b:[["children",{"s":{"n":"slug","t":"c","k":"07/11","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@1c","v":"$1a","s":"$17"},"c":"$Q1d"}]]
+18:[["children",{"s":"l","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@19","v":"$1a","s":"$17"},"c":"$Q1b"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]]}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":"$@16","v":null,"s":"$17"},"c":"$Q18"},"h":{"r":["$","$1","h",{"children":[null,["$","$L26",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]}],["$","$L28",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$29",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Первый сценарий в Vanessa Automation · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L2a","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@2b","v":null,"s":"$17"}},"a":"$@2c","u":"$@2d","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+2e:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+2f:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+36:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+37:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+30:T7b68,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p>Первый сценарий проверяет расчёт суммы в расходной накладной через интерфейс: подключиться к клиенту тестирования → закрыть лишние окна → открыть раздел → создать накладную → выбрать покупателя → добавить строку с товаром, количеством и ценой → проверить сумму и итог → закрыть без записи. Стандартные шаги Vanessa Automation обращаются к элементам формы <strong>по имени</strong> (<code>ТоварыКоличество</code>, <code>ФормаСоздать</code>) или по заголовку; имена берём из редактора формы. Сценарий начинается с «чистого» состояния и не оставляет после себя мусора.</p></div>
+</div>
+<h2 id="что-проверяем">Что проверяем</h2>
+<p>Возьмём требование из раздела 04 (<a href="/restart/l/04/10/" data-internal="true">10. Пересчёт строк</a>): сумма строки = количество × цена, итог товаров — сумма строк.</p>
+<p>Сначала — как сказал бы заказчик (<a href="/restart/l/07/09/" data-internal="true">09. BDD и язык Gherkin</a>):</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="gherkin" data-theme="mono"><code data-language="gherkin" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">Сценарий</span><span style="color:var(--shiki-foreground)">:</span><span style="color:var(--shiki-token-string)"> Сумма строки считается автоматически</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Дано </span><span style="color:var(--shiki-foreground)">открыта новая расходная накладная</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Когда </span><span style="color:var(--shiki-foreground)">я добавляю строку: </span><span style="color:var(--shiki-token-string-expression)">"Чайник"</span><span style="color:var(--shiki-foreground)">, количество 2, цена 150</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Тогда </span><span style="color:var(--shiki-foreground)">сумма строки равна 300</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">итог товаров равен 300</span></span></code></pre></figure>
+<p>Теперь запишем то же <strong>стандартными шагами</strong> Vanessa Automation, которые она умеет выполнять без программирования.</p>
+<h2 id="подготовка-какие-имена-у-элементов-формы">Подготовка: какие имена у элементов формы</h2>
+<p>Стандартные шаги находят элементы формы <strong>по имени</strong> или <strong>по заголовку</strong>. Надёжнее по имени: заголовок могут поменять или перевести. Имена смотрим в редакторе формы накладной (<a href="/restart/l/04/02/" data-internal="true">02. Создание формы документа</a>):</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Элемент на экране</th><th>Имя элемента</th></tr></thead><tbody><tr><td>Поле «Покупатель»</td><td><code>Покупатель</code></td></tr><tr><td>Таблица товаров</td><td><code>Товары</code></td></tr><tr><td>Кнопка «Добавить» над таблицей</td><td><code>ТоварыДобавить</code></td></tr><tr><td>Колонки товара, количества, цены, суммы</td><td><code>ТоварыТовар</code>, <code>ТоварыКоличество</code>, <code>ТоварыЦена</code>, <code>ТоварыСумма</code></td></tr><tr><td>Поле итога</td><td><code>ИтогТоваров</code></td></tr><tr><td>Кнопка «Создать» в списке</td><td><code>ФормаСоздать</code></td></tr><tr><td>Кнопка «Провести и закрыть»</td><td><code>ФормаПровестиИЗакрыть</code></td></tr></tbody></table></div>
+<p>Кнопки командной панели формы платформа называет по шаблону <code>Форма</code> + имя команды.</p>
+<h2 id="сценарий">Сценарий</h2>
+<p>Создаём файл <code>РасходнаяНакладная_Сумма.feature</code> (кодировка UTF-8):</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="gherkin" data-theme="mono"><code data-language="gherkin" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-comment)">#language: ru</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-function)">@продажи</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функционал</span><span style="color:var(--shiki-foreground)">:</span><span style="color:var(--shiki-token-string)"> Расчёт сумм в расходной накладной</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Как менеджер</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Я хочу, чтобы суммы строк и итог считались автоматически</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Чтобы не пересчитывать вручную</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Контекст</span><span style="color:var(--shiki-foreground)">:</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Дано </span><span style="color:var(--shiki-foreground)">Я открыл новый сеанс TestClient или подключил уже существующий</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">я закрыл все окна клиентского приложения</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Сценарий</span><span style="color:var(--shiki-foreground)">:</span><span style="color:var(--shiki-token-string)"> Сумма строки равна количеству, умноженному на цену</span></span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">	# Открываем список накладных и создаём новую</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Когда </span><span style="color:var(--shiki-foreground)">В командном интерфейсе я выбираю </span><span style="color:var(--shiki-token-string-expression)">'Торговый учёт'</span><span style="color:var(--shiki-token-string-expression)"> 'Расходные накладные'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Тогда </span><span style="color:var(--shiki-foreground)">открылось окно </span><span style="color:var(--shiki-token-string-expression)">'Расходные накладные'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">я нажимаю на кнопку с именем </span><span style="color:var(--shiki-token-string-expression)">'ФормаСоздать'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Тогда </span><span style="color:var(--shiki-foreground)">открылось окно </span><span style="color:var(--shiki-token-string-expression)">'Расходная накладная (создание)'</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">	# Заполняем шапку</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">из выпадающего списка с именем </span><span style="color:var(--shiki-token-string-expression)">"Покупатель"</span><span style="color:var(--shiki-foreground)"> я выбираю по строке </span><span style="color:var(--shiki-token-string-expression)">'Ромашка'</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">	# Добавляем строку товара</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">в таблице </span><span style="color:var(--shiki-token-string-expression)">"Товары"</span><span style="color:var(--shiki-foreground)"> я нажимаю на кнопку с именем </span><span style="color:var(--shiki-token-string-expression)">'ТоварыДобавить'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">в таблице </span><span style="color:var(--shiki-token-string-expression)">"Товары"</span><span style="color:var(--shiki-foreground)"> из выпадающего списка с именем </span><span style="color:var(--shiki-token-string-expression)">"ТоварыТовар"</span><span style="color:var(--shiki-foreground)"> я выбираю по строке </span><span style="color:var(--shiki-token-string-expression)">'Чайник'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">в таблице </span><span style="color:var(--shiki-token-string-expression)">"Товары"</span><span style="color:var(--shiki-foreground)"> в поле с именем </span><span style="color:var(--shiki-token-string-expression)">'ТоварыЦена'</span><span style="color:var(--shiki-foreground)"> я ввожу текст </span><span style="color:var(--shiki-token-string-expression)">'150'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">в таблице </span><span style="color:var(--shiki-token-string-expression)">"Товары"</span><span style="color:var(--shiki-foreground)"> в поле с именем </span><span style="color:var(--shiki-token-string-expression)">'ТоварыКоличество'</span><span style="color:var(--shiki-foreground)"> я ввожу текст </span><span style="color:var(--shiki-token-string-expression)">'2'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">в таблице </span><span style="color:var(--shiki-token-string-expression)">"Товары"</span><span style="color:var(--shiki-foreground)"> я завершаю редактирование строки</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">	# Проверяем результат</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Тогда </span><span style="color:var(--shiki-foreground)">таблица </span><span style="color:var(--shiki-token-string-expression)">"Товары"</span><span style="color:var(--shiki-foreground)"> стала равной:</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		| 'Товар'  | 'Количество' | 'Цена'   | 'Сумма'  |</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		| 'Чайник' | '2'          | '150,00' | '300,00' |</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">элемент формы с именем </span><span style="color:var(--shiki-token-string-expression)">"ИтогТоваров"</span><span style="color:var(--shiki-foreground)"> стал равен </span><span style="color:var(--shiki-token-string-expression)">'300'</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">	# Закрываем без записи, чтобы не оставлять данные</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">я закрываю текущее окно</span></span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">	# Платформа спрашивает «Данные были изменены. Сохранить изменения?» — отвечаем «Нет».</span></span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">	# В окнах вопросов кнопки называются Button0 (Да), Button1 (Нет), Button2 (Отмена).</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Тогда </span><span style="color:var(--shiki-foreground)">открылось окно </span><span style="color:var(--shiki-token-string-expression)">'1С:Предприятие'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">я нажимаю на кнопку с именем </span><span style="color:var(--shiki-token-string-expression)">'Button1'</span></span></code></pre></figure>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Точные формулировки шагов</div>
+<div class="callout-body"><p>Стандартные шаги нужно писать <strong>ровно так</strong>, как они заданы в библиотеке Vanessa Automation: другой порядок слов — и VA не узнает шаг (он подсветится как нереализованный). Формулировки выше показывают типичный вид шагов; в своей версии VA сверяйте их через <strong>поиск известных шагов</strong> или получайте записью действий (<a href="/restart/l/07/12/" data-internal="true">12. Шаги, проверки и запись действий</a>). Так же различаются заголовки окон и кнопок в вашей конфигурации — их берём из реального интерфейса.</p></div>
+</div>
+<p>Так этот файл выглядит во встроенном редакторе Vanessa Automation — ключевые слова, параметры в кавычках и комментарии подсвечиваются разными цветами:</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/07.%20%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%201%D0%A1/VA-03-%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B9-%D0%B2-%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%B5.png" alt="VA-03-Сценарий-в-редакторе.png" loading="lazy" decoding="async"></p>
+<p><em>Сценарий урока в редакторе Vanessa Automation 1.2.043.47: <code>Функционал</code>, <code>Контекст</code>, <code>Сценарий</code> — красным, <code>Дано</code> / <code>Когда</code> / <code>Тогда</code> / <code>И</code> — синим, комментарии — зелёным, имена элементов и значения в кавычках — бордовым.</em></p>
+<h2 id="разбор-сценария">Разбор сценария</h2>
+<h3 id="контекст--чистый-старт">Контекст — чистый старт</h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="gherkin" data-theme="mono"><code data-language="gherkin" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">Контекст</span><span style="color:var(--shiki-foreground)">:</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Дано </span><span style="color:var(--shiki-foreground)">Я открыл новый сеанс TestClient или подключил уже существующий</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">я закрыл все окна клиентского приложения</span></span></code></pre></figure>
+<p>Перед <strong>каждым</strong> сценарием VA подключается к клиенту тестирования (или запускает его) и закрывает все окна. Так сценарий не зависит от того, что осталось на экране от предыдущего. Это главное правило надёжных UI-тестов: <strong>начинать с известного состояния</strong>.</p>
+<h3 id="навигация">Навигация</h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="gherkin" data-theme="mono"><code data-language="gherkin" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">Когда </span><span style="color:var(--shiki-foreground)">В командном интерфейсе я выбираю </span><span style="color:var(--shiki-token-string-expression)">'Торговый учёт'</span><span style="color:var(--shiki-token-string-expression)"> 'Расходные накладные'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Тогда </span><span style="color:var(--shiki-foreground)">открылось окно </span><span style="color:var(--shiki-token-string-expression)">'Расходные накладные'</span></span></code></pre></figure>
+<p>Первый шаг — щелчок по разделу и команде в панели разделов (<a href="/restart/l/01/15/" data-internal="true">15. Подсистемы</a>). Второй — <strong>проверка</strong>, что открылось нужное окно. Проверки между действиями важны: если окно не открылось, сценарий упадёт <strong>здесь</strong>, с понятной причиной, а не тремя шагами позже с загадочным «элемент не найден».</p>
+<h3 id="ввод-данных">Ввод данных</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Шаг</th><th>Что делает «робот»</th></tr></thead><tbody><tr><td><code>из выпадающего списка с именем "Покупатель" я выбираю по строке 'Ромашка'</code></td><td>Вводит «Ромашка» в поле покупателя и выбирает найденное значение — как ввод по строке руками</td></tr><tr><td><code>в таблице "Товары" я нажимаю на кнопку с именем 'ТоварыДобавить'</code></td><td>Добавляет новую строку</td></tr><tr><td><code>в таблице "Товары" в поле с именем 'ТоварыКоличество' я ввожу текст '2'</code></td><td>Вводит значение в ячейку текущей строки</td></tr><tr><td><code>в таблице "Товары" я завершаю редактирование строки</code></td><td>Завершает ввод строки — срабатывают события <code>ПриИзменении</code> (<a href="/restart/l/04/08/" data-internal="true">08. ПриИзменении</a>)</td></tr></tbody></table></div>
+<p>Цену вводим <strong>до</strong> количества нарочно: так проверяется, что пересчёт срабатывает от изменения количества при уже известной цене. Другой порядок — повод для второго сценария.</p>
+<h3 id="проверки">Проверки</h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="gherkin" data-theme="mono"><code data-language="gherkin" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">Тогда </span><span style="color:var(--shiki-foreground)">таблица </span><span style="color:var(--shiki-token-string-expression)">"Товары"</span><span style="color:var(--shiki-foreground)"> стала равной:</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	| 'Товар'  | 'Количество' | 'Цена'   | 'Сумма'  |</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	| 'Чайник' | '2'          | '150,00' | '300,00' |</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">И </span><span style="color:var(--shiki-foreground)">элемент формы с именем </span><span style="color:var(--shiki-token-string-expression)">"ИтогТоваров"</span><span style="color:var(--shiki-foreground)"> стал равен </span><span style="color:var(--shiki-token-string-expression)">'300'</span></span></code></pre></figure>
+<p>Проверка таблицы сравнивает её <strong>как видит пользователь</strong>: значения — в том формате, как они отображаются в колонках (с запятой и двумя знаками, если так настроен формат). Заголовки колонок — как в шапке таблицы.</p>
+<h3 id="уборка">Уборка</h3>
+<p>Сценарий закрывает форму <strong>без записи</strong>: в тестовой базе не остаётся лишней накладной, и следующий запуск увидит ту же картину. Если сценарий должен записать документ, уборку делают иначе — об этом в <a href="/restart/l/07/13/" data-internal="true">13. Тестовые данные и независимость сценариев</a>.</p>
+<h2 id="запуск-и-чтение-результата">Запуск и чтение результата</h2>
+<ol>
+<li>Загрузите файл в VA, выберите сценарий, нажмите <strong>«Выполнить»</strong>.</li>
+<li>В клиенте тестирования видно, как открывается список, создаётся накладная, заполняются поля.</li>
+<li>Все шаги зелёные — сценарий пройден.</li>
+</ol>
+<p>Если шаг упал — VA показывает его красным и текст ошибки. Типичные причины:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Ошибка</th><th>Что проверить</th></tr></thead><tbody><tr><td>«Не найдено окно»</td><td>Точный заголовок окна; успела ли форма открыться</td></tr><tr><td>«Не найден элемент формы»</td><td>Имя элемента в редакторе формы; не скрыт ли он</td></tr><tr><td>Значение таблицы не совпало</td><td>Формат отображения чисел, порядок колонок, лишние строки</td></tr><tr><td>Шаг жёлтый — не реализован</td><td>Опечатка в формулировке стандартного шага</td></tr></tbody></table></div>
+<h2 id="второй-сценарий-негативный">Второй сценарий: негативный</h2>
+<p>Добавим в тот же файл проверку запрета проведения без покупателя (<a href="/restart/l/04/12/" data-internal="true">12. Проверка заполнения</a>):</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="gherkin" data-theme="mono"><code data-language="gherkin" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">Сценарий</span><span style="color:var(--shiki-foreground)">:</span><span style="color:var(--shiki-token-string)"> Накладную нельзя провести без покупателя</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Когда </span><span style="color:var(--shiki-foreground)">В командном интерфейсе я выбираю </span><span style="color:var(--shiki-token-string-expression)">'Торговый учёт'</span><span style="color:var(--shiki-token-string-expression)"> 'Расходные накладные'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">я нажимаю на кнопку с именем </span><span style="color:var(--shiki-token-string-expression)">'ФормаСоздать'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">в таблице </span><span style="color:var(--shiki-token-string-expression)">"Товары"</span><span style="color:var(--shiki-foreground)"> я нажимаю на кнопку с именем </span><span style="color:var(--shiki-token-string-expression)">'ТоварыДобавить'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">в таблице </span><span style="color:var(--shiki-token-string-expression)">"Товары"</span><span style="color:var(--shiki-foreground)"> из выпадающего списка с именем </span><span style="color:var(--shiki-token-string-expression)">"ТоварыТовар"</span><span style="color:var(--shiki-foreground)"> я выбираю по строке </span><span style="color:var(--shiki-token-string-expression)">'Чайник'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">в таблице </span><span style="color:var(--shiki-token-string-expression)">"Товары"</span><span style="color:var(--shiki-foreground)"> в поле с именем </span><span style="color:var(--shiki-token-string-expression)">'ТоварыКоличество'</span><span style="color:var(--shiki-foreground)"> я ввожу текст </span><span style="color:var(--shiki-token-string-expression)">'1'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">в таблице </span><span style="color:var(--shiki-token-string-expression)">"Товары"</span><span style="color:var(--shiki-foreground)"> я завершаю редактирование строки</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">я нажимаю на кнопку с именем </span><span style="color:var(--shiki-token-string-expression)">'ФормаПровестиИЗакрыть'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Тогда </span><span style="color:var(--shiki-foreground)">в логе сообщений TestClient есть строка </span><span style="color:var(--shiki-token-string-expression)">'Выберите покупателя'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">открылось окно </span><span style="color:var(--shiki-token-string-expression)">'Расходная накладная (создание) *'</span></span></code></pre></figure>
+<p>Здесь проверяем <strong>два</strong> признака правильного поведения: появилось сообщение об ошибке, и форма осталась открытой (документ не записан). Звёздочка в заголовке окна означает «есть несохранённые изменения».</p>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Зачем в <code>Контекст</code> шаг «я закрыл все окна клиентского приложения»?</p>
+</li>
+<li>
+<p>Почему элементы формы надёжнее искать по имени, а не по заголовку?</p>
+</li>
+<li>
+<p>Зачем после действий вставлять проверки вида «открылось окно …»?</p>
+</li>
+<li>
+<p>Почему первый сценарий закрывает накладную без записи?</p>
+</li>
+<li>
+<p>Что проверяет негативный сценарий и какими двумя признаками?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Чтобы каждый сценарий начинался с известного чистого состояния и не зависел от окон, оставшихся от предыдущих.</li>
+<li>Заголовки меняют и переводят, а имена элементов стабильны и уникальны в форме.</li>
+<li>Чтобы сценарий падал там, где реально возникла проблема, с понятной причиной.</li>
+<li>Чтобы не оставлять в тестовой базе лишних данных и не влиять на следующие запуски.</li>
+<li>Запрет проведения без покупателя: есть сообщение «Выберите покупателя» и форма осталась открытой.</li>
+</ol></div>
+</details></div>
+</details>20:["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L2e",null,{"children":"$1d:0:1:d:r:props:children:0:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","14mlr13",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/07/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"07"}],"Тестирование 1С"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","11"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[8," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Первый сценарий в Vanessa Automation"}],["$","div",null,{"className":"mt-7","children":["$","$L2f",null,{"id":"1lcgo32","href":"/l/07/11/","title":"Первый сценарий в Vanessa Automation"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$30"}}],"$L31","$L32","$L33","$L34","$L35"]}]]}]
+21:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L36",null,{"items":[{"id":"что-проверяем","text":"Что проверяем","depth":2},{"id":"подготовка-какие-имена-у-элементов-формы","text":"Подготовка: какие имена у элементов формы","depth":2},{"id":"сценарий","text":"Сценарий","depth":2},{"id":"разбор-сценария","text":"Разбор сценария","depth":2},{"id":"контекст--чистый-старт","text":"Контекст — чистый старт","depth":3},{"id":"навигация","text":"Навигация","depth":3},{"id":"ввод-данных","text":"Ввод данных","depth":3},{"id":"проверки","text":"Проверки","depth":3},{"id":"уборка","text":"Уборка","depth":3},{"id":"запуск-и-чтение-результата","text":"Запуск и чтение результата","depth":2},{"id":"второй-сценарий-негативный","text":"Второй сценарий: негативный","depth":2}]}]}]
+22:["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true}]
+23:["$","$L37",null,{"children":["$","$29",null,{"name":"Next.MetadataOutlet","children":"$@38"}]}]
+39:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+3a:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+3b:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+3c:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+17:300
+31:["$","$L39",null,{"targetId":"lesson-body"}]
+32:["$","$L3a",null,{"targetId":"lesson-body"}]
+33:["$","$L3b",null,{"targetId":"lesson-body"}]
+34:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L2f",null,{"id":"1lcgo32","href":"/l/07/11/","title":"Первый сценарий в Vanessa Automation","variant":"footer"}]}]
+35:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/07/10/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L3c",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Vanessa Automation — установка и запуск"}]]}],["$","$L13",null,{"href":"/l/07/12/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L3c",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Шаги, проверки и запись действий"}]]}]]}]
+38:null
+2d:true
+17:C
+2c:0
+1c:"$undefined"
+19:"$undefined"
+16:"$undefined"
+2b:"$undefined"
+24:"$undefined"

@@ -1,0 +1,306 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1e:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+1f:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+25:"ViewportBoundary"
+26:I[97367,["$2","$3","$4","$5","$6","$7"],"$25"]
+27:"MetadataBoundary"
+28:I[97367,["$2","$3","$4","$5","$6","$7"],"$27"]
+29:"$Sreact.suspense"
+2a:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+17:X
+1a:X
+1a:C
+1d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L1e",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L1f",null,{"tree":{"kind":"folder","id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/","children":[{"kind":"lesson","id":"17boebz","num":"00","title":"Навигация по разделу","href":"/l/03/00/"},{"kind":"lesson","id":"1lkrwkt","num":"01","title":"Запросы и таблицы базы","href":"/l/03/01/"},{"kind":"lesson","id":"14nptpf","num":"02","title":"Первый запрос в конструкторе и в коде","href":"/l/03/02/"},{"kind":"lesson","id":"1nxb71v","num":"03","title":"Выбор полей, псевдонимы и сортировка","href":"/l/03/03/"},{"kind":"lesson","id":"16ekhad","num":"04","title":"Условия и отбор строк","href":"/l/03/04/"},{"kind":"lesson","id":"1pzidkf","num":"05","title":"Параметры и границы периода","href":"/l/03/05/"},{"kind":"lesson","id":"ym6g8r","num":"06","title":"Ссылки, иерархия и составные типы","href":"/l/03/06/"},{"kind":"lesson","id":"z2l8e8","num":"07","title":"Запрос к табличной части документа","href":"/l/03/07/"},{"kind":"lesson","id":"1jifwj7","num":"08","title":"Соединения таблиц","href":"/l/03/08/"},{"kind":"lesson","id":"ms2o5o","num":"09","title":"NULL и отсутствующие значения","href":"/l/03/09/"},{"kind":"lesson","id":"1lwqgjv","num":"10","title":"Группировка и агрегатные функции","href":"/l/03/10/"},{"kind":"lesson","id":"1jkkxfl","num":"11","title":"Итоги и обход результата запроса","href":"/l/03/11/"},{"kind":"lesson","id":"198d651","num":"12","title":"Выражения и функции языка запросов","href":"/l/03/12/"},{"kind":"lesson","id":"e9pt2h","num":"13","title":"Объединение результатов","href":"/l/03/13/"},{"kind":"lesson","id":"18i7pdj","num":"14","title":"Вложенные запросы","href":"/l/03/14/"},{"kind":"lesson","id":"2hbwfu","num":"15","title":"Временные таблицы и пакеты запросов","href":"/l/03/15/"},{"kind":"lesson","id":"n84mjm","num":"16","title":"Виртуальные таблицы регистров накопления","href":"/l/03/16/"},{"kind":"lesson","id":"pgwonp","num":"17","title":"Регистры сведений и срез последних","href":"/l/03/17/"},{"kind":"lesson","id":"vlr597","num":"18","title":"Проверка и ускорение запросов","href":"/l/03/18/"},{"kind":"lesson","id":"142foy4","num":"19","title":"Как устроена СКД","href":"/l/03/19/"},{"kind":"lesson","id":"152ycof","num":"20","title":"Создание отчёта и набора данных","href":"/l/03/20/"},{"kind":"lesson","id":"1xevjbs","num":"21","title":"Поля и ресурсы СКД","href":"/l/03/21/"},{"kind":"lesson","id":"jk420v","num":"22","title":"Параметры периода в СКД","href":"/l/03/22/"},{"kind":"lesson","id":"58dprv","num":"23","title":"Структура отчёта и выбранные поля","href":"/l/03/23/"},{"kind":"lesson","id":"99pyu7","num":"24","title":"Отбор, сортировка и пользовательские настройки","href":"/l/03/24/"},{"kind":"lesson","id":"5i2ibk","num":"25","title":"Вычисляемые поля и оформление","href":"/l/03/25/"},{"kind":"lesson","id":"1inj8zi","num":"26","title":"Таблицы, диаграммы и варианты отчёта","href":"/l/03/26/"},{"kind":"lesson","id":"w5tpc3","num":"27","title":"Несколько наборов и расширение языка СКД","href":"/l/03/27/"},{"kind":"lesson","id":"knkon2","num":"28","title":"Программное формирование отчёта СКД","href":"/l/03/28/"},{"kind":"lesson","id":"1yiya54","num":"29","title":"Практика по языку запросов","href":"/l/03/29/"},{"kind":"lesson","id":"1lqu8yq","num":"30","title":"Практика по СКД","href":"/l/03/30/"},{"kind":"lesson","id":"113x59o","num":"31","title":"Ошибки и памятка для повторения","href":"/l/03/31/"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"198d651"}]}],"$L20","$L21"]}]],["$L22"],"$L23"]}],"p":"$@24","v":null,"s":"$17"}}]]
+1b:[["children",{"s":{"n":"slug","t":"c","k":"03/12","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@1c","v":"$1a","s":"$17"},"c":"$Q1d"}]]
+18:[["children",{"s":"l","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@19","v":"$1a","s":"$17"},"c":"$Q1b"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]]}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":"$@16","v":null,"s":"$17"},"c":"$Q18"},"h":{"r":["$","$1","h",{"children":[null,["$","$L26",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]}],["$","$L28",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$29",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Выражения и функции языка запросов · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L2a","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@2b","v":null,"s":"$17"}},"a":"$@2c","u":"$@2d","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+2e:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+2f:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+36:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+37:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+30:T4591,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p>В запросе можно вычислять поля (<code>Т.Количество * Т.Цена</code>), использовать <code>ВЫБОР КОГДА … ТОГДА … ИНАЧЕ … КОНЕЦ</code>, функции дат (<code>НАЧАЛОПЕРИОДА</code>, <code>КОНЕЦПЕРИОДА</code>, <code>ДОБАВИТЬКДАТЕ</code>), строк (<code>ПОДСТРОКА</code>) и приведения (<code>ВЫРАЗИТЬ</code>). Функции языка запросов, встроенного языка и выражений СКД — <strong>разные наборы</strong>.</p></div>
+</div>
+<h2 id="вычисляемая-колонка">Вычисляемая колонка</h2>
+<p>В <code>ВЫБРАТЬ</code> можно писать не только поля, но и <strong>выражения</strong> — формулы над полями. Каждая строка результата получит своё вычисленное значение, как формула в ячейке Excel, протянутая вниз.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">ВЫБРАТЬ</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    Т.Товар КАК Товар</span><span style="color:var(--shiki-token-keyword)">,</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    Т.Количество КАК Количество</span><span style="color:var(--shiki-token-keyword)">,</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    Т.Цена КАК Цена</span><span style="color:var(--shiki-token-keyword)">,</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    Т.Количество </span><span style="color:var(--shiki-token-keyword)">*</span><span style="color:var(--shiki-foreground)"> Т.Цена КАК РасчётнаяСумма</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">ИЗ</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    Документ.РасходнаяНакладная.Товары КАК Т</span></span></code></pre></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Товар</th><th>Количество</th><th>Цена</th><th>РасчётнаяСумма</th></tr></thead><tbody><tr><td>Чайник</td><td>2</td><td>150</td><td>300</td></tr><tr><td>Кружка</td><td>3</td><td>50</td><td>150</td></tr></tbody></table></div>
+<p>Доступны обычные арифметические операции: <code>+ - * /</code>. Псевдоним (<code>КАК РасчётнаяСумма</code>) для выражения обязателен по смыслу: иначе колонка получит безликое имя вроде <code>Поле1</code>.</p>
+<p>Вычисление происходит <strong>только в результате запроса</strong>. Записанное поле <code>Т.Сумма</code> в базе не меняется — запрос ничего не изменяет.</p>
+<h2 id="условие-внутри-колонки-выбор">Условие внутри колонки: <code>ВЫБОР</code></h2>
+<p>Иногда значение колонки зависит от условия. Для этого есть конструкция <code>ВЫБОР</code> — аналог <code>Если</code> встроенного языка и тернарного <code>?()</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">ВЫБОР</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    КОГДА Т.Количество </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)"> ТОГДА</span><span style="color:var(--shiki-token-constant)"> 0</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">    ИНАЧЕ</span><span style="color:var(--shiki-foreground)"> Т.Сумма </span><span style="color:var(--shiki-token-keyword)">/</span><span style="color:var(--shiki-foreground)"> Т.Количество</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">КОНЕЦ КАК СредняяЦенаСтроки</span></span></code></pre></figure>
+<p>Читаем: «<strong>когда</strong> количество равно нулю — <strong>тогда</strong> 0, <strong>иначе</strong> сумма, делённая на количество».</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Часть</th><th>Смысл</th></tr></thead><tbody><tr><td><code>ВЫБОР … КОНЕЦ</code></td><td>Начало и конец конструкции</td></tr><tr><td><code>КОГДА условие ТОГДА значение</code></td><td>Ветка; их может быть несколько</td></tr><tr><td><code>ИНАЧЕ значение</code></td><td>Если ни одно условие не подошло (если не указать — будет <code>NULL</code>)</td></tr></tbody></table></div>
+<p>Условия проверяются <strong>сверху вниз</strong>, срабатывает первое истинное. Пример с несколькими ветками — категория продажи:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">ВЫБОР</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    КОГДА Т.Сумма </span><span style="color:var(--shiki-token-keyword)">>=</span><span style="color:var(--shiki-token-constant)"> 10000</span><span style="color:var(--shiki-token-keyword)"> ТОГДА</span><span style="color:var(--shiki-token-string-expression)"> "Крупная"</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    КОГДА Т.Сумма </span><span style="color:var(--shiki-token-keyword)">>=</span><span style="color:var(--shiki-token-constant)"> 1000</span><span style="color:var(--shiki-token-keyword)"> ТОГДА</span><span style="color:var(--shiki-token-string-expression)"> "Средняя"</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">    ИНАЧЕ</span><span style="color:var(--shiki-token-string-expression)"> "Мелкая"</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">КОНЕЦ КАК Категория</span></span></code></pre></figure>
+<p>Строка на 15000 ₽ получит «Крупная» — до второй ветки дело не дойдёт.</p>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Деление на ноль</div>
+<div class="callout-body"><p>Если в какой-то строке количество равно 0, выражение <code>Т.Сумма / Т.Количество</code> вызовет ошибку деления на ноль, и весь запрос не выполнится. Поэтому деление почти всегда оборачиваем в <code>ВЫБОР</code>, как в примере выше.</p></div>
+</div>
+<h2 id="функции-языка-запросов">Функции языка запросов</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Выражение</th><th>Что получим</th><th>Пример для даты 15.10.2026 14:30</th></tr></thead><tbody><tr><td><code>НАЧАЛОПЕРИОДА(Н.Дата, МЕСЯЦ)</code></td><td>Начало месяца</td><td>01.10.2026 00:00:00</td></tr><tr><td><code>КОНЕЦПЕРИОДА(Н.Дата, ДЕНЬ)</code></td><td>Конец дня</td><td>15.10.2026 23:59:59</td></tr><tr><td><code>ГОД(Н.Дата)</code>, <code>МЕСЯЦ(Н.Дата)</code>, <code>ДЕНЬ(Н.Дата)</code></td><td>Часть даты числом</td><td>2026, 10, 15</td></tr><tr><td><code>ДОБАВИТЬКДАТЕ(Н.Дата, ДЕНЬ, 1)</code></td><td>Дата со сдвигом</td><td>16.10.2026 14:30</td></tr><tr><td><code>РАЗНОСТЬДАТ(Н.Дата, &#x26;Сегодня, ДЕНЬ)</code></td><td>Разница между датами в днях</td><td>Сколько дней прошло</td></tr><tr><td><code>ПОДСТРОКА(Н.Наименование, 1, 3)</code></td><td>Часть строки: с 1-го символа, 3 символа</td><td>«Чай» из «Чайник»</td></tr><tr><td><code>ВРЕГ(Н.Наименование)</code></td><td>Строка в верхнем регистре</td><td>«ЧАЙНИК»</td></tr><tr><td><code>ПРЕДСТАВЛЕНИЕ(Н.Покупатель)</code></td><td>Текст для показа ссылки</td><td>«ООО Ромашка»</td></tr><tr><td><code>ВЫРАЗИТЬ(Т.Сумма КАК ЧИСЛО(15, 2))</code></td><td>Значение, приведённое к типу</td><td>Число с 2 знаками</td></tr></tbody></table></div>
+<p>Периоды в функциях дат — ключевые слова без кавычек: <code>СЕКУНДА</code>, <code>МИНУТА</code>, <code>ЧАС</code>, <code>ДЕНЬ</code>, <code>НЕДЕЛЯ</code>, <code>МЕСЯЦ</code>, <code>КВАРТАЛ</code>, <code>ГОД</code>.</p>
+<p>Типичное применение — группировка по месяцам:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">ВЫБРАТЬ</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    НАЧАЛОПЕРИОДА(Н.Дата</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> МЕСЯЦ) КАК Месяц</span><span style="color:var(--shiki-token-keyword)">,</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    СУММА(Н.ИтоговаяСумма) КАК Выручка</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">ИЗ</span><span style="color:var(--shiki-foreground)"> Документ.РасходнаяНакладная КАК Н</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">ГДЕ Н.Проведен</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">СГРУППИРОВАТЬ </span><span style="color:var(--shiki-token-keyword)">ПО</span><span style="color:var(--shiki-foreground)"> НАЧАЛОПЕРИОДА(Н.Дата</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> МЕСЯЦ)</span></span></code></pre></figure>
+<p>Все октябрьские накладные получат одинаковое значение «01.10.2026» и сложатся в одну строку.</p>
+<h2 id="три-похожих-но-разных-языка">Три похожих, но разных языка</h2>
+<p>В 1С функции с похожими названиями есть в трёх местах, и они <strong>не взаимозаменяемы</strong>:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Где</th><th>Конец дня</th><th>Как пишется период</th></tr></thead><tbody><tr><td>Встроенный язык (код модуля)</td><td><code>КонецДня(Дата)</code></td><td>Отдельная функция для каждого периода</td></tr><tr><td>Язык запросов (текст запроса)</td><td><code>КОНЕЦПЕРИОДА(Дата, ДЕНЬ)</code></td><td>Ключевое слово без кавычек</td></tr><tr><td>Выражения СКД (настройки отчёта)</td><td><code>КонецПериода(&#x26;Дата, "День")</code></td><td>Строка в кавычках</td></tr></tbody></table></div>
+<p>Написать в тексте запроса <code>КонецДня(Н.Дата)</code> нельзя — такой функции в языке запросов нет. Либо используем <code>КОНЕЦПЕРИОДА</code> в запросе, либо считаем значение в коде и передаём параметром.</p>
+<h2 id="значения-прямо-в-тексте">Значения прямо в тексте</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Что</th><th>Как записать в запросе</th></tr></thead><tbody><tr><td>Число</td><td><code>1000</code>, <code>12.5</code> (точка)</td></tr><tr><td>Строка</td><td><code>"Продажа"</code></td></tr><tr><td>Булево</td><td><code>ИСТИНА</code>, <code>ЛОЖЬ</code></td></tr><tr><td>Отсутствие значения</td><td><code>NULL</code></td></tr><tr><td>Дата</td><td><code>ДАТАВРЕМЯ(2026, 10, 1)</code></td></tr><tr><td>Значение из конфигурации</td><td><code>ЗНАЧЕНИЕ(Перечисление.ВидыНоменклатуры.Товар)</code></td></tr></tbody></table></div>
+<p>Даты и другие меняющиеся значения лучше передавать <strong>параметрами</strong> — так запрос не придётся переписывать.</p>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Кавычки внутри</div>
+<div class="callout-body"><p><code>Запрос.Текст</code>
+Текст запроса во встроенном языке сам находится внутри кавычек. Поэтому кавычки строк <em>внутри</em> запроса удваиваем:</p><figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">Запрос.Текст </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-string-expression)"> "</span><span style="color:var(--shiki-token-keyword)">ВЫБРАТЬ</span><span style="color:var(--shiki-token-string-expression)"> ""Продажа"" </span><span style="color:var(--shiki-token-keyword)">КАК</span><span style="color:var(--shiki-token-string-expression)"> Вид </span><span style="color:var(--shiki-token-keyword)">ИЗ</span><span style="color:var(--shiki-token-string-expression)"> Документ.РасходнаяНакладная </span><span style="color:var(--shiki-token-keyword)">КАК</span><span style="color:var(--shiki-token-string-expression)"> Н"</span><span style="color:var(--shiki-token-keyword)">;</span></span></code></pre></figure><p>В самом запросе получится <code>"Продажа"</code>. Конструктор запроса удваивает кавычки сам.</p></div>
+</div>
+<h2 id="проверка">Проверка</h2>
+<ol>
+<li>Выведите дату документов и <code>НАЧАЛОПЕРИОДА(Н.Дата, МЕСЯЦ)</code> — все октябрьские получат 01.10.2026 00:00:00.</li>
+<li>Добавьте колонку с <code>ВЫБОР</code> и категорией продажи — проверьте накладную ровно на 1000 ₽: она должна попасть в «Средняя».</li>
+<li>Создайте строку товара с количеством 0 и выведите <code>Т.Сумма / Т.Количество</code> без <code>ВЫБОР</code> — увидите ошибку деления на ноль.</li>
+</ol>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Как защититься от деления на ноль в запросе?</p>
+</li>
+<li>
+<p>Можно ли в запросе вызвать <code>КонецДня()</code> встроенного языка?</p>
+</li>
+<li>
+<p>Как записать строку «Продажа» внутри <code>Запрос.Текст</code>?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li><code>ВЫБОР КОГДА Количество = 0 ТОГДА 0 ИНАЧЕ Сумма / Количество КОНЕЦ</code>.</li>
+<li>Нет; в запросе — <code>КОНЕЦПЕРИОДА(Дата, ДЕНЬ)</code>, либо считаем границу в коде и передаём параметром.</li>
+<li><code>""Продажа""</code> — удвоенные кавычки.</li>
+</ol></div>
+</details></div>
+</details>20:["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L2e",null,{"children":"$1d:0:1:d:r:props:children:0:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","chv2um",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/03/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"03"}],"Язык запросов и СКД"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","12"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[5," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Выражения и функции языка запросов"}],["$","div",null,{"className":"mt-7","children":["$","$L2f",null,{"id":"198d651","href":"/l/03/12/","title":"Выражения и функции языка запросов"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$30"}}],"$L31","$L32","$L33","$L34","$L35"]}]]}]
+21:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L36",null,{"items":[{"id":"вычисляемая-колонка","text":"Вычисляемая колонка","depth":2},{"id":"условие-внутри-колонки-выбор","text":"Условие внутри колонки: ВЫБОР","depth":2},{"id":"функции-языка-запросов","text":"Функции языка запросов","depth":2},{"id":"три-похожих-но-разных-языка","text":"Три похожих, но разных языка","depth":2},{"id":"значения-прямо-в-тексте","text":"Значения прямо в тексте","depth":2},{"id":"проверка","text":"Проверка","depth":2}]}]}]
+22:["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true}]
+23:["$","$L37",null,{"children":["$","$29",null,{"name":"Next.MetadataOutlet","children":"$@38"}]}]
+39:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+3a:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+3b:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+3c:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+17:300
+31:["$","$L39",null,{"targetId":"lesson-body"}]
+32:["$","$L3a",null,{"targetId":"lesson-body"}]
+33:["$","$L3b",null,{"targetId":"lesson-body"}]
+34:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L2f",null,{"id":"198d651","href":"/l/03/12/","title":"Выражения и функции языка запросов","variant":"footer"}]}]
+35:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/03/11/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L3c",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Итоги и обход результата запроса"}]]}],["$","$L13",null,{"href":"/l/03/13/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L3c",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Объединение результатов"}]]}]]}]
+38:null
+2d:true
+17:C
+2c:0
+1c:"$undefined"
+19:"$undefined"
+16:"$undefined"
+2b:"$undefined"
+24:"$undefined"

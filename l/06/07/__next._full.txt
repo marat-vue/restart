@@ -1,0 +1,316 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1b:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:"ViewportBoundary"
+1f:I[97367,["$2","$3","$4","$5","$6","$7"],"$1e"]
+21:"MetadataBoundary"
+22:I[97367,["$2","$3","$4","$5","$6","$7"],"$21"]
+24:I[68027,["$2","$3","$4","$5","$6","$7"],"default",1]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+:HL["/restart/_next/static/media/051742360c26797e-s.p.1bkzbscqrt8rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/26f284dcc38c84c0-s.p.3hlisc-pwq13z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/42b035f1a63f268d-s.p.2m8t2-vl1h1kf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/b4a06a523f527a0e-s.p.3psl0_mnhzy2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/cfdfbee4d6cf0a93-s.p.1jwcpm6w583_v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/e8768c288fbd3aa6-s.p.1t1z0xjflawjj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+17:X
+19:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L1a",[["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true,"nonce":"$undefined"}]],["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]]}],"p":false,"v":null}}]]
+18:[["children",{"s":{"n":"slug","t":"c","k":"06/07","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q19"}]]
+16:[["children",{"s":"l","h":131584,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q18"}]]
+0:{"P":null,"c":["","l","06","07",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true,"nonce":"$undefined"}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":false,"v":null},"c":"$Q16"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$L20"}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":"$L23"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$24",[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+17:C
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]
+25:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+26:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+27:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+28:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+29:T8f16,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p><strong>Скользящее окно</strong> — непрерывный отрезок массива или строки между левой и правой границей, который «едет» по данным. Вместо пересчёта каждого отрезка заново мы <strong>добавляем</strong> элемент, вошедший справа, и <strong>убираем</strong> элемент, вышедший слева. <strong>Фиксированное окно</strong> (длина <code>k</code> задана) — максимальная сумма <code>k</code> подряд идущих элементов. <strong>Переменное окно</strong> — правая граница расширяет окно, левая сужает его, пока условие нарушено (самая длинная подстрока без повторов). Сложность <code>O(n)</code> вместо <code>O(n·k)</code> или <code>O(n²)</code>.</p></div>
+</div>
+<h2 id="идея-на-примере">Идея на примере</h2>
+<p><strong>Задача.</strong> Дана выручка магазина по дням. Найти максимальную выручку за любые <strong>3 дня подряд</strong>.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="plaintext" data-theme="mono"><code data-language="plaintext" data-theme="mono" style="display: grid;"><span data-line=""><span>Дни:      1    2    3    4    5    6</span></span>
+<span data-line=""><span>Выручка: [2]  [1]  [5]  [1]  [3]  [2]</span></span></code></pre></figure>
+<p>Простое решение — для каждой тройки дней посчитать сумму заново:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="plaintext" data-theme="mono"><code data-language="plaintext" data-theme="mono" style="display: grid;"><span data-line=""><span>[2  1  5] 1  3  2  → 8</span></span>
+<span data-line=""><span> 2 [1  5  1] 3  2  → 7</span></span>
+<span data-line=""><span> 2  1 [5  1  3] 2  → 9   ← максимум</span></span>
+<span data-line=""><span> 2  1  5 [1  3  2] → 6</span></span></code></pre></figure>
+<p>Каждая сумма — <code>k</code> сложений, троек <code>n − k + 1</code>. Итого <code>O(n·k)</code>. При <code>k = 1000</code> и <code>n = 100 000</code> — сто миллионов операций.</p>
+<p>Заметим: соседние окна отличаются всего <strong>двумя</strong> элементами. Окно <code>[2, 1, 5]</code> превращается в <code>[1, 5, 1]</code>: ушло слева <code>2</code>, пришло справа <code>1</code>. Значит, новую сумму можно получить из старой за <strong>два действия</strong>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="plaintext" data-theme="mono"><code data-language="plaintext" data-theme="mono" style="display: grid;"><span data-line=""><span>Сумма окна [1 5 1] = Сумма окна [2 1 5] − 2 + 1 = 8 − 2 + 1 = 7</span></span></code></pre></figure>
+<p>Это и есть <strong>скользящее окно</strong>: окно «едет» вправо, и мы обновляем его состояние, а не пересчитываем.</p>
+<h2 id="фиксированное-окно-максимальная-сумма-k-элементов">Фиксированное окно: максимальная сумма k элементов</h2>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> МаксСуммаОкна</span><span style="color:var(--shiki-foreground)">(Числа</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> k)</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Если</span><span style="color:var(--shiki-foreground)"> Числа.Количество() </span><span style="color:var(--shiki-token-keyword)">&#x3C;</span><span style="color:var(--shiki-foreground)"> k </span><span style="color:var(--shiki-token-keyword)">Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Возврат</span><span style="color:var(--shiki-token-constant)"> Неопределено</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЕсли;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">	// 1. Сумма первого окна</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	СуммаОкна </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для</span><span style="color:var(--shiki-foreground)"> i </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)"> По</span><span style="color:var(--shiki-foreground)"> k </span><span style="color:var(--shiki-token-keyword)">-</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)"> Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		СуммаОкна </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> СуммаОкна </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-foreground)"> Числа[i]</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Максимум </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> СуммаОкна</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">	// 2. Двигаем окно: справа входит Числа[i], слева уходит Числа[i - k]</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для</span><span style="color:var(--shiki-foreground)"> i </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> k </span><span style="color:var(--shiki-token-keyword)">По</span><span style="color:var(--shiki-foreground)"> Числа.ВГраница() </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		СуммаОкна </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> СуммаОкна </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-foreground)"> Числа[i] </span><span style="color:var(--shiki-token-keyword)">-</span><span style="color:var(--shiki-foreground)"> Числа[i </span><span style="color:var(--shiki-token-keyword)">-</span><span style="color:var(--shiki-foreground)"> k]</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Если</span><span style="color:var(--shiki-foreground)"> СуммаОкна </span><span style="color:var(--shiki-token-keyword)">></span><span style="color:var(--shiki-foreground)"> Максимум </span><span style="color:var(--shiki-token-keyword)">Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			Максимум </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> СуммаОкна</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-foreground)"> Максимум</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure>
+<p>Прогон по <code>[2, 1, 5, 1, 3, 2]</code>, <code>k = 3</code>:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>i</th><th>Входит <code>Числа[i]</code></th><th>Уходит <code>Числа[i−k]</code></th><th>Сумма окна</th><th>Максимум</th></tr></thead><tbody><tr><td>первое окно</td><td>—</td><td>—</td><td>2+1+5 = 8</td><td>8</td></tr><tr><td>3</td><td>1</td><td>2</td><td>8 + 1 − 2 = 7</td><td>8</td></tr><tr><td>4</td><td>3</td><td>1</td><td>7 + 3 − 1 = 9</td><td>9</td></tr><tr><td>5</td><td>2</td><td>5</td><td>9 + 2 − 5 = 6</td><td>9</td></tr></tbody></table></div>
+<p>Время <code>O(n)</code> — каждый элемент один раз входит и один раз уходит. Память <code>O(1)</code>.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">Проверить(</span><span style="color:var(--shiki-token-string-expression)">"Окно 3"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> МаксСуммаОкна(ЧислаИзСтроки(</span><span style="color:var(--shiki-token-string-expression)">"2,1,5,1,3,2"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 3</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 9</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Проверить(</span><span style="color:var(--shiki-token-string-expression)">"Окно на весь массив"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> МаксСуммаОкна(ЧислаИзСтроки(</span><span style="color:var(--shiki-token-string-expression)">"1,2"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 2</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 3</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span></code></pre></figure>
+<h2 id="переменное-окно-самая-длинная-подстрока-без-повторов">Переменное окно: самая длинная подстрока без повторов</h2>
+<p>Это одна из самых популярных задач собеседований.</p>
+<p><strong>Условие.</strong> Найти длину самой длинной подстроки, в которой все символы различны. <code>"abcabcbb"</code> → <code>3</code> (<code>"abc"</code>), <code>"bbbb"</code> → <code>1</code>, <code>"pwwkew"</code> → <code>3</code> (<code>"wke"</code>).</p>
+<p>Здесь длина окна <strong>не задана</strong>. Правило:</p>
+<ul>
+<li><strong>правая</strong> граница всегда идёт вперёд и добавляет символ в окно;</li>
+<li>если новый символ уже есть в окне — окно «плохое», и мы сдвигаем <strong>левую</strong> границу, выбрасывая символы, пока повтор не исчезнет;</li>
+<li>после каждого шага окно «хорошее» — запоминаем его длину, если она рекордная.</li>
+</ul>
+<p>Какие символы сейчас в окне — храним в <strong>множестве</strong> (соответствии) — проверка за <code>O(1)</code> (<a href="/restart/l/06/05/" data-internal="true">05. Соответствие как хеш-таблица</a>).</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="plaintext" data-theme="mono"><code data-language="plaintext" data-theme="mono" style="display: grid;"><span data-line=""><span>Строка: a b c a b c b b</span></span>
+<span data-line=""> </span>
+<span data-line=""><span>[a]                  окно "a"     длина 1</span></span>
+<span data-line=""><span>[a b]                окно "ab"    длина 2</span></span>
+<span data-line=""><span>[a b c]              окно "abc"   длина 3  ← рекорд</span></span>
+<span data-line=""><span> a[b c a]            пришла "a", уже есть → выкинули левую "a" → "bca", длина 3</span></span>
+<span data-line=""><span> a b[c a b]          пришла "b" → выкинули "b" → "cab", длина 3</span></span>
+<span data-line=""><span> a b c[a b c]        пришла "c" → выкинули "c" → "abc", длина 3</span></span>
+<span data-line=""><span> a b c a b[c b]      пришла "b" → выкидываем "a", "b" → "cb", длина 2</span></span>
+<span data-line=""><span> a b c a b c b[b]    пришла "b" → выкидываем "c", "b" → "b", длина 1</span></span>
+<span data-line=""><span>Ответ: 3</span></span></code></pre></figure>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> ДлинаБезПовторов</span><span style="color:var(--shiki-foreground)">(Текст)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ВОкне </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> Соответствие</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">   // символы, которые сейчас в окне</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Левый </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Лучшая </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для</span><span style="color:var(--shiki-foreground)"> Правый </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)"> По</span><span style="color:var(--shiki-token-function)"> СтрДлина</span><span style="color:var(--shiki-foreground)">(Текст) </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Символ </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Сред</span><span style="color:var(--shiki-foreground)">(Текст</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Правый</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">		// Пока новый символ уже в окне — сужаем окно слева</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Пока</span><span style="color:var(--shiki-foreground)"> ВОкне.Получить(Символ) </span><span style="color:var(--shiki-token-keyword)">&#x3C;></span><span style="color:var(--shiki-token-constant)"> Неопределено</span><span style="color:var(--shiki-token-keyword)"> Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			ВОкне.Удалить(</span><span style="color:var(--shiki-token-function)">Сред</span><span style="color:var(--shiki-foreground)">(Текст</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Левый</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-foreground)">))</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			Левый </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Левый </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		КонецЦикла;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		ВОкне.Вставить(Символ</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> Истина</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">   // расширяем окно справа</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Лучшая </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Макс</span><span style="color:var(--shiki-foreground)">(Лучшая</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Правый </span><span style="color:var(--shiki-token-keyword)">-</span><span style="color:var(--shiki-foreground)"> Левый </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-foreground)"> Лучшая</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Код</th><th>Смысл</th></tr></thead><tbody><tr><td><code>ВОкне</code></td><td>Множество символов окна — чтобы за <code>O(1)</code> узнать, есть ли повтор</td></tr><tr><td><code>Для Правый = …</code></td><td>Правая граница проходит по всем символам</td></tr><tr><td><code>Пока ВОкне.Получить(Символ) &#x3C;> Неопределено</code></td><td>Пока повтор есть — выкидываем символ на левой границе</td></tr><tr><td><code>Правый - Левый + 1</code></td><td>Длина окна: границы включительно</td></tr><tr><td><code>Макс(…)</code></td><td>Запоминаем рекорд</td></tr></tbody></table></div>
+<p>Время <code>O(n)</code>, хотя внутри цикла есть цикл: каждый символ <strong>один раз</strong> добавляется правой границей и <strong>не больше одного раза</strong> удаляется левой. Всего не больше <code>2n</code> действий.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">Проверить(</span><span style="color:var(--shiki-token-string-expression)">"abcabcbb"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> ДлинаБезПовторов(</span><span style="color:var(--shiki-token-string-expression)">"abcabcbb"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 3</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Проверить(</span><span style="color:var(--shiki-token-string-expression)">"bbbb"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> ДлинаБезПовторов(</span><span style="color:var(--shiki-token-string-expression)">"bbbb"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Проверить(</span><span style="color:var(--shiki-token-string-expression)">"pwwkew"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> ДлинаБезПовторов(</span><span style="color:var(--shiki-token-string-expression)">"pwwkew"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 3</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Проверить(</span><span style="color:var(--shiki-token-string-expression)">"Пустая"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> ДлинаБезПовторов(</span><span style="color:var(--shiki-token-string-expression)">""</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span></code></pre></figure>
+<div class="callout callout-tip" data-callout="tip">
+<div class="callout-title">Цикл в цикле — не всегда</div>
+<div class="callout-body"><p><code>O(n²)</code>
+В переменном окне внутренний <code>Пока</code> не начинает каждый раз сначала: левая граница только движется вперёд и за всю работу пройдёт строку один раз. Это частый вопрос на собеседовании: «Почему тут <code>O(n)</code>, если циклы вложенные?».</p></div>
+</div>
+<h2 id="шаблон-переменного-окна">Шаблон переменного окна</h2>
+<p>Большинство задач на переменное окно решаются по одному шаблону:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="plaintext" data-theme="mono"><code data-language="plaintext" data-theme="mono" style="display: grid;"><span data-line=""><span>Левый = начало</span></span>
+<span data-line=""><span>Для Правый = начало По конец:</span></span>
+<span data-line=""><span>    добавить элемент Правый в состояние окна</span></span>
+<span data-line=""><span>    Пока окно нарушает условие:</span></span>
+<span data-line=""><span>        убрать элемент Левый из состояния</span></span>
+<span data-line=""><span>        Левый = Левый + 1</span></span>
+<span data-line=""><span>    окно корректно → обновить ответ</span></span></code></pre></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Задача</th><th>Состояние окна</th><th>Условие нарушено, когда</th></tr></thead><tbody><tr><td>Подстрока без повторов</td><td>Множество символов</td><td>Новый символ уже в окне</td></tr><tr><td>Кратчайший подмассив с суммой ≥ S (положительные числа)</td><td>Сумма окна</td><td>— (сужаем, <strong>пока</strong> сумма ≥ S, и запоминаем минимум)</td></tr><tr><td>Самая длинная подстрока, где не больше K разных символов</td><td>Частоты символов</td><td>Разных символов больше K</td></tr></tbody></table></div>
+<h2 id="задача-для-закрепления-кратчайший-подмассив-с-суммой-не-меньше-s">Задача для закрепления: кратчайший подмассив с суммой не меньше S</h2>
+<p><strong>Условие.</strong> Даны положительные числа и число <code>S</code>. Найти длину самого короткого непрерывного подмассива с суммой <code>≥ S</code>. Если такого нет — вернуть 0. <code>[2, 3, 1, 2, 4, 3]</code>, <code>S = 7</code> → <code>2</code> (<code>[4, 3]</code>).</p>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">Подсказка</summary>
+<div class="callout-body"><p>Расширяйте окно вправо, прибавляя элемент к сумме. Как только сумма <code>≥ S</code> — окно подходит: запомните длину и сужайте слева, вычитая элементы, <strong>пока</strong> сумма остаётся <code>≥ S</code> — так найдёте самое короткое подходящее окно с этой правой границей.</p></div>
+</details>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">Решение</summary>
+<div class="callout-body"><figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> КратчайшийПодмассив</span><span style="color:var(--shiki-foreground)">(Числа</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> S)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Левый </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	СуммаОкна </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Лучшая </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">   // 0 — «не найдено»</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для</span><span style="color:var(--shiki-foreground)"> Правый </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)"> По</span><span style="color:var(--shiki-foreground)"> Числа.ВГраница() </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		СуммаОкна </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> СуммаОкна </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-foreground)"> Числа[Правый]</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Пока</span><span style="color:var(--shiki-foreground)"> СуммаОкна </span><span style="color:var(--shiki-token-keyword)">>=</span><span style="color:var(--shiki-foreground)"> S </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			Длина </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Правый </span><span style="color:var(--shiki-token-keyword)">-</span><span style="color:var(--shiki-foreground)"> Левый </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">			Если</span><span style="color:var(--shiki-foreground)"> Лучшая </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)"> Или</span><span style="color:var(--shiki-foreground)"> Длина </span><span style="color:var(--shiki-token-keyword)">&#x3C;</span><span style="color:var(--shiki-foreground)"> Лучшая </span><span style="color:var(--shiki-token-keyword)">Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">				Лучшая </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Длина</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">			КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			СуммаОкна </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> СуммаОкна </span><span style="color:var(--shiki-token-keyword)">-</span><span style="color:var(--shiki-foreground)"> Числа[Левый]</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			Левый </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Левый </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-foreground)"> Лучшая</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure><p>Время <code>O(n)</code>. Работает только для <strong>положительных</strong> чисел: с отрицательными сужение окна может увеличить сумму, и правило ломается.</p></div>
+</details>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Как получить сумму следующего окна длины <code>k</code> из суммы текущего?</p>
+</li>
+<li>
+<p>Почему решение «подстрока без повторов» работает за <code>O(n)</code>, хотя содержит цикл внутри цикла?</p>
+</li>
+<li>
+<p>Где хранить символы текущего окна, чтобы быстро проверять повторы?</p>
+</li>
+<li>
+<p>Почему приём «сужать, пока сумма ≥ S» не работает для отрицательных чисел?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Прибавить вошедший справа элемент и вычесть ушедший слева: <code>Сумма + Числа[i] − Числа[i − k]</code>.</li>
+<li>Левая граница только движется вперёд: каждый символ добавляется один раз и удаляется не больше одного раза — всего до <code>2n</code> операций.</li>
+<li>В соответствии-множестве (символ → Истина).</li>
+<li>Удаление отрицательного элемента слева <strong>увеличивает</strong> сумму — сужение больше не означает уменьшение суммы, и логика «сужаем, пока подходит» перестаёт быть верной.</li>
+</ol></div>
+</details></div>
+</details>1a:[["$","$L25",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L26",null,{"tree":{"kind":"folder","id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/","children":[{"kind":"lesson","id":"kmxf89","num":"00","title":"Навигация по разделу","href":"/l/06/00/","children":"$undefined"},{"kind":"lesson","id":"59cugg","num":"01","title":"Что такое алгоритм и как решать задачи","href":"/l/06/01/","children":"$undefined"},{"kind":"lesson","id":"lds9qn","num":"02","title":"Сложность алгоритмов","href":"/l/06/02/","children":"$undefined"},{"kind":"lesson","id":"1pjoju1","num":"03","title":"Массивы — базовые приёмы","href":"/l/06/03/","children":"$undefined"},{"kind":"lesson","id":"3cctbr","num":"04","title":"Строки и символы","href":"/l/06/04/","children":"$undefined"},{"kind":"lesson","id":"1ydqhou","num":"05","title":"Соответствие как хеш-таблица","href":"/l/06/05/","children":"$undefined"},{"kind":"lesson","id":"t6dz7i","num":"06","title":"Два указателя","href":"/l/06/06/","children":"$undefined"},{"kind":"lesson","id":"nbwllp","num":"07","title":"Скользящее окно","href":"/l/06/07/","children":"$undefined"},{"kind":"lesson","id":"fr1gf6","num":"08","title":"Префиксные суммы","href":"/l/06/08/","children":"$undefined"},{"kind":"lesson","id":"3irwp2","num":"09","title":"Сортировки","href":"/l/06/09/","children":"$undefined"},{"kind":"lesson","id":"12gwpp6","num":"10","title":"Бинарный поиск","href":"/l/06/10/","children":"$undefined"},{"kind":"lesson","id":"1u9yaso","num":"11","title":"Стек и очередь","href":"/l/06/11/","children":"$undefined"},{"kind":"lesson","id":"dz6s3r","num":"12","title":"Рекурсия","href":"/l/06/12/","children":"$undefined"},{"kind":"lesson","id":"2qxixv","num":"13","title":"Обход в глубину и ширину","href":"/l/06/13/","children":"$undefined"},{"kind":"lesson","id":"ufdpje","num":"14","title":"Динамическое программирование","href":"/l/06/14/","children":"$undefined"},{"kind":"lesson","id":"iokjmp","num":"15","title":"Жадные алгоритмы и интервалы","href":"/l/06/15/","children":"$undefined"},{"kind":"lesson","id":"1jbpe","num":"16","title":"Практика — задачи с собеседований","href":"/l/06/16/","children":"$undefined"},{"kind":"lesson","id":"1h9efqa","num":"17","title":"Памятка — шаблоны и ошибки","href":"/l/06/17/","children":"$undefined"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"nbwllp"}]}],["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L27",null,{"children":"$1a:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","18v7yvg",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/06/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"06"}],"Алгоритмы для 1С"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","07"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[8," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Скользящее окно"}],["$","div",null,{"className":"mt-7","children":["$","$L28",null,{"id":"nbwllp","href":"/l/06/07/","title":"Скользящее окно"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$29"}}],"$L2a","$L2b","$L2c","$L2d","$L2e"]}]]}],"$L2f"]}]]
+30:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+31:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+32:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+33:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+34:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+2a:["$","$L30",null,{"targetId":"lesson-body"}]
+2b:["$","$L31",null,{"targetId":"lesson-body"}]
+2c:["$","$L32",null,{"targetId":"lesson-body"}]
+2d:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L28",null,{"id":"nbwllp","href":"/l/06/07/","title":"Скользящее окно","variant":"footer"}]}]
+2e:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/06/06/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L33",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Два указателя"}]]}],["$","$L13",null,{"href":"/l/06/08/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L33",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Префиксные суммы"}]]}]]}]
+2f:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L34",null,{"items":[{"id":"идея-на-примере","text":"Идея на примере","depth":2},{"id":"фиксированное-окно-максимальная-сумма-k-элементов","text":"Фиксированное окно: максимальная сумма k элементов","depth":2},{"id":"переменное-окно-самая-длинная-подстрока-без-повторов","text":"Переменное окно: самая длинная подстрока без повторов","depth":2},{"id":"шаблон-переменного-окна","text":"Шаблон переменного окна","depth":2},{"id":"задача-для-закрепления-кратчайший-подмассив-с-суммой-не-меньше-s","text":"Задача для закрепления: кратчайший подмассив с суммой не меньше S","depth":2}]}]}]
+35:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+1d:null
+23:[["$","title","0",{"children":"Скользящее окно · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L35","3",{}]]

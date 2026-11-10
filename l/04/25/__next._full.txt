@@ -1,0 +1,198 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1b:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:"ViewportBoundary"
+1f:I[97367,["$2","$3","$4","$5","$6","$7"],"$1e"]
+21:"MetadataBoundary"
+22:I[97367,["$2","$3","$4","$5","$6","$7"],"$21"]
+24:I[68027,["$2","$3","$4","$5","$6","$7"],"default",1]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+:HL["/restart/_next/static/media/051742360c26797e-s.p.1bkzbscqrt8rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/26f284dcc38c84c0-s.p.3hlisc-pwq13z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/42b035f1a63f268d-s.p.2m8t2-vl1h1kf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/b4a06a523f527a0e-s.p.3psl0_mnhzy2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/cfdfbee4d6cf0a93-s.p.1jwcpm6w583_v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/e8768c288fbd3aa6-s.p.1t1z0xjflawjj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+17:X
+19:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L1a",[["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true,"nonce":"$undefined"}]],["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]]}],"p":false,"v":null}}]]
+18:[["children",{"s":{"n":"slug","t":"c","k":"04/25","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q19"}]]
+16:[["children",{"s":"l","h":131584,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q18"}]]
+0:{"P":null,"c":["","l","04","25",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true,"nonce":"$undefined"}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":false,"v":null},"c":"$Q16"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$L20"}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":"$L23"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$24",[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+17:C
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]
+25:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+1d:null
+23:[["$","title","0",{"children":"Отладка управляемой формы · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L25","3",{}]]
+26:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+27:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+1a:[["$","$L26",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L27",null,{"tree":{"kind":"folder","id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/","children":[{"kind":"lesson","id":"g6edv1","num":"00","title":"Навигация по разделу","href":"/l/04/00/","children":"$undefined"},{"kind":"lesson","id":"1xnmznj","num":"01","title":"Управляемая форма и её данные","href":"/l/04/01/","children":"$undefined"},{"kind":"lesson","id":"mhgb45","num":"02","title":"Создание формы документа","href":"/l/04/02/","children":"$undefined"},{"kind":"lesson","id":"a7qf8u","num":"03","title":"Реквизиты формы и ПутьКДанным","href":"/l/04/03/","children":"$undefined"},{"kind":"lesson","id":"2o6zyr","num":"04","title":"Группы и страницы","href":"/l/04/04/","children":"$undefined"},{"kind":"lesson","id":"svgi2d","num":"05","title":"Модуль формы и клиент-сервер","href":"/l/04/05/","children":"$undefined"},{"kind":"lesson","id":"oby9em","num":"06","title":"Команды формы и кнопки","href":"/l/04/06/","children":"$undefined"},{"kind":"lesson","id":"7le7s3","num":"07","title":"Создание, открытие и закрытие формы","href":"/l/04/07/","children":"$undefined"},{"kind":"lesson","id":"1k0fki6","num":"08","title":"Изменение полей и обработчики событий","href":"/l/04/08/","children":"$undefined"},{"kind":"lesson","id":"nd996n","num":"09","title":"Таблица формы и текущая строка","href":"/l/04/09/","children":"$undefined"},{"kind":"lesson","id":"11wtbct","num":"10","title":"Пересчёт строк и итога товаров","href":"/l/04/10/","children":"$undefined"},{"kind":"lesson","id":"i96h1o","num":"11","title":"Видимость, доступность и ТолькоПросмотр","href":"/l/04/11/","children":"$undefined"},{"kind":"lesson","id":"8hedv0","num":"12","title":"Проверка заполнения и сообщения","href":"/l/04/12/","children":"$undefined"},{"kind":"lesson","id":"co25zd","num":"13","title":"Запись из формы и события записи","href":"/l/04/13/","children":"$undefined"},{"kind":"lesson","id":"nnmm5o","num":"14","title":"Данные формы и прикладной объект","href":"/l/04/14/","children":"$undefined"},{"kind":"lesson","id":"emmzl6","num":"15","title":"Открытие форм и параметры","href":"/l/04/15/","children":"$undefined"},{"kind":"lesson","id":"xzv03w","num":"16","title":"Общая форма для подбора товара","href":"/l/04/16/","children":"$undefined"},{"kind":"lesson","id":"1k0ilgs","num":"17","title":"Выбор и возврат результата","href":"/l/04/17/","children":"$undefined"},{"kind":"lesson","id":"myamgl","num":"18","title":"Ограничение выбора значений","href":"/l/04/18/","children":"$undefined"},{"kind":"lesson","id":"j1pkry","num":"19","title":"Форма списка и динамический список","href":"/l/04/19/","children":"$undefined"},{"kind":"lesson","id":"1x5teva","num":"20","title":"Программный отбор списка","href":"/l/04/20/","children":"$undefined"},{"kind":"lesson","id":"1cqww30","num":"21","title":"Условное оформление","href":"/l/04/21/","children":"$undefined"},{"kind":"lesson","id":"1xnnjfs","num":"22","title":"Асинхронные вопросы пользователю","href":"/l/04/22/","children":"$undefined"},{"kind":"lesson","id":"8aaryv","num":"23","title":"Программное создание элементов формы","href":"/l/04/23/","children":"$undefined"},{"kind":"lesson","id":"ey1csk","num":"24","title":"Загрузка таблицы формы на сервере","href":"/l/04/24/","children":"$undefined"},{"kind":"lesson","id":"1bgryr1","num":"25","title":"Отладка управляемой формы","href":"/l/04/25/","children":"$undefined"},{"kind":"lesson","id":"1hg970j","num":"26","title":"Практика по форме документа","href":"/l/04/26/","children":"$undefined"},{"kind":"lesson","id":"1xgw5tl","num":"27","title":"Практика по взаимодействию форм","href":"/l/04/27/","children":"$undefined"},{"kind":"lesson","id":"3yhy1m","num":"28","title":"Ошибки и памятка для повторения","href":"/l/04/28/","children":"$undefined"},{"kind":"lesson","id":"lrcdc9","num":"29","title":"Учебная обработка и проверка примеров","href":"/l/04/29/","children":"$undefined"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"1bgryr1"}]}],["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":["$L28","$L29"]}],"$L2a"]}]]
+2b:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+2c:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+33:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+28:["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L2b",null,{"children":"$1a:1:props:children:0:props:children"}]}]
+2d:T2f8c,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p>Алгоритм поиска ошибки в форме: <strong>вызывается ли событие</strong> → <strong>какие данные пришли</strong> → <strong>в каком контексте</strong> выполняется код → <strong>после какой строки</strong> результат стал неверным. Инструменты: точка останова <code>F9</code>, шаги <code>F10</code>/<code>F11</code>, «Вычислить выражение» и Табло, Стек вызовов. Остановка происходит <strong>перед</strong> выполнением отмеченной строки.</p></div>
+</div>
+<h2 id="что-такое-отладка">Что такое отладка</h2>
+<p><strong>Отладка</strong> — поиск причины, почему программа работает не так, как задумано. Главный инструмент — <strong>отладчик</strong>: он умеет остановить программу на нужной строке и показать значения всех переменных в этот момент.</p>
+<p>Аналогия — <strong>видео в замедленном воспроизведении</strong> с паузой: можно остановить кадр, рассмотреть детали и прокрутить на шаг вперёд.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Инструмент</th><th>Клавиша</th><th>Что делает</th></tr></thead><tbody><tr><td>Точка останова</td><td><code>F9</code></td><td>«Остановись на этой строке»</td></tr><tr><td>Шаг с обходом</td><td><code>F10</code></td><td>Выполнить строку целиком, не заходя внутрь вызываемых процедур</td></tr><tr><td>Шаг с заходом</td><td><code>F11</code></td><td>Зайти внутрь вызываемой процедуры</td></tr><tr><td>Продолжить</td><td><code>F5</code></td><td>Выполнять до следующей точки останова</td></tr><tr><td>Вычислить выражение</td><td><code>Shift+F9</code></td><td>Посмотреть значение любого выражения</td></tr><tr><td>Табло</td><td>—</td><td>Постоянно следить за несколькими значениями</td></tr></tbody></table></div>
+<p>Общий принцип отладки описан в <a href="/restart/l/02/29/" data-internal="true">29. Отладка и проверка кода</a>. Здесь — особенности управляемой формы, где код выполняется и на клиенте, и на сервере.</p>
+<p>Сценарий: изменили количество, а сумма не обновилась. Используем расчёт из <a href="/restart/l/04/10/" data-internal="true">10. Пересчёт строк и итога товаров</a>.</p>
+<h2 id="подготовка">Подготовка</h2>
+<ol>
+<li>Проверка модуля, <code>Ctrl+S</code>, <code>F7</code>.</li>
+<li>Запуск Предприятия из Конфигуратора клавишей <code>F5</code> (режим отладки).</li>
+<li>Новая накладная: строка 2 × 150, ожидаем 300.</li>
+</ol>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/04.%20%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D1%8B%D0%B5%20%D1%84%D0%BE%D1%80%D0%BC%D1%8B/%D0%A3%D0%A4-21-%D0%9C%D0%B5%D0%BD%D1%8E-%D0%BE%D1%82%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8.png" alt="УФ-21-Меню-отладки.png" loading="lazy" decoding="async"></p>
+<p><em>Меню «Отладка»: точки останова, шаги, вычисление выражения, табло, локальные переменные, подключение предметов отладки.</em></p>
+<p>Клиентский код выполняется в клиентском приложении, серверный — на сервере: оба должны быть подключены к отладчику (<strong>Отладка → Подключение</strong>).</p>
+<h2 id="точка-останова">Точка останова</h2>
+<p>В <code>ТоварыКоличествоПриИзменении</code> ставим <code>F9</code> на строку:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">ПересчитатьСтрокуТоваров(Элементы.Товары.ТекущиеДанные)</span><span style="color:var(--shiki-token-keyword)">;</span></span></code></pre></figure>
+<p>В Предприятии меняем количество 2 → 4 и жмём <code>Tab</code>. Управление переходит в Конфигуратор.</p>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Важно</div>
+<div class="callout-body"><p>Строка ещё <strong>не выполнена</strong>: количество уже 4, а сумма пока 300 — это ожидаемо. Нет остановки — проверяем связь <code>ПриИзменении</code>, обновление БД, завершение ввода, подключение клиента.</p></div>
+</div>
+<h2 id="смотрим-значения">Смотрим значения</h2>
+<p><strong>Вычислить выражение</strong> (<code>Shift+F9</code>) или <strong>Табло</strong>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">Элементы.Товары.ТекущиеДанные</span></span>
+<span data-line=""><span style="color:var(--shiki-token-function)">ТипЗнч</span><span style="color:var(--shiki-foreground)">(Элементы.Товары.ТекущиеДанные)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Элементы.Товары.ТекущиеДанные.Количество</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Элементы.Товары.ТекущиеДанные.Цена</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Объект.Товары.Количество()</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">ИтогТоваров</span></span></code></pre></figure>
+<p>Сначала — есть ли строка (не <code>Неопределено</code>). <code>ТипЗнч</code> показывает, что это элемент <strong>данных формы</strong>, а не элемент интерфейса и не объект документа.</p>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Выражение выполняется по-настоящему</div>
+<div class="callout-body"><p>Не вызываем в табло <code>Записать()</code>, <code>Удалить()</code> и другие изменяющие методы.</p></div>
+</div>
+<h2 id="шаги">Шаги</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Действие</th><th>Клавиша</th></tr></thead><tbody><tr><td>Строка без захода в метод</td><td><code>F10</code></td></tr><tr><td>Зайти в вызываемый метод</td><td><code>F11</code></td></tr><tr><td>Продолжить</td><td><code>F5</code></td></tr><tr><td>Точка останова</td><td><code>F9</code></td></tr></tbody></table></div>
+<p><code>F11</code> на вызове → внутри <code>ПересчитатьСтрокуТоваров</code> смотрим параметр <code>СтрокаТовара</code> → <code>F10</code> по строкам → после присваивания сумма 600 → возвращаемся и считаем итог. <strong>Стек вызовов</strong> показывает, что метод вызван из события количества, а не из команды пересчёта.</p>
+<h2 id="отсутствие-текущей-строки">Отсутствие текущей строки</h2>
+<p>Пустая накладная + точка в начале команды <code>ПоказатьИтогТоваров</code> → <code>Элементы.Товары.ТекущиеДанные</code> = <code>Неопределено</code>. Команда итога работает со всей коллекцией (получит 0), а расчёт одной строки обязан проверять <code>Неопределено</code>. После удаления строки платформа может сделать текущей соседнюю — пустая таблица надёжнее для проверки.</p>
+<h2 id="клиент-и-сервер-в-одном-сценарии">Клиент и сервер в одном сценарии</h2>
+<p>Форма <code>ТоварыУчебные</code> (тема 24): точки в клиентской <code>ОбновитьТовары</code> и серверной <code>ЗагрузитьТоварыНаСервере</code>. Сначала остановится клиент, после <code>F5</code> — сервер. В серверной процедуре останавливаемся на строке <code>ЗначениеВРеквизитФормы(ТаблицаТоваров, "Результаты")</code>: предыдущая строка уже создала <code>ТаблицаТоваров</code>, поэтому <code>ТипЗнч(ТаблицаТоваров)</code> = <code>ТаблицаЗначений</code>. Сам реквизит <code>Результаты</code> содержит данные формы. Не срабатывает серверная точка — подключаем серверный предмет отладки; в клиент-серверной базе нужна разрешённая отладка на сервере (<a href="https://v8.1c.ru/platforma/otladchik/" target="_blank" rel="noopener noreferrer">страница отладчика 1С</a>).</p>
+<h2 id="завершение">Завершение</h2>
+<p><code>F5</code>, снимаем точки (<code>F9</code> или список точек останова), удаляем временные <code>Сообщить()</code>. Итог отладки — <strong>объяснение причины</strong>, а не «само заработало».</p>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Остановились на строке расчёта, сумма старая. Это ошибка?</p>
+</li>
+<li>
+<p>Как зайти внутрь вызываемой процедуры?</p>
+</li>
+<li>
+<p>Серверная точка не срабатывает, клиентская — да. Что проверить?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Нет, строка ещё не выполнена.</li>
+<li><code>F11</code>.</li>
+<li>Подключение серверного предмета отладки и настройки отладки на сервере.</li>
+</ol></div>
+</details></div>
+</details>29:["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","wfg5ts",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/04/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"04"}],"Программирование управляемых форм"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","25"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[4," ","минуты"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Отладка управляемой формы"}],["$","div",null,{"className":"mt-7","children":["$","$L2c",null,{"id":"1bgryr1","href":"/l/04/25/","title":"Отладка управляемой формы"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$2d"}}],"$L2e","$L2f","$L30","$L31","$L32"]}]
+2a:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L33",null,{"items":[{"id":"что-такое-отладка","text":"Что такое отладка","depth":2},{"id":"подготовка","text":"Подготовка","depth":2},{"id":"точка-останова","text":"Точка останова","depth":2},{"id":"смотрим-значения","text":"Смотрим значения","depth":2},{"id":"шаги","text":"Шаги","depth":2},{"id":"отсутствие-текущей-строки","text":"Отсутствие текущей строки","depth":2},{"id":"клиент-и-сервер-в-одном-сценарии","text":"Клиент и сервер в одном сценарии","depth":2},{"id":"завершение","text":"Завершение","depth":2}]}]}]
+34:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+35:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+36:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+37:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+2e:["$","$L34",null,{"targetId":"lesson-body"}]
+2f:["$","$L35",null,{"targetId":"lesson-body"}]
+30:["$","$L36",null,{"targetId":"lesson-body"}]
+31:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L2c",null,{"id":"1bgryr1","href":"/l/04/25/","title":"Отладка управляемой формы","variant":"footer"}]}]
+32:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/04/24/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L37",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Загрузка таблицы формы на сервере"}]]}],["$","$L13",null,{"href":"/l/04/26/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L37",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Практика по форме документа"}]]}]]}]

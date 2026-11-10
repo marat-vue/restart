@@ -1,0 +1,301 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1e:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+1f:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+25:"ViewportBoundary"
+26:I[97367,["$2","$3","$4","$5","$6","$7"],"$25"]
+27:"MetadataBoundary"
+28:I[97367,["$2","$3","$4","$5","$6","$7"],"$27"]
+29:"$Sreact.suspense"
+2a:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+17:X
+1a:X
+1a:C
+1d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L1e",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L1f",null,{"tree":{"kind":"folder","id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/","children":[{"kind":"lesson","id":"g6edv1","num":"00","title":"Навигация по разделу","href":"/l/04/00/"},{"kind":"lesson","id":"1xnmznj","num":"01","title":"Управляемая форма и её данные","href":"/l/04/01/"},{"kind":"lesson","id":"mhgb45","num":"02","title":"Создание формы документа","href":"/l/04/02/"},{"kind":"lesson","id":"a7qf8u","num":"03","title":"Реквизиты формы и ПутьКДанным","href":"/l/04/03/"},{"kind":"lesson","id":"2o6zyr","num":"04","title":"Группы и страницы","href":"/l/04/04/"},{"kind":"lesson","id":"svgi2d","num":"05","title":"Модуль формы и клиент-сервер","href":"/l/04/05/"},{"kind":"lesson","id":"oby9em","num":"06","title":"Команды формы и кнопки","href":"/l/04/06/"},{"kind":"lesson","id":"7le7s3","num":"07","title":"Создание, открытие и закрытие формы","href":"/l/04/07/"},{"kind":"lesson","id":"1k0fki6","num":"08","title":"Изменение полей и обработчики событий","href":"/l/04/08/"},{"kind":"lesson","id":"nd996n","num":"09","title":"Таблица формы и текущая строка","href":"/l/04/09/"},{"kind":"lesson","id":"11wtbct","num":"10","title":"Пересчёт строк и итога товаров","href":"/l/04/10/"},{"kind":"lesson","id":"i96h1o","num":"11","title":"Видимость, доступность и ТолькоПросмотр","href":"/l/04/11/"},{"kind":"lesson","id":"8hedv0","num":"12","title":"Проверка заполнения и сообщения","href":"/l/04/12/"},{"kind":"lesson","id":"co25zd","num":"13","title":"Запись из формы и события записи","href":"/l/04/13/"},{"kind":"lesson","id":"nnmm5o","num":"14","title":"Данные формы и прикладной объект","href":"/l/04/14/"},{"kind":"lesson","id":"emmzl6","num":"15","title":"Открытие форм и параметры","href":"/l/04/15/"},{"kind":"lesson","id":"xzv03w","num":"16","title":"Общая форма для подбора товара","href":"/l/04/16/"},{"kind":"lesson","id":"1k0ilgs","num":"17","title":"Выбор и возврат результата","href":"/l/04/17/"},{"kind":"lesson","id":"myamgl","num":"18","title":"Ограничение выбора значений","href":"/l/04/18/"},{"kind":"lesson","id":"j1pkry","num":"19","title":"Форма списка и динамический список","href":"/l/04/19/"},{"kind":"lesson","id":"1x5teva","num":"20","title":"Программный отбор списка","href":"/l/04/20/"},{"kind":"lesson","id":"1cqww30","num":"21","title":"Условное оформление","href":"/l/04/21/"},{"kind":"lesson","id":"1xnnjfs","num":"22","title":"Асинхронные вопросы пользователю","href":"/l/04/22/"},{"kind":"lesson","id":"8aaryv","num":"23","title":"Программное создание элементов формы","href":"/l/04/23/"},{"kind":"lesson","id":"ey1csk","num":"24","title":"Загрузка таблицы формы на сервере","href":"/l/04/24/"},{"kind":"lesson","id":"1bgryr1","num":"25","title":"Отладка управляемой формы","href":"/l/04/25/"},{"kind":"lesson","id":"1hg970j","num":"26","title":"Практика по форме документа","href":"/l/04/26/"},{"kind":"lesson","id":"1xgw5tl","num":"27","title":"Практика по взаимодействию форм","href":"/l/04/27/"},{"kind":"lesson","id":"3yhy1m","num":"28","title":"Ошибки и памятка для повторения","href":"/l/04/28/"},{"kind":"lesson","id":"lrcdc9","num":"29","title":"Учебная обработка и проверка примеров","href":"/l/04/29/"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"3yhy1m"}]}],"$L20","$L21"]}]],["$L22"],"$L23"]}],"p":"$@24","v":null,"s":"$17"}}]]
+1b:[["children",{"s":{"n":"slug","t":"c","k":"04/28","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@1c","v":"$1a","s":"$17"},"c":"$Q1d"}]]
+18:[["children",{"s":"l","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@19","v":"$1a","s":"$17"},"c":"$Q1b"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]]}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":"$@16","v":null,"s":"$17"},"c":"$Q18"},"h":{"r":["$","$1","h",{"children":[null,["$","$L26",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]}],["$","$L28",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$29",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Ошибки и памятка для повторения · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L2a","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@2b","v":null,"s":"$17"}},"a":"$@2c","u":"$@2d","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+2e:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+2f:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+36:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+37:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+30:T2ea9,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p>Большинство ошибок в управляемых формах объясняют три вопроса: <strong>что лежит в переменной</strong> (данные, элемент или объект), <strong>где выполняется код</strong> (клиент или сервер) и <strong>какое событие его запускает</strong>. Ниже — таблица симптомов, шпаргалка по объектам и вопросы для самопроверки.</p></div>
+</div>
+<h2 id="симптом--причина--что-проверить">Симптом → причина → что проверить</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Симптом</th><th>Возможная причина</th><th>Что проверить</th></tr></thead><tbody><tr><td>Процедура есть, но не вызывается</td><td>Не назначена событию</td><td>Свойства формы/элемента → События</td></tr><tr><td>Кнопка ничего не делает</td><td>У команды пустое «Действие»</td><td>Кнопка → команда → процедура</td></tr><tr><td>Поле пустое после присваивания</td><td>Неверный путь к данным</td><td><code>ИтогТоваров</code> или <code>Объект.Реквизит</code></td></tr><tr><td>«Поле объекта не обнаружено»</td><td>Перепутаны данные, элемент, имя</td><td><code>Объект.Товары</code> / <code>Элементы.Товары</code> / имя реквизита</td></tr><tr><td>Ошибка при обращении к текущей строке</td><td>Строка не выбрана</td><td><code>ТекущиеДанные = Неопределено</code></td></tr><tr><td><code>ТекущиеДанные</code> на сервере</td><td>Интерактивное состояние клиента</td><td>Получить на клиенте, передать значения</td></tr><tr><td>Запрос/ТаблицаЗначений «недоступны»</td><td>Клиентский контекст</td><td>Серверный метод, реквизит формы</td></tr><tr><td>Нет <code>Объект</code> в функции</td><td><code>&#x26;НаСервереБезКонтекста</code></td><td>Передать ссылку параметром</td></tr><tr><td>Сумма строки новая, итог старый</td><td>Итог не пересчитан</td><td>Порядок «строка → итог»</td></tr><tr><td>Присваивание не вызвало <code>ПриИзменении</code></td><td>Ожидали интерактивное событие</td><td>Вызвать расчёт явно</td></tr><tr><td>Записан документ с ошибкой</td><td>Проверка только в форме</td><td>Модуль объекта, запись без формы</td></tr><tr><td>Итог уменьшился после услуг</td><td>В общий итог записали товары</td><td>Раздельные <code>ИтогТоваров</code> и <code>ИтоговаяСумма</code></td></tr><tr><td>Изменения объекта не видны в форме</td><td>Нет обратного преобразования</td><td><code>ЗначениеВРеквизитФормы(…, "Объект")</code></td></tr><tr><td>Выбор добавляет пустую строку</td><td>Не обработана отмена</td><td>Проверка на <code>Неопределено</code></td></tr><tr><td>Оповещение не вызывает продолжение</td><td>Имя, модуль, <code>Экспорт</code></td><td><code>ОписаниеОповещения</code>, сигнатура</td></tr><tr><td>После второго выбора список пуст</td><td>Накопились отборы</td><td>Менять свой элемент, а не добавлять новый</td></tr><tr><td>Пропали пользовательские условия</td><td>Вызван <code>Очистить()</code></td><td>Менять только свой отбор</td></tr><tr><td>Не найден метод <code>ОбщегоНазначения…</code></td><td>Это БСП, а не платформа</td><td>Наличие БСП или платформенный вариант</td></tr><tr><td>«Переменная не определена» у динамического реквизита</td><td>Его нет на этапе проверки</td><td><code>ЭтотОбъект.ИмяРеквизита</code></td></tr><tr><td>Старое окно — старый интерфейс</td><td>Открыт прежний экземпляр</td><td>Закрыть и открыть после <code>F7</code></td></tr></tbody></table></div>
+<h2 id="три-вида-объектов-в-форме">Три вида «объектов» в форме</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Запись</th><th>Что это</th><th>Что делаем</th></tr></thead><tbody><tr><td><code>Объект.Покупатель</code></td><td>Данные основного реквизита</td><td>Читаем, меняем значения</td></tr><tr><td><code>Элементы.Покупатель</code></td><td>Поле интерфейса</td><td>Видимость, доступность, оформление</td></tr><tr><td><code>Объект.Товары</code></td><td>Коллекция строк</td><td>Обходим, добавляем, удаляем строки</td></tr><tr><td><code>Элементы.Товары</code></td><td>Таблица интерфейса</td><td>Текущие данные (на клиенте)</td></tr><tr><td><code>ДокументОбъект</code> после <code>РеквизитФормыВЗначение</code></td><td>Прикладной объект на сервере</td><td>Методы модуля объекта</td></tr><tr><td><code>Список</code></td><td>Динамический список</td><td>Настройки и отборы, не перебор</td></tr></tbody></table></div>
+<p><code>Объект</code> формы документа — <code>ДанныеФормыСтруктура</code>, его таблица — <code>ДанныеФормыКоллекция</code> (и на клиенте, и на сервере). См. <a href="https://kb.1ci.com/1C_Enterprise_Platform/FAQ/Development/Controls/Attributes_and_items_of_the_form__referring_to_them_from_the_module_of_the_form/?language=en" target="_blank" rel="noopener noreferrer">ответ 1С о реквизитах и элементах</a>.</p>
+<h2 id="шпаргалка-по-темам">Шпаргалка по темам</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Тема</th><th>Главное правило</th></tr></thead><tbody><tr><td>Клиент/сервер</td><td>Интерфейс — <code>&#x26;НаКлиенте</code>, база — сервер; предпочитаем <code>&#x26;НаСервереБезКонтекста</code>; один вызов на набор данных</td></tr><tr><td>Запись</td><td>Форма — удобство, модуль объекта — гарантия; <code>ТекущийОбъект</code> в серверных событиях записи; не пишем <code>Записать()</code> внутри <code>ПередЗаписью</code></td></tr><tr><td>Открытие</td><td>Существующий — <code>Ключ</code>, новый — <code>ЗначенияЗаполнения</code>, свой параметр — читаем в <code>ПриСозданииНаСервере</code></td></tr><tr><td>Выбор</td><td><code>Закрыть(Значение)</code> + <code>ОписаниеОповещения</code> или <code>ОповеститьОВыборе</code> + <code>ОбработкаВыбора</code></td></tr><tr><td>Списки</td><td>Динамический список читает порциями; отбор — свой элемент, без <code>Очистить()</code></td></tr><tr><td>Вопросы</td><td><code>Ждать ВопросАсинх(...)</code> или <code>ПоказатьВопрос</code> + продолжение; только на клиенте</td></tr></tbody></table></div>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Вопросы для самопроверки</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Почему <code>Элементы.Покупатель</code> нельзя использовать вместо <code>Объект.Покупатель</code> в проверке заполнения?</p>
+</li>
+<li>
+<p>Почему одного имени <code>ПриОткрытии</code> у процедуры недостаточно?</p>
+</li>
+<li>
+<p>Что вернёт <code>ТекущиеДанные</code> в пустой таблице?</p>
+</li>
+<li>
+<p>Почему <code>Итог("Сумма")</code> не исправляет неверные суммы строк?</p>
+</li>
+<li>
+<p>Где проверять количество, если документ записывает обмен?</p>
+</li>
+<li>
+<p>Почему нельзя добавить строку сразу после <code>ОткрытьФорму()</code>?</p>
+</li>
+<li>
+<p>Как снять свой отбор, сохранив остальные?</p>
+</li>
+<li>
+<p>Чем загруженная таблица результатов отличается от динамического списка?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Элемент — интерфейс, значение хранит реквизит.</li>
+<li>Событие назначается в свойствах формы.</li>
+<li><code>Неопределено</code>.</li>
+<li>Метод складывает уже записанные числа.</li>
+<li>В модуле объекта.</li>
+<li>Выбор ещё не сделан — <code>ОткрытьФорму</code> не ждёт.</li>
+<li><code>Использование = Ложь</code> у своего элемента отбора.</li>
+<li>Таблица хранит загруженный набор; список получает данные порциями и сам применяет отборы.</li>
+</ol></div>
+</details></div>
+</details>
+<h2 id="перед-сдачей-задачи">Перед сдачей задачи</h2>
+<p>Проходим: успешный ввод, отмену, пустые значения, повторное открытие, программное изменение данных. Если затронута запись — серверные правила и повторное чтение. Если список — совместное действие отборов. Разбор ошибки — <a href="/restart/l/04/25/" data-internal="true">25. Отладка управляемой формы</a>, быстрый эксперимент — <a href="/restart/l/04/29/" data-internal="true">29. Учебная обработка и проверка примеров</a>.</p>20:["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L2e",null,{"children":"$1d:0:1:d:r:props:children:0:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","wfg5ts",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/04/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"04"}],"Программирование управляемых форм"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","28"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[5," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Ошибки и памятка для повторения"}],["$","div",null,{"className":"mt-7","children":["$","$L2f",null,{"id":"3yhy1m","href":"/l/04/28/","title":"Ошибки и памятка для повторения"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$30"}}],"$L31","$L32","$L33","$L34","$L35"]}]]}]
+21:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L36",null,{"items":[{"id":"симптом--причина--что-проверить","text":"Симптом → причина → что проверить","depth":2},{"id":"три-вида-объектов-в-форме","text":"Три вида «объектов» в форме","depth":2},{"id":"шпаргалка-по-темам","text":"Шпаргалка по темам","depth":2},{"id":"перед-сдачей-задачи","text":"Перед сдачей задачи","depth":2}]}]}]
+22:["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true}]
+23:["$","$L37",null,{"children":["$","$29",null,{"name":"Next.MetadataOutlet","children":"$@38"}]}]
+39:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+3a:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+3b:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+3c:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+17:300
+31:["$","$L39",null,{"targetId":"lesson-body"}]
+32:["$","$L3a",null,{"targetId":"lesson-body"}]
+33:["$","$L3b",null,{"targetId":"lesson-body"}]
+34:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L2f",null,{"id":"3yhy1m","href":"/l/04/28/","title":"Ошибки и памятка для повторения","variant":"footer"}]}]
+35:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/04/27/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L3c",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Практика по взаимодействию форм"}]]}],["$","$L13",null,{"href":"/l/04/29/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L3c",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Учебная обработка и проверка примеров"}]]}]]}]
+38:null
+2d:true
+17:C
+2c:0
+1c:"$undefined"
+19:"$undefined"
+16:"$undefined"
+2b:"$undefined"
+24:"$undefined"

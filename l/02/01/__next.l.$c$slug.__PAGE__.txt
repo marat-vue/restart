@@ -1,0 +1,221 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1e:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+1f:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+25:"ViewportBoundary"
+26:I[97367,["$2","$3","$4","$5","$6","$7"],"$25"]
+27:"MetadataBoundary"
+28:I[97367,["$2","$3","$4","$5","$6","$7"],"$27"]
+29:"$Sreact.suspense"
+2a:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+17:X
+1a:X
+1a:C
+1d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L1e",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L1f",null,{"tree":{"kind":"folder","id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/","children":[{"kind":"lesson","id":"1kmygw6","num":"00","title":"Навигация по разделу","href":"/l/02/00/"},{"kind":"lesson","id":"11qzn","num":"01","title":"Основы программирования","href":"/l/02/01/"},{"kind":"lesson","id":"1ipk5cs","num":"02","title":"Переменные","href":"/l/02/02/"},{"kind":"lesson","id":"netop0","num":"03","title":"Основы типов значений","href":"/l/02/03/"},{"kind":"lesson","id":"5yulft","num":"04","title":"Работа со строками","href":"/l/02/04/"},{"kind":"lesson","id":"1uqmlex","num":"05","title":"Работа с числами","href":"/l/02/05/"},{"kind":"lesson","id":"fbf377","num":"06","title":"Работа с датой","href":"/l/02/06/"},{"kind":"lesson","id":"1d6ad08","num":"07","title":"Работа с булевым типом","href":"/l/02/07/"},{"kind":"lesson","id":"1yuxg9v","num":"08","title":"Операции сравнения","href":"/l/02/08/"},{"kind":"lesson","id":"1q4nhec","num":"09","title":"Процедуры и функции","href":"/l/02/09/"},{"kind":"lesson","id":"1kf096y","num":"10","title":"Блок условия","href":"/l/02/10/"},{"kind":"lesson","id":"1dt3tqx","num":"11","title":"Блок цикла","href":"/l/02/11/"},{"kind":"lesson","id":"16oa9jf","num":"12","title":"Обработчики событий","href":"/l/02/12/"},{"kind":"lesson","id":"1o8lmhm","num":"13","title":"Асинхронность","href":"/l/02/13/"},{"kind":"lesson","id":"1izs7vr","num":"14","title":"Области в модулях","href":"/l/02/14/"},{"kind":"lesson","id":"9kgwwo","num":"15","title":"Работа с формой документа","href":"/l/02/15/"},{"kind":"lesson","id":"ytwcfr","num":"16","title":"Работа с модулями справочника","href":"/l/02/16/"},{"kind":"lesson","id":"1c23pla","num":"17","title":"Работа с модулями документа","href":"/l/02/17/"},{"kind":"lesson","id":"1uqs60z","num":"18","title":"Массивы","href":"/l/02/18/"},{"kind":"lesson","id":"pogjk6","num":"19","title":"Структуры и соответствия","href":"/l/02/19/"},{"kind":"lesson","id":"18jf26s","num":"20","title":"Списки и деревья значений","href":"/l/02/20/"},{"kind":"lesson","id":"3oixtt","num":"21","title":"Таблицы значений","href":"/l/02/21/"},{"kind":"lesson","id":"1wz7fl","num":"22","title":"Описание типов, метаданные и общие методы","href":"/l/02/22/"},{"kind":"lesson","id":"1cc0fki","num":"23","title":"Программная работа со справочниками","href":"/l/02/23/"},{"kind":"lesson","id":"198xs21","num":"24","title":"Программная работа с документами","href":"/l/02/24/"},{"kind":"lesson","id":"1v9vmcd","num":"25","title":"Программная работа с регистрами","href":"/l/02/25/"},{"kind":"lesson","id":"g4opdn","num":"26","title":"Общие модули и контекст выполнения","href":"/l/02/26/"},{"kind":"lesson","id":"1js96do","num":"27","title":"Ошибки и сообщения пользователю","href":"/l/02/27/"},{"kind":"lesson","id":"1yj74aa","num":"28","title":"Транзакции и блокировки","href":"/l/02/28/"},{"kind":"lesson","id":"yd70g5","num":"29","title":"Отладка и проверка кода","href":"/l/02/29/"},{"kind":"lesson","id":"gld45y","num":"30","title":"Подписки на события","href":"/l/02/30/"},{"kind":"lesson","id":"cv9zhf","num":"31","title":"Файлы, JSON и временное хранилище","href":"/l/02/31/"},{"kind":"lesson","id":"tdp3rs","num":"32","title":"Фоновые и регламентные задания","href":"/l/02/32/"},{"kind":"lesson","id":"952u2h","num":"33","title":"Практика по программированию","href":"/l/02/33/"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"11qzn"}]}],"$L20","$L21"]}]],["$L22"],"$L23"]}],"p":"$@24","v":null,"s":"$17"}}]]
+1b:[["children",{"s":{"n":"slug","t":"c","k":"02/01","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@1c","v":"$1a","s":"$17"},"c":"$Q1d"}]]
+18:[["children",{"s":"l","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@19","v":"$1a","s":"$17"},"c":"$Q1b"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]]}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":"$@16","v":null,"s":"$17"},"c":"$Q18"},"h":{"r":["$","$1","h",{"children":[null,["$","$L26",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]}],["$","$L28",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$29",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Основы программирования · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L2a","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@2b","v":null,"s":"$17"}},"a":"$@2c","u":"$@2d","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+2e:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+2f:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+36:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+37:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+30:T2c39,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p>Встроенный язык 1С — <strong>динамически типизированный</strong> язык, который платформа компилирует в байт-код и исполняет на своей виртуальной машине. Код живёт в <strong>модулях</strong> (приложения, объекта, формы, общих…), состоит из <strong>процедур и функций</strong>, каждый оператор заканчивается <code>;</code>. Регистр букв не важен, ключевые слова есть на русском и английском.</p></div>
+</div>
+<h2 id="что-за-язык">Что за язык</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Свойство</th><th>Что означает на практике</th></tr></thead><tbody><tr><td>Компиляция в байт-код + виртуальная машина</td><td>Ошибки синтаксиса видны при проверке модуля (<code>Ctrl+F7</code>), ошибки логики — только при выполнении</td></tr><tr><td>Динамическая типизация</td><td>Тип у значения, а не у переменной: <code>А = 1; А = "текст";</code> — допустимо</td></tr><tr><td>Не чувствителен к регистру</td><td><code>Сообщить</code>, <code>сообщить</code>, <code>СООБЩИТЬ</code> — одно и то же</td></tr><tr><td>Двуязычный</td><td><code>Если … Тогда</code> = <code>If … Then</code>; в проектах пишут на русском</td></tr><tr><td>Объектная модель без классов</td><td>Есть объекты платформы со свойствами и методами, но <strong>нельзя объявить свой класс</strong> с наследованием. Повторное использование — через общие модули и модули объектов</td></tr></tbody></table></div>
+<h2 id="базовые-термины">Базовые термины</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Термин</th><th>Пример</th></tr></thead><tbody><tr><td><strong>Модуль</strong> — место, где пишется код</td><td>Модуль объекта документа, модуль формы, общий модуль</td></tr><tr><td><strong>Переменная</strong> — именованное значение</td><td><code>Сумма = 100;</code></td></tr><tr><td><strong>Тип значения</strong></td><td>Число, Строка, Дата, Булево, ссылка на справочник</td></tr><tr><td><strong>Выражение</strong> — то, что вычисляется</td><td><code>Цена * Количество</code></td></tr><tr><td><strong>Оператор</strong> — действие</td><td><code>=</code>, <code>Если</code>, <code>Для</code>, вызов <code>Сообщить()</code></td></tr><tr><td><strong>Операнды</strong> — участники выражения</td><td>В <code>А + Б + 100</code> это <code>А</code>, <code>Б</code>, <code>100</code></td></tr></tbody></table></div>
+<h2 id="первая-программа">Первая программа</h2>
+<p>Для экспериментов удобно писать код в <strong>модуле управляемого приложения</strong>: ПКМ по корню «Конфигурация» → <strong>Открыть модуль управляемого приложения</strong>. Операторы в конце модуля (вне процедур) выполнятся при запуске Предприятия.</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260911162216.png" alt="Pasted image 20260911162216.png" loading="lazy" decoding="async"></p>
+<p><em>Модуль приложения с двумя вызовами <code>Сообщить()</code>. Сообщения появятся в окне Предприятия после запуска (<code>F5</code>).</em></p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-function)">Сообщить</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-string-expression)">"Привет, мир!"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span></code></pre></figure>
+<p><code>Сообщить()</code> выводит текст в окно сообщений. Для учёбы и отладки удобно, в рабочем коде для пользователя используют <code>СообщениеПользователю</code> (<a href="/restart/l/02/27/" data-internal="true">27. Ошибки и сообщения пользователю</a>).</p>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Точка с запятой</div>
+<div class="callout-body"><p>Каждый оператор заканчивается <code>;</code>. Её нет только после «открывающих» строк конструкций: <code>Если … Тогда</code>, <code>Для … Цикл</code>, <code>Процедура Имя()</code>. Пропущенная <code>;</code> — самая частая синтаксическая ошибка новичка.</p></div>
+</div>
+<h2 id="синтакс-помощник">Синтакс-помощник</h2>
+<p>Документация встроена в Конфигуратор: ставим курсор на метод → ПКМ → <strong>Поиск в синтакс-помощнике</strong> (<code>Ctrl+F1</code>). Если у имени несколько значений, платформа предложит выбрать раздел:</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260911170644.png" alt="Pasted image 20260911170644.png" loading="lazy" decoding="async"></p>
+<p><em>Метод <code>Сообщить</code> есть в глобальном контексте и у объекта <code>СообщениеПользователю</code>.</em></p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260911170726.png" alt="Pasted image 20260911170726.png" loading="lazy" decoding="async"></p>
+<p><em>Описание метода: синтаксис, параметры, описание, <strong>доступность</strong> (клиент, сервер, внешнее соединение) и версия появления.</em></p>
+<div class="callout callout-tip" data-callout="tip">
+<div class="callout-title">Читайте раздел «Доступность»</div>
+<div class="callout-body"><p>Метод может существовать, но быть недоступным на тонком клиенте или в текущем модуле. Это главный источник ошибок «метод не найден» в управляемом приложении.</p></div>
+</div>
+<h2 id="комментарии-и-оформление">Комментарии и оформление</h2>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-comment)">// Однострочный комментарий. Многострочных /* */ в языке нет —</span></span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">// каждую строку начинаем с //.</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Сумма </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Цена </span><span style="color:var(--shiki-token-keyword)">*</span><span style="color:var(--shiki-foreground)"> Количество</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)"> // комментарий в конце строки</span></span></code></pre></figure>
+<p>Комментарий начинается с <code>//</code> и действует до конца строки. Быстро закомментировать выделенные строки — <code>Ctrl+/</code> (или <strong>Текст → Блок → Добавить комментарий</strong>).</p>
+<h2 id="горячие-клавиши-редактора">Горячие клавиши редактора</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Клавиши</th><th>Действие</th></tr></thead><tbody><tr><td><code>Ctrl+Пробел</code></td><td>Контекстная подсказка и автодополнение</td></tr><tr><td><code>Ctrl+Shift+Пробел</code></td><td>Подсказка по параметрам метода</td></tr><tr><td><code>Ctrl+Q</code></td><td>Шаблоны конструкций (Если, Для, Пока…)</td></tr><tr><td><code>Shift+Alt+F</code></td><td>Форматирование отступов</td></tr><tr><td><code>Ctrl+Alt+P</code></td><td>Список процедур и функций модуля</td></tr><tr><td><code>Ctrl+F7</code></td><td>Синтаксическая проверка модуля</td></tr><tr><td><code>F12</code></td><td>Перейти к определению метода</td></tr></tbody></table></div>
+<p>Полный список — <a href="/restart/l/08/02/" data-internal="true">Горячие клавиши</a>.</p>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Можно ли в 1С создать свой класс с наследованием?</p>
+</li>
+<li>
+<p>Где посмотреть, доступен ли метод на тонком клиенте?</p>
+</li>
+<li>
+<p>Как закомментировать несколько строк?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Нет. Логику группируют в модулях объектов и общих модулях.</li>
+<li>В Синтакс-помощнике, раздел «Доступность».</li>
+<li>Начать каждую строку с <code>//</code> (выделить и нажать <code>Ctrl+/</code>).</li>
+</ol></div>
+</details></div>
+</details>20:["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L2e",null,{"children":"$1d:0:1:d:r:props:children:0:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","1awfm0x",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/02/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"02"}],"Программирование"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","01"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[4," ","минуты"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Основы программирования"}],["$","div",null,{"className":"mt-7","children":["$","$L2f",null,{"id":"11qzn","href":"/l/02/01/","title":"Основы программирования"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$30"}}],"$L31","$L32","$L33","$L34","$L35"]}]]}]
+21:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L36",null,{"items":[{"id":"что-за-язык","text":"Что за язык","depth":2},{"id":"базовые-термины","text":"Базовые термины","depth":2},{"id":"первая-программа","text":"Первая программа","depth":2},{"id":"синтакс-помощник","text":"Синтакс-помощник","depth":2},{"id":"комментарии-и-оформление","text":"Комментарии и оформление","depth":2},{"id":"горячие-клавиши-редактора","text":"Горячие клавиши редактора","depth":2}]}]}]
+22:["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true}]
+23:["$","$L37",null,{"children":["$","$29",null,{"name":"Next.MetadataOutlet","children":"$@38"}]}]
+39:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+3a:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+3b:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+3c:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+17:300
+31:["$","$L39",null,{"targetId":"lesson-body"}]
+32:["$","$L3a",null,{"targetId":"lesson-body"}]
+33:["$","$L3b",null,{"targetId":"lesson-body"}]
+34:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L2f",null,{"id":"11qzn","href":"/l/02/01/","title":"Основы программирования","variant":"footer"}]}]
+35:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/02/00/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L3c",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Навигация по разделу"}]]}],["$","$L13",null,{"href":"/l/02/02/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L3c",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Переменные"}]]}]]}]
+38:null
+2d:true
+17:C
+2c:0
+1c:"$undefined"
+19:"$undefined"
+16:"$undefined"
+2b:"$undefined"
+24:"$undefined"

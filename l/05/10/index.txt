@@ -1,0 +1,261 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1b:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:"ViewportBoundary"
+1f:I[97367,["$2","$3","$4","$5","$6","$7"],"$1e"]
+21:"MetadataBoundary"
+22:I[97367,["$2","$3","$4","$5","$6","$7"],"$21"]
+24:I[68027,["$2","$3","$4","$5","$6","$7"],"default",1]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+:HL["/restart/_next/static/media/051742360c26797e-s.p.1bkzbscqrt8rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/26f284dcc38c84c0-s.p.3hlisc-pwq13z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/42b035f1a63f268d-s.p.2m8t2-vl1h1kf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/b4a06a523f527a0e-s.p.3psl0_mnhzy2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/cfdfbee4d6cf0a93-s.p.1jwcpm6w583_v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/e8768c288fbd3aa6-s.p.1t1z0xjflawjj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+17:X
+19:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L1a",[["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true,"nonce":"$undefined"}]],["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]]}],"p":false,"v":null}}]]
+18:[["children",{"s":{"n":"slug","t":"c","k":"05/10","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q19"}]]
+16:[["children",{"s":"l","h":131584,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q18"}]]
+0:{"P":null,"c":["","l","05","10",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true,"nonce":"$undefined"}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":false,"v":null},"c":"$Q16"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$L20"}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":"$L23"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$24",[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+17:C
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]
+25:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+26:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+27:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+28:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+29:T3879,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p>Командная разработка в 1С идёт двумя путями. <strong>Хранилище конфигурации</strong> — встроенный в Конфигуратор механизм: объекты <strong>захватывают</strong>, меняют и <strong>помещают</strong> обратно с комментарием, история версий хранится в хранилище. <strong>EDT + Git</strong> — проект в виде файлов, ветки, merge request и код-ревью, автоматические проверки. В любой команде нужно уметь: получить актуальную версию, внести изменение в своей базе, отдать его с понятным описанием.</p></div>
+</div>
+<h2 id="проблема-командной-работы">Проблема командной работы</h2>
+<p>Пока вы учитесь, конфигурация — ваша: меняете что хотите, когда хотите. В компании над одной конфигурацией работают <strong>несколько</strong> разработчиков одновременно. Возникают вопросы:</p>
+<ul>
+<li>как получить изменения коллег, не затерев свои;</li>
+<li>как не править один и тот же объект вдвоём;</li>
+<li>как узнать, кто, когда и зачем изменил процедуру;</li>
+<li>как откатиться, если изменение всё сломало.</li>
+</ul>
+<p>В мире 1С есть два ответа:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Способ</th><th>Идея</th><th>Аналогия</th></tr></thead><tbody><tr><td><strong>Хранилище конфигурации</strong></td><td>Объект «берут на руки» (захват): пока он у вас, остальные его не меняют</td><td>Библиотека: книгу выдают одному читателю</td></tr><tr><td><strong>EDT + Git</strong></td><td>Каждый правит свою копию, потом изменения <strong>сливают</strong> вместе</td><td>Совместное редактирование документа с историей правок</td></tr></tbody></table></div>
+<h2 id="хранилище-конфигурации">Хранилище конфигурации</h2>
+<div class="callout callout-info" data-callout="info">
+<div class="callout-title">Ограничение учебной версии</div>
+<div class="callout-body"><p>Учебная платформа не поддерживает работу с хранилищем конфигурации. Ниже — рабочий процесс для платформы без этого ограничения. Здесь можно изучить команды и выгрузить конфигурацию в файлы; подключение к хранилищу и захват объектов выполняются на отдельном стенде.</p></div>
+</div>
+<pre><pre class="mermaid-source">flowchart LR
+    S[("Хранилище&#x3C;br/>версии 1…N")] -- "Получить" --> A["База разработчика А"]
+    S -- "Получить" --> B["База разработчика Б"]
+    A -- "Захватить объект → изменить → Поместить" --> S
+</pre></pre>
+<p>Меню <strong>Конфигурация → Хранилище конфигурации</strong>:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Команда</th><th>Что делает</th></tr></thead><tbody><tr><td>Создать хранилище</td><td>Один раз, ведущий разработчик: каталог или сервер хранилища</td></tr><tr><td>Подключиться к хранилищу</td><td>Связать свою базу с хранилищем (пользователь хранилища ≠ пользователь базы)</td></tr><tr><td>Окно хранилища</td><td>Список объектов и кто что захватил</td></tr><tr><td>Захватить в хранилище</td><td>Взять объект на изменение — другие его менять не смогут</td></tr><tr><td>Поместить в хранилище</td><td>Отдать изменения с <strong>комментарием</strong></td></tr><tr><td>Получить из хранилища</td><td>Забрать изменения коллег</td></tr><tr><td>История хранилища</td><td>Версии, авторы, сравнение версий</td></tr></tbody></table></div>
+<p>Рабочий цикл: <strong>получить</strong> → <strong>захватить</strong> нужные объекты → изменить и проверить в своей базе → <strong>поместить</strong> с комментарием «Задача №123: проверка лимита кредита» → коллеги <strong>получают</strong>.</p>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Типичные ошибки</div>
+<div class="callout-body"><ul>
+<li>Захватить «на всякий случай» всю конфигурацию — коллеги не смогут работать.</li>
+<li>Поместить, не обновив БД и не проверив — сломать сборку всем.</li>
+<li>Пустой комментарий — история становится бесполезной.</li>
+<li>Захваченные объекты — «отпустить» (<strong>Отменить захват</strong>), если работа отменена.</li>
+</ul></div>
+</div>
+<h2 id="edt-и-git">EDT и Git</h2>
+<p><strong>1C:Enterprise Development Tools (EDT)</strong> — среда разработки на базе Eclipse. Конфигурация в ней — <strong>проект из файлов</strong> (каждый объект — XML, каждый модуль — <code>.bsl</code>), поэтому подходит обычный Git.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th></th><th>Конфигуратор + хранилище</th><th>EDT + Git</th></tr></thead><tbody><tr><td>Формат</td><td>Объекты внутри хранилища</td><td>Текстовые файлы</td></tr><tr><td>Параллельная работа над объектом</td><td>Блокировка захватом</td><td>Ветки и слияние</td></tr><tr><td>Код-ревью</td><td>Нет встроенного</td><td>Merge/Pull request</td></tr><tr><td>Автопроверки</td><td>Вручную</td><td>CI: проверка кода, тесты, сборка <code>.cf</code></td></tr><tr><td>Порог входа</td><td>Ниже</td><td>Выше, но стандарт в крупных командах</td></tr></tbody></table></div>
+<p>Минимальный Git-цикл:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="mono"><code data-language="bash" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-function)">git</span><span style="color:var(--shiki-token-string)"> checkout</span><span style="color:var(--shiki-token-string)"> -b</span><span style="color:var(--shiki-token-string)"> feature/123-credit-limit</span></span></code></pre></figure>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="mono"><code data-language="bash" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-function)">git</span><span style="color:var(--shiki-token-string)"> add</span><span style="color:var(--shiki-token-string)"> src/</span></span></code></pre></figure>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="mono"><code data-language="bash" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-function)">git</span><span style="color:var(--shiki-token-string)"> commit</span><span style="color:var(--shiki-token-string)"> -m</span><span style="color:var(--shiki-token-string-expression)"> "Задача 123: проверка лимита кредита в расходной накладной"</span></span></code></pre></figure>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="mono"><code data-language="bash" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-function)">git</span><span style="color:var(--shiki-token-string)"> push</span><span style="color:var(--shiki-token-string)"> -u</span><span style="color:var(--shiki-token-string)"> origin</span><span style="color:var(--shiki-token-string)"> feature/123-credit-limit</span></span></code></pre></figure>
+<p>Затем — merge request, ревью коллеги, слияние в основную ветку.</p>
+<p>Переход без EDT: Конфигуратор умеет <strong>Конфигурация → Выгрузить конфигурацию в файлы</strong> (XML) — эти файлы тоже можно хранить в Git, а утилиты вроде ГитКонвертера синхронизируют хранилище с репозиторием.</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/05.%20%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/10-%D0%92%D1%8B%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0-%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%B0%D1%86%D0%B8%D0%B8-%D0%B2-%D1%84%D0%B0%D0%B9%D0%BB%D1%8B.png" alt="10-Выгрузка-конфигурации-в-файлы.png" loading="lazy" decoding="async"></p>
+<p><em>Меню учебного Конфигуратора: доступна «Выгрузить конфигурацию в файлы…». Не путайте её с «Сохранить конфигурацию в файл…»: первая создаёт дерево исходников для Git, вторая — один бинарный <code>.cf</code>. Пункта работы с хранилищем в этой учебной версии нет.</em></p>
+<p>Формат выгрузки Конфигуратора и формат проекта EDT различаются. Не смешивайте их в одном каталоге <code>src/</code>: выберите принятый в команде формат и инструмент загрузки/сборки.</p>
+<h2 id="инструменты-качества">Инструменты качества</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Инструмент</th><th>Что делает</th></tr></thead><tbody><tr><td><strong>BSL Language Server</strong> / плагин для VS Code</td><td>Подсветка ошибок и нарушений стандартов прямо в редакторе</td></tr><tr><td><strong>SonarQube + BSL</strong></td><td>Анализ кода в CI: дубли, сложность, ошибки</td></tr><tr><td><strong>АПК</strong> (Автоматизированная проверка конфигураций)</td><td>Проверка на соответствие стандартам 1С</td></tr><tr><td><strong>YAxUnit</strong></td><td>Модульные тесты на встроенном языке</td></tr><tr><td><strong>Vanessa Automation</strong></td><td>Сценарные тесты интерфейса (Gherkin: «Дано / Когда / Тогда»)</td></tr></tbody></table></div>
+<p>Не обязательно знать всё на старте — важно понимать, что код проходит автоматические проверки и ревью, и писать его так, чтобы их проходить (<a href="/restart/l/05/11/" data-internal="true">11. Стандарты кода и самопроверка</a>).</p>
+<h2 id="своя-база-для-разработки">Своя база для разработки</h2>
+<ul>
+<li>Работаем <strong>в копии</strong> рабочей базы (или в пустой базе с конфигурацией из хранилища/репозитория), а не в рабочей.</li>
+<li>Тестовые данные — обезличенные.</li>
+<li>Перед большими изменениями — <code>.dt</code> своей базы.</li>
+</ul>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Коллега захватил документ, вам тоже нужно его изменить. Что делать в хранилище?</p>
+</li>
+<li>
+<p>Почему в Git удобнее параллельная работа над одним объектом?</p>
+</li>
+<li>
+<p>Что обязательно сделать перед «Поместить в хранилище»?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Договориться: дождаться помещения или попросить отменить захват; изменить захваченный другим объект нельзя.</li>
+<li>Изменения в ветках сливаются, блокировок объектов нет; конфликты решаются при слиянии.</li>
+<li>Обновить БД, проверить изменения и написать понятный комментарий.</li>
+</ol></div>
+</details></div>
+</details>1a:[["$","$L25",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L26",null,{"tree":{"kind":"folder","id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/","children":[{"kind":"lesson","id":"1ocm90a","num":"00","title":"Навигация по разделу","href":"/l/05/00/","children":"$undefined"},{"kind":"lesson","id":"156dahn","num":"01","title":"Регистр остатков на практике","href":"/l/05/01/","children":"$undefined"},{"kind":"lesson","id":"12ipfvj","num":"02","title":"Контроль остатков и блокировки","href":"/l/05/02/","children":"$undefined"},{"kind":"lesson","id":"17sy5u8","num":"03","title":"Печатная форма документа","href":"/l/05/03/","children":"$undefined"},{"kind":"lesson","id":"1mwbtob","num":"04","title":"Расширения и перехват методов","href":"/l/05/04/","children":"$undefined"},{"kind":"lesson","id":"rnlg54","num":"05","title":"Права доступа и RLS в коде","href":"/l/05/05/","children":"$undefined"},{"kind":"lesson","id":"zdu71r","num":"06","title":"HTTP-запросы к внешним сервисам","href":"/l/05/06/","children":"$undefined"},{"kind":"lesson","id":"1gtg1nd","num":"07","title":"HTTP-сервисы своей базы","href":"/l/05/07/","children":"$undefined"},{"kind":"lesson","id":"19by7yp","num":"08","title":"XML и обмен данными","href":"/l/05/08/","children":"$undefined"},{"kind":"lesson","id":"1liwwkn","num":"09","title":"БСП и типовые конфигурации","href":"/l/05/09/","children":"$undefined"},{"kind":"lesson","id":"8cetis","num":"10","title":"Хранилище, EDT и Git","href":"/l/05/10/","children":"$undefined"},{"kind":"lesson","id":"3um01i","num":"11","title":"Стандарты кода и самопроверка","href":"/l/05/11/","children":"$undefined"},{"kind":"lesson","id":"g4vhr2","num":"12","title":"Итоговый проект и собеседование","href":"/l/05/12/","children":"$undefined"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"8cetis"}]}],["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L27",null,{"children":"$1a:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","1c9mnd1",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/05/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"05"}],"Профессиональная разработка"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","10"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[5," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Хранилище, EDT и Git"}],["$","div",null,{"className":"mt-7","children":["$","$L28",null,{"id":"8cetis","href":"/l/05/10/","title":"Хранилище, EDT и Git"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$29"}}],"$L2a","$L2b","$L2c","$L2d","$L2e"]}]]}],"$L2f"]}]]
+30:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+31:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+32:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+33:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+34:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+2a:["$","$L30",null,{"targetId":"lesson-body"}]
+2b:["$","$L31",null,{"targetId":"lesson-body"}]
+2c:["$","$L32",null,{"targetId":"lesson-body"}]
+2d:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L28",null,{"id":"8cetis","href":"/l/05/10/","title":"Хранилище, EDT и Git","variant":"footer"}]}]
+2e:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/05/09/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L33",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"БСП и типовые конфигурации"}]]}],["$","$L13",null,{"href":"/l/05/11/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L33",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Стандарты кода и самопроверка"}]]}]]}]
+2f:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L34",null,{"items":[{"id":"проблема-командной-работы","text":"Проблема командной работы","depth":2},{"id":"хранилище-конфигурации","text":"Хранилище конфигурации","depth":2},{"id":"edt-и-git","text":"EDT и Git","depth":2},{"id":"инструменты-качества","text":"Инструменты качества","depth":2},{"id":"своя-база-для-разработки","text":"Своя база для разработки","depth":2}]}]}]
+35:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+1d:null
+23:[["$","title","0",{"children":"Хранилище, EDT и Git · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L35","3",{}]]

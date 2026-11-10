@@ -1,0 +1,406 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1b:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:"ViewportBoundary"
+1f:I[97367,["$2","$3","$4","$5","$6","$7"],"$1e"]
+21:"MetadataBoundary"
+22:I[97367,["$2","$3","$4","$5","$6","$7"],"$21"]
+24:I[68027,["$2","$3","$4","$5","$6","$7"],"default",1]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+:HL["/restart/_next/static/media/051742360c26797e-s.p.1bkzbscqrt8rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/26f284dcc38c84c0-s.p.3hlisc-pwq13z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/42b035f1a63f268d-s.p.2m8t2-vl1h1kf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/b4a06a523f527a0e-s.p.3psl0_mnhzy2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/cfdfbee4d6cf0a93-s.p.1jwcpm6w583_v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/e8768c288fbd3aa6-s.p.1t1z0xjflawjj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+17:X
+19:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L1a",[["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true,"nonce":"$undefined"}]],["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]]}],"p":false,"v":null}}]]
+18:[["children",{"s":{"n":"slug","t":"c","k":"00","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q19"}]]
+16:[["children",{"s":"l","h":131584,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q18"}]]
+0:{"P":null,"c":["","l","00",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true,"nonce":"$undefined"}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":false,"v":null},"c":"$Q16"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$L20"}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":"$L23"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$24",[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+17:C
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]
+25:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+1d:null
+23:[["$","title","0",{"children":"Оглавление · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L25","3",{}]]
+26:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+27:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+28:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+29:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+2a:T7bd3,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">О конспекте</div>
+<div class="callout-body"><p>Пошаговое пособие по разработке на платформе «1С:Предприятие 8» — от первого справочника до уровня <strong>junior+</strong>: конфигурирование, встроенный язык, запросы и СКД, управляемые формы и профессиональные темы (контроль остатков, расширения, интеграции, БСП, Git). Основная практика — на сквозной учебной базе «1С:Купец», платформа 8.5.1.1150, управляемое приложение. Для БСП, проверки нескольких сеансов и хранилища нужны отдельные стенды; требования указаны в разделе 05.</p></div>
+</div>
+<h2 id="маршрут-обучения">Маршрут обучения</h2>
+<pre><pre class="mermaid-source">flowchart LR
+    A["🧱 01&#x3C;br/>Конфигурирование"] --> B["⌨️ 02&#x3C;br/>Программирование"]
+    B --> C["🔎 03&#x3C;br/>Запросы и СКД"]
+    B --> D["🪟 04&#x3C;br/>Управляемые формы"]
+    C --> E["🚀 05&#x3C;br/>Профессиональная&#x3C;br/>разработка"]
+    D --> E
+    E --> F["🎯 Итоговый проект&#x3C;br/>и собеседование"]
+    B --> G["🧮 06&#x3C;br/>Алгоритмы"]
+    G --> F
+    D --> H["🧪 07&#x3C;br/>Тестирование"]
+    H --> F
+</pre></pre>
+<p>Разделы 03 и 04 можно проходить параллельно — оба опираются на 01–02. Ориентировочный темп при 1–2 часах в день — <strong>3–4 месяца</strong>.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Раздел</th><th>О чём</th><th>Темп</th></tr></thead><tbody><tr><td>🧱 <a href="/restart/l/01/00/" data-internal="true">01. Основы конфигурирования</a></td><td>Объекты конфигурации без кода: справочники, документы, регистры, отчёты, роли.</td><td>2–3 недели</td></tr><tr><td>⌨️ <a href="/restart/l/02/00/" data-internal="true">02. Программирование</a></td><td>Встроенный язык: синтаксис, коллекции, работа с объектами базы, транзакции, отладка.</td><td>3–4 недели</td></tr><tr><td>🔎 <a href="/restart/l/03/00/" data-internal="true">03. Язык запросов и СКД</a></td><td>Запросы к данным и отчёты на системе компоновки данных.</td><td>2–3 недели</td></tr><tr><td>🪟 <a href="/restart/l/04/00/" data-internal="true">04. Программирование управляемых форм</a></td><td>Формы, команды, события, клиент-сервер, взаимодействие окон, списки.</td><td>3 недели</td></tr><tr><td>🚀 <a href="/restart/l/05/00/" data-internal="true">05. Профессиональная разработка</a></td><td>Остатки и блокировки, печать, расширения, права, интеграции, БСП, командная работа.</td><td>3–4 недели</td></tr><tr><td>🧮 <a href="/restart/l/06/00/" data-internal="true">06. Алгоритмы для 1С</a></td><td>Алгоритмы и структуры данных на встроенном языке: сложность, хеш-таблицы, два указателя, сортировки, бинарный поиск, рекурсия, графы, динамическое программирование.</td><td>3–4 недели</td></tr><tr><td>🧪 <a href="/restart/l/07/00/" data-internal="true">07. Тестирование 1С</a></td><td>Теория тестирования, тест-дизайн, тест-кейсы и баг-репорты; модульные тесты и YAxUnit; BDD, Gherkin и Vanessa Automation.</td><td>2–3 недели</td></tr></tbody></table></div>
+<h2 id="как-устроена-каждая-заметка">Как устроена каждая заметка</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Элемент</th><th>Зачем</th></tr></thead><tbody><tr><td><code>Коротко</code> (синий блок вверху)</td><td>Суть темы в 2–3 предложениях — для повторения достаточно прочитать только его</td></tr><tr><td>Таблицы и схемы</td><td>Сравнения «что выбрать», порядок событий, структура объектов</td></tr><tr><td>Код с разбором</td><td>Рабочие примеры на объектах учебной базы; рядом указано, в каком модуле и контексте он выполняется</td></tr><tr><td>> [!warning] <strong>Важно</strong></td><td>Типичные ошибки и ловушки</td></tr><tr><td>> [!tip] <strong>Совет</strong></td><td>Приёмы, которые экономят время</td></tr><tr><td>> [!info]</td><td>Пояснения и связи с другими темами</td></tr><tr><td><code>Проверь себя</code> (свёрнут внизу)</td><td>Вопросы с ответами — раскройте после чтения</td></tr><tr><td>Навигация <code>← · ↑ · →</code></td><td>Предыдущая тема, раздел, следующая тема</td></tr></tbody></table></div>
+<p>Значки в списках тем: ⭐ — ключевая тема, 🛠 — практика, 📌 — памятка для повторения.</p>
+<h2 id="как-учиться-по-конспекту">Как учиться по конспекту</h2>
+<ol>
+<li><strong>Идите по порядку</strong> и повторяйте всё руками в своей учебной базе — чтение без практики почти не работает.</li>
+<li>После темы откройте <strong>«Проверь себя»</strong> и ответьте, не подглядывая.</li>
+<li>В конце раздела выполните <strong>практику</strong> 🛠 и сверьте контрольные числа.</li>
+<li>Раз в неделю — повторение по блокам <strong>«Коротко»</strong> и памяткам 📌.</li>
+<li>Финал — <a href="/restart/l/05/12/" data-internal="true">итоговый проект «Мини-склад»</a> в портфолио.</li>
+</ol>
+<div class="callout callout-tip" data-callout="tip">
+<div class="callout-title">Возможности Obsidian</div>
+<div class="callout-body"><ul>
+<li><code>Ctrl+O</code> — быстрый переход к заметке по названию, <code>Ctrl+Shift+F</code> — поиск по всему конспекту.</li>
+<li>Панель <strong>«Обратные ссылки»</strong> показывает, где упоминается текущая тема.</li>
+<li><strong>Граф</strong> (<code>Ctrl+G</code>) и теги <code>#1С/…</code> помогают увидеть связи разделов.</li>
+<li>Наведите курсор на ссылку с <code>Ctrl</code> — увидите предпросмотр заметки.</li>
+</ul></div>
+</div>
+<h2 id="шпаргалки">Шпаргалки</h2>
+<ul>
+<li><a href="/restart/l/08/01/" data-internal="true">📖 Глоссарий</a> — термины курса со ссылками на темы</li>
+<li><a href="/restart/l/08/02/" data-internal="true">⌨️ Горячие клавиши</a> — Конфигуратор, отладчик, Предприятие</li>
+<li><a href="/restart/l/08/03/" data-internal="true">📝 Встроенный язык</a> — синтаксис на одной странице</li>
+<li><a href="/restart/l/08/04/" data-internal="true">🧭 Где писать код</a> — модули, события, клиент или сервер</li>
+<li><a href="/restart/l/03/31/" data-internal="true">📌 Памятка по запросам и СКД</a></li>
+<li><a href="/restart/l/04/28/" data-internal="true">📌 Памятка по управляемым формам</a></li>
+</ul>
+<h2 id="все-темы">Все темы</h2>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">🧱 01. Основы конфигурирования — 30 тем</summary>
+<div class="callout-body"><p><a href="/restart/l/01/00/" data-internal="true">Навигация по разделу</a></p><ul>
+<li><a href="/restart/l/01/01/" data-internal="true">01. Платформа 1С</a></li>
+<li><a href="/restart/l/01/02/" data-internal="true">02. Версии платформы 1С</a></li>
+<li><a href="/restart/l/01/03/" data-internal="true">03. Информационная база 1С</a></li>
+<li><a href="/restart/l/01/04/" data-internal="true">04. Интерфейс конфигуратора</a></li>
+<li><a href="/restart/l/01/05/" data-internal="true">05. Версии конфигураций</a></li>
+<li><a href="/restart/l/01/06/" data-internal="true">06. Интерфейс платформы</a></li>
+<li><a href="/restart/l/01/07/" data-internal="true">07. Константы</a></li>
+<li><a href="/restart/l/01/08/" data-internal="true">08. Справочники</a></li>
+<li><a href="/restart/l/01/09/" data-internal="true">09. Форма справочника</a></li>
+<li><a href="/restart/l/01/10/" data-internal="true">10. Интерфейс справочника</a></li>
+<li><a href="/restart/l/01/11/" data-internal="true">11. Ссылочный тип данных</a></li>
+<li><a href="/restart/l/01/12/" data-internal="true">12. Перечисления</a></li>
+<li><a href="/restart/l/01/13/" data-internal="true">13. Пометка удаления</a></li>
+<li><a href="/restart/l/01/14/" data-internal="true">14. Документы</a></li>
+<li><a href="/restart/l/01/15/" data-internal="true">15. Подсистемы, интерфейс и общие объекты</a></li>
+<li><a href="/restart/l/01/16/" data-internal="true">16. Приёмы работы в Конфигураторе</a></li>
+<li><a href="/restart/l/01/17/" data-internal="true">17. Регистры накоплений</a></li>
+<li><a href="/restart/l/01/18/" data-internal="true">18. Отчёты</a></li>
+<li><a href="/restart/l/01/19/" data-internal="true">19. Пользователи и Роли</a></li>
+<li><a href="/restart/l/01/20/" data-internal="true">20. Регистры сведений</a></li>
+<li><a href="/restart/l/01/21/" data-internal="true">21. Журналы документов и нумерация</a></li>
+<li><a href="/restart/l/01/22/" data-internal="true">22. Предопределённые данные и заполнение</a></li>
+<li><a href="/restart/l/01/23/" data-internal="true">23. Обработки и внешние файлы</a></li>
+<li><a href="/restart/l/01/24/" data-internal="true">24. Макеты и печатные формы</a></li>
+<li><a href="/restart/l/01/25/" data-internal="true">25. Общие реквизиты и составные типы</a></li>
+<li><a href="/restart/l/01/26/" data-internal="true">26. Функциональные опции и параметры сеанса</a></li>
+<li><a href="/restart/l/01/27/" data-internal="true">27. Сравнение, поддержка и расширения</a></li>
+<li><a href="/restart/l/01/28/" data-internal="true">28. Резервные копии и обслуживание базы</a></li>
+<li><a href="/restart/l/01/29/" data-internal="true">29. Остальные объекты конфигурации</a></li>
+<li><a href="/restart/l/01/30/" data-internal="true">30. Практика по конфигурированию</a></li>
+</ul></div>
+</details>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">⌨️ 02. Программирование — 33 тем</summary>
+<div class="callout-body"><p><a href="/restart/l/02/00/" data-internal="true">Навигация по разделу</a></p><ul>
+<li><a href="/restart/l/02/01/" data-internal="true">01. Основы программирования</a></li>
+<li><a href="/restart/l/02/02/" data-internal="true">02. Переменные</a></li>
+<li><a href="/restart/l/02/03/" data-internal="true">03. Основы типов значений</a></li>
+<li><a href="/restart/l/02/04/" data-internal="true">04. Работа со строками</a></li>
+<li><a href="/restart/l/02/05/" data-internal="true">05. Работа с числами</a></li>
+<li><a href="/restart/l/02/06/" data-internal="true">06. Работа с датой</a></li>
+<li><a href="/restart/l/02/07/" data-internal="true">07. Работа с булевым типом</a></li>
+<li><a href="/restart/l/02/08/" data-internal="true">08. Операции сравнения</a></li>
+<li><a href="/restart/l/02/09/" data-internal="true">09. Процедуры и функции</a></li>
+<li><a href="/restart/l/02/10/" data-internal="true">10. Блок условия</a></li>
+<li><a href="/restart/l/02/11/" data-internal="true">11. Блок цикла</a></li>
+<li><a href="/restart/l/02/12/" data-internal="true">12. Обработчики событий</a></li>
+<li><a href="/restart/l/02/13/" data-internal="true">13. Асинхронность</a></li>
+<li><a href="/restart/l/02/14/" data-internal="true">14. Области в модулях</a></li>
+<li><a href="/restart/l/02/15/" data-internal="true">15. Работа с формой документа</a></li>
+<li><a href="/restart/l/02/16/" data-internal="true">16. Работа с модулями справочника</a></li>
+<li><a href="/restart/l/02/17/" data-internal="true">17. Работа с модулями документа</a></li>
+<li><a href="/restart/l/02/18/" data-internal="true">18. Массивы</a></li>
+<li><a href="/restart/l/02/19/" data-internal="true">19. Структуры и соответствия</a></li>
+<li><a href="/restart/l/02/20/" data-internal="true">20. Списки и деревья значений</a></li>
+<li><a href="/restart/l/02/21/" data-internal="true">21. Таблицы значений</a></li>
+<li><a href="/restart/l/02/22/" data-internal="true">22. Описание типов, метаданные и общие методы</a></li>
+<li><a href="/restart/l/02/23/" data-internal="true">23. Программная работа со справочниками</a></li>
+<li><a href="/restart/l/02/24/" data-internal="true">24. Программная работа с документами</a></li>
+<li><a href="/restart/l/02/25/" data-internal="true">25. Программная работа с регистрами</a></li>
+<li><a href="/restart/l/02/26/" data-internal="true">26. Общие модули и контекст выполнения</a></li>
+<li><a href="/restart/l/02/27/" data-internal="true">27. Ошибки и сообщения пользователю</a></li>
+<li><a href="/restart/l/02/28/" data-internal="true">28. Транзакции и блокировки</a></li>
+<li><a href="/restart/l/02/29/" data-internal="true">29. Отладка и проверка кода</a></li>
+<li><a href="/restart/l/02/30/" data-internal="true">30. Подписки на события</a></li>
+<li><a href="/restart/l/02/31/" data-internal="true">31. Файлы, JSON и временное хранилище</a></li>
+<li><a href="/restart/l/02/32/" data-internal="true">32. Фоновые и регламентные задания</a></li>
+<li><a href="/restart/l/02/33/" data-internal="true">33. Практика по программированию</a></li>
+</ul></div>
+</details>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">🔎 03. Язык запросов и СКД — 31 тем</summary>
+<div class="callout-body"><p><a href="/restart/l/03/00/" data-internal="true">Навигация по разделу</a></p><ul>
+<li><a href="/restart/l/03/01/" data-internal="true">01. Запросы и таблицы базы</a></li>
+<li><a href="/restart/l/03/02/" data-internal="true">02. Первый запрос в конструкторе и в коде</a></li>
+<li><a href="/restart/l/03/03/" data-internal="true">03. Выбор полей, псевдонимы и сортировка</a></li>
+<li><a href="/restart/l/03/04/" data-internal="true">04. Условия и отбор строк</a></li>
+<li><a href="/restart/l/03/05/" data-internal="true">05. Параметры и границы периода</a></li>
+<li><a href="/restart/l/03/06/" data-internal="true">06. Ссылки, иерархия и составные типы</a></li>
+<li><a href="/restart/l/03/07/" data-internal="true">07. Запрос к табличной части документа</a></li>
+<li><a href="/restart/l/03/08/" data-internal="true">08. Соединения таблиц</a></li>
+<li><a href="/restart/l/03/09/" data-internal="true">09. NULL и отсутствующие значения</a></li>
+<li><a href="/restart/l/03/10/" data-internal="true">10. Группировка и агрегатные функции</a></li>
+<li><a href="/restart/l/03/11/" data-internal="true">11. Итоги и обход результата запроса</a></li>
+<li><a href="/restart/l/03/12/" data-internal="true">12. Выражения и функции языка запросов</a></li>
+<li><a href="/restart/l/03/13/" data-internal="true">13. Объединение результатов</a></li>
+<li><a href="/restart/l/03/14/" data-internal="true">14. Вложенные запросы</a></li>
+<li><a href="/restart/l/03/15/" data-internal="true">15. Временные таблицы и пакеты запросов</a></li>
+<li><a href="/restart/l/03/16/" data-internal="true">16. Виртуальные таблицы регистров накопления</a></li>
+<li><a href="/restart/l/03/17/" data-internal="true">17. Регистры сведений и срез последних</a></li>
+<li><a href="/restart/l/03/18/" data-internal="true">18. Проверка и ускорение запросов</a></li>
+<li><a href="/restart/l/03/19/" data-internal="true">19. Как устроена СКД</a></li>
+<li><a href="/restart/l/03/20/" data-internal="true">20. Создание отчёта и набора данных</a></li>
+<li><a href="/restart/l/03/21/" data-internal="true">21. Поля и ресурсы СКД</a></li>
+<li><a href="/restart/l/03/22/" data-internal="true">22. Параметры периода в СКД</a></li>
+<li><a href="/restart/l/03/23/" data-internal="true">23. Структура отчёта и выбранные поля</a></li>
+<li><a href="/restart/l/03/24/" data-internal="true">24. Отбор, сортировка и пользовательские настройки</a></li>
+<li><a href="/restart/l/03/25/" data-internal="true">25. Вычисляемые поля и оформление</a></li>
+<li><a href="/restart/l/03/26/" data-internal="true">26. Таблицы, диаграммы и варианты отчёта</a></li>
+<li><a href="/restart/l/03/27/" data-internal="true">27. Несколько наборов и расширение языка СКД</a></li>
+<li><a href="/restart/l/03/28/" data-internal="true">28. Программное формирование отчёта СКД</a></li>
+<li><a href="/restart/l/03/29/" data-internal="true">29. Практика по языку запросов</a></li>
+<li><a href="/restart/l/03/30/" data-internal="true">30. Практика по СКД</a></li>
+<li><a href="/restart/l/03/31/" data-internal="true">31. Ошибки и памятка для повторения</a></li>
+</ul></div>
+</details>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">🪟 04. Программирование управляемых форм — 29 тем</summary>
+<div class="callout-body"><p><a href="/restart/l/04/00/" data-internal="true">Навигация по разделу</a></p><ul>
+<li><a href="/restart/l/04/01/" data-internal="true">01. Управляемая форма и её данные</a></li>
+<li><a href="/restart/l/04/02/" data-internal="true">02. Создание формы документа</a></li>
+<li><a href="/restart/l/04/03/" data-internal="true">03. Реквизиты формы и ПутьКДанным</a></li>
+<li><a href="/restart/l/04/04/" data-internal="true">04. Группы и страницы</a></li>
+<li><a href="/restart/l/04/05/" data-internal="true">05. Модуль формы и клиент-сервер</a></li>
+<li><a href="/restart/l/04/06/" data-internal="true">06. Команды формы и кнопки</a></li>
+<li><a href="/restart/l/04/07/" data-internal="true">07. Создание, открытие и закрытие формы</a></li>
+<li><a href="/restart/l/04/08/" data-internal="true">08. Изменение полей и обработчики событий</a></li>
+<li><a href="/restart/l/04/09/" data-internal="true">09. Таблица формы и текущая строка</a></li>
+<li><a href="/restart/l/04/10/" data-internal="true">10. Пересчёт строк и итога товаров</a></li>
+<li><a href="/restart/l/04/11/" data-internal="true">11. Видимость, доступность и ТолькоПросмотр</a></li>
+<li><a href="/restart/l/04/12/" data-internal="true">12. Проверка заполнения и сообщения</a></li>
+<li><a href="/restart/l/04/13/" data-internal="true">13. Запись из формы и события записи</a></li>
+<li><a href="/restart/l/04/14/" data-internal="true">14. Данные формы и прикладной объект</a></li>
+<li><a href="/restart/l/04/15/" data-internal="true">15. Открытие форм и параметры</a></li>
+<li><a href="/restart/l/04/16/" data-internal="true">16. Общая форма для подбора товара</a></li>
+<li><a href="/restart/l/04/17/" data-internal="true">17. Выбор и возврат результата</a></li>
+<li><a href="/restart/l/04/18/" data-internal="true">18. Ограничение выбора значений</a></li>
+<li><a href="/restart/l/04/19/" data-internal="true">19. Форма списка и динамический список</a></li>
+<li><a href="/restart/l/04/20/" data-internal="true">20. Программный отбор списка</a></li>
+<li><a href="/restart/l/04/21/" data-internal="true">21. Условное оформление</a></li>
+<li><a href="/restart/l/04/22/" data-internal="true">22. Асинхронные вопросы пользователю</a></li>
+<li><a href="/restart/l/04/23/" data-internal="true">23. Программное создание элементов формы</a></li>
+<li><a href="/restart/l/04/24/" data-internal="true">24. Загрузка таблицы формы на сервере</a></li>
+<li><a href="/restart/l/04/25/" data-internal="true">25. Отладка управляемой формы</a></li>
+<li><a href="/restart/l/04/26/" data-internal="true">26. Практика по форме документа</a></li>
+<li><a href="/restart/l/04/27/" data-internal="true">27. Практика по взаимодействию форм</a></li>
+<li><a href="/restart/l/04/28/" data-internal="true">28. Ошибки и памятка для повторения</a></li>
+<li><a href="/restart/l/04/29/" data-internal="true">29. Учебная обработка и проверка примеров</a></li>
+</ul></div>
+</details>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">🚀 05. Профессиональная разработка — 12 тем</summary>
+<div class="callout-body"><p><a href="/restart/l/05/00/" data-internal="true">Навигация по разделу</a></p><ul>
+<li><a href="/restart/l/05/01/" data-internal="true">01. Регистр остатков на практике</a></li>
+<li><a href="/restart/l/05/02/" data-internal="true">02. Контроль остатков и блокировки</a></li>
+<li><a href="/restart/l/05/03/" data-internal="true">03. Печатная форма документа</a></li>
+<li><a href="/restart/l/05/04/" data-internal="true">04. Расширения и перехват методов</a></li>
+<li><a href="/restart/l/05/05/" data-internal="true">05. Права доступа и RLS в коде</a></li>
+<li><a href="/restart/l/05/06/" data-internal="true">06. HTTP-запросы к внешним сервисам</a></li>
+<li><a href="/restart/l/05/07/" data-internal="true">07. HTTP-сервисы своей базы</a></li>
+<li><a href="/restart/l/05/08/" data-internal="true">08. XML и обмен данными</a></li>
+<li><a href="/restart/l/05/09/" data-internal="true">09. БСП и типовые конфигурации</a></li>
+<li><a href="/restart/l/05/10/" data-internal="true">10. Хранилище, EDT и Git</a></li>
+<li><a href="/restart/l/05/11/" data-internal="true">11. Стандарты кода и самопроверка</a></li>
+<li><a href="/restart/l/05/12/" data-internal="true">12. Итоговый проект и собеседование</a></li>
+</ul></div>
+</details>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">🧮 06. Алгоритмы для 1С — 17 тем</summary>
+<div class="callout-body"><p><a href="/restart/l/06/00/" data-internal="true">Навигация по разделу</a></p><ul>
+<li><a href="/restart/l/06/01/" data-internal="true">01. Что такое алгоритм и как решать задачи</a></li>
+<li><a href="/restart/l/06/02/" data-internal="true">02. Сложность алгоритмов</a></li>
+<li><a href="/restart/l/06/03/" data-internal="true">03. Массивы — базовые приёмы</a></li>
+<li><a href="/restart/l/06/04/" data-internal="true">04. Строки и символы</a></li>
+<li><a href="/restart/l/06/05/" data-internal="true">05. Соответствие как хеш-таблица</a></li>
+<li><a href="/restart/l/06/06/" data-internal="true">06. Два указателя</a></li>
+<li><a href="/restart/l/06/07/" data-internal="true">07. Скользящее окно</a></li>
+<li><a href="/restart/l/06/08/" data-internal="true">08. Префиксные суммы</a></li>
+<li><a href="/restart/l/06/09/" data-internal="true">09. Сортировки</a></li>
+<li><a href="/restart/l/06/10/" data-internal="true">10. Бинарный поиск</a></li>
+<li><a href="/restart/l/06/11/" data-internal="true">11. Стек и очередь</a></li>
+<li><a href="/restart/l/06/12/" data-internal="true">12. Рекурсия</a></li>
+<li><a href="/restart/l/06/13/" data-internal="true">13. Обход в глубину и ширину</a></li>
+<li><a href="/restart/l/06/14/" data-internal="true">14. Динамическое программирование</a></li>
+<li><a href="/restart/l/06/15/" data-internal="true">15. Жадные алгоритмы и интервалы</a></li>
+<li><a href="/restart/l/06/16/" data-internal="true">16. Практика — задачи с собеседований</a></li>
+<li><a href="/restart/l/06/17/" data-internal="true">17. Памятка — шаблоны и ошибки</a></li>
+</ul></div>
+</details>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">🧪 07. Тестирование 1С — 16 тем</summary>
+<div class="callout-body"><p><a href="/restart/l/07/00/" data-internal="true">Навигация по разделу</a></p><ul>
+<li><a href="/restart/l/07/01/" data-internal="true">01. Зачем нужно тестирование</a></li>
+<li><a href="/restart/l/07/02/" data-internal="true">02. Основные понятия тестирования</a></li>
+<li><a href="/restart/l/07/03/" data-internal="true">03. Виды и уровни тестирования</a></li>
+<li><a href="/restart/l/07/04/" data-internal="true">04. Техники тест-дизайна</a></li>
+<li><a href="/restart/l/07/05/" data-internal="true">05. Тест-кейсы и баг-репорты</a></li>
+<li><a href="/restart/l/07/06/" data-internal="true">06. Что и чем тестировать в 1С</a></li>
+<li><a href="/restart/l/07/07/" data-internal="true">07. Модульные тесты своими руками</a></li>
+<li><a href="/restart/l/07/08/" data-internal="true">08. Модульные тесты в YAxUnit</a></li>
+<li><a href="/restart/l/07/09/" data-internal="true">09. BDD и язык Gherkin</a></li>
+<li><a href="/restart/l/07/10/" data-internal="true">10. Vanessa Automation — установка и запуск</a></li>
+<li><a href="/restart/l/07/11/" data-internal="true">11. Первый сценарий в Vanessa Automation</a></li>
+<li><a href="/restart/l/07/12/" data-internal="true">12. Шаги, проверки и запись действий</a></li>
+<li><a href="/restart/l/07/13/" data-internal="true">13. Тестовые данные и независимость сценариев</a></li>
+<li><a href="/restart/l/07/14/" data-internal="true">14. Регрессия, отчёты и запуск без участия человека</a></li>
+<li><a href="/restart/l/07/15/" data-internal="true">15. Практика — тестируем расходную накладную</a></li>
+<li><a href="/restart/l/07/16/" data-internal="true">16. Памятка — тестирование</a></li>
+</ul></div>
+</details>
+<h2 id="учебная-база-и-примеры">Учебная база и примеры</h2>
+<ul>
+<li>Сквозная конфигурация «1С:Купец»: справочники <code>Номенклатура</code>, <code>Контрагенты</code>, <code>Договоры</code>, <code>Сотрудники</code>, <code>Склады</code>; документы <code>ЗаказКлиента</code>, <code>ПриходнаяНакладная</code>, <code>РасходнаяНакладная</code>; регистры <code>Продажи</code>, <code>ТоварыНаСкладах</code>, <code>ЦеныНоменклатуры</code>. Каждый новый объект описан в теме, где он появляется.</li>
+<li>Готовая внешняя обработка для экспериментов с формами — <a href="/restart/l/04/29/" data-internal="true">04/29</a>.</li>
+<li>Скриншоты — в папке <code>Картинки/</code> по разделам.</li>
+<li>Доступность методов проверяйте в <strong>Синтакс-помощнике</strong> своей версии платформы с учётом режима совместимости.</li>
+</ul>1a:[["$","$L26",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L27",null,{"tree":null,"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"3uhe47"}]}],["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L28",null,{"children":"$1a:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","00"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[17," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Конспект по 1С-программированию"}],["$","div",null,{"className":"mt-7","children":["$","$L29",null,{"id":"3uhe47","href":"/l/00/","title":"Оглавление"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$2a"}}],"$L2b","$L2c","$L2d","$L2e","$L2f"]}]]}],"$L30"]}]]
+31:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+32:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+33:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+34:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+35:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+2b:["$","$L31",null,{"targetId":"lesson-body"}]
+2c:["$","$L32",null,{"targetId":"lesson-body"}]
+2d:["$","$L33",null,{"targetId":"lesson-body"}]
+2e:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L29",null,{"id":"3uhe47","href":"/l/00/","title":"Оглавление","variant":"footer"}]}]
+2f:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","span",null,{"className":"hidden bg-background sm:block"}],["$","$L13",null,{"href":"/l/01/00/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L34",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Навигация по разделу"}]]}]]}]
+30:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L35",null,{"items":[{"id":"маршрут-обучения","text":"Маршрут обучения","depth":2},{"id":"как-устроена-каждая-заметка","text":"Как устроена каждая заметка","depth":2},{"id":"как-учиться-по-конспекту","text":"Как учиться по конспекту","depth":2},{"id":"шпаргалки","text":"Шпаргалки","depth":2},{"id":"все-темы","text":"Все темы","depth":2},{"id":"учебная-база-и-примеры","text":"Учебная база и примеры","depth":2}]}]}]

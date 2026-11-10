@@ -1,0 +1,250 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1b:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:"ViewportBoundary"
+1f:I[97367,["$2","$3","$4","$5","$6","$7"],"$1e"]
+21:"MetadataBoundary"
+22:I[97367,["$2","$3","$4","$5","$6","$7"],"$21"]
+24:I[68027,["$2","$3","$4","$5","$6","$7"],"default",1]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+:HL["/restart/_next/static/media/051742360c26797e-s.p.1bkzbscqrt8rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/26f284dcc38c84c0-s.p.3hlisc-pwq13z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/42b035f1a63f268d-s.p.2m8t2-vl1h1kf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/b4a06a523f527a0e-s.p.3psl0_mnhzy2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/cfdfbee4d6cf0a93-s.p.1jwcpm6w583_v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/e8768c288fbd3aa6-s.p.1t1z0xjflawjj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+17:X
+19:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L1a",[["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true,"nonce":"$undefined"}]],["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]]}],"p":false,"v":null}}]]
+18:[["children",{"s":{"n":"slug","t":"c","k":"08/04","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q19"}]]
+16:[["children",{"s":"l","h":131584,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q18"}]]
+0:{"P":null,"c":["","l","08","04",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true,"nonce":"$undefined"}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":false,"v":null},"c":"$Q16"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$L20"}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":"$L23"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$24",[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+17:C
+25:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+26:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+27:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+28:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+29:T1ddf,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">О шпаргалке</div>
+<div class="callout-body"><p>Самый частый вопрос новичка — «в какой модуль это писать?». Таблица модулей, ключевых событий и решений «клиент или сервер».</p></div>
+</div>
+<h2 id="модули">Модули</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Модуль</th><th>Где найти</th><th>Что там пишут</th><th>Контекст</th></tr></thead><tbody><tr><td>Модуль управляемого приложения</td><td>ПКМ по корню конфигурации</td><td><code>ПриНачалеРаботыСистемы</code>, <code>ПередЗавершениемРаботыСистемы</code></td><td>Клиент</td></tr><tr><td>Модуль сеанса</td><td>ПКМ по корню конфигурации</td><td><code>УстановкаПараметровСеанса</code></td><td>Сервер</td></tr><tr><td>Модуль объекта</td><td>Объект → «Прочее»</td><td><code>ПередЗаписью</code>, <code>ПриЗаписи</code>, <code>ОбработкаПроведения</code>, <code>ОбработкаЗаполнения</code>, <code>ОбработкаПроверкиЗаполнения</code>, экспортные методы объекта</td><td>Сервер</td></tr><tr><td>Модуль менеджера</td><td>Объект → «Прочее»</td><td>Печать, <code>ОбработкаПолученияПредставления</code>, <code>ОбработкаПолученияДанныхВыбора</code>, операции над видом объекта</td><td>Сервер</td></tr><tr><td>Модуль формы</td><td>Редактор формы → «Модуль»</td><td>События формы и элементов, команды формы</td><td>Клиент + сервер (директивы)</td></tr><tr><td>Модуль команды</td><td>Команда объекта или общая команда</td><td><code>ОбработкаКоманды(Параметр, ПараметрыВыполнения)</code></td><td>Клиент (+ серверные функции)</td></tr><tr><td>Общий модуль</td><td>Общие → Общие модули</td><td>Повторно используемые методы</td><td>По флажкам: Клиент / Сервер / Вызов сервера / Привилегированный</td></tr><tr><td>Модуль набора записей регистра</td><td>Регистр → «Прочее»</td><td><code>ПередЗаписью</code>, <code>ПриЗаписи</code> набора</td><td>Сервер</td></tr><tr><td>Модуль HTTP-сервиса</td><td>Общие → HTTP-сервисы</td><td>Обработчики методов шаблонов URL</td><td>Сервер</td></tr></tbody></table></div>
+<h2 id="решение-куда-писать">Решение «куда писать»</h2>
+<pre><pre class="mermaid-source">flowchart TD
+    Q{"Правило должно работать&#x3C;br/>при ЛЮБОЙ записи?"} -- да --> O["Модуль объекта&#x3C;br/>(или подписка для многих объектов)"]
+    Q -- нет --> F{"Это реакция&#x3C;br/>интерфейса?"}
+    F -- да --> FC["Модуль формы &#x26;НаКлиенте&#x3C;br/>(+ сервер без контекста для данных)"]
+    F -- нет --> R{"Нужно в нескольких местах?"}
+    R -- да --> C["Общий модуль"]
+    R -- нет --> M["Модуль менеджера&#x3C;br/>(операция над видом объектов)"]
+</pre></pre>
+<h2 id="клиент-или-сервер">Клиент или сервер</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Нужно</th><th>Где</th></tr></thead><tbody><tr><td>Показать вопрос, предупреждение, открыть форму</td><td>Клиент</td></tr><tr><td>Текущая строка таблицы, видимость элемента</td><td>Клиент</td></tr><tr><td>Простая арифметика над данными формы</td><td>Клиент</td></tr><tr><td>Запрос, <code>ПолучитьОбъект()</code>, запись, движения</td><td>Сервер</td></tr><tr><td>Чтение реквизита по ссылке (<code>Ссылка.Наименование</code>)</td><td>Сервер</td></tr><tr><td>Файлы на диске сервера, HTTP-запросы к внешним сервисам</td><td>Сервер</td></tr><tr><td>Тяжёлая длительная операция</td><td>Фоновое задание</td></tr></tbody></table></div>
+<h2 id="директивы-модуля-формы">Директивы модуля формы</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Директива</th><th>Данные формы на сервере</th><th>Когда</th></tr></thead><tbody><tr><td><code>&#x26;НаКлиенте</code></td><td>—</td><td>Интерфейс и ввод</td></tr><tr><td><code>&#x26;НаСервере</code></td><td>Передаются</td><td>Нужно менять реквизиты формы на сервере (<code>ЗначениеВРеквизитФормы</code>, <code>РеквизитФормыВЗначение</code>)</td></tr><tr><td><code>&#x26;НаСервереБезКонтекста</code></td><td>Не передаются</td><td>Получить данные по параметрам — <strong>по умолчанию для серверных функций формы</strong></td></tr><tr><td><code>&#x26;НаКлиентеНаСервереБезКонтекста</code></td><td>—</td><td>Чистые вычисления, нужные и там и там</td></tr></tbody></table></div>
+<h2 id="флажки-общего-модуля">Флажки общего модуля</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Комбинация</th><th>Назначение</th><th>Пример имени</th></tr></thead><tbody><tr><td>Сервер</td><td>Серверная логика, вызывается из серверного кода</td><td><code>ПродажиСервер</code></td></tr><tr><td>Сервер + Вызов сервера</td><td>Вызов с клиента</td><td><code>ПродажиВызовСервера</code></td></tr><tr><td>Клиент</td><td>Клиентская логика</td><td><code>ПродажиКлиент</code></td></tr><tr><td>Клиент + Сервер</td><td>Общие вычисления без обращения к базе</td><td><code>ПродажиКлиентСервер</code></td></tr><tr><td>Сервер + Привилегированный</td><td>Без проверки прав — осторожно</td><td><code>ПродажиПолныеПрава</code></td></tr></tbody></table></div>
+<p>Суффиксы имён — соглашение стандартов 1С: по имени сразу видно, где работает модуль. Подробно — <a href="/restart/l/02/26/" data-internal="true">26. Общие модули и контекст выполнения</a>.</p>1a:[["$","$L25",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L26",null,{"tree":{"kind":"folder","id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/","children":[{"kind":"lesson","id":"9lsajs","num":"01","title":"Глоссарий","href":"/l/08/01/","children":"$undefined"},{"kind":"lesson","id":"bohw8k","num":"02","title":"Горячие клавиши","href":"/l/08/02/","children":"$undefined"},{"kind":"lesson","id":"18jurmv","num":"03","title":"Встроенный язык — шпаргалка","href":"/l/08/03/","children":"$undefined"},{"kind":"lesson","id":"1mp4jh9","num":"04","title":"Где писать код","href":"/l/08/04/","children":"$undefined"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"1mp4jh9"}]}],["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L27",null,{"children":"$1a:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","6h5z3e",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/08/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"08"}],"Шпаргалки"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","04"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[3," ","минуты"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Где писать код"}],["$","div",null,{"className":"mt-7","children":["$","$L28",null,{"id":"1mp4jh9","href":"/l/08/04/","title":"Где писать код"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$29"}}],"$L2a","$L2b","$L2c","$L2d","$L2e"]}]]}],"$L2f"]}]]
+30:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+31:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+32:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+33:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+34:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+2a:["$","$L30",null,{"targetId":"lesson-body"}]
+2b:["$","$L31",null,{"targetId":"lesson-body"}]
+2c:["$","$L32",null,{"targetId":"lesson-body"}]
+2d:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L28",null,{"id":"1mp4jh9","href":"/l/08/04/","title":"Где писать код","variant":"footer"}]}]
+2e:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/08/03/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L33",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Встроенный язык — шпаргалка"}]]}],["$","span",null,{"className":"hidden bg-background sm:block"}]]}]
+2f:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L34",null,{"items":[{"id":"модули","text":"Модули","depth":2},{"id":"решение-куда-писать","text":"Решение «куда писать»","depth":2},{"id":"клиент-или-сервер","text":"Клиент или сервер","depth":2},{"id":"директивы-модуля-формы","text":"Директивы модуля формы","depth":2},{"id":"флажки-общего-модуля","text":"Флажки общего модуля","depth":2}]}]}]
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]
+35:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+1d:null
+23:[["$","title","0",{"children":"Где писать код · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L35","3",{}]]

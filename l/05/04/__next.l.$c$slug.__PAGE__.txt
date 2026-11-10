@@ -1,0 +1,254 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1e:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+1f:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+25:"ViewportBoundary"
+26:I[97367,["$2","$3","$4","$5","$6","$7"],"$25"]
+27:"MetadataBoundary"
+28:I[97367,["$2","$3","$4","$5","$6","$7"],"$27"]
+29:"$Sreact.suspense"
+2a:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+17:X
+1a:X
+1a:C
+1d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L1e",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L1f",null,{"tree":{"kind":"folder","id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/","children":[{"kind":"lesson","id":"1ocm90a","num":"00","title":"Навигация по разделу","href":"/l/05/00/"},{"kind":"lesson","id":"156dahn","num":"01","title":"Регистр остатков на практике","href":"/l/05/01/"},{"kind":"lesson","id":"12ipfvj","num":"02","title":"Контроль остатков и блокировки","href":"/l/05/02/"},{"kind":"lesson","id":"17sy5u8","num":"03","title":"Печатная форма документа","href":"/l/05/03/"},{"kind":"lesson","id":"1mwbtob","num":"04","title":"Расширения и перехват методов","href":"/l/05/04/"},{"kind":"lesson","id":"rnlg54","num":"05","title":"Права доступа и RLS в коде","href":"/l/05/05/"},{"kind":"lesson","id":"zdu71r","num":"06","title":"HTTP-запросы к внешним сервисам","href":"/l/05/06/"},{"kind":"lesson","id":"1gtg1nd","num":"07","title":"HTTP-сервисы своей базы","href":"/l/05/07/"},{"kind":"lesson","id":"19by7yp","num":"08","title":"XML и обмен данными","href":"/l/05/08/"},{"kind":"lesson","id":"1liwwkn","num":"09","title":"БСП и типовые конфигурации","href":"/l/05/09/"},{"kind":"lesson","id":"8cetis","num":"10","title":"Хранилище, EDT и Git","href":"/l/05/10/"},{"kind":"lesson","id":"3um01i","num":"11","title":"Стандарты кода и самопроверка","href":"/l/05/11/"},{"kind":"lesson","id":"g4vhr2","num":"12","title":"Итоговый проект и собеседование","href":"/l/05/12/"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"1mwbtob"}]}],"$L20","$L21"]}]],["$L22"],"$L23"]}],"p":"$@24","v":null,"s":"$17"}}]]
+1b:[["children",{"s":{"n":"slug","t":"c","k":"05/04","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@1c","v":"$1a","s":"$17"},"c":"$Q1d"}]]
+18:[["children",{"s":"l","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@19","v":"$1a","s":"$17"},"c":"$Q1b"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]]}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":"$@16","v":null,"s":"$17"},"c":"$Q18"},"h":{"r":["$","$1","h",{"children":[null,["$","$L26",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]}],["$","$L28",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$29",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Расширения и перехват методов · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L2a","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@2b","v":null,"s":"$17"}},"a":"$@2c","u":"$@2d","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+2e:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+2f:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+36:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+37:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+30:T6a9e,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p><strong>Расширение</strong> — отдельный «слой» доработок поверх типовой конфигурации: свои объекты и <strong>заимствованные</strong> объекты основной конфигурации, в которые добавляем реквизиты, формы и код. Методы перехватываем аннотациями: <code>&#x26;Перед</code>, <code>&#x26;После</code>, <code>&#x26;Вместо</code> (+ <code>ПродолжитьВызов()</code>), <code>&#x26;ИзменениеИКонтроль</code> (точечные <code>#Вставка</code>/<code>#Удаление</code>). Имена своих объектов и методов — с <strong>префиксом</strong> расширения. Основная конфигурация остаётся на поддержке; после обновления всё равно проверяем применимость расширения и его сценарии.</p></div>
+</div>
+<h2 id="проблема-которую-решают-расширения">Проблема, которую решают расширения</h2>
+<p>Типовая конфигурация (например, «Бухгалтерия») — программа, которую написала фирма 1С и регулярно обновляет. Допустим, клиенту нужна доработка: проверка, что в накладной есть хотя бы одна строка. Если вписать этот код прямо в типовую конфигурацию, при каждом обновлении придётся вручную переносить свою правку в новую версию — долго и с риском ошибок.</p>
+<p><strong>Расширение</strong> — это доработки, вынесенные в отдельный «слой» поверх типовой конфигурации. Типовая остаётся нетронутой и обновляется как обычно, а расширение подключается сверху.</p>
+<p>Аналогия — <strong>прозрачная плёнка на карте</strong>. Карту (типовую конфигурацию) периодически заменяют на новую. Свои пометки вы рисуете не на карте, а на плёнке поверх неё. Новую карту положили — плёнку наложили сверху, пометки на месте. Только если на новой карте сдвинулись улицы, пометки придётся поправить.</p>
+<h2 id="когда-расширение-а-когда-правка-конфигурации">Когда расширение, а когда правка конфигурации</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Ситуация</th><th>Решение</th></tr></thead><tbody><tr><td>Типовая на поддержке, нужна доработка</td><td><strong>Расширение</strong> — стандарт де-факто</td></tr><tr><td>Своя конфигурация, полный контроль</td><td>Правим основную конфигурацию</td></tr><tr><td>Нужно изменить структуру типового объекта</td><td>Расширение умеет добавлять реквизиты, табличные части, формы; удалять/менять типовые — нет</td></tr></tbody></table></div>
+<h2 id="создание-расширения">Создание расширения</h2>
+<p><strong>Конфигурация → Расширения конфигурации → Добавить</strong>:</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/01.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/27-%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%B0%D1%86%D0%B8%D0%B8.png" alt="27-Расширения-конфигурации.png" loading="lazy" decoding="async"></p>
+<p><em>Окно расширений и диалог нового расширения: имя, синоним, префикс, назначение.</em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Поле</th><th>Пример</th><th>Зачем</th></tr></thead><tbody><tr><td>Имя</td><td><code>КупецДоработки</code></td><td>Идентификатор расширения</td></tr><tr><td>Префикс</td><td><code>Куп_</code></td><td>Добавляется к именам своих объектов и методов — не будет конфликтов с типовыми</td></tr><tr><td>Назначение</td><td>Адаптация</td><td>Исправление / Адаптация / Дополнение</td></tr></tbody></table></div>
+<p>Открываем расширение (<strong>Действия → Открыть конфигурацию</strong>) — появится отдельное дерево.</p>
+<h2 id="заимствование-объекта">Заимствование объекта</h2>
+<p>В дереве <strong>основной</strong> конфигурации: ПКМ по <code>РасходнаяНакладная</code> → <strong>Добавить в расширение</strong> (<code>Alt+Shift+F2</code>). В дереве расширения объект появится как заимствованный. Теперь можно:</p>
+<ul>
+<li>добавить ему <strong>свой реквизит</strong> <code>Куп_Комментарий</code>;</li>
+<li>заимствовать его <strong>форму</strong> и вывести поле;</li>
+<li>заимствовать <strong>модуль</strong> и перехватить методы.</li>
+</ul>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Режим контроля свойств</div>
+<div class="callout-body"><p>У заимствованного объекта по умолчанию проверяется, что его свойства в основной конфигурации не изменились. Если поставщик поменял объект, расширение предупредит при обновлении. Это полезно — не отключаем без причины.</p></div>
+</div>
+<h2 id="аннотации-перехвата">Аннотации перехвата</h2>
+<p>Открываем модуль объекта заимствованного документа и пишем методы с аннотацией. Имя своего метода — любое (принято с префиксом), имя перехватываемого — в скобках.</p>
+<h3 id="перед--выполнить-до"><code>&#x26;Перед</code> — выполнить до</h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;Перед</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-string-expression)">"ПередЗаписью"</span><span style="color:var(--shiki-foreground)">)</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> Куп_ПередЗаписью</span><span style="color:var(--shiki-foreground)">(Отказ</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> РежимЗаписи</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> РежимПроведения)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Если</span><span style="color:var(--shiki-token-keyword)"> НЕ</span><span style="color:var(--shiki-foreground)"> Отказ </span><span style="color:var(--shiki-token-keyword)">И</span><span style="color:var(--shiki-foreground)"> Товары.Количество() </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)"> И</span><span style="color:var(--shiki-foreground)"> Услуги.Количество() </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)"> Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Сообщение </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> СообщениеПользователю</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Сообщение.Текст </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-string-expression)"> "Добавьте хотя бы один товар или услугу"</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Сообщение.Поле </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-string-expression)"> "Товары"</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Сообщение.УстановитьДанные(ЭтотОбъект)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Сообщение.Сообщить()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Отказ </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> Истина</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЕсли;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span></code></pre></figure>
+<p>Сначала выполнится наш метод, затем типовой <code>ПередЗаписью</code>. Если мы установили <code>Отказ</code>, типовой код всё равно выполнится (с <code>Отказ = Истина</code>) — запись не произойдёт.</p>
+<h3 id="после--выполнить-после"><code>&#x26;После</code> — выполнить после</h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;После</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-string-expression)">"ОбработкаЗаполнения"</span><span style="color:var(--shiki-foreground)">)</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> Куп_ОбработкаЗаполнения</span><span style="color:var(--shiki-foreground)">(ДанныеЗаполнения</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> СтандартнаяОбработка)</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Если</span><span style="color:var(--shiki-token-keyword)"> НЕ</span><span style="color:var(--shiki-token-function)"> ЗначениеЗаполнено</span><span style="color:var(--shiki-foreground)">(Куп_Комментарий) </span><span style="color:var(--shiki-token-keyword)">Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Куп_Комментарий </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-string-expression)"> "Создан "</span><span style="color:var(--shiki-token-keyword)"> +</span><span style="color:var(--shiki-token-function)"> Формат</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-function)">ТекущаяДатаСеанса</span><span style="color:var(--shiki-foreground)">()</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "ДЛФ=D"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span></code></pre></figure>
+<h3 id="вместо--заменить"><code>&#x26;Вместо</code> — заменить</h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;Вместо</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-string-expression)">"ПересчитатьСуммыТоваров"</span><span style="color:var(--shiki-foreground)">)</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> Куп_ПересчитатьСуммыТоваров</span><span style="color:var(--shiki-foreground)">()</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-function)">	ПродолжитьВызов</span><span style="color:var(--shiki-foreground)">()</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">           // выполнить исходный метод (можно не вызывать)</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для Каждого</span><span style="color:var(--shiki-foreground)"> Строка </span><span style="color:var(--shiki-token-keyword)">Из</span><span style="color:var(--shiki-foreground)"> Товары </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Строка.Сумма </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Окр</span><span style="color:var(--shiki-foreground)">(Строка.Сумма </span><span style="color:var(--shiki-token-keyword)">*</span><span style="color:var(--shiki-token-constant)"> 0.95</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 2</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">   // наша скидка 5%</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ИтоговаяСумма </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Товары.Итог(</span><span style="color:var(--shiki-token-string-expression)">"Сумма"</span><span style="color:var(--shiki-foreground)">) </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-foreground)"> Услуги.Итог(</span><span style="color:var(--shiki-token-string-expression)">"Сумма"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span></code></pre></figure>
+<p><code>ПродолжитьВызов()</code> вызывает исходный метод (и перехваты других расширений). Если его не вызвать — исходный код не выполнится вовсе. Для функций: <code>Результат = ПродолжитьВызов(параметры)</code>.</p>
+<p>Метод <code>ПересчитатьСуммыТоваров</code> должен существовать в исходном модуле и каждый раз считать сумму <strong>от количества и цены</strong>, а не от прежней суммы. Иначе повторный вызов применит скидку ещё раз. После скидки пересчитываем <code>ИтоговаяСумма</code> с учётом товаров и услуг. Два показанных способа изменения одного метода — альтернативы: одновременно их не подключаем.</p>
+<h3 id="изменениеиконтроль--точечная-правка"><code>&#x26;ИзменениеИКонтроль</code> — точечная правка</h3>
+<p>Копируем текст исходного метода и помечаем изменения:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;ИзменениеИКонтроль</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-string-expression)">"ПересчитатьСуммыТоваров"</span><span style="color:var(--shiki-foreground)">)</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> Куп_ПересчитатьСуммыТоваров</span><span style="color:var(--shiki-foreground)">()</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для Каждого</span><span style="color:var(--shiki-foreground)"> СтрокаТовара </span><span style="color:var(--shiki-token-keyword)">Из</span><span style="color:var(--shiki-foreground)"> Товары </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		#Удаление</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		СтрокаТовара.Сумма </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Окр</span><span style="color:var(--shiki-foreground)">(СтрокаТовара.Количество </span><span style="color:var(--shiki-token-keyword)">*</span><span style="color:var(--shiki-foreground)"> СтрокаТовара.Цена</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 2</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		#КонецУдаления</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		#Вставка</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		СтрокаТовара.Сумма </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Окр</span><span style="color:var(--shiki-foreground)">(СтрокаТовара.Количество </span><span style="color:var(--shiki-token-keyword)">*</span><span style="color:var(--shiki-foreground)"> СтрокаТовара.Цена </span><span style="color:var(--shiki-token-keyword)">*</span><span style="color:var(--shiki-token-constant)"> 0.95</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 2</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		#КонецВставки</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span></code></pre></figure>
+<p>Платформа <strong>контролирует</strong>, что исходный текст не изменился: если поставщик в обновлении поменял метод, расширение перестанет применяться с понятной ошибкой — вы увидите, что правку нужно пересмотреть.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Аннотация</th><th>Когда применять</th></tr></thead><tbody><tr><td><code>&#x26;Перед</code> / <code>&#x26;После</code></td><td>Добавить логику, не трогая исходную — <strong>предпочтительно</strong></td></tr><tr><td><code>&#x26;Вместо</code> + <code>ПродолжитьВызов()</code></td><td>Обернуть или заменить метод целиком</td></tr><tr><td><code>&#x26;ИзменениеИКонтроль</code></td><td>Нужно изменить середину метода; изменение исходника будет замечено</td></tr></tbody></table></div>
+<h2 id="формы-в-расширении">Формы в расширении</h2>
+<p>Заимствуем форму → в редакторе добавляем свои элементы и команды → в модуле формы перехватываем обработчики теми же аннотациями, например <code>&#x26;После("ПриСозданииНаСервере")</code>. Элемент типовой формы можно скрыть, но не удалить.</p>
+<h2 id="применение-и-отладка">Применение и отладка</h2>
+<ol>
+<li><strong>Конфигурация → Обновить конфигурацию базы данных</strong> для расширения (из его окна) — <code>F7</code>.</li>
+<li>Новые сеансы получат расширение; открытые — после перезапуска.</li>
+<li>Отладка — как обычно: точка останова в модуле расширения.</li>
+<li>Выгрузка — файл <code>.cfe</code>; загрузка на рабочую базу — <strong>Расширения конфигурации → Загрузить</strong> (или через Предприятие: «Администрирование → Расширения» в типовых).</li>
+</ol>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Безопасный режим и защита от опасных действий</div>
+<div class="callout-body"><p>Расширение, загруженное <strong>в Предприятии</strong>, по умолчанию работает в <strong>безопасном режиме</strong> (нет доступа к файлам, COM, внешним компонентам) и может требовать подтверждения. Если доработке нужен такой доступ — отключение безопасного режима решает администратор осознанно.</p></div>
+</div>
+<h2 id="ограничения">Ограничения</h2>
+<ul>
+<li>Нельзя удалить или переименовать типовой реквизит, изменить его тип.</li>
+<li>Собственные данные расширения (свои справочники, реквизиты) удалятся вместе с ним — перед удалением делаем <code>.dt</code>.</li>
+<li>После обновления типовой конфигурации проверяем, применяется ли расширение и работают ли перехваченные сценарии (<a href="/restart/l/01/27/" data-internal="true">27. Сравнение, поддержка и расширения</a>).</li>
+</ul>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Чем <code>&#x26;Перед</code> безопаснее <code>&#x26;Вместо</code>?</p>
+</li>
+<li>
+<p>Что будет, если в <code>&#x26;Вместо</code> не вызвать <code>ПродолжитьВызов()</code>?</p>
+</li>
+<li>
+<p>Зачем нужен префикс расширения?</p>
+</li>
+<li>
+<p>Поставщик изменил метод, перехваченный через <code>&#x26;ИзменениеИКонтроль</code>. Что произойдёт?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Исходный код выполняется в любом случае — меньше шанс сломать типовую логику при обновлении.</li>
+<li>Исходный метод не выполнится.</li>
+<li>Чтобы имена своих объектов и методов не пересеклись с объектами конфигурации и других расширений.</li>
+<li>Расширение не применится, платформа сообщит о расхождении — правку нужно перенести на новый текст метода.</li>
+</ol></div>
+</details></div>
+</details>20:["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L2e",null,{"children":"$1d:0:1:d:r:props:children:0:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","1c9mnd1",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/05/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"05"}],"Профессиональная разработка"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","04"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[6," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Расширения и перехват методов"}],["$","div",null,{"className":"mt-7","children":["$","$L2f",null,{"id":"1mwbtob","href":"/l/05/04/","title":"Расширения и перехват методов"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$30"}}],"$L31","$L32","$L33","$L34","$L35"]}]]}]
+21:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L36",null,{"items":[{"id":"проблема-которую-решают-расширения","text":"Проблема, которую решают расширения","depth":2},{"id":"когда-расширение-а-когда-правка-конфигурации","text":"Когда расширение, а когда правка конфигурации","depth":2},{"id":"создание-расширения","text":"Создание расширения","depth":2},{"id":"заимствование-объекта","text":"Заимствование объекта","depth":2},{"id":"аннотации-перехвата","text":"Аннотации перехвата","depth":2},{"id":"перед--выполнить-до","text":"&Перед — выполнить до","depth":3},{"id":"после--выполнить-после","text":"&После — выполнить после","depth":3},{"id":"вместо--заменить","text":"&Вместо — заменить","depth":3},{"id":"изменениеиконтроль--точечная-правка","text":"&ИзменениеИКонтроль — точечная правка","depth":3},{"id":"формы-в-расширении","text":"Формы в расширении","depth":2},{"id":"применение-и-отладка","text":"Применение и отладка","depth":2},{"id":"ограничения","text":"Ограничения","depth":2}]}]}]
+22:["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true}]
+23:["$","$L37",null,{"children":["$","$29",null,{"name":"Next.MetadataOutlet","children":"$@38"}]}]
+39:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+3a:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+3b:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+3c:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+17:300
+31:["$","$L39",null,{"targetId":"lesson-body"}]
+32:["$","$L3a",null,{"targetId":"lesson-body"}]
+33:["$","$L3b",null,{"targetId":"lesson-body"}]
+34:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L2f",null,{"id":"1mwbtob","href":"/l/05/04/","title":"Расширения и перехват методов","variant":"footer"}]}]
+35:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/05/03/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L3c",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Печатная форма документа"}]]}],["$","$L13",null,{"href":"/l/05/05/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L3c",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Права доступа и RLS в коде"}]]}]]}]
+38:null
+2d:true
+17:C
+2c:0
+1c:"$undefined"
+19:"$undefined"
+16:"$undefined"
+2b:"$undefined"
+24:"$undefined"

@@ -1,0 +1,306 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1e:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+1f:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+25:"ViewportBoundary"
+26:I[97367,["$2","$3","$4","$5","$6","$7"],"$25"]
+27:"MetadataBoundary"
+28:I[97367,["$2","$3","$4","$5","$6","$7"],"$27"]
+29:"$Sreact.suspense"
+2a:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+17:X
+1a:X
+1a:C
+1d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L1e",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L1f",null,{"tree":{"kind":"folder","id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/","children":[{"kind":"lesson","id":"1hx2s48","num":"00","title":"Навигация по разделу","href":"/l/07/00/"},{"kind":"lesson","id":"1vki0ku","num":"01","title":"Зачем нужно тестирование","href":"/l/07/01/"},{"kind":"lesson","id":"1ft8vz9","num":"02","title":"Основные понятия тестирования","href":"/l/07/02/"},{"kind":"lesson","id":"5olfwt","num":"03","title":"Виды и уровни тестирования","href":"/l/07/03/"},{"kind":"lesson","id":"1s0acu1","num":"04","title":"Техники тест-дизайна","href":"/l/07/04/"},{"kind":"lesson","id":"1ept4s1","num":"05","title":"Тест-кейсы и баг-репорты","href":"/l/07/05/"},{"kind":"lesson","id":"1qld6tb","num":"06","title":"Что и чем тестировать в 1С","href":"/l/07/06/"},{"kind":"lesson","id":"fm5x90","num":"07","title":"Модульные тесты своими руками","href":"/l/07/07/"},{"kind":"lesson","id":"2e0v2y","num":"08","title":"Модульные тесты в YAxUnit","href":"/l/07/08/"},{"kind":"lesson","id":"e3l0hr","num":"09","title":"BDD и язык Gherkin","href":"/l/07/09/"},{"kind":"lesson","id":"79gt5r","num":"10","title":"Vanessa Automation — установка и запуск","href":"/l/07/10/"},{"kind":"lesson","id":"1lcgo32","num":"11","title":"Первый сценарий в Vanessa Automation","href":"/l/07/11/"},{"kind":"lesson","id":"j3qawi","num":"12","title":"Шаги, проверки и запись действий","href":"/l/07/12/"},{"kind":"lesson","id":"1aeq2d9","num":"13","title":"Тестовые данные и независимость сценариев","href":"/l/07/13/"},{"kind":"lesson","id":"1qqfmo6","num":"14","title":"Регрессия, отчёты и запуск без участия человека","href":"/l/07/14/"},{"kind":"lesson","id":"shckox","num":"15","title":"Практика — тестируем расходную накладную","href":"/l/07/15/"},{"kind":"lesson","id":"11nejw8","num":"16","title":"Памятка — тестирование","href":"/l/07/16/"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"2e0v2y"}]}],"$L20","$L21"]}]],["$L22"],"$L23"]}],"p":"$@24","v":null,"s":"$17"}}]]
+1b:[["children",{"s":{"n":"slug","t":"c","k":"07/08","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@1c","v":"$1a","s":"$17"},"c":"$Q1d"}]]
+18:[["children",{"s":"l","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@19","v":"$1a","s":"$17"},"c":"$Q1b"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]]}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":"$@16","v":null,"s":"$17"},"c":"$Q18"},"h":{"r":["$","$1","h",{"children":[null,["$","$L26",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]}],["$","$L28",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$29",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Модульные тесты в YAxUnit · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L2a","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@2b","v":null,"s":"$17"}},"a":"$@2c","u":"$@2d","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+2e:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+2f:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+36:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+37:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+30:T5767,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p><strong>YAxUnit</strong> — открытый фреймворк модульного тестирования для 1С. Устанавливается как <strong>расширение конфигурации</strong>; тесты пишутся в <strong>общих модулях</strong> (обычно в отдельном расширении с тестами). В модуле — экспортная процедура <code>ИсполняемыеСценарии()</code>, где тесты регистрируются через <code>ЮТТесты.ДобавитьТест("ИмяТеста")</code>, и экспортные процедуры-тесты. Проверки пишутся «текучим» синтаксисом: <code>ЮТест.ОжидаетЧто(Результат).Равно(300)</code>. Запуск — из интерфейса YAxUnit в 1С:Предприятии, из EDT или командной строкой с параметром <code>/C RunUnitTests=…</code>; результат — отчёт с зелёными и красными тестами, который понимают CI-системы.</p></div>
+</div>
+<h2 id="зачем-фреймворк-если-тесты-можно-написать-самому">Зачем фреймворк, если тесты можно написать самому</h2>
+<p>В прошлом уроке мы сделали тестовую обработку с процедурой <code>ПроверитьРавенство()</code> и счётчиками (<a href="/restart/l/07/07/" data-internal="true">07. Модульные тесты своими руками</a>). Для учёбы это отлично, но в реальном проекте быстро понадобится больше:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Нужно</th><th>Своя обработка</th><th>Фреймворк</th></tr></thead><tbody><tr><td>Десятки видов проверок: равно, заполнено, тип, содержит, исключение</td><td>Писать самому</td><td>Готово</td></tr><tr><td>Тесты с разными параметрами</td><td>Копировать тесты</td><td>Один тест + набор параметров</td></tr><tr><td>Отчёт для CI (JUnit, Allure)</td><td>Писать самому</td><td>Готово</td></tr><tr><td>Запуск только упавших / одного модуля</td><td>Нет</td><td>Есть</td></tr><tr><td>Подготовка и откат данных</td><td>Самому</td><td>Вспомогательные методы</td></tr></tbody></table></div>
+<p><strong>YAxUnit</strong> — популярный открытый фреймворк от сообщества 1С-разработчиков (проект bia-technologies на GitHub). Документация: <a href="https://bia-technologies.github.io/yaxunit/" target="_blank" rel="noopener noreferrer">bia-technologies.github.io/yaxunit</a>.</p>
+<h2 id="как-устроено">Как устроено</h2>
+<pre><pre class="mermaid-source">flowchart LR
+    A["Основная конфигурация&#x3C;br/>«Купец»"] --- B["Расширение YAxUnit&#x3C;br/>движок тестов"]
+    A --- C["Расширение с тестами&#x3C;br/>общие модули ОМ_…"]
+    C -->|вызывает| A
+    B -->|находит и запускает| C
+</pre></pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Часть</th><th>Что это</th></tr></thead><tbody><tr><td>Расширение <strong>YAxUnit</strong></td><td>«Движок»: находит тестовые модули, запускает тесты, строит отчёт. Скачивается из релизов проекта и загружается в базу как расширение (<a href="/restart/l/05/04/" data-internal="true">04. Расширения</a>)</td></tr><tr><td><strong>Расширение с тестами</strong></td><td>Ваши тестовые модули. Держать тесты в отдельном расширении удобно: основная конфигурация остаётся чистой, тесты не попадают к пользователям</td></tr><tr><td>Тестовые модули</td><td>Общие модули с префиксом, например <code>ОМ_РасчетыКлиентСервер</code> — тесты для модуля <code>РасчетыКлиентСервер</code></td></tr></tbody></table></div>
+<div class="callout callout-info" data-callout="info">
+<div class="callout-title">Безопасный режим</div>
+<div class="callout-body"><p>После загрузки расширения YAxUnit в базу у него нужно отключить <strong>безопасный режим</strong> и <strong>защиту от опасных действий</strong> — так требует документация фреймворка. Делайте это только в тестовой базе.</p></div>
+</div>
+<h2 id="первый-тест">Первый тест</h2>
+<p>Тестируем функции из прошлого урока — <code>РасчетыКлиентСервер.РассчитатьСуммуСтроки</code> и <code>СуммаСоСкидкой</code>.</p>
+<p>Создаём в расширении с тестами общий модуль <code>ОМ_РасчетыКлиентСервер</code> (флажки «Клиент» и «Сервер» — чтобы тесты могли выполняться в обоих контекстах) и пишем:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-comment)">// Регистрация тестов модуля: YAxUnit вызывает эту процедуру сам</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> ИсполняемыеСценарии</span><span style="color:var(--shiki-foreground)">() </span><span style="color:var(--shiki-token-keyword)">Экспорт</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ЮТТесты</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		.ДобавитьТест(</span><span style="color:var(--shiki-token-string-expression)">"СуммаСтроки_ЦелыеЧисла"</span><span style="color:var(--shiki-foreground)">)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		.ДобавитьТест(</span><span style="color:var(--shiki-token-string-expression)">"СуммаСтроки_Округление"</span><span style="color:var(--shiki-foreground)">)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		.ДобавитьТест(</span><span style="color:var(--shiki-token-string-expression)">"Скидка_ГраничныеЗначения"</span><span style="color:var(--shiki-foreground)">)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			.СПараметрами(</span><span style="color:var(--shiki-token-constant)">99</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 10</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 990</span><span style="color:var(--shiki-foreground)">)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			.СПараметрами(</span><span style="color:var(--shiki-token-constant)">100</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 10</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 950</span><span style="color:var(--shiki-foreground)">)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			.СПараметрами(</span><span style="color:var(--shiki-token-constant)">101</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 10</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 959.5</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> СуммаСтроки_ЦелыеЧисла</span><span style="color:var(--shiki-foreground)">() </span><span style="color:var(--shiki-token-keyword)">Экспорт</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Результат </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> РасчетыКлиентСервер.РассчитатьСуммуСтроки(</span><span style="color:var(--shiki-token-constant)">2</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 150</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ЮТест.ОжидаетЧто(Результат).Равно(</span><span style="color:var(--shiki-token-constant)">300</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> СуммаСтроки_Округление</span><span style="color:var(--shiki-foreground)">() </span><span style="color:var(--shiki-token-keyword)">Экспорт</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Результат </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> РасчетыКлиентСервер.РассчитатьСуммуСтроки(</span><span style="color:var(--shiki-token-constant)">3</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 12.345</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ЮТест.ОжидаетЧто(Результат).Равно(</span><span style="color:var(--shiki-token-constant)">37.04</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> Скидка_ГраничныеЗначения</span><span style="color:var(--shiki-foreground)">(Количество</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Цена</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Ожидаемое) </span><span style="color:var(--shiki-token-keyword)">Экспорт</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Результат </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> РасчетыКлиентСервер.СуммаСоСкидкой(Количество</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Цена)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ЮТест.ОжидаетЧто(Результат).Равно(Ожидаемое)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span></code></pre></figure>
+<p>Разберём:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Код</th><th>Смысл</th></tr></thead><tbody><tr><td><code>ИсполняемыеСценарии()</code></td><td>Обязательная экспортная процедура: здесь перечислены тесты модуля</td></tr><tr><td><code>ЮТТесты.ДобавитьТест("Имя")</code></td><td>Зарегистрировать тест; имя совпадает с именем экспортной процедуры</td></tr><tr><td><code>.СПараметрами(99, 10, 990)</code></td><td>Запустить тот же тест с другими параметрами — каждая строка становится отдельным тестом. Удобно для граничных значений (<a href="/restart/l/07/04/" data-internal="true">04. Техники тест-дизайна</a>)</td></tr><tr><td><code>ЮТест.ОжидаетЧто(Результат)</code></td><td>«Ожидается, что значение…» — начало проверки</td></tr><tr><td><code>.Равно(300)</code></td><td>«…равно 300». Не равно — тест падает с понятным сообщением</td></tr></tbody></table></div>
+<p>Точки в начале строк (<code>.ДобавитьТест</code>, <code>.СПараметрами</code>) — это <strong>цепочка вызовов</strong>: каждый метод возвращает объект, у которого вызывается следующий. Такой стиль называют «текучим» (fluent): код читается почти как фраза.</p>
+<h2 id="какие-бывают-проверки">Какие бывают проверки</h2>
+<p>После <code>ЮТест.ОжидаетЧто(Значение)</code> можно вызывать разные утверждения и даже соединять их в цепочку:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Проверка</th><th>Смысл</th></tr></thead><tbody><tr><td><code>.Равно(X)</code> / <code>.НеРавно(X)</code></td><td>Значение равно / не равно X</td></tr><tr><td><code>.Заполнено()</code> / <code>.НеЗаполнено()</code></td><td>Значение заполнено (как <code>ЗначениеЗаполнено</code>)</td></tr><tr><td><code>.ИмеетТип("Число")</code></td><td>Тип значения</td></tr><tr><td><code>.Больше(X)</code>, <code>.Меньше(X)</code></td><td>Сравнение</td></tr><tr><td><code>.Содержит(X)</code></td><td>Строка или коллекция содержит X</td></tr><tr><td><code>.ИмеетДлину(N)</code></td><td>Длина строки или размер коллекции</td></tr></tbody></table></div>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">ЮТест.ОжидаетЧто(Накладная.Номер)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	.Заполнено()</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	.ИмеетТип(</span><span style="color:var(--shiki-token-string-expression)">"Строка"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span></code></pre></figure>
+<p>Полный список утверждений — в документации YAxUnit; при наборе кода в EDT или Конфигураторе после точки работает подсказка.</p>
+<div class="callout callout-tip" data-callout="tip">
+<div class="callout-title">Один тест — одно поведение</div>
+<div class="callout-body"><p>Как и тест-кейс (<a href="/restart/l/07/05/" data-internal="true">05. Тест-кейсы и баг-репорты</a>), модульный тест проверяет одну вещь. Если тест называется <code>СуммаСтроки_Округление</code>, в нём не должно быть проверок скидки. Тогда по имени упавшего теста сразу ясно, что сломалось.</p></div>
+</div>
+<h2 id="как-запустить">Как запустить</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Способ</th><th>Как</th><th>Когда удобно</th></tr></thead><tbody><tr><td>Из 1С:Предприятия</td><td>Команда «Запуск тестирования» в интерфейсе YAxUnit</td><td>Учёба, отладка</td></tr><tr><td>Из 1C:EDT</td><td>Плагин: значок запуска рядом с тестом, <code>Ctrl+Shift+T</code></td><td>Ежедневная разработка в EDT</td></tr><tr><td>Командная строка</td><td><code>1cv8c.exe ENTERPRISE /IBName ТестоваяБаза /N Admin /C RunUnitTests=C:\tmp\test-config.json</code></td><td>Автоматический запуск, CI (<a href="/restart/l/07/14/" data-internal="true">14. Регрессия, отчёты и запуск без участия человека</a>)</td></tr></tbody></table></div>
+<p>Файл <code>test-config.json</code> описывает, какие тесты запускать и куда сохранить отчёт. Его можно собрать в форме настроек YAxUnit.</p>
+<p>После запуска YAxUnit показывает дерево тестов: зелёные — пройдены, красные — упали, с текстом ошибки вида «ожидали, что 37.035 равно 37.04».</p>
+<h2 id="тесты-с-базой-данных">Тесты с базой данных</h2>
+<p>Модульные тесты чистых функций — самые простые. Для тестов, которые создают справочники и документы, во фреймворке есть вспомогательные средства: создание тестовых данных и выполнение теста в <strong>транзакции с откатом</strong> — по той же идее, что в нашем интеграционном тесте проведения (<a href="/restart/l/07/07/" data-internal="true">07. Модульные тесты своими руками</a>). Подробности — в разделе документации о тестовых данных.</p>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Учебная платформа</div>
+<div class="callout-body"><p>YAxUnit — расширение, поэтому его можно загрузить и в учебную базу. Но точная совместимость с версией платформы и режимом совместимости конфигурации указана в документации фреймворка — проверьте её перед установкой. Своя тестовая обработка из урока 07 работает на любой платформе.</p></div>
+</div>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Как YAxUnit устанавливается в базу и где принято хранить тесты?</p>
+</li>
+<li>
+<p>Зачем нужна процедура <code>ИсполняемыеСценарии()</code>?</p>
+</li>
+<li>
+<p>Как одним тестом проверить три граничных значения?</p>
+</li>
+<li>
+<p>Как запустить тесты без участия человека?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Как расширение конфигурации; тесты — в общих модулях отдельного расширения, чтобы не смешивать их с рабочим кодом.</li>
+<li>В ней регистрируются тесты модуля через <code>ЮТТесты.ДобавитьТест</code>; фреймворк вызывает её, чтобы узнать, что запускать.</li>
+<li>Зарегистрировать тест с несколькими вызовами <code>.СПараметрами(…)</code> — каждый набор параметров станет отдельным тестом.</li>
+<li>Командной строкой: запуск 1С:Предприятия с параметром <code>/C RunUnitTests=путь к файлу настроек</code>.</li>
+</ol></div>
+</details></div>
+</details>20:["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L2e",null,{"children":"$1d:0:1:d:r:props:children:0:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","14mlr13",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/07/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"07"}],"Тестирование 1С"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","08"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[6," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Модульные тесты в YAxUnit"}],["$","div",null,{"className":"mt-7","children":["$","$L2f",null,{"id":"2e0v2y","href":"/l/07/08/","title":"Модульные тесты в YAxUnit"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$30"}}],"$L31","$L32","$L33","$L34","$L35"]}]]}]
+21:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L36",null,{"items":[{"id":"зачем-фреймворк-если-тесты-можно-написать-самому","text":"Зачем фреймворк, если тесты можно написать самому","depth":2},{"id":"как-устроено","text":"Как устроено","depth":2},{"id":"первый-тест","text":"Первый тест","depth":2},{"id":"какие-бывают-проверки","text":"Какие бывают проверки","depth":2},{"id":"как-запустить","text":"Как запустить","depth":2},{"id":"тесты-с-базой-данных","text":"Тесты с базой данных","depth":2}]}]}]
+22:["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true}]
+23:["$","$L37",null,{"children":["$","$29",null,{"name":"Next.MetadataOutlet","children":"$@38"}]}]
+39:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+3a:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+3b:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+3c:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+17:300
+31:["$","$L39",null,{"targetId":"lesson-body"}]
+32:["$","$L3a",null,{"targetId":"lesson-body"}]
+33:["$","$L3b",null,{"targetId":"lesson-body"}]
+34:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L2f",null,{"id":"2e0v2y","href":"/l/07/08/","title":"Модульные тесты в YAxUnit","variant":"footer"}]}]
+35:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/07/07/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L3c",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Модульные тесты своими руками"}]]}],["$","$L13",null,{"href":"/l/07/09/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L3c",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"BDD и язык Gherkin"}]]}]]}]
+38:null
+2d:true
+17:C
+2c:0
+1c:"$undefined"
+19:"$undefined"
+16:"$undefined"
+2b:"$undefined"
+24:"$undefined"

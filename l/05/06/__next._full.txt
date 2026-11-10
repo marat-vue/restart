@@ -1,0 +1,261 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1b:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:"ViewportBoundary"
+1f:I[97367,["$2","$3","$4","$5","$6","$7"],"$1e"]
+21:"MetadataBoundary"
+22:I[97367,["$2","$3","$4","$5","$6","$7"],"$21"]
+24:I[68027,["$2","$3","$4","$5","$6","$7"],"default",1]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+:HL["/restart/_next/static/media/051742360c26797e-s.p.1bkzbscqrt8rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/26f284dcc38c84c0-s.p.3hlisc-pwq13z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/42b035f1a63f268d-s.p.2m8t2-vl1h1kf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/b4a06a523f527a0e-s.p.3psl0_mnhzy2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/cfdfbee4d6cf0a93-s.p.1jwcpm6w583_v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/e8768c288fbd3aa6-s.p.1t1z0xjflawjj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+17:X
+19:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L1a",[["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true,"nonce":"$undefined"}]],["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]]}],"p":false,"v":null}}]]
+18:[["children",{"s":{"n":"slug","t":"c","k":"05/06","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q19"}]]
+16:[["children",{"s":"l","h":131584,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q18"}]]
+0:{"P":null,"c":["","l","05","06",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true,"nonce":"$undefined"}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":false,"v":null},"c":"$Q16"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$L20"}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":"$L23"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$24",[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+17:C
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]
+25:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+26:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+27:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+28:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+29:T6b2e,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p>Обращение к внешнему REST API: <code>HTTPСоединение</code> (сервер, порт, таймаут, SSL) + <code>HTTPЗапрос</code> (адрес ресурса, заголовки, тело) → <code>Получить()</code> / <code>ОтправитьДляОбработки()</code> / <code>ВызватьHTTPМетод()</code> → <code>HTTPОтвет</code> (<code>КодСостояния</code>, тело). Тело JSON разбираем <code>ПрочитатьJSON</code>. Выполняем <strong>на сервере</strong>, с таймаутом и обработкой ошибок, без секретов в коде и <strong>вне транзакции</strong>.</p></div>
+</div>
+<h2 id="зачем-базе-ходить-в-интернет">Зачем базе ходить в интернет</h2>
+<p>Современная база 1С редко живёт сама по себе. Ей нужно получать курсы валют от банка, отправлять заказы в службу доставки, проверять контрагента по ИНН, выгружать товары на сайт. Почти все такие сервисы работают по протоколу <strong>HTTP</strong> — тому же, по которому браузер открывает сайты.</p>
+<p>Аналогия — <strong>письмо с ответом</strong>. 1С отправляет по адресу <strong>запрос</strong> («дайте курсы на 19.10»), сервис присылает <strong>ответ</strong>: код результата (200 — успешно, 404 — не найдено, 500 — ошибка у них) и содержимое — обычно в формате <strong>JSON</strong> (<a href="/restart/l/02/31/" data-internal="true">31. JSON</a>).</p>
+<p>В 1С для этого три объекта:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Объект</th><th>Что это</th><th>Аналогия</th></tr></thead><tbody><tr><td><code>HTTPСоединение</code></td><td>Соединение с сервером: адрес, порт, таймаут, шифрование</td><td>Почтовое отделение получателя</td></tr><tr><td><code>HTTPЗапрос</code></td><td>Сам запрос: путь, заголовки, тело</td><td>Конверт с письмом</td></tr><tr><td><code>HTTPОтвет</code></td><td>Ответ: код состояния и тело</td><td>Ответное письмо</td></tr></tbody></table></div>
+<h2 id="схема-обмена">Схема обмена</h2>
+<pre><pre class="mermaid-source">sequenceDiagram
+    participant P1 as Сервер 1С
+    participant A as Внешний API
+    P1->>A: GET /v1/rates?date=2026-10-19&#x3C;br/>Authorization: Bearer …
+    A-->>P1: 200 OK, тело JSON с курсами
+    P1->>P1: ПрочитатьJSON → Соответствие → запись в регистр
+</pre></pre>
+<h2 id="get-запрос-и-разбор-json">GET-запрос и разбор JSON</h2>
+<p>Общий модуль <code>ИнтеграцияСервер</code> (флаг «Сервер»):</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/05.%20%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/06-%D0%A1%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8F.png" alt="06-Свойства-серверного-модуля.png" loading="lazy" decoding="async"></p>
+<p><em>Палитра существующего серверного модуля <code>ПроверкиОбъектов</code>: «Сервер» включён, «Клиент» и «Вызов сервера» выключены. Это образец расположения свойств, а не готовый модуль интеграции. Для <code>ИнтеграцияСервер</code> создайте отдельный модуль с флагом «Сервер»; флаг «Внешнее соединение» из показанного модуля копировать для HTTP-запроса не нужно.</em></p>
+<p>Адрес <code>api.example.ru</code> и <code>/v1/rates</code> — <strong>условный контракт</strong>, не готовый сервис курсов. Перед запуском подставьте адрес реального API и реализуйте <code>ТокенAPI()</code> по правилам своего решения; в учебном стенде удобно использовать локальный сервис с заранее известным JSON.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-comment)">// Возвращает курсы валют на дату или Неопределено при ошибке.</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> КурсыВалют</span><span style="color:var(--shiki-foreground)">(НаДату) </span><span style="color:var(--shiki-token-keyword)">Экспорт</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Соединение </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> HTTPСоединение(</span></span>
+<span data-line=""><span style="color:var(--shiki-token-string-expression)">		"api.example.ru"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-comment)">                    // сервер, без https://</span></span>
+<span data-line=""><span style="color:var(--shiki-token-constant)">		443</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-comment)">                                  // порт</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		,</span><span style="color:var(--shiki-token-keyword)"> ,</span><span style="color:var(--shiki-token-comment)">                                   // пользователь, пароль (не используем)</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		,</span><span style="color:var(--shiki-token-comment)">                                     // прокси</span></span>
+<span data-line=""><span style="color:var(--shiki-token-constant)">		30</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-comment)">                                   // таймаут, сек</span></span>
+<span data-line=""><span style="color:var(--shiki-token-function)">		Новый</span><span style="color:var(--shiki-foreground)"> ЗащищенноеСоединениеOpenSSL)</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">   // HTTPS</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Запрос </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> HTTPЗапрос(</span><span style="color:var(--shiki-token-string-expression)">"/v1/rates?date="</span><span style="color:var(--shiki-token-keyword)"> +</span><span style="color:var(--shiki-token-function)"> Формат</span><span style="color:var(--shiki-foreground)">(НаДату</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "ДФ=yyyy-MM-dd"</span><span style="color:var(--shiki-foreground)">))</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Запрос.Заголовки.Вставить(</span><span style="color:var(--shiki-token-string-expression)">"Accept"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "application/json"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Запрос.Заголовки.Вставить(</span><span style="color:var(--shiki-token-string-expression)">"Authorization"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "Bearer "</span><span style="color:var(--shiki-token-keyword)"> +</span><span style="color:var(--shiki-foreground)"> ТокенAPI())</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">   // ТокенAPI() — наша функция чтения токена из защищённого места</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Попытка</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Ответ </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Соединение.Получить(Запрос)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Исключение</span></span>
+<span data-line=""><span style="color:var(--shiki-token-function)">		ЗаписьЖурналаРегистрации</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-string-expression)">"Интеграция.КурсыВалют"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> УровеньЖурналаРегистрации.Ошибка</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-keyword)"> ,</span><span style="color:var(--shiki-token-keyword)"> ,</span></span>
+<span data-line=""><span style="color:var(--shiki-token-function)">			ПодробноеПредставлениеОшибки</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-function)">ИнформацияОбОшибке</span><span style="color:var(--shiki-foreground)">()))</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Возврат</span><span style="color:var(--shiki-token-constant)"> Неопределено</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">                // нет связи, таймаут, ошибка SSL</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецПопытки;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Если</span><span style="color:var(--shiki-foreground)"> Ответ.КодСостояния </span><span style="color:var(--shiki-token-keyword)">&#x3C;></span><span style="color:var(--shiki-token-constant)"> 200</span><span style="color:var(--shiki-token-keyword)"> Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-token-function)">		ЗаписьЖурналаРегистрации</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-string-expression)">"Интеграция.КурсыВалют"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> УровеньЖурналаРегистрации.Ошибка</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-keyword)"> ,</span><span style="color:var(--shiki-token-keyword)"> ,</span></span>
+<span data-line=""><span style="color:var(--shiki-token-function)">			СтрШаблон</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-string-expression)">"Код %1: %2"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Ответ.КодСостояния</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Ответ.ПолучитьТелоКакСтроку()))</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Возврат</span><span style="color:var(--shiki-token-constant)"> Неопределено</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЕсли;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Чтение </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> ЧтениеJSON</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Попытка</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Чтение.УстановитьСтроку(Ответ.ПолучитьТелоКакСтроку())</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Данные </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> ПрочитатьJSON</span><span style="color:var(--shiki-foreground)">(Чтение</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> Истина</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)"> // объекты JSON — в Соответствие</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Исключение</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Чтение.Закрыть()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-function)">		ЗаписьЖурналаРегистрации</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-string-expression)">"Интеграция.КурсыВалют"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> УровеньЖурналаРегистрации.Ошибка</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-keyword)"> ,</span><span style="color:var(--shiki-token-keyword)"> ,</span></span>
+<span data-line=""><span style="color:var(--shiki-token-string-expression)">			"Сервис вернул ответ 200 с некорректным JSON"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Возврат</span><span style="color:var(--shiki-token-constant)"> Неопределено</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецПопытки;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Чтение.Закрыть()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-foreground)"> Данные</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Элемент</th><th>Зачем</th></tr></thead><tbody><tr><td><code>ЗащищенноеСоединениеOpenSSL</code></td><td>Включает TLS для HTTPS. Порт задаётся отдельно: число <code>443</code> без защищённого соединения само по себе не включает HTTPS</td></tr><tr><td>Таймаут</td><td>Без него зависший сервер «повесит» сеанс</td></tr><tr><td><code>Попытка</code> вокруг вызова</td><td>Исключение возникает при <strong>сетевой</strong> ошибке; HTTP-коды 4xx/5xx исключения не вызывают — их проверяем по <code>КодСостояния</code></td></tr><tr><td><code>ПрочитатьJSON(…, Истина)</code></td><td>Чтение в <code>Соответствие</code>: ключи вроде <code>"rate-date"</code> нельзя прочитать в <code>Структуру</code></td></tr></tbody></table></div>
+<p>После чтения проверьте структуру ответа: корнем JSON может быть не объект, а массив, строка или <code>null</code>. Код <code>200</code> не гарантирует ни корректный JSON, ни ожидаемые поля. Для POST и остальных методов также нужны обработка сетевой ошибки и проверка <code>КодСостояния</code>, как в GET-примере.</p>
+<h2 id="post-с-json-телом">POST с JSON-телом</h2>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">ДанныеЗаказа </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> Структура(</span><span style="color:var(--shiki-token-string-expression)">"number,date,sum"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Номер</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-function)"> XMLСтрока</span><span style="color:var(--shiki-foreground)">(Дата)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> ИтоговаяСумма)</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">   // XMLСтрока даёт ISO 8601: 2026-10-19T15:00:00</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Запись </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> ЗаписьJSON</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Запись.УстановитьСтроку()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-function)">ЗаписатьJSON</span><span style="color:var(--shiki-foreground)">(Запись</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> ДанныеЗаказа)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">ТелоЗапроса </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Запись.Закрыть()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Запрос </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> HTTPЗапрос(</span><span style="color:var(--shiki-token-string-expression)">"/v1/orders"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Запрос.Заголовки.Вставить(</span><span style="color:var(--shiki-token-string-expression)">"Content-Type"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "application/json; charset=utf-8"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Запрос.УстановитьТелоИзСтроки(ТелоЗапроса</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> КодировкаТекста.UTF8</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> ИспользованиеByteOrderMark.НеИспользовать)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Ответ </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Соединение.ОтправитьДляОбработки(Запрос)</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">   // POST</span></span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">// Соединение.ВызватьHTTPМетод("PATCH", Запрос) — для прочих методов</span></span></code></pre></figure>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Даты и числа в JSON</div>
+<div class="callout-body"><p>Договариваемся о формате: дата — строка ISO 8601 (<code>2026-10-19T15:00:00</code>), число — с точкой. Ссылки 1С внешней системе не понятны — передаём коды, GUID (<code>Ссылка.УникальныйИдентификатор()</code>) или внешние идентификаторы.</p></div>
+</div>
+<h2 id="правила-надёжной-интеграции">Правила надёжной интеграции</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Правило</th><th>Почему</th></tr></thead><tbody><tr><td>HTTP-вызов <strong>вне транзакции</strong> (не в <code>ПередЗаписью</code>/<code>ОбработкаПроведения</code>)</td><td>Транзакция держит блокировки, пока ждём ответ; откат транзакции не отменит уже отправленный запрос</td></tr><tr><td>Регламентное или фоновое задание для регулярного обмена</td><td>Пользователь не ждёт сеть (<a href="/restart/l/02/32/" data-internal="true">32. Фоновые задания</a>)</td></tr><tr><td>Токены и пароли — не в коде</td><td>Константа с ограниченными правами или безопасное хранилище БСП (<code>ОбщегоНазначения.ПрочитатьДанныеИзБезопасногоХранилища</code>)</td></tr><tr><td>Идемпотентность</td><td>Повторная отправка не должна создавать дубль: передаём наш идентификатор, проверяем «уже отправлено»</td></tr><tr><td>Журнал регистрации</td><td>Код ответа и кратко тело ошибки — для разбора без отладчика</td></tr><tr><td>Проверка входных данных</td><td>Корректный JSON может содержать неожиданные значения (<a href="/restart/l/02/31/" data-internal="true">31. JSON</a>)</td></tr></tbody></table></div>
+<div class="callout callout-tip" data-callout="tip">
+<div class="callout-title">Отладка запросов</div>
+<div class="callout-body"><p>Для экспериментов удобен Postman или <code>curl</code>: сначала добиваемся правильного ответа там, затем переносим адрес, заголовки и тело в код.</p></div>
+</div>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Вызовет ли ответ 500 исключение в <code>Соединение.Получить()</code>?</p>
+</li>
+<li>
+<p>Почему HTTP-запрос нельзя делать в <code>ОбработкаПроведения</code>?</p>
+</li>
+<li>
+<p>Зачем <code>ПрочитатьJSON(Чтение, Истина)</code>?</p>
+</li>
+<li>
+<p>Где хранить токен API?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Нет, исключение — только при сетевой ошибке; код 500 проверяем в <code>КодСостояния</code>.</li>
+<li>Долгое ожидание внутри транзакции держит блокировки, а откат проведения не отменит отправленный запрос.</li>
+<li>Чтобы читать объекты JSON в <code>Соответствие</code> — ключи могут не быть корректными именами для <code>Структуры</code>.</li>
+<li>Не в коде: константа с ограниченными правами или безопасное хранилище.</li>
+</ol></div>
+</details></div>
+</details>1a:[["$","$L25",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L26",null,{"tree":{"kind":"folder","id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/","children":[{"kind":"lesson","id":"1ocm90a","num":"00","title":"Навигация по разделу","href":"/l/05/00/","children":"$undefined"},{"kind":"lesson","id":"156dahn","num":"01","title":"Регистр остатков на практике","href":"/l/05/01/","children":"$undefined"},{"kind":"lesson","id":"12ipfvj","num":"02","title":"Контроль остатков и блокировки","href":"/l/05/02/","children":"$undefined"},{"kind":"lesson","id":"17sy5u8","num":"03","title":"Печатная форма документа","href":"/l/05/03/","children":"$undefined"},{"kind":"lesson","id":"1mwbtob","num":"04","title":"Расширения и перехват методов","href":"/l/05/04/","children":"$undefined"},{"kind":"lesson","id":"rnlg54","num":"05","title":"Права доступа и RLS в коде","href":"/l/05/05/","children":"$undefined"},{"kind":"lesson","id":"zdu71r","num":"06","title":"HTTP-запросы к внешним сервисам","href":"/l/05/06/","children":"$undefined"},{"kind":"lesson","id":"1gtg1nd","num":"07","title":"HTTP-сервисы своей базы","href":"/l/05/07/","children":"$undefined"},{"kind":"lesson","id":"19by7yp","num":"08","title":"XML и обмен данными","href":"/l/05/08/","children":"$undefined"},{"kind":"lesson","id":"1liwwkn","num":"09","title":"БСП и типовые конфигурации","href":"/l/05/09/","children":"$undefined"},{"kind":"lesson","id":"8cetis","num":"10","title":"Хранилище, EDT и Git","href":"/l/05/10/","children":"$undefined"},{"kind":"lesson","id":"3um01i","num":"11","title":"Стандарты кода и самопроверка","href":"/l/05/11/","children":"$undefined"},{"kind":"lesson","id":"g4vhr2","num":"12","title":"Итоговый проект и собеседование","href":"/l/05/12/","children":"$undefined"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"zdu71r"}]}],["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L27",null,{"children":"$1a:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","1c9mnd1",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/05/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"05"}],"Профессиональная разработка"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","06"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[5," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"HTTP-запросы к внешним сервисам"}],["$","div",null,{"className":"mt-7","children":["$","$L28",null,{"id":"zdu71r","href":"/l/05/06/","title":"HTTP-запросы к внешним сервисам"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$29"}}],"$L2a","$L2b","$L2c","$L2d","$L2e"]}]]}],"$L2f"]}]]
+30:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+31:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+32:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+33:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+34:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+2a:["$","$L30",null,{"targetId":"lesson-body"}]
+2b:["$","$L31",null,{"targetId":"lesson-body"}]
+2c:["$","$L32",null,{"targetId":"lesson-body"}]
+2d:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L28",null,{"id":"zdu71r","href":"/l/05/06/","title":"HTTP-запросы к внешним сервисам","variant":"footer"}]}]
+2e:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/05/05/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L33",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Права доступа и RLS в коде"}]]}],["$","$L13",null,{"href":"/l/05/07/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L33",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"HTTP-сервисы своей базы"}]]}]]}]
+2f:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L34",null,{"items":[{"id":"зачем-базе-ходить-в-интернет","text":"Зачем базе ходить в интернет","depth":2},{"id":"схема-обмена","text":"Схема обмена","depth":2},{"id":"get-запрос-и-разбор-json","text":"GET-запрос и разбор JSON","depth":2},{"id":"post-с-json-телом","text":"POST с JSON-телом","depth":2},{"id":"правила-надёжной-интеграции","text":"Правила надёжной интеграции","depth":2}]}]}]
+35:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+1d:null
+23:[["$","title","0",{"children":"HTTP-запросы к внешним сервисам · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L35","3",{}]]

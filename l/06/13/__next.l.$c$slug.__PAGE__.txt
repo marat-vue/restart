@@ -1,0 +1,353 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1e:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+1f:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+25:"ViewportBoundary"
+26:I[97367,["$2","$3","$4","$5","$6","$7"],"$25"]
+27:"MetadataBoundary"
+28:I[97367,["$2","$3","$4","$5","$6","$7"],"$27"]
+29:"$Sreact.suspense"
+2a:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+17:X
+1a:X
+1a:C
+1d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L1e",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L1f",null,{"tree":{"kind":"folder","id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/","children":[{"kind":"lesson","id":"kmxf89","num":"00","title":"Навигация по разделу","href":"/l/06/00/"},{"kind":"lesson","id":"59cugg","num":"01","title":"Что такое алгоритм и как решать задачи","href":"/l/06/01/"},{"kind":"lesson","id":"lds9qn","num":"02","title":"Сложность алгоритмов","href":"/l/06/02/"},{"kind":"lesson","id":"1pjoju1","num":"03","title":"Массивы — базовые приёмы","href":"/l/06/03/"},{"kind":"lesson","id":"3cctbr","num":"04","title":"Строки и символы","href":"/l/06/04/"},{"kind":"lesson","id":"1ydqhou","num":"05","title":"Соответствие как хеш-таблица","href":"/l/06/05/"},{"kind":"lesson","id":"t6dz7i","num":"06","title":"Два указателя","href":"/l/06/06/"},{"kind":"lesson","id":"nbwllp","num":"07","title":"Скользящее окно","href":"/l/06/07/"},{"kind":"lesson","id":"fr1gf6","num":"08","title":"Префиксные суммы","href":"/l/06/08/"},{"kind":"lesson","id":"3irwp2","num":"09","title":"Сортировки","href":"/l/06/09/"},{"kind":"lesson","id":"12gwpp6","num":"10","title":"Бинарный поиск","href":"/l/06/10/"},{"kind":"lesson","id":"1u9yaso","num":"11","title":"Стек и очередь","href":"/l/06/11/"},{"kind":"lesson","id":"dz6s3r","num":"12","title":"Рекурсия","href":"/l/06/12/"},{"kind":"lesson","id":"2qxixv","num":"13","title":"Обход в глубину и ширину","href":"/l/06/13/"},{"kind":"lesson","id":"ufdpje","num":"14","title":"Динамическое программирование","href":"/l/06/14/"},{"kind":"lesson","id":"iokjmp","num":"15","title":"Жадные алгоритмы и интервалы","href":"/l/06/15/"},{"kind":"lesson","id":"1jbpe","num":"16","title":"Практика — задачи с собеседований","href":"/l/06/16/"},{"kind":"lesson","id":"1h9efqa","num":"17","title":"Памятка — шаблоны и ошибки","href":"/l/06/17/"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"2qxixv"}]}],"$L20","$L21"]}]],["$L22"],"$L23"]}],"p":"$@24","v":null,"s":"$17"}}]]
+1b:[["children",{"s":{"n":"slug","t":"c","k":"06/13","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@1c","v":"$1a","s":"$17"},"c":"$Q1d"}]]
+18:[["children",{"s":"l","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@19","v":"$1a","s":"$17"},"c":"$Q1b"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]]}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":"$@16","v":null,"s":"$17"},"c":"$Q18"},"h":{"r":["$","$1","h",{"children":[null,["$","$L26",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]}],["$","$L28",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$29",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Обход в глубину и ширину · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L2a","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@2b","v":null,"s":"$17"}},"a":"$@2c","u":"$@2d","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+2e:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+2f:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+36:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+37:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+30:Tc91c,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p><strong>Граф</strong> — вершины и связи (рёбра) между ними: города и дороги, сотрудники и подчинение, товары и комплектующие. Его храним как <strong>список смежности</strong>: соответствие «вершина → массив соседей». <strong>Обход в глубину</strong> (DFS) идёт «до упора» по одной ветке, потом возвращается — рекурсия или стек; подходит для поиска пути и подсчёта связных областей. <strong>Обход в ширину</strong> (BFS) идёт «волнами» по уровням — очередь; находит <strong>кратчайший путь</strong> по числу шагов. Обязательно отмечаем <strong>посещённые</strong> вершины, иначе зациклимся. Сложность обоих — <code>O(V + E)</code>. Классическая задача — подсчёт «островов» на карте-сетке.</p></div>
+</div>
+<h2 id="что-такое-граф">Что такое граф</h2>
+<p><strong>Граф</strong> — это набор <strong>вершин</strong> (точек) и <strong>рёбер</strong> (связей между ними).</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="plaintext" data-theme="mono"><code data-language="plaintext" data-theme="mono" style="display: grid;"><span data-line=""><span>   Москва ──── Тверь</span></span>
+<span data-line=""><span>     │           │</span></span>
+<span data-line=""><span>   Тула       Новгород ──── Питер</span></span></code></pre></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Пример</th><th>Вершины</th><th>Рёбра</th></tr></thead><tbody><tr><td>Карта дорог</td><td>Города</td><td>Дороги</td></tr><tr><td>Социальная сеть</td><td>Люди</td><td>Дружба</td></tr><tr><td>Иерархия справочника</td><td>Группы и элементы</td><td>«Родитель → ребёнок»</td></tr><tr><td>Спецификация изделия</td><td>Изделия и детали</td><td>«Входит в состав»</td></tr><tr><td>Карта-сетка</td><td>Клетки</td><td>Соседство клеток</td></tr></tbody></table></div>
+<p>Дерево из прошлого урока — частный случай графа без циклов.</p>
+<h3 id="как-хранить-граф-список-смежности">Как хранить граф: список смежности</h3>
+<p>Для каждой вершины храним массив её соседей. В 1С — соответствие «вершина → массив»:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> ДобавитьРебро</span><span style="color:var(--shiki-foreground)">(Граф</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> А</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Б)</span></span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">	// Дорога двусторонняя: добавляем Б в соседи А и А в соседи Б</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ДобавитьСоседа(Граф</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> А</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Б)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ДобавитьСоседа(Граф</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Б</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> А)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> ДобавитьСоседа</span><span style="color:var(--shiki-foreground)">(Граф</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Вершина</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Сосед)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Соседи </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Граф.Получить(Вершина)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Если</span><span style="color:var(--shiki-foreground)"> Соседи </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> Неопределено</span><span style="color:var(--shiki-token-keyword)"> Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Соседи </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> Массив</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Граф.Вставить(Вершина</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Соседи)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Соседи.Добавить(Сосед)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> СоседиВершины</span><span style="color:var(--shiki-foreground)">(Граф</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Вершина)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Соседи </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Граф.Получить(Вершина)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-token-keyword)"> ?</span><span style="color:var(--shiki-foreground)">(Соседи </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> Неопределено</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> Массив</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Соседи)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure>
+<p>Строим граф из рисунка выше:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">Граф </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> Соответствие</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">ДобавитьРебро(Граф</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "Москва"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "Тверь"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">ДобавитьРебро(Граф</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "Москва"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "Тула"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">ДобавитьРебро(Граф</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "Тверь"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "Новгород"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">ДобавитьРебро(Граф</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "Новгород"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "Питер"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span></code></pre></figure>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="plaintext" data-theme="mono"><code data-language="plaintext" data-theme="mono" style="display: grid;"><span data-line=""><span>Москва   → [Тверь, Тула]</span></span>
+<span data-line=""><span>Тверь    → [Москва, Новгород]</span></span>
+<span data-line=""><span>Тула     → [Москва]</span></span>
+<span data-line=""><span>Новгород → [Тверь, Питер]</span></span>
+<span data-line=""><span>Питер    → [Новгород]</span></span></code></pre></figure>
+<h2 id="главное-правило-обхода-отмечать-посещённые">Главное правило обхода: отмечать посещённые</h2>
+<p>В графе могут быть <strong>циклы</strong>: Москва → Тверь → Москва → Тверь… Если не запоминать, где мы уже были, обход никогда не закончится. Поэтому всегда храним <strong>множество посещённых</strong> вершин (<a href="/restart/l/06/05/" data-internal="true">05. Соответствие как хеш-таблица</a>).</p>
+<h2 id="обход-в-глубину-dfs">Обход в глубину (DFS)</h2>
+<p><strong>Идея.</strong> Как в лабиринте с правилом «иди, пока можешь; упёрся — вернись к последней развилке и попробуй другой путь». Уходим как можно <strong>глубже</strong> по одной ветке, потом возвращаемся.</p>
+<p>Рекурсивная запись получается очень короткой:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> ОбходВГлубину</span><span style="color:var(--shiki-foreground)">(Граф</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Вершина</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Посещенные</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Порядок)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Посещенные.Вставить(Вершина</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> Истина</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Порядок.Добавить(Вершина)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для Каждого</span><span style="color:var(--shiki-foreground)"> Сосед </span><span style="color:var(--shiki-token-keyword)">Из</span><span style="color:var(--shiki-foreground)"> СоседиВершины(Граф</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Вершина) </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Если</span><span style="color:var(--shiki-foreground)"> Посещенные.Получить(Сосед) </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> Неопределено</span><span style="color:var(--shiki-token-keyword)"> Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			ОбходВГлубину(Граф</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Сосед</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Посещенные</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Порядок)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span></code></pre></figure>
+<p>Обход из «Москвы»:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="plaintext" data-theme="mono"><code data-language="plaintext" data-theme="mono" style="display: grid;"><span data-line=""><span>Москва → (соседи Тверь, Тула)</span></span>
+<span data-line=""><span>  Тверь → (соседи Москва ✓посещена, Новгород)</span></span>
+<span data-line=""><span>    Новгород → (соседи Тверь ✓, Питер)</span></span>
+<span data-line=""><span>      Питер → (соседи Новгород ✓) — тупик, возврат</span></span>
+<span data-line=""><span>  ← вернулись к Москве</span></span>
+<span data-line=""><span>  Тула → (соседи Москва ✓) — тупик</span></span>
+<span data-line=""><span>Порядок: Москва, Тверь, Новгород, Питер, Тула</span></span></code></pre></figure>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">Порядок </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> Массив</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">ОбходВГлубину(Граф</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "Москва"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> Соответствие</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Порядок)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Проверить(</span><span style="color:var(--shiki-token-string-expression)">"DFS"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-function)"> СтрСоединить</span><span style="color:var(--shiki-foreground)">(Порядок</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> ","</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "Москва,Тверь,Новгород,Питер,Тула"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span></code></pre></figure>
+<p>Применения DFS: есть ли путь между вершинами, все вершины, достижимые из данной, подсчёт отдельных «компонент», поиск циклов.</p>
+<h2 id="обход-в-ширину-bfs">Обход в ширину (BFS)</h2>
+<p><strong>Идея.</strong> Как круги на воде от брошенного камня: сначала все вершины на расстоянии 1, потом все на расстоянии 2, и так далее — <strong>волнами</strong>.</p>
+<p>Для этого нужна <strong>очередь</strong> (<a href="/restart/l/06/11/" data-internal="true">11. Стек и очередь</a>): вершины обрабатываются в порядке, в котором их обнаружили.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> РасстоянияОт</span><span style="color:var(--shiki-foreground)">(Граф</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Старт)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Расстояние </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> Соответствие</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">   // вершина → число шагов от старта; заодно «посещённые»</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Расстояние.Вставить(Старт</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Очередь </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> Массив</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Очередь.Добавить(Старт)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Голова </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Пока</span><span style="color:var(--shiki-foreground)"> Голова </span><span style="color:var(--shiki-token-keyword)">&#x3C;=</span><span style="color:var(--shiki-foreground)"> Очередь.ВГраница() </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Вершина </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Очередь[Голова]</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Голова </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Голова </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Для Каждого</span><span style="color:var(--shiki-foreground)"> Сосед </span><span style="color:var(--shiki-token-keyword)">Из</span><span style="color:var(--shiki-foreground)"> СоседиВершины(Граф</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Вершина) </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">			Если</span><span style="color:var(--shiki-foreground)"> Расстояние.Получить(Сосед) </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> Неопределено</span><span style="color:var(--shiki-token-keyword)"> Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">				Расстояние.Вставить(Сосед</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Расстояние.Получить(Вершина) </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">				Очередь.Добавить(Сосед)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">			КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-foreground)"> Расстояние</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="plaintext" data-theme="mono"><code data-language="plaintext" data-theme="mono" style="display: grid;"><span data-line=""><span>Волна 0: Москва</span></span>
+<span data-line=""><span>Волна 1: Тверь, Тула                (соседи Москвы)</span></span>
+<span data-line=""><span>Волна 2: Новгород                   (соседи Твери, которых ещё не видели)</span></span>
+<span data-line=""><span>Волна 3: Питер</span></span></code></pre></figure>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">Расстояния </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> РасстоянияОт(Граф</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "Москва"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Проверить(</span><span style="color:var(--shiki-token-string-expression)">"До Питера"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Расстояния.Получить(</span><span style="color:var(--shiki-token-string-expression)">"Питер"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 3</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Проверить(</span><span style="color:var(--shiki-token-string-expression)">"До Тулы"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Расстояния.Получить(</span><span style="color:var(--shiki-token-string-expression)">"Тула"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span></code></pre></figure>
+<div class="callout callout-tip" data-callout="tip">
+<div class="callout-title">Главное свойство BFS</div>
+<div class="callout-body"><p>Обход в ширину находит <strong>кратчайший путь по числу рёбер</strong>: вершина впервые попадает в очередь именно тогда, когда до неё найден самый короткий путь. DFS такого не гарантирует. Если в задаче «минимальное число шагов / переходов / пересадок» — почти наверняка нужен BFS.</p></div>
+</div>
+<h2 id="dfs-или-bfs">DFS или BFS</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th></th><th>Обход в глубину (DFS)</th><th>Обход в ширину (BFS)</th></tr></thead><tbody><tr><td>Как идёт</td><td>Вглубь по ветке, потом назад</td><td>Волнами, по уровням</td></tr><tr><td>Структура</td><td>Рекурсия или стек</td><td>Очередь</td></tr><tr><td>Кратчайший путь по шагам</td><td>Не гарантирует</td><td><strong>Находит</strong></td></tr><tr><td>Типичные задачи</td><td>Достижимость, компоненты, циклы, перебор путей</td><td>Кратчайший путь, «минимум ходов», уровни дерева</td></tr><tr><td>Сложность</td><td><code>O(V + E)</code></td><td><code>O(V + E)</code></td></tr></tbody></table></div>
+<p><code>V</code> — число вершин, <code>E</code> — число рёбер: каждую вершину обрабатываем один раз и каждое ребро просматриваем один-два раза.</p>
+<h2 id="задача-количество-островов">Задача: количество островов</h2>
+<p>Очень популярная задача на собеседованиях.</p>
+<p><strong>Условие.</strong> Карта — сетка из <code>"1"</code> (суша) и <code>"0"</code> (вода). Остров — группа клеток суши, соседних <strong>по горизонтали или вертикали</strong>. Посчитать острова.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="plaintext" data-theme="mono"><code data-language="plaintext" data-theme="mono" style="display: grid;"><span data-line=""><span>1 1 0 0 0</span></span>
+<span data-line=""><span>1 1 0 0 0</span></span>
+<span data-line=""><span>0 0 1 0 0</span></span>
+<span data-line=""><span>0 0 0 1 1</span></span></code></pre></figure>
+<p>Ответ: <strong>3</strong> острова — большой слева вверху, одна клетка в центре и две клетки справа внизу.</p>
+<p><strong>Идея.</strong> Сетка — это граф: клетки — вершины, соседние клетки — рёбра. Идём по всем клеткам; встретив непосещённую сушу — нашли <strong>новый</strong> остров: увеличиваем счётчик и обходом (DFS) «затапливаем» весь этот остров, отмечая его клетки посещёнными. Тогда этот же остров не посчитается второй раз.</p>
+<p>Карту храним как массив строк, клетку читаем через <code>Сред</code>. Посещённые клетки — в соответствии с ключом <code>"строка:столбец"</code>.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> КоличествоОстровов</span><span style="color:var(--shiki-foreground)">(Карта)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Посещенные </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> Соответствие</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Острова </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для</span><span style="color:var(--shiki-foreground)"> Строка </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)"> По</span><span style="color:var(--shiki-foreground)"> Карта.ВГраница() </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Для</span><span style="color:var(--shiki-foreground)"> Столбец </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)"> По</span><span style="color:var(--shiki-token-function)"> СтрДлина</span><span style="color:var(--shiki-foreground)">(Карта[Строка]) </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">			Если</span><span style="color:var(--shiki-foreground)"> ЭтоНеПосещеннаяСуша(Карта</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Строка</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Столбец</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Посещенные) </span><span style="color:var(--shiki-token-keyword)">Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">				Острова </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Острова </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">                      // нашли новый остров</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">				Затопить(Карта</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Строка</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Столбец</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Посещенные)</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)"> // отмечаем весь остров</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">			КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-foreground)"> Острова</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> Затопить</span><span style="color:var(--shiki-foreground)">(Карта</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Строка</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Столбец</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Посещенные)</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Если</span><span style="color:var(--shiki-token-keyword)"> НЕ</span><span style="color:var(--shiki-foreground)"> ЭтоНеПосещеннаяСуша(Карта</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Строка</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Столбец</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Посещенные) </span><span style="color:var(--shiki-token-keyword)">Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Возврат;</span><span style="color:var(--shiki-token-comment)">   // вне карты, вода или уже посещена</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Посещенные.Вставить(</span><span style="color:var(--shiki-token-function)">XMLСтрока</span><span style="color:var(--shiki-foreground)">(Строка) </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-string-expression)"> ":"</span><span style="color:var(--shiki-token-keyword)"> +</span><span style="color:var(--shiki-token-function)"> XMLСтрока</span><span style="color:var(--shiki-foreground)">(Столбец)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> Истина</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Затопить(Карта</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Строка </span><span style="color:var(--shiki-token-keyword)">-</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Столбец</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Посещенные)</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">   // вверх</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Затопить(Карта</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Строка </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Столбец</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Посещенные)</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">   // вниз</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Затопить(Карта</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Строка</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Столбец </span><span style="color:var(--shiki-token-keyword)">-</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Посещенные)</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">   // влево</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Затопить(Карта</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Строка</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Столбец </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Посещенные)</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">   // вправо</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> ЭтоНеПосещеннаяСуша</span><span style="color:var(--shiki-foreground)">(Карта</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Строка</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Столбец</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Посещенные)</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Если</span><span style="color:var(--shiki-foreground)"> Строка </span><span style="color:var(--shiki-token-keyword)">&#x3C;</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)"> Или</span><span style="color:var(--shiki-foreground)"> Строка </span><span style="color:var(--shiki-token-keyword)">></span><span style="color:var(--shiki-foreground)"> Карта.ВГраница() </span><span style="color:var(--shiki-token-keyword)">Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Возврат</span><span style="color:var(--shiki-token-constant)"> Ложь</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Если</span><span style="color:var(--shiki-foreground)"> Столбец </span><span style="color:var(--shiki-token-keyword)">&#x3C;</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)"> Или</span><span style="color:var(--shiki-foreground)"> Столбец </span><span style="color:var(--shiki-token-keyword)">></span><span style="color:var(--shiki-token-function)"> СтрДлина</span><span style="color:var(--shiki-foreground)">(Карта[Строка]) </span><span style="color:var(--shiki-token-keyword)">Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Возврат</span><span style="color:var(--shiki-token-constant)"> Ложь</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Если</span><span style="color:var(--shiki-token-function)"> Сред</span><span style="color:var(--shiki-foreground)">(Карта[Строка]</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Столбец</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-foreground)">) </span><span style="color:var(--shiki-token-keyword)">&#x3C;></span><span style="color:var(--shiki-token-string-expression)"> "1"</span><span style="color:var(--shiki-token-keyword)"> Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Возврат</span><span style="color:var(--shiki-token-constant)"> Ложь</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-foreground)"> Посещенные.Получить(</span><span style="color:var(--shiki-token-function)">XMLСтрока</span><span style="color:var(--shiki-foreground)">(Строка) </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-string-expression)"> ":"</span><span style="color:var(--shiki-token-keyword)"> +</span><span style="color:var(--shiki-token-function)"> XMLСтрока</span><span style="color:var(--shiki-foreground)">(Столбец)) </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> Неопределено</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">Карта </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> СтрРазделить</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-string-expression)">"11000,11000,00100,00011"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> ","</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Проверить(</span><span style="color:var(--shiki-token-string-expression)">"Острова"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> КоличествоОстровов(Карта)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 3</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span></code></pre></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Деталь</th><th>Зачем</th></tr></thead><tbody><tr><td>Проверка границ в <code>ЭтоНеПосещеннаяСуша</code></td><td><code>Затопить</code> вызывается и для соседей за краем карты — там просто выходим</td></tr><tr><td>Ключ <code>"строка:столбец"</code></td><td>Соответствию нужен один ключ на клетку; строка-ключ — простой способ</td></tr><tr><td>Отметка <strong>до</strong> рекурсивных вызовов</td><td>Иначе две соседние клетки будут бесконечно вызывать друг друга</td></tr></tbody></table></div>
+<p>Время <code>O(R × C)</code> — каждая клетка обрабатывается константное число раз; <code>R × C</code> — размер карты.</p>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Глубина рекурсии</div>
+<div class="callout-body"><p>На огромной сплошной карте рекурсивный DFS может уйти очень глубоко. В рабочем коде (или если интервьюер спросит) рекурсию заменяют <strong>явным стеком</strong> или используют BFS с очередью — логика та же, только вместо вызова <code>Затопить(…)</code> клетка кладётся в стек или очередь.</p></div>
+</div>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Как хранить граф во встроенном языке 1С?</p>
+</li>
+<li>
+<p>Зачем при обходе отмечать посещённые вершины?</p>
+</li>
+<li>
+<p>Какая структура данных нужна для DFS, а какая — для BFS?</p>
+</li>
+<li>
+<p>Какой обход найдёт минимальное число пересадок между станциями и почему?</p>
+</li>
+<li>
+<p>Как в задаче об островах не посчитать один остров дважды?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Соответствие «вершина → массив соседей» (список смежности).</li>
+<li>Иначе при наличии циклов обход будет ходить по кругу бесконечно и обрабатывать вершины повторно.</li>
+<li>DFS — рекурсия или стек; BFS — очередь.</li>
+<li>BFS: он обходит вершины волнами по расстоянию, и первая найденная дорога до вершины — кратчайшая по числу рёбер.</li>
+<li>Найдя новую сушу, сразу «затопить» весь остров обходом и отметить его клетки посещёнными.</li>
+</ol></div>
+</details></div>
+</details>20:["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L2e",null,{"children":"$1d:0:1:d:r:props:children:0:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","18v7yvg",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/06/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"06"}],"Алгоритмы для 1С"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","13"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[8," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Обход в глубину и ширину"}],["$","div",null,{"className":"mt-7","children":["$","$L2f",null,{"id":"2qxixv","href":"/l/06/13/","title":"Обход в глубину и ширину"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$30"}}],"$L31","$L32","$L33","$L34","$L35"]}]]}]
+21:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L36",null,{"items":[{"id":"что-такое-граф","text":"Что такое граф","depth":2},{"id":"как-хранить-граф-список-смежности","text":"Как хранить граф: список смежности","depth":3},{"id":"главное-правило-обхода-отмечать-посещённые","text":"Главное правило обхода: отмечать посещённые","depth":2},{"id":"обход-в-глубину-dfs","text":"Обход в глубину (DFS)","depth":2},{"id":"обход-в-ширину-bfs","text":"Обход в ширину (BFS)","depth":2},{"id":"dfs-или-bfs","text":"DFS или BFS","depth":2},{"id":"задача-количество-островов","text":"Задача: количество островов","depth":2}]}]}]
+22:["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true}]
+23:["$","$L37",null,{"children":["$","$29",null,{"name":"Next.MetadataOutlet","children":"$@38"}]}]
+39:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+3a:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+3b:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+3c:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+17:300
+31:["$","$L39",null,{"targetId":"lesson-body"}]
+32:["$","$L3a",null,{"targetId":"lesson-body"}]
+33:["$","$L3b",null,{"targetId":"lesson-body"}]
+34:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L2f",null,{"id":"2qxixv","href":"/l/06/13/","title":"Обход в глубину и ширину","variant":"footer"}]}]
+35:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/06/12/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L3c",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Рекурсия"}]]}],["$","$L13",null,{"href":"/l/06/14/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L3c",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Динамическое программирование"}]]}]]}]
+38:null
+2d:true
+17:C
+2c:0
+1c:"$undefined"
+19:"$undefined"
+16:"$undefined"
+2b:"$undefined"
+24:"$undefined"

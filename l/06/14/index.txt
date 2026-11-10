@@ -1,0 +1,490 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1b:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:"ViewportBoundary"
+1f:I[97367,["$2","$3","$4","$5","$6","$7"],"$1e"]
+21:"MetadataBoundary"
+22:I[97367,["$2","$3","$4","$5","$6","$7"],"$21"]
+24:I[68027,["$2","$3","$4","$5","$6","$7"],"default",1]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+:HL["/restart/_next/static/media/051742360c26797e-s.p.1bkzbscqrt8rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/26f284dcc38c84c0-s.p.3hlisc-pwq13z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/42b035f1a63f268d-s.p.2m8t2-vl1h1kf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/b4a06a523f527a0e-s.p.3psl0_mnhzy2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/cfdfbee4d6cf0a93-s.p.1jwcpm6w583_v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/e8768c288fbd3aa6-s.p.1t1z0xjflawjj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+17:X
+19:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L1a",[["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true,"nonce":"$undefined"}]],["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]]}],"p":false,"v":null}}]]
+18:[["children",{"s":{"n":"slug","t":"c","k":"06/14","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q19"}]]
+16:[["children",{"s":"l","h":131584,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q18"}]]
+0:{"P":null,"c":["","l","06","14",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true,"nonce":"$undefined"}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":false,"v":null},"c":"$Q16"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$L20"}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":"$L23"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$24",[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+17:C
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]
+25:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+26:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+27:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+28:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+29:Tb497,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p><strong>Динамическое программирование (ДП)</strong> — решение задачи через ответы на её <strong>подзадачи</strong>, где каждая подзадача решается <strong>один раз</strong> и запоминается. Рецепт: 1) что хранит <code>ДП[i]</code> (смысл состояния); 2) <strong>переход</strong> — как <code>ДП[i]</code> выражается через предыдущие; 3) <strong>база</strong> — начальные значения; 4) где ответ. Классика: лестница (<code>ДП[i] = ДП[i−1] + ДП[i−2]</code>), максимальная сумма подмассива (алгоритм Кадане), лучшая покупка-продажа акции, грабитель домов, путь в сетке. Обычно <code>O(n)</code> вместо экспоненциального перебора.</p></div>
+</div>
+<h2 id="идея">Идея</h2>
+<p>В уроке о рекурсии мы ускорили Фибоначчи, <strong>запоминая</strong> уже посчитанные значения (<a href="/restart/l/06/12/" data-internal="true">12. Рекурсия</a>). Это и есть суть динамического программирования:</p>
+<ol>
+<li>Разбить задачу на <strong>подзадачи</strong> того же вида, но меньше.</li>
+<li>Каждую подзадачу решить <strong>один раз</strong> и записать ответ в таблицу.</li>
+<li>Большую задачу собрать из готовых ответов.</li>
+</ol>
+<p>Аналогия: вас спрашивают «сколько будет 1+1+1+1+1+1+1+1?». Вы считаете — 8. Затем дописывают ещё «+1» и спрашивают снова. Вы не пересчитываете всё — сразу говорите 9, потому что <strong>помните</strong> предыдущий ответ.</p>
+<p>Есть два способа записи:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Способ</th><th>Как</th><th>Пример</th></tr></thead><tbody><tr><td><strong>Сверху вниз</strong> (мемоизация)</td><td>Рекурсия + запоминание в соответствии</td><td><code>Фибоначчи</code> из урока 12</td></tr><tr><td><strong>Снизу вверх</strong> (таблица)</td><td>Цикл заполняет массив <code>ДП</code> от маленьких подзадач к большим</td><td>Все примеры ниже</td></tr></tbody></table></div>
+<p>Снизу вверх обычно проще и не грозит переполнением стека вызовов.</p>
+<h2 id="рецепт-решения-задачи-на-дп">Рецепт решения задачи на ДП</h2>
+<p>Каждый раз отвечайте на четыре вопроса — это и есть решение:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Вопрос</th><th>Что определяем</th></tr></thead><tbody><tr><td>1. <strong>Состояние</strong></td><td>Что означает <code>ДП[i]</code> словами? Это самый важный шаг</td></tr><tr><td>2. <strong>Переход</strong></td><td>Как вычислить <code>ДП[i]</code> через уже известные <code>ДП[i−1]</code>, <code>ДП[i−2]</code>…?</td></tr><tr><td>3. <strong>База</strong></td><td>Какие значения известны сразу (<code>ДП[0]</code>, <code>ДП[1]</code>)?</td></tr><tr><td>4. <strong>Ответ</strong></td><td>Где в таблице лежит ответ на исходную задачу?</td></tr></tbody></table></div>
+<h2 id="задача-1-лестница">Задача 1. Лестница</h2>
+<p><strong>Условие.</strong> Лестница из <code>n</code> ступенек. За один шаг можно подняться на 1 или 2 ступеньки. Сколькими способами можно добраться до верха?</p>
+<p><code>n = 3</code> → 3 способа: <code>1+1+1</code>, <code>1+2</code>, <code>2+1</code>.</p>
+<p><strong>Рассуждение.</strong> На ступеньку <code>i</code> можно попасть только двумя способами: шагом с <code>i−1</code> или прыжком с <code>i−2</code>. Значит, число способов дойти до <code>i</code> = способы дойти до <code>i−1</code> + способы дойти до <code>i−2</code>.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Вопрос</th><th>Ответ</th></tr></thead><tbody><tr><td>Состояние</td><td><code>ДП[i]</code> — число способов добраться до ступеньки <code>i</code></td></tr><tr><td>Переход</td><td><code>ДП[i] = ДП[i−1] + ДП[i−2]</code></td></tr><tr><td>База</td><td><code>ДП[0] = 1</code> (стоим внизу — один способ «ничего не делать»), <code>ДП[1] = 1</code></td></tr><tr><td>Ответ</td><td><code>ДП[n]</code></td></tr></tbody></table></div>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="plaintext" data-theme="mono"><code data-language="plaintext" data-theme="mono" style="display: grid;"><span data-line=""><span>i:     0   1   2   3   4   5</span></span>
+<span data-line=""><span>ДП:    1   1   2   3   5   8</span></span>
+<span data-line=""><span>               ↑</span></span>
+<span data-line=""><span>           ДП[2] = ДП[1] + ДП[0] = 1 + 1 = 2</span></span></code></pre></figure>
+<p>Узнаёте? Это числа Фибоначчи.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> СпособовПодняться</span><span style="color:var(--shiki-foreground)">(n)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ДП </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> Массив(n </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ДП[</span><span style="color:var(--shiki-token-constant)">0</span><span style="color:var(--shiki-foreground)">] </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Если</span><span style="color:var(--shiki-foreground)"> n </span><span style="color:var(--shiki-token-keyword)">>=</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)"> Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		ДП[</span><span style="color:var(--shiki-token-constant)">1</span><span style="color:var(--shiki-foreground)">] </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для</span><span style="color:var(--shiki-foreground)"> i </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 2</span><span style="color:var(--shiki-token-keyword)"> По</span><span style="color:var(--shiki-foreground)"> n </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		ДП[i] </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> ДП[i </span><span style="color:var(--shiki-token-keyword)">-</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-foreground)">] </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-foreground)"> ДП[i </span><span style="color:var(--shiki-token-keyword)">-</span><span style="color:var(--shiki-token-constant)"> 2</span><span style="color:var(--shiki-foreground)">]</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-foreground)"> ДП[n]</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure>
+<p>Время <code>O(n)</code>, память <code>O(n)</code>. Каждое значение зависит только от двух предыдущих, поэтому можно хранить две переменные вместо массива — память <code>O(1)</code>. На собеседовании это хороший «следующий шаг» оптимизации.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">Проверить(</span><span style="color:var(--shiki-token-string-expression)">"Лестница 3"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> СпособовПодняться(</span><span style="color:var(--shiki-token-constant)">3</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 3</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Проверить(</span><span style="color:var(--shiki-token-string-expression)">"Лестница 5"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> СпособовПодняться(</span><span style="color:var(--shiki-token-constant)">5</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 8</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Проверить(</span><span style="color:var(--shiki-token-string-expression)">"Лестница 1"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> СпособовПодняться(</span><span style="color:var(--shiki-token-constant)">1</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span></code></pre></figure>
+<h2 id="задача-2-максимальная-сумма-подмассива-алгоритм-кадане">Задача 2. Максимальная сумма подмассива (алгоритм Кадане)</h2>
+<p>Одна из самых частых задач собеседований.</p>
+<p><strong>Условие.</strong> Найти непрерывный подмассив с <strong>максимальной</strong> суммой и вернуть эту сумму. <code>[-2, 1, -3, 4, -1, 2, 1, -5, 4]</code> → <code>6</code> (подмассив <code>[4, -1, 2, 1]</code>).</p>
+<p>Перебор всех подмассивов — <code>O(n²)</code>.</p>
+<p><strong>Рассуждение.</strong> Пусть <code>Лучший[i]</code> — максимальная сумма подмассива, который <strong>заканчивается</strong> на элементе <code>i</code>. Для элемента <code>i</code> выбор только один: продолжить лучший подмассив, закончившийся на <code>i−1</code>, или начать новый прямо с <code>i</code>.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="plaintext" data-theme="mono"><code data-language="plaintext" data-theme="mono" style="display: grid;"><span data-line=""><span>Лучший[i] = Макс(Числа[i], Лучший[i−1] + Числа[i])</span></span></code></pre></figure>
+<p>Если «хвост» до <code>i−1</code> даёт отрицательную сумму, он только мешает — выгоднее начать заново.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>i</th><th>Числа[i]</th><th>Продолжить</th><th>Начать заново</th><th>Лучший[i]</th><th>Общий максимум</th></tr></thead><tbody><tr><td>0</td><td>−2</td><td>—</td><td>−2</td><td>−2</td><td>−2</td></tr><tr><td>1</td><td>1</td><td>−2+1 = −1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>2</td><td>−3</td><td>1−3 = −2</td><td>−3</td><td>−2</td><td>1</td></tr><tr><td>3</td><td>4</td><td>−2+4 = 2</td><td>4</td><td>4</td><td>4</td></tr><tr><td>4</td><td>−1</td><td>4−1 = 3</td><td>−1</td><td>3</td><td>4</td></tr><tr><td>5</td><td>2</td><td>3+2 = 5</td><td>2</td><td>5</td><td>5</td></tr><tr><td>6</td><td>1</td><td>5+1 = 6</td><td>1</td><td>6</td><td><strong>6</strong></td></tr><tr><td>7</td><td>−5</td><td>6−5 = 1</td><td>−5</td><td>1</td><td>6</td></tr><tr><td>8</td><td>4</td><td>1+4 = 5</td><td>4</td><td>5</td><td>6</td></tr></tbody></table></div>
+<p>Ответ — максимум по всем <code>Лучший[i]</code>: <strong>6</strong>.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> МаксСуммаПодмассива</span><span style="color:var(--shiki-foreground)">(Числа)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ЛучшийЗдесь </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Числа[</span><span style="color:var(--shiki-token-constant)">0</span><span style="color:var(--shiki-foreground)">]</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">   // лучшая сумма подмассива, заканчивающегося на текущем элементе</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Ответ </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Числа[</span><span style="color:var(--shiki-token-constant)">0</span><span style="color:var(--shiki-foreground)">]</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для</span><span style="color:var(--shiki-foreground)"> i </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)"> По</span><span style="color:var(--shiki-foreground)"> Числа.ВГраница() </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		ЛучшийЗдесь </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Макс</span><span style="color:var(--shiki-foreground)">(Числа[i]</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> ЛучшийЗдесь </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-foreground)"> Числа[i])</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Ответ </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Макс</span><span style="color:var(--shiki-foreground)">(Ответ</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> ЛучшийЗдесь)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-foreground)"> Ответ</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure>
+<p>Время <code>O(n)</code>, память <code>O(1)</code> — нам нужно только предыдущее значение, массив не храним.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">Проверить(</span><span style="color:var(--shiki-token-string-expression)">"Кадане"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> МаксСуммаПодмассива(ЧислаИзСтроки(</span><span style="color:var(--shiki-token-string-expression)">"-2,1,-3,4,-1,2,1,-5,4"</span><span style="color:var(--shiki-foreground)">))</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 6</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Проверить(</span><span style="color:var(--shiki-token-string-expression)">"Все отрицательные"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> МаксСуммаПодмассива(ЧислаИзСтроки(</span><span style="color:var(--shiki-token-string-expression)">"-3,-1,-2"</span><span style="color:var(--shiki-foreground)">))</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-keyword)"> -</span><span style="color:var(--shiki-token-constant)">1</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span></code></pre></figure>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Все числа отрицательные</div>
+<div class="callout-body"><p>Если начать с <code>Ответ = 0</code>, для <code>[-3, -1, -2]</code> получим 0 — а такого подмассива нет (подмассив не может быть пустым). Поэтому стартуем с первого элемента.</p></div>
+</div>
+<h2 id="задача-3-лучшее-время-купить-и-продать">Задача 3. Лучшее время купить и продать</h2>
+<p><strong>Условие.</strong> Даны цены акции по дням. Можно один раз купить и позже один раз продать. Найти максимальную прибыль (0, если прибыли не будет). <code>[7, 1, 5, 3, 6, 4]</code> → <code>5</code> (купить по 1, продать по 6).</p>
+<p><strong>Рассуждение.</strong> Продавая в день <code>i</code>, лучше всего было купить по <strong>минимальной цене до этого дня</strong>. Значит, идём по дням и помним минимум «на сегодня»:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> МаксПрибыль</span><span style="color:var(--shiki-foreground)">(Цены)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	МинЦена </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Цены[</span><span style="color:var(--shiki-token-constant)">0</span><span style="color:var(--shiki-foreground)">]</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Прибыль </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для</span><span style="color:var(--shiki-foreground)"> i </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)"> По</span><span style="color:var(--shiki-foreground)"> Цены.ВГраница() </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Прибыль </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Макс</span><span style="color:var(--shiki-foreground)">(Прибыль</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Цены[i] </span><span style="color:var(--shiki-token-keyword)">-</span><span style="color:var(--shiki-foreground)"> МинЦена)</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">   // продать сегодня</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		МинЦена </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Мин</span><span style="color:var(--shiki-foreground)">(МинЦена</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Цены[i])</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">              // или запомнить новую дешёвую цену</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-foreground)"> Прибыль</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>День</th><th>Цена</th><th>Мин. до дня</th><th>Прибыль, если продать сегодня</th><th>Лучшая прибыль</th></tr></thead><tbody><tr><td>0</td><td>7</td><td>7</td><td>—</td><td>0</td></tr><tr><td>1</td><td>1</td><td>7</td><td>−6</td><td>0</td></tr><tr><td>2</td><td>5</td><td>1</td><td>4</td><td>4</td></tr><tr><td>3</td><td>3</td><td>1</td><td>2</td><td>4</td></tr><tr><td>4</td><td>6</td><td>1</td><td><strong>5</strong></td><td>5</td></tr><tr><td>5</td><td>4</td><td>1</td><td>3</td><td>5</td></tr></tbody></table></div>
+<p>Время <code>O(n)</code>, память <code>O(1)</code>.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">Проверить(</span><span style="color:var(--shiki-token-string-expression)">"Прибыль"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> МаксПрибыль(ЧислаИзСтроки(</span><span style="color:var(--shiki-token-string-expression)">"7,1,5,3,6,4"</span><span style="color:var(--shiki-foreground)">))</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 5</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Проверить(</span><span style="color:var(--shiki-token-string-expression)">"Только падение"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> МаксПрибыль(ЧислаИзСтроки(</span><span style="color:var(--shiki-token-string-expression)">"7,6,4,3,1"</span><span style="color:var(--shiki-foreground)">))</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span></code></pre></figure>
+<h2 id="задача-4-грабитель-домов">Задача 4. Грабитель домов</h2>
+<p><strong>Условие.</strong> Дома стоят в ряд, в каждом лежит сумма денег. Нельзя брать деньги из <strong>двух соседних</strong> домов. Какую максимальную сумму можно собрать? <code>[2, 7, 9, 3, 1]</code> → <code>12</code> (дома 2 + 9 + 1).</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Вопрос</th><th>Ответ</th></tr></thead><tbody><tr><td>Состояние</td><td><code>ДП[i]</code> — максимум, который можно собрать с домов <code>0..i</code></td></tr><tr><td>Переход</td><td>Для дома <code>i</code> два варианта: <strong>не брать</strong> его — <code>ДП[i−1]</code>; <strong>взять</strong> — <code>ДП[i−2] + Дома[i]</code> (соседний <code>i−1</code> тогда брать нельзя). <code>ДП[i] = Макс(ДП[i−1], ДП[i−2] + Дома[i])</code></td></tr><tr><td>База</td><td><code>ДП[0] = Дома[0]</code>, <code>ДП[1] = Макс(Дома[0], Дома[1])</code></td></tr><tr><td>Ответ</td><td><code>ДП[n−1]</code></td></tr></tbody></table></div>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="plaintext" data-theme="mono"><code data-language="plaintext" data-theme="mono" style="display: grid;"><span data-line=""><span>Дома: 2   7   9   3   1</span></span>
+<span data-line=""><span>ДП:   2   7  11  11  12</span></span>
+<span data-line=""><span>              ↑</span></span>
+<span data-line=""><span>        ДП[2] = Макс(ДП[1]=7, ДП[0]+9=11) = 11</span></span></code></pre></figure>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> ОграбитьДома</span><span style="color:var(--shiki-foreground)">(Дома)</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Если</span><span style="color:var(--shiki-foreground)"> Дома.Количество() </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)"> Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Возврат</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ДоПредыдущего </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">        // ДП[i − 2]</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Предыдущий </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">           // ДП[i − 1]</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для Каждого</span><span style="color:var(--shiki-foreground)"> Деньги </span><span style="color:var(--shiki-token-keyword)">Из</span><span style="color:var(--shiki-foreground)"> Дома </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Текущий </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Макс</span><span style="color:var(--shiki-foreground)">(Предыдущий</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> ДоПредыдущего </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-foreground)"> Деньги)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		ДоПредыдущего </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Предыдущий</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Предыдущий </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Текущий</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-foreground)"> Предыдущий</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure>
+<p>Здесь мы сразу храним только два последних значения ДП вместо массива — память <code>O(1)</code>.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">Проверить(</span><span style="color:var(--shiki-token-string-expression)">"Грабитель"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> ОграбитьДома(ЧислаИзСтроки(</span><span style="color:var(--shiki-token-string-expression)">"2,7,9,3,1"</span><span style="color:var(--shiki-foreground)">))</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 12</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Проверить(</span><span style="color:var(--shiki-token-string-expression)">"Два дома"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> ОграбитьДома(ЧислаИзСтроки(</span><span style="color:var(--shiki-token-string-expression)">"5,1"</span><span style="color:var(--shiki-foreground)">))</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 5</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span></code></pre></figure>
+<h2 id="задача-5-пути-в-сетке-двумерное-дп">Задача 5. Пути в сетке (двумерное ДП)</h2>
+<p><strong>Условие.</strong> Робот стоит в левом верхнем углу сетки <code>Строк × Столбцов</code> и может ходить только <strong>вправо</strong> или <strong>вниз</strong>. Сколько разных путей до правого нижнего угла?</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="plaintext" data-theme="mono"><code data-language="plaintext" data-theme="mono" style="display: grid;"><span data-line=""><span>Сетка 3 × 3, число путей до каждой клетки:</span></span>
+<span data-line=""><span>1  1  1</span></span>
+<span data-line=""><span>1  2  3</span></span>
+<span data-line=""><span>1  3  6   ← ответ 6</span></span></code></pre></figure>
+<p>В клетку можно прийти только сверху или слева: <code>ДП[r][c] = ДП[r−1][c] + ДП[r][c−1]</code>. В первой строке и первом столбце путь один (только прямо).</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> ПутейВСетке</span><span style="color:var(--shiki-foreground)">(Строк</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Столбцов)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ДП </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> Массив(Строк</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Столбцов)</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">   // двумерный массив Строк × Столбцов</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для</span><span style="color:var(--shiki-foreground)"> r </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)"> По</span><span style="color:var(--shiki-foreground)"> Строк </span><span style="color:var(--shiki-token-keyword)">-</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)"> Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Для</span><span style="color:var(--shiki-foreground)"> c </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)"> По</span><span style="color:var(--shiki-foreground)"> Столбцов </span><span style="color:var(--shiki-token-keyword)">-</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)"> Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">			Если</span><span style="color:var(--shiki-foreground)"> r </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)"> Или</span><span style="color:var(--shiki-foreground)"> c </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)"> Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">				ДП[r][c] </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">			Иначе</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">				ДП[r][c] </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> ДП[r </span><span style="color:var(--shiki-token-keyword)">-</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-foreground)">][c] </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-foreground)"> ДП[r][c </span><span style="color:var(--shiki-token-keyword)">-</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-foreground)">]</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">			КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-foreground)"> ДП[Строк </span><span style="color:var(--shiki-token-keyword)">-</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-foreground)">][Столбцов </span><span style="color:var(--shiki-token-keyword)">-</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-foreground)">]</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure>
+<p><code>Новый Массив(Строк, Столбцов)</code> создаёт массив массивов: <code>ДП[r]</code> — строка, <code>ДП[r][c]</code> — клетка. Время и память <code>O(Строк × Столбцов)</code>.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">Проверить(</span><span style="color:var(--shiki-token-string-expression)">"Сетка 3×3"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> ПутейВСетке(</span><span style="color:var(--shiki-token-constant)">3</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 3</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 6</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Проверить(</span><span style="color:var(--shiki-token-string-expression)">"Сетка 3×7"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> ПутейВСетке(</span><span style="color:var(--shiki-token-constant)">3</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 7</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 28</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span></code></pre></figure>
+<h2 id="как-узнать-задачу-на-дп">Как узнать задачу на ДП</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Признак в условии</th><th>Пример</th></tr></thead><tbody><tr><td>«Сколько способов…»</td><td>Лестница, пути в сетке</td></tr><tr><td>«Максимальная / минимальная сумма, стоимость, длина» с выбором на каждом шаге</td><td>Грабитель, рюкзак</td></tr><tr><td>Решение для <code>n</code> складывается из решений для меньших <code>n</code></td><td>Почти все задачи ДП</td></tr><tr><td>Наивная рекурсия пересчитывает одно и то же</td><td>Фибоначчи</td></tr></tbody></table></div>
+<div class="callout callout-tip" data-callout="tip">
+<div class="callout-title">Если не получается</div>
+<div class="callout-body"><p>Начните с рекурсивного перебора «как бы я решал для маленького <code>n</code>», затем добавьте мемоизацию (<a href="/restart/l/06/12/" data-internal="true">12. Рекурсия</a>) — это уже ДП. Переписать мемоизацию в цикл с массивом можно потом.</p></div>
+</div>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>На какие четыре вопроса нужно ответить, чтобы решить задачу на ДП?</p>
+</li>
+<li>
+<p>Почему в задаче о лестнице <code>ДП[i] = ДП[i−1] + ДП[i−2]</code>?</p>
+</li>
+<li>
+<p>Что хранит переменная <code>ЛучшийЗдесь</code> в алгоритме Кадане и когда подмассив «начинается заново»?</p>
+</li>
+<li>
+<p>Почему в Кадане нельзя начинать с <code>Ответ = 0</code>?</p>
+</li>
+<li>
+<p>Как сократить память в задаче о лестнице до <code>O(1)</code>?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Смысл состояния <code>ДП[i]</code>, переход, база, где ответ.</li>
+<li>На ступеньку <code>i</code> попадаем либо с <code>i−1</code> шагом, либо с <code>i−2</code> прыжком; способы складываются.</li>
+<li>Максимальную сумму подмассива, заканчивающегося на текущем элементе. Заново — когда сам элемент больше, чем продолжение (накопленный хвост отрицательный).</li>
+<li>Если все числа отрицательные, ответ 0 будет неверным — непустого подмассива с суммой 0 нет.</li>
+<li>Хранить только два последних значения в переменных вместо всего массива.</li>
+</ol></div>
+</details></div>
+</details>1a:[["$","$L25",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L26",null,{"tree":{"kind":"folder","id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/","children":[{"kind":"lesson","id":"kmxf89","num":"00","title":"Навигация по разделу","href":"/l/06/00/","children":"$undefined"},{"kind":"lesson","id":"59cugg","num":"01","title":"Что такое алгоритм и как решать задачи","href":"/l/06/01/","children":"$undefined"},{"kind":"lesson","id":"lds9qn","num":"02","title":"Сложность алгоритмов","href":"/l/06/02/","children":"$undefined"},{"kind":"lesson","id":"1pjoju1","num":"03","title":"Массивы — базовые приёмы","href":"/l/06/03/","children":"$undefined"},{"kind":"lesson","id":"3cctbr","num":"04","title":"Строки и символы","href":"/l/06/04/","children":"$undefined"},{"kind":"lesson","id":"1ydqhou","num":"05","title":"Соответствие как хеш-таблица","href":"/l/06/05/","children":"$undefined"},{"kind":"lesson","id":"t6dz7i","num":"06","title":"Два указателя","href":"/l/06/06/","children":"$undefined"},{"kind":"lesson","id":"nbwllp","num":"07","title":"Скользящее окно","href":"/l/06/07/","children":"$undefined"},{"kind":"lesson","id":"fr1gf6","num":"08","title":"Префиксные суммы","href":"/l/06/08/","children":"$undefined"},{"kind":"lesson","id":"3irwp2","num":"09","title":"Сортировки","href":"/l/06/09/","children":"$undefined"},{"kind":"lesson","id":"12gwpp6","num":"10","title":"Бинарный поиск","href":"/l/06/10/","children":"$undefined"},{"kind":"lesson","id":"1u9yaso","num":"11","title":"Стек и очередь","href":"/l/06/11/","children":"$undefined"},{"kind":"lesson","id":"dz6s3r","num":"12","title":"Рекурсия","href":"/l/06/12/","children":"$undefined"},{"kind":"lesson","id":"2qxixv","num":"13","title":"Обход в глубину и ширину","href":"/l/06/13/","children":"$undefined"},{"kind":"lesson","id":"ufdpje","num":"14","title":"Динамическое программирование","href":"/l/06/14/","children":"$undefined"},{"kind":"lesson","id":"iokjmp","num":"15","title":"Жадные алгоритмы и интервалы","href":"/l/06/15/","children":"$undefined"},{"kind":"lesson","id":"1jbpe","num":"16","title":"Практика — задачи с собеседований","href":"/l/06/16/","children":"$undefined"},{"kind":"lesson","id":"1h9efqa","num":"17","title":"Памятка — шаблоны и ошибки","href":"/l/06/17/","children":"$undefined"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"ufdpje"}]}],["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L27",null,{"children":"$1a:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","18v7yvg",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/06/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"06"}],"Алгоритмы для 1С"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","14"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[10," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Динамическое программирование"}],["$","div",null,{"className":"mt-7","children":["$","$L28",null,{"id":"ufdpje","href":"/l/06/14/","title":"Динамическое программирование"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$29"}}],"$L2a","$L2b","$L2c","$L2d","$L2e"]}]]}],"$L2f"]}]]
+30:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+31:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+32:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+33:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+34:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+2a:["$","$L30",null,{"targetId":"lesson-body"}]
+2b:["$","$L31",null,{"targetId":"lesson-body"}]
+2c:["$","$L32",null,{"targetId":"lesson-body"}]
+2d:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L28",null,{"id":"ufdpje","href":"/l/06/14/","title":"Динамическое программирование","variant":"footer"}]}]
+2e:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/06/13/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L33",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Обход в глубину и ширину"}]]}],["$","$L13",null,{"href":"/l/06/15/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L33",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Жадные алгоритмы и интервалы"}]]}]]}]
+2f:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L34",null,{"items":[{"id":"идея","text":"Идея","depth":2},{"id":"рецепт-решения-задачи-на-дп","text":"Рецепт решения задачи на ДП","depth":2},{"id":"задача-1-лестница","text":"Задача 1. Лестница","depth":2},{"id":"задача-2-максимальная-сумма-подмассива-алгоритм-кадане","text":"Задача 2. Максимальная сумма подмассива (алгоритм Кадане)","depth":2},{"id":"задача-3-лучшее-время-купить-и-продать","text":"Задача 3. Лучшее время купить и продать","depth":2},{"id":"задача-4-грабитель-домов","text":"Задача 4. Грабитель домов","depth":2},{"id":"задача-5-пути-в-сетке-двумерное-дп","text":"Задача 5. Пути в сетке (двумерное ДП)","depth":2},{"id":"как-узнать-задачу-на-дп","text":"Как узнать задачу на ДП","depth":2}]}]}]
+35:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+1d:null
+23:[["$","title","0",{"children":"Динамическое программирование · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L35","3",{}]]

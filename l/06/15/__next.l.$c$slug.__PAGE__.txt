@@ -1,0 +1,276 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1e:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+1f:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+25:"ViewportBoundary"
+26:I[97367,["$2","$3","$4","$5","$6","$7"],"$25"]
+27:"MetadataBoundary"
+28:I[97367,["$2","$3","$4","$5","$6","$7"],"$27"]
+29:"$Sreact.suspense"
+2a:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+17:X
+1a:X
+1a:C
+1d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L1e",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L1f",null,{"tree":{"kind":"folder","id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/","children":[{"kind":"lesson","id":"kmxf89","num":"00","title":"Навигация по разделу","href":"/l/06/00/"},{"kind":"lesson","id":"59cugg","num":"01","title":"Что такое алгоритм и как решать задачи","href":"/l/06/01/"},{"kind":"lesson","id":"lds9qn","num":"02","title":"Сложность алгоритмов","href":"/l/06/02/"},{"kind":"lesson","id":"1pjoju1","num":"03","title":"Массивы — базовые приёмы","href":"/l/06/03/"},{"kind":"lesson","id":"3cctbr","num":"04","title":"Строки и символы","href":"/l/06/04/"},{"kind":"lesson","id":"1ydqhou","num":"05","title":"Соответствие как хеш-таблица","href":"/l/06/05/"},{"kind":"lesson","id":"t6dz7i","num":"06","title":"Два указателя","href":"/l/06/06/"},{"kind":"lesson","id":"nbwllp","num":"07","title":"Скользящее окно","href":"/l/06/07/"},{"kind":"lesson","id":"fr1gf6","num":"08","title":"Префиксные суммы","href":"/l/06/08/"},{"kind":"lesson","id":"3irwp2","num":"09","title":"Сортировки","href":"/l/06/09/"},{"kind":"lesson","id":"12gwpp6","num":"10","title":"Бинарный поиск","href":"/l/06/10/"},{"kind":"lesson","id":"1u9yaso","num":"11","title":"Стек и очередь","href":"/l/06/11/"},{"kind":"lesson","id":"dz6s3r","num":"12","title":"Рекурсия","href":"/l/06/12/"},{"kind":"lesson","id":"2qxixv","num":"13","title":"Обход в глубину и ширину","href":"/l/06/13/"},{"kind":"lesson","id":"ufdpje","num":"14","title":"Динамическое программирование","href":"/l/06/14/"},{"kind":"lesson","id":"iokjmp","num":"15","title":"Жадные алгоритмы и интервалы","href":"/l/06/15/"},{"kind":"lesson","id":"1jbpe","num":"16","title":"Практика — задачи с собеседований","href":"/l/06/16/"},{"kind":"lesson","id":"1h9efqa","num":"17","title":"Памятка — шаблоны и ошибки","href":"/l/06/17/"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"iokjmp"}]}],"$L20","$L21"]}]],["$L22"],"$L23"]}],"p":"$@24","v":null,"s":"$17"}}]]
+1b:[["children",{"s":{"n":"slug","t":"c","k":"06/15","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@1c","v":"$1a","s":"$17"},"c":"$Q1d"}]]
+18:[["children",{"s":"l","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@19","v":"$1a","s":"$17"},"c":"$Q1b"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]]}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":"$@16","v":null,"s":"$17"},"c":"$Q18"},"h":{"r":["$","$1","h",{"children":[null,["$","$L26",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]}],["$","$L28",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$29",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Жадные алгоритмы и интервалы · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L2a","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@2b","v":null,"s":"$17"}},"a":"$@2c","u":"$@2d","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+2e:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+2f:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+36:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+37:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+30:Ta61a,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p><strong>Жадный алгоритм</strong> на каждом шаге делает <strong>локально лучший</strong> выбор и никогда его не пересматривает. Он прост и быстр, но верен <strong>не всегда</strong> — правильность нужно обосновать (или найти контрпример). Классика: выдача сдачи (работает для «удобных» номиналов), максимум непересекающихся встреч (выбираем ту, что <strong>раньше заканчивается</strong>). Задачи на <strong>интервалы</strong> почти всегда начинаются с <strong>сортировки по началу</strong>: слияние пересекающихся интервалов, вставка интервала, подсчёт комнат. Сложность обычно определяется сортировкой — <code>O(n log n)</code>.</p></div>
+</div>
+<h2 id="что-такое-жадный-алгоритм">Что такое жадный алгоритм</h2>
+<p><strong>Жадный</strong> алгоритм на каждом шаге берёт то, что выглядит лучшим <strong>прямо сейчас</strong>, и не возвращается к прошлым решениям.</p>
+<p>Пример из жизни — <strong>сдача</strong>. Нужно выдать 87 рублей минимальным числом монет и купюр номиналами 50, 10, 5, 2, 1. Кассир действует жадно: каждый раз берёт самую крупную купюру, которая ещё помещается.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="plaintext" data-theme="mono"><code data-language="plaintext" data-theme="mono" style="display: grid;"><span data-line=""><span>87 → 50 (осталось 37) → 10 (27) → 10 (17) → 10 (7) → 5 (2) → 2 (0)</span></span>
+<span data-line=""><span>Итого 6 штук: 50 + 10 + 10 + 10 + 5 + 2</span></span></code></pre></figure>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> ВыдатьСдачу</span><span style="color:var(--shiki-foreground)">(Сумма</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Номиналы)   </span><span style="color:var(--shiki-token-comment)">// Номиналы — по убыванию</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Результат </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> Массив</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Остаток </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Сумма</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для Каждого</span><span style="color:var(--shiki-foreground)"> Номинал </span><span style="color:var(--shiki-token-keyword)">Из</span><span style="color:var(--shiki-foreground)"> Номиналы </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Пока</span><span style="color:var(--shiki-foreground)"> Остаток </span><span style="color:var(--shiki-token-keyword)">>=</span><span style="color:var(--shiki-foreground)"> Номинал </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			Результат.Добавить(Номинал)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			Остаток </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Остаток </span><span style="color:var(--shiki-token-keyword)">-</span><span style="color:var(--shiki-foreground)"> Номинал</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-foreground)"> Результат</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">Проверить(</span><span style="color:var(--shiki-token-string-expression)">"Сдача 87"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> МассивВСтроку(ВыдатьСдачу(</span><span style="color:var(--shiki-token-constant)">87</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> ЧислаИзСтроки(</span><span style="color:var(--shiki-token-string-expression)">"50,10,5,2,1"</span><span style="color:var(--shiki-foreground)">)))</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "50,10,10,10,5,2"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span></code></pre></figure>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Жадность работает не всегда</div>
+<div class="callout-body"><p>Пусть номиналы 1, 3 и 4, а выдать нужно 6. Жадно: 4 + 1 + 1 — три монеты. Оптимально: 3 + 3 — две монеты. Для «неудобных» номиналов жадный алгоритм ошибается, и нужна динамика (<a href="/restart/l/06/14/" data-internal="true">14. Динамическое программирование</a>). На собеседовании, предлагая жадное решение, будьте готовы объяснить, <strong>почему</strong> оно верное, — или сами приведите контрпример.</p></div>
+</div>
+<h2 id="задача-1-максимум-встреч-в-одной-переговорной">Задача 1. Максимум встреч в одной переговорной</h2>
+<p><strong>Условие.</strong> Есть список встреч <code>[начало, конец]</code>. Переговорная одна. Какое <strong>максимальное</strong> число встреч можно в ней провести без пересечений? Встреча, которая заканчивается в 10:00, не мешает встрече, которая начинается в 10:00.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="plaintext" data-theme="mono"><code data-language="plaintext" data-theme="mono" style="display: grid;"><span data-line=""><span>Встречи: [1,4] [3,5] [0,6] [5,7] [3,9] [5,9] [6,10] [8,11] [8,12] [2,14] [12,16]</span></span></code></pre></figure>
+<p>Какой жадный выбор правильный? Попробуем варианты:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Правило</th><th>Проблема</th></tr></thead><tbody><tr><td>Брать самую <strong>раннюю по началу</strong></td><td>Длинная встреча <code>[0, 100]</code> займёт весь день</td></tr><tr><td>Брать самую <strong>короткую</strong></td><td>Короткая встреча может мешать двум длинным, которые не мешали бы друг другу</td></tr><tr><td>Брать ту, что <strong>раньше заканчивается</strong></td><td>✓ Освобождает переговорную как можно раньше — остаётся больше времени для остальных</td></tr></tbody></table></div>
+<p><strong>Алгоритм:</strong> отсортировать встречи по <strong>концу</strong>; идти по порядку и брать встречу, если она начинается не раньше конца последней взятой.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="plaintext" data-theme="mono"><code data-language="plaintext" data-theme="mono" style="display: grid;"><span data-line=""><span>По концу:  [1,4] [3,5] [0,6] [5,7] [3,9] [5,9] [6,10] [8,11] [8,12] [2,14] [12,16]</span></span>
+<span data-line=""><span>Берём [1,4]     конец = 4</span></span>
+<span data-line=""><span>[3,5]  начало 3 &#x3C; 4 — пересекается, пропуск</span></span>
+<span data-line=""><span>[0,6]  пропуск</span></span>
+<span data-line=""><span>[5,7]  5 ≥ 4 — берём, конец = 7</span></span>
+<span data-line=""><span>[3,9], [5,9], [6,10] — пропуск</span></span>
+<span data-line=""><span>[8,11] 8 ≥ 7 — берём, конец = 11</span></span>
+<span data-line=""><span>[8,12], [2,14] — пропуск</span></span>
+<span data-line=""><span>[12,16] 12 ≥ 11 — берём</span></span>
+<span data-line=""><span>Ответ: 4 встречи</span></span></code></pre></figure>
+<p>Встречу представим структурой с полями <code>Начало</code> и <code>Конец</code>. Встроенная сортировка <code>СписокЗначений</code> сортирует по значению, а нам нужно отсортировать <strong>структуры по полю</strong>, поэтому напишем небольшую сортировку вставками (<a href="/restart/l/06/09/" data-internal="true">09. Сортировки</a>), которая сравнивает элементы по указанному полю:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> СортироватьПоПолю</span><span style="color:var(--shiki-foreground)">(Элементы</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> ИмяПоля)</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для</span><span style="color:var(--shiki-foreground)"> i </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)"> По</span><span style="color:var(--shiki-foreground)"> Элементы.ВГраница() </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Текущий </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Элементы[i]</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		j </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> i </span><span style="color:var(--shiki-token-keyword)">-</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Пока</span><span style="color:var(--shiki-foreground)"> j </span><span style="color:var(--shiki-token-keyword)">>=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)"> И</span><span style="color:var(--shiki-foreground)"> Элементы[j][ИмяПоля] </span><span style="color:var(--shiki-token-keyword)">></span><span style="color:var(--shiki-foreground)"> Текущий[ИмяПоля] </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			Элементы[j </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-foreground)">] </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Элементы[j]</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			j </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> j </span><span style="color:var(--shiki-token-keyword)">-</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Элементы[j </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-foreground)">] </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Текущий</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span></code></pre></figure>
+<p><code>Элементы[j][ИмяПоля]</code> — обращение к полю структуры по имени, записанному в переменной. Сортировка вставками — <code>O(n²)</code>; для учебных задач этого достаточно, на собеседовании говорим «сортирую за <code>O(n log n)</code>», подразумевая хорошую сортировку (например, слиянием по полю).</p>
+<p>Вспомогательная функция для создания встреч из строки <code>"1-4,3-5,…"</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> ИнтервалыИзСтроки</span><span style="color:var(--shiki-foreground)">(Текст)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Результат </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> Массив</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для Каждого</span><span style="color:var(--shiki-foreground)"> Часть </span><span style="color:var(--shiki-token-keyword)">Из</span><span style="color:var(--shiki-token-function)"> СтрРазделить</span><span style="color:var(--shiki-foreground)">(Текст</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> ","</span><span style="color:var(--shiki-foreground)">) </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Границы </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> СтрРазделить</span><span style="color:var(--shiki-foreground)">(Часть</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "-"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Результат.Добавить(</span><span style="color:var(--shiki-token-function)">Новый</span><span style="color:var(--shiki-foreground)"> Структура(</span><span style="color:var(--shiki-token-string-expression)">"Начало, Конец"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-function)"> Число</span><span style="color:var(--shiki-foreground)">(Границы[</span><span style="color:var(--shiki-token-constant)">0</span><span style="color:var(--shiki-foreground)">])</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-function)"> Число</span><span style="color:var(--shiki-foreground)">(Границы[</span><span style="color:var(--shiki-token-constant)">1</span><span style="color:var(--shiki-foreground)">])))</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-foreground)"> Результат</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure>
+<p>Решение:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> МаксимумВстреч</span><span style="color:var(--shiki-foreground)">(Встречи)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	СортироватьПоПолю(Встречи</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "Конец"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Количество </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	КонецПоследней </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> Неопределено</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для Каждого</span><span style="color:var(--shiki-foreground)"> Встреча </span><span style="color:var(--shiki-token-keyword)">Из</span><span style="color:var(--shiki-foreground)"> Встречи </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Если</span><span style="color:var(--shiki-foreground)"> КонецПоследней </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> Неопределено</span><span style="color:var(--shiki-token-keyword)"> Или</span><span style="color:var(--shiki-foreground)"> Встреча.Начало </span><span style="color:var(--shiki-token-keyword)">>=</span><span style="color:var(--shiki-foreground)"> КонецПоследней </span><span style="color:var(--shiki-token-keyword)">Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			Количество </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Количество </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">          // берём встречу</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			КонецПоследней </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Встреча.Конец</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-foreground)"> Количество</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">Встречи </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> ИнтервалыИзСтроки(</span><span style="color:var(--shiki-token-string-expression)">"1-4,3-5,0-6,5-7,3-9,5-9,6-10,8-11,8-12,2-14,12-16"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Проверить(</span><span style="color:var(--shiki-token-string-expression)">"Встречи"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> МаксимумВстреч(Встречи)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 4</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span></code></pre></figure>
+<p><strong>Почему жадность здесь верна.</strong> Возьмём любое оптимальное расписание. Его первую встречу можно заменить на встречу, которая заканчивается раньше всех, — она освободит переговорную не позже, и все остальные встречи расписания по-прежнему поместятся. Повторяя рассуждение для каждой следующей встречи, получаем: жадный выбор не хуже оптимального.</p>
+<h2 id="задача-2-слияние-пересекающихся-интервалов">Задача 2. Слияние пересекающихся интервалов</h2>
+<p>Одна из самых частых задач собеседований.</p>
+<p><strong>Условие.</strong> Дан список интервалов. Слить все пересекающиеся. <code>[1,3] [2,6] [8,10] [15,18]</code> → <code>[1,6] [8,10] [15,18]</code>. Интервалы, которые касаются (<code>[1,4]</code> и <code>[4,5]</code>), тоже сливаются.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="plaintext" data-theme="mono"><code data-language="plaintext" data-theme="mono" style="display: grid;"><span data-line=""><span>Ось:  1  2  3  4  5  6  7  8  9  10        15  16  17  18</span></span>
+<span data-line=""><span>      [-----]                                              [1,3]</span></span>
+<span data-line=""><span>         [-----------]                                     [2,6]</span></span>
+<span data-line=""><span>                        [--------]                         [8,10]</span></span>
+<span data-line=""><span>                                           [---------]     [15,18]</span></span>
+<span data-line=""><span>Итог: [--------------]  [--------]         [---------]</span></span>
+<span data-line=""><span>         [1,6]            [8,10]             [15,18]</span></span></code></pre></figure>
+<p><strong>Алгоритм:</strong></p>
+<ol>
+<li>Отсортировать интервалы по <strong>началу</strong>.</li>
+<li>Идти по порядку. Если текущий интервал начинается не позже конца последнего слитого — они пересекаются: растягиваем конец последнего до <code>Макс(концов)</code>. Иначе — начинаем новый слитый интервал.</li>
+</ol>
+<p>После сортировки пересекаться с текущим может только <strong>последний</strong> слитый интервал: все предыдущие закончились ещё раньше.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> СлитьИнтервалы</span><span style="color:var(--shiki-foreground)">(Интервалы)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Результат </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> Массив</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Если</span><span style="color:var(--shiki-foreground)"> Интервалы.Количество() </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)"> Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Возврат</span><span style="color:var(--shiki-foreground)"> Результат</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	СортироватьПоПолю(Интервалы</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "Начало"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для Каждого</span><span style="color:var(--shiki-foreground)"> Интервал </span><span style="color:var(--shiki-token-keyword)">Из</span><span style="color:var(--shiki-foreground)"> Интервалы </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Если</span><span style="color:var(--shiki-foreground)"> Результат.Количество() </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)"> Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			Результат.Добавить(</span><span style="color:var(--shiki-token-function)">Новый</span><span style="color:var(--shiki-foreground)"> Структура(</span><span style="color:var(--shiki-token-string-expression)">"Начало, Конец"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Интервал.Начало</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Интервал.Конец))</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">			Продолжить;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Последний </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Результат[Результат.ВГраница()]</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Если</span><span style="color:var(--shiki-foreground)"> Интервал.Начало </span><span style="color:var(--shiki-token-keyword)">&#x3C;=</span><span style="color:var(--shiki-foreground)"> Последний.Конец </span><span style="color:var(--shiki-token-keyword)">Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			Последний.Конец </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Макс</span><span style="color:var(--shiki-foreground)">(Последний.Конец</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Интервал.Конец)</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">   // пересекаются — растягиваем</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Иначе</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			Результат.Добавить(</span><span style="color:var(--shiki-token-function)">Новый</span><span style="color:var(--shiki-foreground)"> Структура(</span><span style="color:var(--shiki-token-string-expression)">"Начало, Конец"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Интервал.Начало</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Интервал.Конец))</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-foreground)"> Результат</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> ИнтервалыВСтроку</span><span style="color:var(--shiki-foreground)">(Интервалы)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Части </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> Массив</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для Каждого</span><span style="color:var(--shiki-foreground)"> Интервал </span><span style="color:var(--shiki-token-keyword)">Из</span><span style="color:var(--shiki-foreground)"> Интервалы </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Части.Добавить(</span><span style="color:var(--shiki-token-function)">XMLСтрока</span><span style="color:var(--shiki-foreground)">(Интервал.Начало) </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-string-expression)"> "-"</span><span style="color:var(--shiki-token-keyword)"> +</span><span style="color:var(--shiki-token-function)"> XMLСтрока</span><span style="color:var(--shiki-foreground)">(Интервал.Конец))</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-token-function)"> СтрСоединить</span><span style="color:var(--shiki-foreground)">(Части</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> ","</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Деталь</th><th>Почему</th></tr></thead><tbody><tr><td><code>Макс(Последний.Конец, Интервал.Конец)</code></td><td>Интервал может лежать <strong>внутри</strong> последнего: <code>[1,10]</code> и <code>[2,3]</code> → конец остаётся 10</td></tr><tr><td><code>&#x3C;=</code> в условии пересечения</td><td>Касающиеся интервалы <code>[1,4]</code> и <code>[4,5]</code> сливаются</td></tr><tr><td>Новые структуры в результате</td><td>Чтобы не менять исходные интервалы при растягивании</td></tr></tbody></table></div>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">Проверить(</span><span style="color:var(--shiki-token-string-expression)">"Слияние"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> ИнтервалыВСтроку(СлитьИнтервалы(ИнтервалыИзСтроки(</span><span style="color:var(--shiki-token-string-expression)">"1-3,8-10,2-6,15-18"</span><span style="color:var(--shiki-foreground)">)))</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "1-6,8-10,15-18"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Проверить(</span><span style="color:var(--shiki-token-string-expression)">"Вложенный"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> ИнтервалыВСтроку(СлитьИнтервалы(ИнтервалыИзСтроки(</span><span style="color:var(--shiki-token-string-expression)">"1-10,2-3"</span><span style="color:var(--shiki-foreground)">)))</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "1-10"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Проверить(</span><span style="color:var(--shiki-token-string-expression)">"Касание"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> ИнтервалыВСтроку(СлитьИнтервалы(ИнтервалыИзСтроки(</span><span style="color:var(--shiki-token-string-expression)">"1-4,4-5"</span><span style="color:var(--shiki-foreground)">)))</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "1-5"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span></code></pre></figure>
+<p>Время <code>O(n log n)</code> на сортировку плюс <code>O(n)</code> на проход.</p>
+<div class="callout callout-info" data-callout="info">
+<div class="callout-title">Задачи из 1С-практики</div>
+<div class="callout-body"><p>Слияние интервалов встречается и в реальной работе: объединить периоды отпусков сотрудника, периоды действия договоров, интервалы простоя оборудования.</p></div>
+</div>
+<h2 id="задача-для-закрепления-сколько-нужно-переговорных">Задача для закрепления: сколько нужно переговорных</h2>
+<p><strong>Условие.</strong> Даны встречи <code>[начало, конец]</code>. Сколько переговорных нужно, чтобы провести все? <code>[0,30] [5,10] [15,20]</code> → <code>2</code>.</p>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">Подсказка</summary>
+<div class="callout-body"><p>Разбейте каждую встречу на два события: «начало» (+1 занятая комната) и «конец» (−1). Отсортируйте события по времени; при равном времени «конец» ставьте раньше «начала». Пройдите по событиям, считая текущее число занятых комнат, — максимум и есть ответ.</p></div>
+</details>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Что отличает жадный алгоритм от динамического программирования?</p>
+</li>
+<li>
+<p>Приведите пример, когда жадная выдача сдачи ошибается.</p>
+</li>
+<li>
+<p>По какому признаку сортировать встречи, чтобы провести их максимум в одной комнате, и почему?</p>
+</li>
+<li>
+<p>Почему при слиянии интервалов достаточно сравнивать текущий интервал только с последним слитым?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Жадный делает локально лучший выбор и не пересматривает его; ДП рассматривает все варианты подзадач и выбирает лучший по запомненным ответам.</li>
+<li>Номиналы 1, 3, 4, сумма 6: жадно 4+1+1 (3 монеты), оптимально 3+3 (2 монеты).</li>
+<li>По времени окончания: ранний конец освобождает комнату для максимального числа следующих встреч.</li>
+<li>После сортировки по началу все более ранние слитые интервалы заканчиваются не позже последнего, поэтому пересечься с текущим может только последний.</li>
+</ol></div>
+</details></div>
+</details>20:["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L2e",null,{"children":"$1d:0:1:d:r:props:children:0:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","18v7yvg",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/06/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"06"}],"Алгоритмы для 1С"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","15"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[7," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Жадные алгоритмы и интервалы"}],["$","div",null,{"className":"mt-7","children":["$","$L2f",null,{"id":"iokjmp","href":"/l/06/15/","title":"Жадные алгоритмы и интервалы"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$30"}}],"$L31","$L32","$L33","$L34","$L35"]}]]}]
+21:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L36",null,{"items":[{"id":"что-такое-жадный-алгоритм","text":"Что такое жадный алгоритм","depth":2},{"id":"задача-1-максимум-встреч-в-одной-переговорной","text":"Задача 1. Максимум встреч в одной переговорной","depth":2},{"id":"задача-2-слияние-пересекающихся-интервалов","text":"Задача 2. Слияние пересекающихся интервалов","depth":2},{"id":"задача-для-закрепления-сколько-нужно-переговорных","text":"Задача для закрепления: сколько нужно переговорных","depth":2}]}]}]
+22:["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true}]
+23:["$","$L37",null,{"children":["$","$29",null,{"name":"Next.MetadataOutlet","children":"$@38"}]}]
+39:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+3a:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+3b:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+3c:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+17:300
+31:["$","$L39",null,{"targetId":"lesson-body"}]
+32:["$","$L3a",null,{"targetId":"lesson-body"}]
+33:["$","$L3b",null,{"targetId":"lesson-body"}]
+34:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L2f",null,{"id":"iokjmp","href":"/l/06/15/","title":"Жадные алгоритмы и интервалы","variant":"footer"}]}]
+35:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/06/14/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L3c",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Динамическое программирование"}]]}],["$","$L13",null,{"href":"/l/06/16/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L3c",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Практика — задачи с собеседований"}]]}]]}]
+38:null
+2d:true
+17:C
+2c:0
+1c:"$undefined"
+19:"$undefined"
+16:"$undefined"
+2b:"$undefined"
+24:"$undefined"

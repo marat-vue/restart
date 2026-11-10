@@ -1,0 +1,236 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1b:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:"ViewportBoundary"
+1f:I[97367,["$2","$3","$4","$5","$6","$7"],"$1e"]
+21:"MetadataBoundary"
+22:I[97367,["$2","$3","$4","$5","$6","$7"],"$21"]
+24:I[68027,["$2","$3","$4","$5","$6","$7"],"default",1]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+:HL["/restart/_next/static/media/051742360c26797e-s.p.1bkzbscqrt8rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/26f284dcc38c84c0-s.p.3hlisc-pwq13z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/42b035f1a63f268d-s.p.2m8t2-vl1h1kf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/b4a06a523f527a0e-s.p.3psl0_mnhzy2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/cfdfbee4d6cf0a93-s.p.1jwcpm6w583_v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/e8768c288fbd3aa6-s.p.1t1z0xjflawjj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+17:X
+19:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L1a",[["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true,"nonce":"$undefined"}]],["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]]}],"p":false,"v":null}}]]
+18:[["children",{"s":{"n":"slug","t":"c","k":"03/28","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q19"}]]
+16:[["children",{"s":"l","h":131584,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q18"}]]
+0:{"P":null,"c":["","l","03","28",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true,"nonce":"$undefined"}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":false,"v":null},"c":"$Q16"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$L20"}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":"$L23"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$24",[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+17:C
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]
+25:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+26:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+1a:[["$","$L25",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L26",null,{"tree":{"kind":"folder","id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/","children":[{"kind":"lesson","id":"17boebz","num":"00","title":"Навигация по разделу","href":"/l/03/00/","children":"$undefined"},{"kind":"lesson","id":"1lkrwkt","num":"01","title":"Запросы и таблицы базы","href":"/l/03/01/","children":"$undefined"},{"kind":"lesson","id":"14nptpf","num":"02","title":"Первый запрос в конструкторе и в коде","href":"/l/03/02/","children":"$undefined"},{"kind":"lesson","id":"1nxb71v","num":"03","title":"Выбор полей, псевдонимы и сортировка","href":"/l/03/03/","children":"$undefined"},{"kind":"lesson","id":"16ekhad","num":"04","title":"Условия и отбор строк","href":"/l/03/04/","children":"$undefined"},{"kind":"lesson","id":"1pzidkf","num":"05","title":"Параметры и границы периода","href":"/l/03/05/","children":"$undefined"},{"kind":"lesson","id":"ym6g8r","num":"06","title":"Ссылки, иерархия и составные типы","href":"/l/03/06/","children":"$undefined"},{"kind":"lesson","id":"z2l8e8","num":"07","title":"Запрос к табличной части документа","href":"/l/03/07/","children":"$undefined"},{"kind":"lesson","id":"1jifwj7","num":"08","title":"Соединения таблиц","href":"/l/03/08/","children":"$undefined"},{"kind":"lesson","id":"ms2o5o","num":"09","title":"NULL и отсутствующие значения","href":"/l/03/09/","children":"$undefined"},{"kind":"lesson","id":"1lwqgjv","num":"10","title":"Группировка и агрегатные функции","href":"/l/03/10/","children":"$undefined"},{"kind":"lesson","id":"1jkkxfl","num":"11","title":"Итоги и обход результата запроса","href":"/l/03/11/","children":"$undefined"},{"kind":"lesson","id":"198d651","num":"12","title":"Выражения и функции языка запросов","href":"/l/03/12/","children":"$undefined"},{"kind":"lesson","id":"e9pt2h","num":"13","title":"Объединение результатов","href":"/l/03/13/","children":"$undefined"},{"kind":"lesson","id":"18i7pdj","num":"14","title":"Вложенные запросы","href":"/l/03/14/","children":"$undefined"},{"kind":"lesson","id":"2hbwfu","num":"15","title":"Временные таблицы и пакеты запросов","href":"/l/03/15/","children":"$undefined"},{"kind":"lesson","id":"n84mjm","num":"16","title":"Виртуальные таблицы регистров накопления","href":"/l/03/16/","children":"$undefined"},{"kind":"lesson","id":"pgwonp","num":"17","title":"Регистры сведений и срез последних","href":"/l/03/17/","children":"$undefined"},{"kind":"lesson","id":"vlr597","num":"18","title":"Проверка и ускорение запросов","href":"/l/03/18/","children":"$undefined"},{"kind":"lesson","id":"142foy4","num":"19","title":"Как устроена СКД","href":"/l/03/19/","children":"$undefined"},{"kind":"lesson","id":"152ycof","num":"20","title":"Создание отчёта и набора данных","href":"/l/03/20/","children":"$undefined"},{"kind":"lesson","id":"1xevjbs","num":"21","title":"Поля и ресурсы СКД","href":"/l/03/21/","children":"$undefined"},{"kind":"lesson","id":"jk420v","num":"22","title":"Параметры периода в СКД","href":"/l/03/22/","children":"$undefined"},{"kind":"lesson","id":"58dprv","num":"23","title":"Структура отчёта и выбранные поля","href":"/l/03/23/","children":"$undefined"},{"kind":"lesson","id":"99pyu7","num":"24","title":"Отбор, сортировка и пользовательские настройки","href":"/l/03/24/","children":"$undefined"},{"kind":"lesson","id":"5i2ibk","num":"25","title":"Вычисляемые поля и оформление","href":"/l/03/25/","children":"$undefined"},{"kind":"lesson","id":"1inj8zi","num":"26","title":"Таблицы, диаграммы и варианты отчёта","href":"/l/03/26/","children":"$undefined"},{"kind":"lesson","id":"w5tpc3","num":"27","title":"Несколько наборов и расширение языка СКД","href":"/l/03/27/","children":"$undefined"},{"kind":"lesson","id":"knkon2","num":"28","title":"Программное формирование отчёта СКД","href":"/l/03/28/","children":"$undefined"},{"kind":"lesson","id":"1yiya54","num":"29","title":"Практика по языку запросов","href":"/l/03/29/","children":"$undefined"},{"kind":"lesson","id":"1lqu8yq","num":"30","title":"Практика по СКД","href":"/l/03/30/","children":"$undefined"},{"kind":"lesson","id":"113x59o","num":"31","title":"Ошибки и памятка для повторения","href":"/l/03/31/","children":"$undefined"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"knkon2"}]}],"$L27","$L28"]}]]
+29:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+2a:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+31:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+2b:T48bd,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p>В <code>ПриКомпоновкеРезультата</code> модуля отчёта можно вывести отчёт кодом: <code>КомпоновщикМакетаКомпоновкиДанных.Выполнить(Схема, Настройки)</code> → <code>ПроцессорКомпоновкиДанных.Инициализировать(Макет)</code> → <code>ПроцессорВыводаРезультатаКомпоновкиДанныхВТабличныйДокумент.Вывести(Процессор)</code>. <code>СтандартнаяОбработка = Ложь</code> отключает автоматический вывод.</p></div>
+</div>
+<h2 id="когда-отчёт-формируют-кодом">Когда отчёт формируют кодом</h2>
+<p>Отчёт, который мы собрали, работает <strong>без единой строки кода</strong>: пользователь жмёт «Сформировать», платформа сама берёт схему и настройки и выводит результат. Код понадобится, если нужно:</p>
+<ul>
+<li>подготовить данные, которых нет в базе, и передать их в набор «Объект»;</li>
+<li>изменить настройки перед выводом (например, принудительно задать отбор);</li>
+<li>вывести результат не на экран, а в файл или в другую форму;</li>
+<li>сформировать отчёт из обработки или регламентного задания.</li>
+</ul>
+<p>Для junior-разработчика важно <strong>понимать</strong> этот механизм: он встречается в типовых конфигурациях и на собеседованиях.</p>
+<h2 id="конвейер-формирования-отчёта">Конвейер формирования отчёта</h2>
+<p>В уроке 19 мы видели схему. Теперь разберём её как цепочку объектов встроенного языка — по аналогии с заводом:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Шаг</th><th>Объект</th><th>Аналогия</th><th>Что делает</th></tr></thead><tbody><tr><td>1</td><td><code>СхемаКомпоновкиДанных</code> + <code>НастройкиКомпоновкиДанных</code></td><td>Чертёж и заказ</td><td>Что можно и что выбрал пользователь</td></tr><tr><td>2</td><td><code>КомпоновщикМакетаКомпоновкиДанных</code></td><td>Технолог</td><td>Из чертежа и заказа составляет <strong>техзадание</strong> — макет компоновки</td></tr><tr><td>3</td><td><code>ПроцессорКомпоновкиДанных</code></td><td>Станок</td><td>По техзаданию выполняет запросы, группирует, считает итоги</td></tr><tr><td>4</td><td><code>ПроцессорВыводаРезультатаКомпоновкиДанныхВТабличныйДокумент</code></td><td>Упаковщик</td><td>Выкладывает готовый результат в табличный документ</td></tr></tbody></table></div>
+<div class="callout callout-info" data-callout="info">
+<div class="callout-title">Два разных «макета»</div>
+<div class="callout-body"><p><strong>Макет компоновки</strong> — это внутреннее техзадание для СКД, его не рисуют. Не путайте с <strong>табличным макетом</strong> печатной формы, который рисуют в Конфигураторе (<a href="/restart/l/01/24/" data-internal="true">24. Макеты и печатные формы</a>).</p></div>
+</div>
+<h2 id="пример-тот-же-отчёт-но-кодом">Пример: тот же отчёт, но кодом</h2>
+<ol>
+<li>Открываем отчёт <code>ПродажиЗаПериодУчебный</code> → вкладка <strong>Прочее</strong> (или ПКМ по отчёту) → <strong>Модуль объекта</strong>.</li>
+<li><code>Ctrl+Alt+P</code> → выбираем событие <code>&#x3C;ПриКомпоновкеРезультата></code> → <strong>Перейти</strong>. Конфигуратор создаст заготовку с правильными параметрами.</li>
+<li>Пишем код:</li>
+</ol>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> ПриКомпоновкеРезультата</span><span style="color:var(--shiki-foreground)">(ДокументРезультат</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> ДанныеРасшифровки</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> СтандартнаяОбработка)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">    // 1. Отключаем стандартное формирование: дальше всё делает наш код</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    СтандартнаяОбработка </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> Ложь</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">    // 2. Берём схему и текущие настройки пользователя</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    Схема </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> ПолучитьМакет(</span><span style="color:var(--shiki-token-string-expression)">"ОсновнаяСхемаКомпоновкиДанных"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    Настройки </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> КомпоновщикНастроек.ПолучитьНастройки()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">    // 3. Технолог: схема + настройки → макет компоновки</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    КомпоновщикМакета </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> КомпоновщикМакетаКомпоновкиДанных</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    Макет </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> КомпоновщикМакета.Выполнить(Схема</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Настройки</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> ДанныеРасшифровки)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">    // 4. Станок: выполняет макет</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    Процессор </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> ПроцессорКомпоновкиДанных</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    Процессор.Инициализировать(Макет</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-keyword)"> ,</span><span style="color:var(--shiki-foreground)"> ДанныеРасшифровки)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">    // 5. Упаковщик: выводит результат в табличный документ формы отчёта</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    ДокументРезультат.Очистить()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    Вывод </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> ПроцессорВыводаРезультатаКомпоновкиДанныхВТабличныйДокумент</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    Вывод.УстановитьДокумент(ДокументРезультат)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    Вывод.Вывести(Процессор)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span></code></pre></figure>
+<p>Разберём параметры обработчика:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Параметр</th><th>Что это</th></tr></thead><tbody><tr><td><code>ДокументРезультат</code></td><td>Табличный документ на форме отчёта — сюда выводим результат</td></tr><tr><td><code>ДанныеРасшифровки</code></td><td>Сведения для <strong>расшифровки</strong>: двойной щелчок по ячейке отчёта открывает подробности. Передаём их по цепочке, чтобы расшифровка работала</td></tr><tr><td><code>СтандартнаяОбработка</code></td><td><code>Истина</code> — платформа сформирует отчёт сама. Ставим <code>Ложь</code>, раз выводим сами</td></tr></tbody></table></div>
+<p>И объекты, которые использует код:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Код</th><th>Смысл</th></tr></thead><tbody><tr><td><code>ПолучитьМакет("ОсновнаяСхемаКомпоновкиДанных")</code></td><td>Схема отчёта по имени макета — пишем точное имя из дерева</td></tr><tr><td><code>КомпоновщикНастроек</code></td><td>Свойство объекта отчёта: хранит настройки, которые сейчас выбрал пользователь (период, отборы)</td></tr><tr><td><code>.ПолучитьНастройки()</code></td><td>Берёт эти настройки, чтобы учесть выбор пользователя</td></tr></tbody></table></div>
+<p>Код модуля объекта отчёта выполняется <strong>на сервере</strong> — поэтому здесь доступны запросы и все объекты СКД.</p>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Внимание</div>
+<div class="callout-body"><p><code>СтандартнаяОбработка = Ложь</code> и пустой отчёт
+Если поставить <code>Ложь</code>, но забыть вывести результат (или ошибиться в цепочке), отчёт окажется <strong>пустым</strong> — платформа больше ничего не выводит сама. Сначала убедитесь, что стандартный отчёт работает, и только потом подключайте свой код.</p></div>
+</div>
+<h2 id="зачем-это-всё-если-результат-тот-же">Зачем это всё, если результат тот же?</h2>
+<p>В этом примере результат действительно совпадает со стандартным — мы просто повторили то, что делает платформа. Но теперь между шагами можно вмешаться. Например, перед шагом 3 принудительно установить параметр:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">Параметр </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Настройки.ПараметрыДанных.НайтиЗначениеПараметра(</span><span style="color:var(--shiki-token-function)">Новый</span><span style="color:var(--shiki-foreground)"> ПараметрКомпоновкиДанных(</span><span style="color:var(--shiki-token-string-expression)">"ДатаНачала"</span><span style="color:var(--shiki-foreground)">))</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Если</span><span style="color:var(--shiki-foreground)"> Параметр </span><span style="color:var(--shiki-token-keyword)">&#x3C;></span><span style="color:var(--shiki-token-constant)"> Неопределено</span><span style="color:var(--shiki-token-keyword)"> Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    Параметр.Значение </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> НачалоМесяца</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-function)">ТекущаяДатаСеанса</span><span style="color:var(--shiki-foreground)">())</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    Параметр.Использование </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> Истина</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецЕсли;</span></span></code></pre></figure>
+<p>Или для набора «Объект» — передать таблицу значений в <code>Процессор.Инициализировать(Макет, ВнешниеНаборыДанных, …)</code>, где <code>ВнешниеНаборыДанных</code> — структура «имя набора → таблица».</p>
+<p>Полное описание цепочки — в <a href="https://1c-dn.com/download-trial/files/guides/developer_guide.pdf" target="_blank" rel="noopener noreferrer">руководстве разработчика 1С, раздел 10.7</a>.</p>
+<h2 id="проверка">Проверка</h2>
+<ol>
+<li>Сформируйте отчёт стандартно за октябрь, запишите итоги.</li>
+<li>Добавьте обработчик <code>ПриКомпоновкеРезультата</code> с кодом выше, сформируйте с теми же параметрами — строки и суммы должны совпасть.</li>
+<li>Закомментируйте строку <code>Вывод.Вывести(Процессор);</code> — отчёт станет пустым. Верните её.</li>
+<li>Для практического отчёта этот обработчик не обязателен — после проверки его можно удалить.</li>
+</ol>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Что произойдёт, если установить <code>СтандартнаяОбработка = Ложь</code> и ничего не вывести?</p>
+</li>
+<li>
+<p>Откуда берутся текущие настройки пользователя в коде отчёта?</p>
+</li>
+<li>
+<p>Зачем передавать <code>ДанныеРасшифровки</code>?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Отчёт будет пустым — платформа больше ничего не формирует.</li>
+<li><code>КомпоновщикНастроек.ПолучитьНастройки()</code>.</li>
+<li>Чтобы работала расшифровка (клик по ячейке отчёта).</li>
+</ol></div>
+</details></div>
+</details>27:["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L29",null,{"children":"$1a:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","chv2um",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/03/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"03"}],"Язык запросов и СКД"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","28"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[4," ","минуты"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Программное формирование отчёта СКД"}],["$","div",null,{"className":"mt-7","children":["$","$L2a",null,{"id":"knkon2","href":"/l/03/28/","title":"Программное формирование отчёта СКД"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$2b"}}],"$L2c","$L2d","$L2e","$L2f","$L30"]}]]}]
+28:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L31",null,{"items":[{"id":"когда-отчёт-формируют-кодом","text":"Когда отчёт формируют кодом","depth":2},{"id":"конвейер-формирования-отчёта","text":"Конвейер формирования отчёта","depth":2},{"id":"пример-тот-же-отчёт-но-кодом","text":"Пример: тот же отчёт, но кодом","depth":2},{"id":"зачем-это-всё-если-результат-тот-же","text":"Зачем это всё, если результат тот же?","depth":2},{"id":"проверка","text":"Проверка","depth":2}]}]}]
+32:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+33:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+34:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+35:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+2c:["$","$L32",null,{"targetId":"lesson-body"}]
+2d:["$","$L33",null,{"targetId":"lesson-body"}]
+2e:["$","$L34",null,{"targetId":"lesson-body"}]
+2f:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L2a",null,{"id":"knkon2","href":"/l/03/28/","title":"Программное формирование отчёта СКД","variant":"footer"}]}]
+30:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/03/27/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L35",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Несколько наборов и расширение языка СКД"}]]}],["$","$L13",null,{"href":"/l/03/29/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L35",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Практика по языку запросов"}]]}]]}]
+36:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+1d:null
+23:[["$","title","0",{"children":"Программное формирование отчёта СКД · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L36","3",{}]]

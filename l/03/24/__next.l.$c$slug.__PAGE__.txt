@@ -1,0 +1,240 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1e:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+1f:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+25:"ViewportBoundary"
+26:I[97367,["$2","$3","$4","$5","$6","$7"],"$25"]
+27:"MetadataBoundary"
+28:I[97367,["$2","$3","$4","$5","$6","$7"],"$27"]
+29:"$Sreact.suspense"
+2a:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+17:X
+1a:X
+1a:C
+1d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L1e",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L1f",null,{"tree":{"kind":"folder","id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/","children":[{"kind":"lesson","id":"17boebz","num":"00","title":"Навигация по разделу","href":"/l/03/00/"},{"kind":"lesson","id":"1lkrwkt","num":"01","title":"Запросы и таблицы базы","href":"/l/03/01/"},{"kind":"lesson","id":"14nptpf","num":"02","title":"Первый запрос в конструкторе и в коде","href":"/l/03/02/"},{"kind":"lesson","id":"1nxb71v","num":"03","title":"Выбор полей, псевдонимы и сортировка","href":"/l/03/03/"},{"kind":"lesson","id":"16ekhad","num":"04","title":"Условия и отбор строк","href":"/l/03/04/"},{"kind":"lesson","id":"1pzidkf","num":"05","title":"Параметры и границы периода","href":"/l/03/05/"},{"kind":"lesson","id":"ym6g8r","num":"06","title":"Ссылки, иерархия и составные типы","href":"/l/03/06/"},{"kind":"lesson","id":"z2l8e8","num":"07","title":"Запрос к табличной части документа","href":"/l/03/07/"},{"kind":"lesson","id":"1jifwj7","num":"08","title":"Соединения таблиц","href":"/l/03/08/"},{"kind":"lesson","id":"ms2o5o","num":"09","title":"NULL и отсутствующие значения","href":"/l/03/09/"},{"kind":"lesson","id":"1lwqgjv","num":"10","title":"Группировка и агрегатные функции","href":"/l/03/10/"},{"kind":"lesson","id":"1jkkxfl","num":"11","title":"Итоги и обход результата запроса","href":"/l/03/11/"},{"kind":"lesson","id":"198d651","num":"12","title":"Выражения и функции языка запросов","href":"/l/03/12/"},{"kind":"lesson","id":"e9pt2h","num":"13","title":"Объединение результатов","href":"/l/03/13/"},{"kind":"lesson","id":"18i7pdj","num":"14","title":"Вложенные запросы","href":"/l/03/14/"},{"kind":"lesson","id":"2hbwfu","num":"15","title":"Временные таблицы и пакеты запросов","href":"/l/03/15/"},{"kind":"lesson","id":"n84mjm","num":"16","title":"Виртуальные таблицы регистров накопления","href":"/l/03/16/"},{"kind":"lesson","id":"pgwonp","num":"17","title":"Регистры сведений и срез последних","href":"/l/03/17/"},{"kind":"lesson","id":"vlr597","num":"18","title":"Проверка и ускорение запросов","href":"/l/03/18/"},{"kind":"lesson","id":"142foy4","num":"19","title":"Как устроена СКД","href":"/l/03/19/"},{"kind":"lesson","id":"152ycof","num":"20","title":"Создание отчёта и набора данных","href":"/l/03/20/"},{"kind":"lesson","id":"1xevjbs","num":"21","title":"Поля и ресурсы СКД","href":"/l/03/21/"},{"kind":"lesson","id":"jk420v","num":"22","title":"Параметры периода в СКД","href":"/l/03/22/"},{"kind":"lesson","id":"58dprv","num":"23","title":"Структура отчёта и выбранные поля","href":"/l/03/23/"},{"kind":"lesson","id":"99pyu7","num":"24","title":"Отбор, сортировка и пользовательские настройки","href":"/l/03/24/"},{"kind":"lesson","id":"5i2ibk","num":"25","title":"Вычисляемые поля и оформление","href":"/l/03/25/"},{"kind":"lesson","id":"1inj8zi","num":"26","title":"Таблицы, диаграммы и варианты отчёта","href":"/l/03/26/"},{"kind":"lesson","id":"w5tpc3","num":"27","title":"Несколько наборов и расширение языка СКД","href":"/l/03/27/"},{"kind":"lesson","id":"knkon2","num":"28","title":"Программное формирование отчёта СКД","href":"/l/03/28/"},{"kind":"lesson","id":"1yiya54","num":"29","title":"Практика по языку запросов","href":"/l/03/29/"},{"kind":"lesson","id":"1lqu8yq","num":"30","title":"Практика по СКД","href":"/l/03/30/"},{"kind":"lesson","id":"113x59o","num":"31","title":"Ошибки и памятка для повторения","href":"/l/03/31/"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"99pyu7"}]}],"$L20","$L21"]}]],["$L22"],"$L23"]}],"p":"$@24","v":null,"s":"$17"}}]]
+1b:[["children",{"s":{"n":"slug","t":"c","k":"03/24","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@1c","v":"$1a","s":"$17"},"c":"$Q1d"}]]
+18:[["children",{"s":"l","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@19","v":"$1a","s":"$17"},"c":"$Q1b"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]]}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":"$@16","v":null,"s":"$17"},"c":"$Q18"},"h":{"r":["$","$1","h",{"children":[null,["$","$L26",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]}],["$","$L28",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$29",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Отбор, сортировка и пользовательские настройки · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L2a","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@2b","v":null,"s":"$17"}},"a":"$@2c","u":"$@2d","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+2e:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+2f:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+36:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+37:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+30:T33ec,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p><strong>Отбор</strong> СКД — условие компоновки (может перейти в запрос), <strong>параметр</strong> — значение для запроса/выражения. Сортировку групп задают на уровне группировки. Элементы, которые пользователь может менять, включают в <strong>пользовательские настройки</strong>. Отбор отчёта не заменяет права доступа.</p></div>
+</div>
+<h2 id="отбор-показать-только-часть-данных">Отбор: показать только часть данных</h2>
+<p>Отчёт за октябрь показывает продажи всем покупателям. Менеджер хочет видеть только «Ромашку». Переписывать запрос не нужно: в СКД есть <strong>отбор</strong> — условие, которое можно включать и выключать в настройках, в том числе самому пользователю.</p>
+<h2 id="шаг-1-добавляем-отбор-по-покупателю">Шаг 1. Добавляем отбор по покупателю</h2>
+<ol>
+<li>На вкладке <strong>Настройки</strong> выделяем корень <strong>Отчёт</strong> (отбор будет действовать на весь отчёт).</li>
+<li>Внизу открываем закладку <strong>Отбор</strong>. Слева — доступные поля, справа — условия.</li>
+<li>Двойным щелчком переносим <code>Контрагент</code> вправо.</li>
+<li><strong>Вид сравнения</strong> — <code>Равно</code>.</li>
+<li><strong>Значение</strong> — выбираем контрагента кнопкой выбора из справочника. Не вводим название текстом: отбор сравнивает <strong>ссылки</strong>.</li>
+<li>Флажок слева от строки — <strong>использование</strong> условия. Включён — отбор работает, выключен — условие «спит».</li>
+</ol>
+<p>Виды сравнения, которые пригодятся:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Вид сравнения</th><th>Смысл</th><th>Пример</th></tr></thead><tbody><tr><td>Равно / Не равно</td><td>Одно значение</td><td>Покупатель = Ромашка</td></tr><tr><td>В списке / Не в списке</td><td>Несколько значений</td><td>Покупатель в списке (Ромашка, Петров)</td></tr><tr><td>В группе</td><td>Элемент группы иерархического справочника</td><td>Товар в группе «Чайники»</td></tr><tr><td>Заполнено / Не заполнено</td><td>Есть ли значение</td><td>Покупатель не заполнен</td></tr><tr><td>Больше / Меньше</td><td>Для чисел и дат</td><td>Выручка больше 1000</td></tr><tr><td>Содержит</td><td>Часть строки</td><td>Наименование содержит «чай»</td></tr></tbody></table></div>
+<h3 id="несколько-условий">Несколько условий</h3>
+<p>Условия в списке по умолчанию соединяются через <strong>И</strong>. Чтобы получить «Ромашка <strong>или</strong> Петров», создаём <strong>группу ИЛИ</strong>: кнопка <strong>Сгруппировать условия</strong> → тип группы «Группа ИЛИ» → переносим в неё оба условия. Хотя для этого случая проще вид сравнения «В списке».</p>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">«Выключено» ≠ «равно пустому»</div>
+<div class="callout-body"><p>Если пользователю не нужен отбор, условие должно быть <strong>выключено</strong> (флажок снят). Включённое условие «Контрагент = <em>пусто</em>» — это не «без отбора», а поиск продаж <strong>с незаполненным</strong> покупателем. Скорее всего, отчёт будет пустым.</p></div>
+</div>
+<h2 id="шаг-2-даём-пользователю-менять-отбор">Шаг 2. Даём пользователю менять отбор</h2>
+<p>По умолчанию отбор задаёт разработчик, а пользователь его не видит. Чтобы покупателя можно было выбрать на форме отчёта:</p>
+<ol>
+<li>Выделяем строку условия → <strong>ПКМ → Свойства элемента пользовательских настроек</strong>.</li>
+<li>Включаем <strong>Включать в пользовательские настройки</strong>.</li>
+<li>Режим — <strong>Быстрый доступ</strong> (поле в шапке отчёта) или <strong>Обычный</strong> (в окне «Настройки…»).</li>
+<li>Само условие оставляем <strong>выключенным</strong>: пользователь включит его, когда понадобится.</li>
+</ol>
+<h2 id="сортировка">Сортировка</h2>
+<p>Задача: товары с наибольшей выручкой — сверху.</p>
+<ol>
+<li>Выделяем в дереве <strong>группировку <code>Номенклатура</code></strong> — не корень! Сортируем именно строки товаров.</li>
+<li>Внизу закладка <strong>Сортировка</strong> → переносим <code>Выручка</code> → направление <strong>По убыванию</strong>.</li>
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Выделен узел</th><th>Что отсортируется</th></tr></thead><tbody><tr><td>Группировка <code>Номенклатура</code></td><td>Порядок <strong>товаров</strong> по их итоговой выручке</td></tr><tr><td><code>&#x3C;Детальные записи></code></td><td>Порядок строк <strong>внутри</strong> каждого товара</td></tr><tr><td>Корень «Отчёт»</td><td>Общий порядок для узлов, у которых своя сортировка не задана</td></tr></tbody></table></div>
+<p>После формирования проверяем порядок именно <strong>групп</strong> товаров, а не только строк покупателей.</p>
+<h2 id="отбор-и-параметр--в-чём-разница">Отбор и параметр — в чём разница</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th></th><th>Параметр (<a href="/restart/l/03/22/" data-internal="true">22. Параметры периода в СКД</a>)</th><th>Отбор</th></tr></thead><tbody><tr><td>Что это</td><td>Значение, которое передаётся <strong>в запрос</strong> или формулу (<code>&#x26;НачалоПериода</code>)</td><td>Условие на <strong>поля</strong> отчёта</td></tr><tr><td>Где виден в схеме</td><td>Вкладка «Параметры»</td><td>Закладка «Отбор» в настройках</td></tr><tr><td>Пример</td><td>Период отчёта</td><td>Только покупатель Ромашка</td></tr><tr><td>Можно выключить</td><td>Нет — запрос без значения не выполнится</td><td>Да — флажком</td></tr></tbody></table></div>
+<p>СКД умеет сама переносить отбор в запрос: условие «Контрагент = Ромашка» станет частью <code>ГДЕ</code> или параметров виртуальной таблицы. Поэтому отбор не означает, что СКД сначала читает все данные, а потом фильтрует.</p>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Отбор отчёта — не защита данных</div>
+<div class="callout-body"><p>Если менеджеру <strong>нельзя</strong> видеть чужих покупателей, отбор в отчёте не поможет: он его просто выключит. Ограничивать доступ нужно правами (RLS) — <a href="/restart/l/01/19/" data-internal="true">19. Пользователи и Роли</a>.</p></div>
+</div>
+<h2 id="что-видит-пользователь">Что видит пользователь</h2>
+<p>В режиме 1С:Предприятия у формы отчёта:</p>
+<ul>
+<li>в шапке — элементы <strong>быстрого доступа</strong> (период, покупатель);</li>
+<li>кнопка <strong>Настройки…</strong> — элементы «обычного» режима;</li>
+<li><strong>Ещё → Изменить вариант…</strong> — полный редактор настроек, похожий на вкладку «Настройки» Конфигуратора (если позволяют права).</li>
+</ul>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/03.%20%D0%AF%D0%B7%D1%8B%D0%BA%20%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2%20%D0%B8%20%D0%A1%D0%9A%D0%94/17-%D0%9F%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8.jpg" alt="17-Пользовательские-настройки.jpg" loading="lazy" decoding="async"></p>
+<p><em>Пользовательские настройки существующего отчёта: доступны только начало и конец периода. После включения отбора в пользовательские настройки он появится здесь.</em></p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/03.%20%D0%AF%D0%B7%D1%8B%D0%BA%20%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2%20%D0%B8%20%D0%A1%D0%9A%D0%94/19-%D0%9E%D1%82%D0%B1%D0%BE%D1%80-%D0%B2-%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D0%B5.jpg" alt="19-Отбор-в-варианте.jpg" loading="lazy" decoding="async"></p>
+<p><em>Полный редактор варианта в режиме пользователя: здесь можно добавлять доступные условия отбора.</em></p>
+<h2 id="проверка">Проверка</h2>
+<ol>
+<li>Сформируйте отчёт без отбора — запишите общий итог.</li>
+<li>Включите отбор «Контрагент = Ромашка» — остались только её продажи; итог уменьшился и не превышает общего.</li>
+<li>Включите отбор с пустым значением — отчёт пустой (или только продажи без покупателя). Выключите отбор.</li>
+<li>Задайте сортировку по выручке на группировке — товары выстроились по убыванию итогов.</li>
+</ol>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Включённое условие «Контрагент = пустая ссылка» — это «без отбора»?</p>
+</li>
+<li>
+<p>Где задать сортировку товаров по выручке?</p>
+</li>
+<li>
+<p>Чем отбор отличается от параметра?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Нет, это поиск продаж с пустым контрагентом. Для «без отбора» условие выключают.</li>
+<li>На вкладке «Сортировка» у группировки <code>Номенклатура</code>.</li>
+<li>Параметр передаёт значение в запрос; отбор — условие компоновки, которое СКД применяет сама.</li>
+</ol></div>
+</details></div>
+</details>20:["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L2e",null,{"children":"$1d:0:1:d:r:props:children:0:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","chv2um",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/03/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"03"}],"Язык запросов и СКД"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","24"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[5," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Отбор, сортировка и пользовательские настройки"}],["$","div",null,{"className":"mt-7","children":["$","$L2f",null,{"id":"99pyu7","href":"/l/03/24/","title":"Отбор, сортировка и пользовательские настройки"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$30"}}],"$L31","$L32","$L33","$L34","$L35"]}]]}]
+21:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L36",null,{"items":[{"id":"отбор-показать-только-часть-данных","text":"Отбор: показать только часть данных","depth":2},{"id":"шаг-1-добавляем-отбор-по-покупателю","text":"Шаг 1. Добавляем отбор по покупателю","depth":2},{"id":"несколько-условий","text":"Несколько условий","depth":3},{"id":"шаг-2-даём-пользователю-менять-отбор","text":"Шаг 2. Даём пользователю менять отбор","depth":2},{"id":"сортировка","text":"Сортировка","depth":2},{"id":"отбор-и-параметр--в-чём-разница","text":"Отбор и параметр — в чём разница","depth":2},{"id":"что-видит-пользователь","text":"Что видит пользователь","depth":2},{"id":"проверка","text":"Проверка","depth":2}]}]}]
+22:["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true}]
+23:["$","$L37",null,{"children":["$","$29",null,{"name":"Next.MetadataOutlet","children":"$@38"}]}]
+39:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+3a:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+3b:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+3c:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+17:300
+31:["$","$L39",null,{"targetId":"lesson-body"}]
+32:["$","$L3a",null,{"targetId":"lesson-body"}]
+33:["$","$L3b",null,{"targetId":"lesson-body"}]
+34:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L2f",null,{"id":"99pyu7","href":"/l/03/24/","title":"Отбор, сортировка и пользовательские настройки","variant":"footer"}]}]
+35:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/03/23/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L3c",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Структура отчёта и выбранные поля"}]]}],["$","$L13",null,{"href":"/l/03/25/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L3c",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Вычисляемые поля и оформление"}]]}]]}]
+38:null
+2d:true
+17:C
+2c:0
+1c:"$undefined"
+19:"$undefined"
+16:"$undefined"
+2b:"$undefined"
+24:"$undefined"

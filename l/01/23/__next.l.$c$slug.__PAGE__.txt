@@ -1,0 +1,159 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1e:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+1f:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+25:"ViewportBoundary"
+26:I[97367,["$2","$3","$4","$5","$6","$7"],"$25"]
+27:"MetadataBoundary"
+28:I[97367,["$2","$3","$4","$5","$6","$7"],"$27"]
+29:"$Sreact.suspense"
+2a:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+17:X
+1a:X
+1a:C
+1d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L1e",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L1f",null,{"tree":{"kind":"folder","id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/","children":[{"kind":"lesson","id":"hom46a","num":"00","title":"Навигация по разделу","href":"/l/01/00/"},{"kind":"lesson","id":"h2iria","num":"01","title":"Платформа 1С","href":"/l/01/01/"},{"kind":"lesson","id":"1lf6e8v","num":"02","title":"Версии платформы 1С","href":"/l/01/02/"},{"kind":"lesson","id":"17l0vhk","num":"03","title":"Информационная база 1С","href":"/l/01/03/"},{"kind":"lesson","id":"hutb90","num":"04","title":"Интерфейс конфигуратора","href":"/l/01/04/"},{"kind":"lesson","id":"7e7ii2","num":"05","title":"Версии конфигураций","href":"/l/01/05/"},{"kind":"lesson","id":"wjgvo2","num":"06","title":"Интерфейс платформы","href":"/l/01/06/"},{"kind":"lesson","id":"yy0x3e","num":"07","title":"Константы","href":"/l/01/07/"},{"kind":"lesson","id":"mg1w0c","num":"08","title":"Справочники","href":"/l/01/08/"},{"kind":"lesson","id":"d1jije","num":"09","title":"Форма справочника","href":"/l/01/09/"},{"kind":"lesson","id":"ed46b","num":"10","title":"Интерфейс справочника","href":"/l/01/10/"},{"kind":"lesson","id":"5x1i2z","num":"11","title":"Ссылочный тип данных","href":"/l/01/11/"},{"kind":"lesson","id":"1b2xem5","num":"12","title":"Перечисления","href":"/l/01/12/"},{"kind":"lesson","id":"lq053x","num":"13","title":"Пометка удаления","href":"/l/01/13/"},{"kind":"lesson","id":"3lm8w0","num":"14","title":"Документы","href":"/l/01/14/"},{"kind":"lesson","id":"i4gl6k","num":"15","title":"Подсистемы, интерфейс и общие объекты","href":"/l/01/15/"},{"kind":"lesson","id":"1gr37lx","num":"16","title":"Приёмы работы в Конфигураторе","href":"/l/01/16/"},{"kind":"lesson","id":"1a1bfi6","num":"17","title":"Регистры накоплений","href":"/l/01/17/"},{"kind":"lesson","id":"q2bhrx","num":"18","title":"Отчёты","href":"/l/01/18/"},{"kind":"lesson","id":"y6bbwm","num":"19","title":"Пользователи и Роли","href":"/l/01/19/"},{"kind":"lesson","id":"1wjslw7","num":"20","title":"Регистры сведений","href":"/l/01/20/"},{"kind":"lesson","id":"pjpmlr","num":"21","title":"Журналы документов и нумерация","href":"/l/01/21/"},{"kind":"lesson","id":"1g1o0c4","num":"22","title":"Предопределённые данные и заполнение","href":"/l/01/22/"},{"kind":"lesson","id":"gvk4pp","num":"23","title":"Обработки и внешние файлы","href":"/l/01/23/"},{"kind":"lesson","id":"1jb94cl","num":"24","title":"Макеты и печатные формы","href":"/l/01/24/"},{"kind":"lesson","id":"m7az4z","num":"25","title":"Общие реквизиты и составные типы","href":"/l/01/25/"},{"kind":"lesson","id":"ybfz73","num":"26","title":"Функциональные опции и параметры сеанса","href":"/l/01/26/"},{"kind":"lesson","id":"1dc5r6b","num":"27","title":"Сравнение, поддержка и расширения","href":"/l/01/27/"},{"kind":"lesson","id":"1yftpyy","num":"28","title":"Резервные копии и обслуживание базы","href":"/l/01/28/"},{"kind":"lesson","id":"1mz15kx","num":"29","title":"Остальные объекты конфигурации","href":"/l/01/29/"},{"kind":"lesson","id":"ciqlsu","num":"30","title":"Практика по конфигурированию","href":"/l/01/30/"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"gvk4pp"}]}],"$L20","$L21"]}]],["$L22"],"$L23"]}],"p":"$@24","v":null,"s":"$17"}}]]
+1b:[["children",{"s":{"n":"slug","t":"c","k":"01/23","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@1c","v":"$1a","s":"$17"},"c":"$Q1d"}]]
+18:[["children",{"s":"l","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@19","v":"$1a","s":"$17"},"c":"$Q1b"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]]}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":"$@16","v":null,"s":"$17"},"c":"$Q18"},"h":{"r":["$","$1","h",{"children":[null,["$","$L26",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]}],["$","$L28",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$29",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Обработки и внешние файлы · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L2a","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@2b","v":null,"s":"$17"}},"a":"$@2c","u":"$@2d","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+2e:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+2f:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+36:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+37:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+30:T257e,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p><strong>Обработка</strong> выполняет действия с данными (загрузку, проверку, пересчёт) и сама ничего не хранит в базе. <strong>Внешняя обработка</strong> (<code>.epf</code>) и <strong>внешний отчёт</strong> (<code>.erf</code>) живут в отдельных файлах и подключаются без изменения конфигурации. Важно различать форматы: <code>.cf</code> — конфигурация без данных, <code>.dt</code> — вся база, <code>.cfe</code> — расширение.</p></div>
+</div>
+<h2 id="что-такое-обработка">Что такое обработка?</h2>
+<p><strong>Обработка</strong> — прикладной объект для выполнения действий с данными. Например, загрузки списка товаров, расчёта цен или проверки заполнения документов. Общие возможности описаны в <a href="https://v8.1c.ru/platforma/obrabotka/" target="_blank" rel="noopener noreferrer">документации 1С</a>.</p>
+<p>У обработки могут быть реквизиты, табличные части, формы, макеты и модуль объекта. Но значения её реквизитов сами по себе не сохраняются как отдельный объект базы, в отличие от справочника или документа.</p>
+<p>Например, в обработке загрузки мы можем держать таблицу будущих товаров. Пока код не создал и не записал элементы справочника, в базе они не появятся.</p>
+<h2 id="создание-обработки-в-конфигурации">Создание обработки в конфигурации</h2>
+<p>Нажимаем <strong>"Обработки" → ПКМ → "Добавить"</strong>, задаём имя <code>ПроверкаТоваров</code>.</p>
+<p>Дальше можем:</p>
+<ol>
+<li>Создать реквизит <code>КоличествоПроверенных</code> с типом Число.</li>
+<li>Создать форму обработки.</li>
+<li>Добавить команду <code>Проверить</code> и разместить её кнопку на форме.</li>
+<li>Создать обработчик команды и описать алгоритм.</li>
+<li>Включить обработку в подсистему и проверить командный интерфейс.</li>
+</ol>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/01.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/23-%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0%D0%A2%D0%BE%D0%B2%D0%B0%D1%80%D0%BE%D0%B2.png" alt="23-Обработка-ПроверкаТоваров.png" loading="lazy" decoding="async"></p>
+<p><em>Вкладка «Данные» новой обработки <code>ПроверкаТоваров</code> в «1С:Купец» и свойства реквизита <code>КоличествоПроверенных</code> с типом Число.</em></p>
+<p>Обработка из дерева конфигурации распространяется вместе с конфигурацией. Для её изменения нужно обновлять соответствующую конфигурацию БД.</p>
+<h2 id="внешняя-обработка">Внешняя обработка</h2>
+<p><strong>Внешняя обработка</strong> хранится в отдельном файле <code>.epf</code>. Её можно разработать в Конфигураторе через <strong>"Файл" → "Новый" → "Внешняя обработка"</strong>.</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/01.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/23-%D0%A4%D0%B0%D0%B9%D0%BB-%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D1%8F%D1%8F-%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0.png" alt="23-Файл-Новый-внешняя-обработка.png" loading="lazy" decoding="async"></p>
+<p><em>Окно «Файл» → «Новый» (Ctrl+N) в Конфигураторе: рядом с внешней обработкой — внешний отчёт и другие виды файлов.</em></p>
+<p>Для простого запуска в режиме Предприятия используем <strong>"Файл" → "Открыть"</strong>, если это разрешено правами и настройками приложения. В типовых решениях может быть предусмотрено подключение через <strong>"Дополнительные отчёты и обработки"</strong> — это функциональность самой конфигурации.</p>
+<p>Файл <code>.erf</code> — <strong>внешний отчёт</strong>. Его назначение — формирование отчётной информации. Язык запросов и СКД в этой заметке не разбираем.</p>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Важно</div>
+<div class="callout-body"><p>Внешняя обработка не является отдельной базой и не добавляет собственные справочники или документы. Она использует объекты той базы, где запущена. Если в ней нет справочника с ожидаемым именем, код обращения к нему не сработает.</p></div>
+</div>
+<h2 id="разница-между-основными-файлами">Разница между основными файлами</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Файл</th><th>Что содержит</th></tr></thead><tbody><tr><td><code>.1CD</code></td><td>Файловую информационную базу</td></tr><tr><td><code>.dt</code></td><td>Выгрузку информационной базы с конфигурацией и данными</td></tr><tr><td><code>.cf</code></td><td>Конфигурацию без пользовательских учётных данных</td></tr><tr><td><code>.cfu</code></td><td>Обновление конфигурации</td></tr><tr><td><code>.cfe</code></td><td>Расширение конфигурации</td></tr><tr><td><code>.epf</code></td><td>Внешнюю обработку</td></tr><tr><td><code>.erf</code></td><td>Внешний отчёт</td></tr></tbody></table></div>
+<p>Если мы сохранили обработку в <code>.epf</code>, это не резервная копия базы. Если сохранили <code>.cf</code>, введённые накладные тоже не попали в этот файл.</p>
+<h2 id="где-писать-логику">Где писать логику</h2>
+<p>В обработчике формы описываем взаимодействие с пользователем. Общие вычисления выносим в процедуры и функции. Доступ к данным базы организуем на сервере.</p>
+<p>Так обработку будет легче проверить: отдельно алгоритм, отдельно кнопку, которая его запускает. Разделение клиента и сервера разберём в <a href="/restart/l/02/26/" data-internal="true">26. Общие модули и контекст выполнения</a>.</p>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Сохранятся ли значения реквизитов обработки после закрытия формы?</p>
+</li>
+<li>
+<p>Какой файл выгрузить, чтобы перенести базу со всеми документами?</p>
+</li>
+<li>
+<p>Внешняя обработка обращается к справочнику <code>Склады</code>, которого нет в базе. Что будет?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Нет: обработка не хранит данные в базе, пока код явно не запишет объекты.</li>
+<li><code>.dt</code> — выгрузку информационной базы.</li>
+<li>Ошибка выполнения: внешняя обработка использует объекты той базы, где запущена.</li>
+</ol></div>
+</details></div>
+</details>20:["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L2e",null,{"children":"$1d:0:1:d:r:props:children:0:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","1alhswt",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/01/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"01"}],"Основы конфигурирования"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","23"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[3," ","минуты"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Обработки и внешние файлы"}],["$","div",null,{"className":"mt-7","children":["$","$L2f",null,{"id":"gvk4pp","href":"/l/01/23/","title":"Обработки и внешние файлы"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$30"}}],"$L31","$L32","$L33","$L34","$L35"]}]]}]
+21:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L36",null,{"items":[{"id":"что-такое-обработка","text":"Что такое обработка?","depth":2},{"id":"создание-обработки-в-конфигурации","text":"Создание обработки в конфигурации","depth":2},{"id":"внешняя-обработка","text":"Внешняя обработка","depth":2},{"id":"разница-между-основными-файлами","text":"Разница между основными файлами","depth":2},{"id":"где-писать-логику","text":"Где писать логику","depth":2}]}]}]
+22:["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true}]
+23:["$","$L37",null,{"children":["$","$29",null,{"name":"Next.MetadataOutlet","children":"$@38"}]}]
+39:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+3a:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+3b:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+3c:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+17:300
+31:["$","$L39",null,{"targetId":"lesson-body"}]
+32:["$","$L3a",null,{"targetId":"lesson-body"}]
+33:["$","$L3b",null,{"targetId":"lesson-body"}]
+34:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L2f",null,{"id":"gvk4pp","href":"/l/01/23/","title":"Обработки и внешние файлы","variant":"footer"}]}]
+35:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/01/22/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L3c",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Предопределённые данные и заполнение"}]]}],["$","$L13",null,{"href":"/l/01/24/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L3c",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Макеты и печатные формы"}]]}]]}]
+38:null
+2d:true
+17:C
+2c:0
+1c:"$undefined"
+19:"$undefined"
+16:"$undefined"
+2b:"$undefined"
+24:"$undefined"

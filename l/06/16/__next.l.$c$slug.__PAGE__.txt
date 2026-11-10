@@ -1,0 +1,470 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1e:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+1f:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+25:"ViewportBoundary"
+26:I[97367,["$2","$3","$4","$5","$6","$7"],"$25"]
+27:"MetadataBoundary"
+28:I[97367,["$2","$3","$4","$5","$6","$7"],"$27"]
+29:"$Sreact.suspense"
+2a:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+17:X
+1a:X
+1a:C
+1d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L1e",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L1f",null,{"tree":{"kind":"folder","id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/","children":[{"kind":"lesson","id":"kmxf89","num":"00","title":"Навигация по разделу","href":"/l/06/00/"},{"kind":"lesson","id":"59cugg","num":"01","title":"Что такое алгоритм и как решать задачи","href":"/l/06/01/"},{"kind":"lesson","id":"lds9qn","num":"02","title":"Сложность алгоритмов","href":"/l/06/02/"},{"kind":"lesson","id":"1pjoju1","num":"03","title":"Массивы — базовые приёмы","href":"/l/06/03/"},{"kind":"lesson","id":"3cctbr","num":"04","title":"Строки и символы","href":"/l/06/04/"},{"kind":"lesson","id":"1ydqhou","num":"05","title":"Соответствие как хеш-таблица","href":"/l/06/05/"},{"kind":"lesson","id":"t6dz7i","num":"06","title":"Два указателя","href":"/l/06/06/"},{"kind":"lesson","id":"nbwllp","num":"07","title":"Скользящее окно","href":"/l/06/07/"},{"kind":"lesson","id":"fr1gf6","num":"08","title":"Префиксные суммы","href":"/l/06/08/"},{"kind":"lesson","id":"3irwp2","num":"09","title":"Сортировки","href":"/l/06/09/"},{"kind":"lesson","id":"12gwpp6","num":"10","title":"Бинарный поиск","href":"/l/06/10/"},{"kind":"lesson","id":"1u9yaso","num":"11","title":"Стек и очередь","href":"/l/06/11/"},{"kind":"lesson","id":"dz6s3r","num":"12","title":"Рекурсия","href":"/l/06/12/"},{"kind":"lesson","id":"2qxixv","num":"13","title":"Обход в глубину и ширину","href":"/l/06/13/"},{"kind":"lesson","id":"ufdpje","num":"14","title":"Динамическое программирование","href":"/l/06/14/"},{"kind":"lesson","id":"iokjmp","num":"15","title":"Жадные алгоритмы и интервалы","href":"/l/06/15/"},{"kind":"lesson","id":"1jbpe","num":"16","title":"Практика — задачи с собеседований","href":"/l/06/16/"},{"kind":"lesson","id":"1h9efqa","num":"17","title":"Памятка — шаблоны и ошибки","href":"/l/06/17/"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"1jbpe"}]}],"$L20","$L21"]}]],["$L22"],"$L23"]}],"p":"$@24","v":null,"s":"$17"}}]]
+1b:[["children",{"s":{"n":"slug","t":"c","k":"06/16","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@1c","v":"$1a","s":"$17"},"c":"$Q1d"}]]
+18:[["children",{"s":"l","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@19","v":"$1a","s":"$17"},"c":"$Q1b"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]]}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":"$@16","v":null,"s":"$17"},"c":"$Q18"},"h":{"r":["$","$1","h",{"children":[null,["$","$L26",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]}],["$","$L28",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$29",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Практика — задачи с собеседований · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L2a","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@2b","v":null,"s":"$17"}},"a":"$@2c","u":"$@2d","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+2e:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+2f:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+36:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+37:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+30:T12c18,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p>Десять задач в формате собеседования — от разминки до среднего уровня. Для каждой: условие, примеры, подсказка и решение с разбором и сложностью (свёрнуты). Решайте в песочнице (<a href="/restart/l/06/01/" data-internal="true">01. Что такое алгоритм и как решать задачи</a>) <strong>до</strong> того, как откроете решение, и проговаривайте ход мыслей вслух — как на собеседовании.</p></div>
+</div>
+<h2 id="как-тренироваться">Как тренироваться</h2>
+<ol>
+<li>Прочитайте условие и <strong>задайте себе уточняющие вопросы</strong>: пустой ввод? отрицательные числа? что вернуть, если ответа нет?</li>
+<li>Решите пример руками.</li>
+<li>Напишите сначала простое решение, назовите его сложность.</li>
+<li>Подумайте, какой приём из раздела ускорит решение.</li>
+<li>Напишите код в песочнице и проверьте на примерах и крайних случаях.</li>
+<li>Только потом откройте разбор и сравните.</li>
+</ol>
+<p>Ориентир по времени на собеседовании: 15–25 минут на задачу, включая объяснение.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>№</th><th>Задача</th><th>Приём</th><th>Уровень</th></tr></thead><tbody><tr><td>1</td><td>FizzBuzz</td><td>Циклы и условия</td><td>Разминка</td></tr><tr><td>2</td><td>Пропущенное число</td><td>Математика / сумма</td><td>Лёгкая</td></tr><tr><td>3</td><td>Палиндром числа</td><td>Работа с цифрами</td><td>Лёгкая</td></tr><tr><td>4</td><td>Перевернуть слова</td><td>Строки, массив</td><td>Лёгкая</td></tr><tr><td>5</td><td>Общий префикс</td><td>Строки</td><td>Лёгкая</td></tr><tr><td>6</td><td>Пересечение массивов</td><td>Соответствие</td><td>Лёгкая</td></tr><tr><td>7</td><td>Элемент большинства</td><td>Подсчёт / голосование</td><td>Лёгкая</td></tr><tr><td>8</td><td>Сжатие диапазонов</td><td>Один проход</td><td>Средняя</td></tr><tr><td>9</td><td>Минимум монет</td><td>Динамическое программирование</td><td>Средняя</td></tr><tr><td>10</td><td>Кратчайший путь в лабиринте</td><td>Обход в ширину</td><td>Средняя</td></tr></tbody></table></div>
+<h2 id="1-fizzbuzz">1. FizzBuzz</h2>
+<p>Классическая разминка: проверяет, что вы спокойно пишете цикл и условия.</p>
+<p><strong>Условие.</strong> Вывести числа от 1 до <code>n</code>. Вместо чисел, кратных 3, выводить «Fizz», кратных 5 — «Buzz», кратных и 3, и 5 — «FizzBuzz».</p>
+<p><code>n = 15</code> → <code>1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, FizzBuzz</code>.</p>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">Решение</summary>
+<div class="callout-body"><figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> FizzBuzz</span><span style="color:var(--shiki-foreground)">(n)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Результат </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> Массив</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для</span><span style="color:var(--shiki-foreground)"> i </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)"> По</span><span style="color:var(--shiki-foreground)"> n </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Если</span><span style="color:var(--shiki-foreground)"> i </span><span style="color:var(--shiki-token-keyword)">%</span><span style="color:var(--shiki-token-constant)"> 15</span><span style="color:var(--shiki-token-keyword)"> =</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)"> Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			Результат.Добавить(</span><span style="color:var(--shiki-token-string-expression)">"FizzBuzz"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		ИначеЕсли</span><span style="color:var(--shiki-foreground)"> i </span><span style="color:var(--shiki-token-keyword)">%</span><span style="color:var(--shiki-token-constant)"> 3</span><span style="color:var(--shiki-token-keyword)"> =</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)"> Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			Результат.Добавить(</span><span style="color:var(--shiki-token-string-expression)">"Fizz"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		ИначеЕсли</span><span style="color:var(--shiki-foreground)"> i </span><span style="color:var(--shiki-token-keyword)">%</span><span style="color:var(--shiki-token-constant)"> 5</span><span style="color:var(--shiki-token-keyword)"> =</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)"> Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			Результат.Добавить(</span><span style="color:var(--shiki-token-string-expression)">"Buzz"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Иначе</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			Результат.Добавить(</span><span style="color:var(--shiki-token-function)">XMLСтрока</span><span style="color:var(--shiki-foreground)">(i))</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-foreground)"> Результат</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure><p>Главная ловушка — порядок условий: проверку на 15 (и 3, и 5) ставим <strong>первой</strong>, иначе число 15 попадёт в ветку «Fizz» и до «FizzBuzz» дело не дойдёт. Время <code>O(n)</code>.</p></div>
+</details>
+<h2 id="2-пропущенное-число">2. Пропущенное число</h2>
+<p><strong>Условие.</strong> В массиве <code>n</code> <strong>различных</strong> чисел от <code>0</code> до <code>n</code> — одно число пропущено. Найти его. <code>[3, 0, 1]</code> → <code>2</code>. <code>[0, 1]</code> → <code>2</code>.</p>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">Подсказка</summary>
+<div class="callout-body"><p>Сумма всех чисел от 0 до <code>n</code> известна заранее: <code>n × (n + 1) / 2</code>. Чем она отличается от суммы массива?</p></div>
+</details>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">Решение</summary>
+<div class="callout-body"><figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> ПропущенноеЧисло</span><span style="color:var(--shiki-foreground)">(Числа)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	n </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Числа.Количество()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ОжидаемаяСумма </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> n </span><span style="color:var(--shiki-token-keyword)">*</span><span style="color:var(--shiki-foreground)"> (n </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-foreground)">) </span><span style="color:var(--shiki-token-keyword)">/</span><span style="color:var(--shiki-token-constant)"> 2</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Сумма </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для Каждого</span><span style="color:var(--shiki-foreground)"> Элемент </span><span style="color:var(--shiki-token-keyword)">Из</span><span style="color:var(--shiki-foreground)"> Числа </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Сумма </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Сумма </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-foreground)"> Элемент</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-foreground)"> ОжидаемаяСумма </span><span style="color:var(--shiki-token-keyword)">-</span><span style="color:var(--shiki-foreground)"> Сумма</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure><p>В массиве <code>n</code> элементов, значит, числа берутся из диапазона <code>0..n</code> — их <code>n + 1</code>, одного не хватает. Разница между полной суммой и суммой массива и есть пропущенное число. Время <code>O(n)</code>, память <code>O(1)</code>. Альтернативы: множество (<code>O(n)</code> памяти) или сортировка (<code>O(n log n)</code>) — назовите их и объясните, почему сумма лучше.</p></div>
+</details>
+<h2 id="3-палиндром-числа">3. Палиндром числа</h2>
+<p><strong>Условие.</strong> Проверить, является ли целое число палиндромом, <strong>не превращая его в строку</strong>. <code>121</code> → <code>Истина</code>, <code>-121</code> → <code>Ложь</code> (читается как «121-»), <code>10</code> → <code>Ложь</code>.</p>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">Подсказка</summary>
+<div class="callout-body"><p>Последнюю цифру числа даёт <code>Число % 10</code>, а убрать её можно так: <code>Цел(Число / 10)</code>. Соберите из цифр перевёрнутое число и сравните с исходным.</p></div>
+</details>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">Решение</summary>
+<div class="callout-body"><figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> ЧислоПалиндром</span><span style="color:var(--shiki-foreground)">(Значение)</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Если</span><span style="color:var(--shiki-foreground)"> Значение </span><span style="color:var(--shiki-token-keyword)">&#x3C;</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)"> Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Возврат</span><span style="color:var(--shiki-token-constant)"> Ложь</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Остаток </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Значение</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Перевернутое </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Пока</span><span style="color:var(--shiki-foreground)"> Остаток </span><span style="color:var(--shiki-token-keyword)">></span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)"> Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Цифра </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Остаток </span><span style="color:var(--shiki-token-keyword)">%</span><span style="color:var(--shiki-token-constant)"> 10</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">                        // последняя цифра</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Перевернутое </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Перевернутое </span><span style="color:var(--shiki-token-keyword)">*</span><span style="color:var(--shiki-token-constant)"> 10</span><span style="color:var(--shiki-token-keyword)"> +</span><span style="color:var(--shiki-foreground)"> Цифра</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">    // дописываем её справа</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Остаток </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Цел</span><span style="color:var(--shiki-foreground)">(Остаток </span><span style="color:var(--shiki-token-keyword)">/</span><span style="color:var(--shiki-token-constant)"> 10</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">                 // отбрасываем последнюю цифру</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-foreground)"> Перевернутое </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Значение</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Остаток</th><th>Цифра</th><th>Перевёрнутое</th></tr></thead><tbody><tr><td>121</td><td>1</td><td>1</td></tr><tr><td>12</td><td>2</td><td>12</td></tr><tr><td>1</td><td>1</td><td>121</td></tr></tbody></table></div><p>Время <code>O(d)</code>, где <code>d</code> — число цифр. В 1С числа не переполняются, как в некоторых языках, поэтому разворот всего числа безопасен.</p></div>
+</details>
+<h2 id="4-перевернуть-слова">4. Перевернуть слова</h2>
+<p><strong>Условие.</strong> Перевернуть порядок слов в строке. Слова разделены одним или несколькими пробелами; в результате — ровно один пробел между словами и без пробелов по краям. <code>"  мама мыла   раму "</code> → <code>"раму мыла мама"</code>.</p>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">Подсказка</summary>
+<div class="callout-body"><p><code>СтрРазделить(Текст, " ", Ложь)</code> — третий параметр <code>Ложь</code> означает «не включать пустые строки», то есть лишние пробелы исчезнут сами.</p></div>
+</details>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">Решение</summary>
+<div class="callout-body"><figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> ПеревернутьСлова</span><span style="color:var(--shiki-foreground)">(Текст)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Слова </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> СтрРазделить</span><span style="color:var(--shiki-foreground)">(Текст</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> " "</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> Ложь</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">   // пустые части не попадут</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Левый </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Правый </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Слова.ВГраница()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Пока</span><span style="color:var(--shiki-foreground)"> Левый </span><span style="color:var(--shiki-token-keyword)">&#x3C;</span><span style="color:var(--shiki-foreground)"> Правый </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Временная </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Слова[Левый]</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Слова[Левый] </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Слова[Правый]</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Слова[Правый] </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Временная</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Левый </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Левый </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Правый </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Правый </span><span style="color:var(--shiki-token-keyword)">-</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-token-function)"> СтрСоединить</span><span style="color:var(--shiki-foreground)">(Слова</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> " "</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure><p>Разбили на слова, развернули массив двумя указателями (<a href="/restart/l/06/03/" data-internal="true">03. Массивы — базовые приёмы</a>), склеили через один пробел. Время <code>O(n)</code>. Если интервьюер запретит <code>СтрРазделить</code>, слова выделяют вручную: идём по символам и копим текущее слово до пробела.</p></div>
+</details>
+<h2 id="5-самый-длинный-общий-префикс">5. Самый длинный общий префикс</h2>
+<p><strong>Условие.</strong> Найти самое длинное общее начало у всех строк массива. <code>["цветок", "цвет", "цветение"]</code> → <code>"цвет"</code>. <code>["кот", "собака"]</code> → <code>""</code>.</p>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">Подсказка</summary>
+<div class="callout-body"><p>Сравнивайте символы на одной и той же позиции во всех строках. Как только в какой-то строке символ отличается или строка кончилась — префикс найден.</p></div>
+</details>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">Решение</summary>
+<div class="callout-body"><figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> ОбщийПрефикс</span><span style="color:var(--shiki-foreground)">(Строки)</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Если</span><span style="color:var(--shiki-foreground)"> Строки.Количество() </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)"> Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Возврат</span><span style="color:var(--shiki-token-string-expression)"> ""</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Первая </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Строки[</span><span style="color:var(--shiki-token-constant)">0</span><span style="color:var(--shiki-foreground)">]</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для</span><span style="color:var(--shiki-foreground)"> Позиция </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)"> По</span><span style="color:var(--shiki-token-function)"> СтрДлина</span><span style="color:var(--shiki-foreground)">(Первая) </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Символ </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Сред</span><span style="color:var(--shiki-foreground)">(Первая</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Позиция</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Для Каждого</span><span style="color:var(--shiki-foreground)"> Строка </span><span style="color:var(--shiki-token-keyword)">Из</span><span style="color:var(--shiki-foreground)"> Строки </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">			Если</span><span style="color:var(--shiki-foreground)"> Позиция </span><span style="color:var(--shiki-token-keyword)">></span><span style="color:var(--shiki-token-function)"> СтрДлина</span><span style="color:var(--shiki-foreground)">(Строка) </span><span style="color:var(--shiki-token-keyword)">Или</span><span style="color:var(--shiki-token-function)"> Сред</span><span style="color:var(--shiki-foreground)">(Строка</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Позиция</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-foreground)">) </span><span style="color:var(--shiki-token-keyword)">&#x3C;></span><span style="color:var(--shiki-foreground)"> Символ </span><span style="color:var(--shiki-token-keyword)">Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">				Возврат</span><span style="color:var(--shiki-token-function)"> Лев</span><span style="color:var(--shiki-foreground)">(Первая</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Позиция </span><span style="color:var(--shiki-token-keyword)">-</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">			КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-foreground)"> Первая</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">   // вся первая строка — общий префикс</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure><p>Идём «по столбцам»: позиция 1 во всех строках, позиция 2 во всех… Время <code>O(S)</code>, где <code>S</code> — суммарная длина строк: каждый символ сравниваем не больше одного раза.</p></div>
+</details>
+<h2 id="6-пересечение-двух-массивов">6. Пересечение двух массивов</h2>
+<p><strong>Условие.</strong> Вернуть уникальные элементы, которые есть в <strong>обоих</strong> массивах. <code>[1, 2, 2, 1]</code> и <code>[2, 2]</code> → <code>[2]</code>. <code>[4, 9, 5]</code> и <code>[9, 4, 9, 8, 4]</code> → <code>[4, 9]</code> (порядок не важен).</p>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">Подсказка</summary>
+<div class="callout-body"><p>Положите элементы первого массива во множество. Идите по второму массиву и проверяйте вхождение. Как не добавить один элемент дважды?</p></div>
+</details>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">Решение</summary>
+<div class="callout-body"><figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> Пересечение</span><span style="color:var(--shiki-foreground)">(Первый</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Второй)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ВПервом </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> Соответствие</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для Каждого</span><span style="color:var(--shiki-foreground)"> Элемент </span><span style="color:var(--shiki-token-keyword)">Из</span><span style="color:var(--shiki-foreground)"> Первый </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		ВПервом.Вставить(Элемент</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> Истина</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Результат </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> Массив</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для Каждого</span><span style="color:var(--shiki-foreground)"> Элемент </span><span style="color:var(--shiki-token-keyword)">Из</span><span style="color:var(--shiki-foreground)"> Второй </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Если</span><span style="color:var(--shiki-foreground)"> ВПервом.Получить(Элемент) </span><span style="color:var(--shiki-token-keyword)">&#x3C;></span><span style="color:var(--shiki-token-constant)"> Неопределено</span><span style="color:var(--shiki-token-keyword)"> Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			Результат.Добавить(Элемент)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			ВПервом.Удалить(Элемент)</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">   // чтобы не добавить этот элемент повторно</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-foreground)"> Результат</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure><p>Время <code>O(n + m)</code>, память <code>O(n)</code>. Простое решение «для каждого элемента — <code>Найти</code> во втором массиве» — <code>O(n × m)</code>. Если массивы <strong>отсортированы</strong>, можно обойтись без соответствия: два указателя, как при слиянии (<a href="/restart/l/06/06/" data-internal="true">06. Два указателя</a>).</p></div>
+</details>
+<h2 id="7-элемент-большинства">7. Элемент большинства</h2>
+<p><strong>Условие.</strong> В массиве есть элемент, который встречается <strong>больше половины</strong> раз. Найти его. <code>[2, 2, 1, 1, 1, 2, 2]</code> → <code>2</code>.</p>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">Подсказка</summary>
+<div class="callout-body"><p>Решение с подсчётом частот в соответствии — <code>O(n)</code> времени и <code>O(n)</code> памяти. А можно ли за <code>O(1)</code> памяти? Подумайте про «голосование»: разные элементы «гасят» друг друга.</p></div>
+</details>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">Решение</summary>
+<div class="callout-body"><p><strong>Способ 1 — подсчёт</strong> (<a href="/restart/l/06/05/" data-internal="true">05. Соответствие как хеш-таблица</a>): посчитать частоты и вернуть элемент с частотой больше <code>n / 2</code>.</p><p><strong>Способ 2 — голосование (алгоритм Бойера — Мура)</strong>, память <code>O(1)</code>:</p><figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> ЭлементБольшинства</span><span style="color:var(--shiki-foreground)">(Числа)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Кандидат </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> Неопределено</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Голоса </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для Каждого</span><span style="color:var(--shiki-foreground)"> Элемент </span><span style="color:var(--shiki-token-keyword)">Из</span><span style="color:var(--shiki-foreground)"> Числа </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Если</span><span style="color:var(--shiki-foreground)"> Голоса </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)"> Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			Кандидат </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Элемент</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">              // новый кандидат</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Если</span><span style="color:var(--shiki-foreground)"> Элемент </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Кандидат </span><span style="color:var(--shiki-token-keyword)">Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			Голоса </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Голоса </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">             // голос «за»</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Иначе</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			Голоса </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Голоса </span><span style="color:var(--shiki-token-keyword)">-</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">             // голос «против» гасит один голос «за»</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-foreground)"> Кандидат</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure><p>Идея: каждую пару «элемент большинства + другой элемент» можно вычеркнуть — большинство всё равно останется. Поскольку элемент большинства встречается больше половины раз, вычеркнуть его полностью невозможно, и он останется кандидатом в конце. Время <code>O(n)</code>, память <code>O(1)</code>.</p></div>
+</details>
+<h2 id="8-сжатие-диапазонов">8. Сжатие диапазонов</h2>
+<p><strong>Условие.</strong> Дан отсортированный массив различных целых чисел. Записать его в виде диапазонов. <code>[0, 1, 2, 4, 5, 7]</code> → <code>"0-2,4-5,7"</code>.</p>
+<p>Похожая задача встречается в 1С: вывести номера пропущенных документов или занятые номера мест одной строкой.</p>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">Подсказка</summary>
+<div class="callout-body"><p>Идите по массиву и запоминайте начало текущего диапазона. Диапазон заканчивается, когда следующее число не равно текущему + 1 (или массив кончился).</p></div>
+</details>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">Решение</summary>
+<div class="callout-body"><figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> СжатьДиапазоны</span><span style="color:var(--shiki-foreground)">(Числа)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Части </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> Массив</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	i </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Пока</span><span style="color:var(--shiki-foreground)"> i </span><span style="color:var(--shiki-token-keyword)">&#x3C;=</span><span style="color:var(--shiki-foreground)"> Числа.ВГраница() </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Начало </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Числа[i]</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">		// Идём, пока числа идут подряд</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Пока</span><span style="color:var(--shiki-foreground)"> i </span><span style="color:var(--shiki-token-keyword)">&#x3C;</span><span style="color:var(--shiki-foreground)"> Числа.ВГраница() </span><span style="color:var(--shiki-token-keyword)">И</span><span style="color:var(--shiki-foreground)"> Числа[i </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-foreground)">] </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Числа[i] </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)"> Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			i </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> i </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Если</span><span style="color:var(--shiki-foreground)"> Числа[i] </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Начало </span><span style="color:var(--shiki-token-keyword)">Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			Части.Добавить(</span><span style="color:var(--shiki-token-function)">XMLСтрока</span><span style="color:var(--shiki-foreground)">(Начало))</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">                              // одиночное число</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Иначе</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			Части.Добавить(</span><span style="color:var(--shiki-token-function)">XMLСтрока</span><span style="color:var(--shiki-foreground)">(Начало) </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-string-expression)"> "-"</span><span style="color:var(--shiki-token-keyword)"> +</span><span style="color:var(--shiki-token-function)"> XMLСтрока</span><span style="color:var(--shiki-foreground)">(Числа[i]))</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">  // диапазон</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		i </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> i </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-token-function)"> СтрСоединить</span><span style="color:var(--shiki-foreground)">(Части</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> ","</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure><p>Внутренний <code>Пока</code> двигает тот же индекс <code>i</code>, что и внешний, поэтому каждый элемент просматривается один раз: время <code>O(n)</code>. Условие <code>i &#x3C; Числа.ВГраница()</code> стоит <strong>перед</strong> обращением к <code>Числа[i + 1]</code> — сокращённое вычисление защищает от выхода за границу.</p></div>
+</details>
+<h2 id="9-минимальное-число-монет">9. Минимальное число монет</h2>
+<p><strong>Условие.</strong> Даны номиналы монет (каждого — сколько угодно) и сумма. Найти <strong>минимальное</strong> число монет, чтобы набрать сумму ровно. Если нельзя — вернуть <code>-1</code>. Номиналы <code>[1, 3, 4]</code>, сумма <code>6</code> → <code>2</code> (3 + 3). Номиналы <code>[2]</code>, сумма <code>3</code> → <code>-1</code>.</p>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">Подсказка</summary>
+<div class="callout-body"><p>Жадный алгоритм здесь ошибается (<a href="/restart/l/06/15/" data-internal="true">15. Жадные алгоритмы и интервалы</a>). Пусть <code>ДП[s]</code> — минимум монет для суммы <code>s</code>. Последней монетой в наборе может быть любая монета <code>м</code>; тогда до неё нужно набрать <code>s − м</code>.</p></div>
+</details>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">Решение</summary>
+<div class="callout-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Вопрос</th><th>Ответ</th></tr></thead><tbody><tr><td>Состояние</td><td><code>ДП[s]</code> — минимальное число монет для суммы <code>s</code></td></tr><tr><td>Переход</td><td><code>ДП[s] = Мин по всем монетам м ≤ s из (ДП[s − м] + 1)</code></td></tr><tr><td>База</td><td><code>ДП[0] = 0</code></td></tr><tr><td>Ответ</td><td><code>ДП[Сумма]</code>, если сумму удалось набрать</td></tr></tbody></table></div><figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> МинимумМонет</span><span style="color:var(--shiki-foreground)">(Номиналы</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Сумма)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Нельзя </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Сумма </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">                  // заведомо больше любого возможного ответа</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ДП </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> Массив(Сумма </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ДП[</span><span style="color:var(--shiki-token-constant)">0</span><span style="color:var(--shiki-foreground)">] </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для</span><span style="color:var(--shiki-foreground)"> s </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)"> По</span><span style="color:var(--shiki-foreground)"> Сумма </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		ДП[s] </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Нельзя</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Для Каждого</span><span style="color:var(--shiki-foreground)"> Монета </span><span style="color:var(--shiki-token-keyword)">Из</span><span style="color:var(--shiki-foreground)"> Номиналы </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">			Если</span><span style="color:var(--shiki-foreground)"> Монета </span><span style="color:var(--shiki-token-keyword)">&#x3C;=</span><span style="color:var(--shiki-foreground)"> s </span><span style="color:var(--shiki-token-keyword)">И</span><span style="color:var(--shiki-foreground)"> ДП[s </span><span style="color:var(--shiki-token-keyword)">-</span><span style="color:var(--shiki-foreground)"> Монета] </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)"> &#x3C;</span><span style="color:var(--shiki-foreground)"> ДП[s] </span><span style="color:var(--shiki-token-keyword)">Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">				ДП[s] </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> ДП[s </span><span style="color:var(--shiki-token-keyword)">-</span><span style="color:var(--shiki-foreground)"> Монета] </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">			КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-token-keyword)"> ?</span><span style="color:var(--shiki-foreground)">(ДП[Сумма] </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Нельзя</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-keyword)"> -</span><span style="color:var(--shiki-token-constant)">1</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> ДП[Сумма])</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure><p>Для <code>[1, 3, 4]</code> и суммы 6: <code>ДП = [0, 1, 2, 1, 1, 2, 2]</code> — например, <code>ДП[6] = ДП[3] + 1 = 2</code>. Время <code>O(Сумма × k)</code>, где <code>k</code> — число номиналов. «Нельзя» — значение больше любого реального ответа (монет не может быть больше суммы при минимальном номинале 1), оно работает как «бесконечность».</p></div>
+</details>
+<h2 id="10-кратчайший-путь-в-лабиринте">10. Кратчайший путь в лабиринте</h2>
+<p><strong>Условие.</strong> Лабиринт — сетка, <code>"."</code> — проход, <code>"#"</code> — стена. Найти минимальное число шагов из левого верхнего угла в правый нижний (ходить вверх, вниз, влево, вправо). Если пути нет — <code>-1</code>.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="plaintext" data-theme="mono"><code data-language="plaintext" data-theme="mono" style="display: grid;"><span data-line=""><span>. . # .</span></span>
+<span data-line=""><span># . # .</span></span>
+<span data-line=""><span>. . . .</span></span>
+<span data-line=""><span>. # # .</span></span></code></pre></figure>
+<p>Ответ: <strong>6</strong> шагов.</p>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">Подсказка</summary>
+<div class="callout-body"><p>«Минимальное число шагов» — сигнал к обходу в ширину (<a href="/restart/l/06/13/" data-internal="true">13. Обход в глубину и ширину</a>). Храните в очереди клетки, а в соответствии — расстояние до каждой посещённой клетки.</p></div>
+</details>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">Решение</summary>
+<div class="callout-body"><figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> КратчайшийПуть</span><span style="color:var(--shiki-foreground)">(Лабиринт)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Строк </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Лабиринт.Количество()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Столбцов </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> СтрДлина</span><span style="color:var(--shiki-foreground)">(Лабиринт[</span><span style="color:var(--shiki-token-constant)">0</span><span style="color:var(--shiki-foreground)">])</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Если</span><span style="color:var(--shiki-token-function)"> Сред</span><span style="color:var(--shiki-foreground)">(Лабиринт[</span><span style="color:var(--shiki-token-constant)">0</span><span style="color:var(--shiki-foreground)">]</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-foreground)">) </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-string-expression)"> "#"</span><span style="color:var(--shiki-token-keyword)"> Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Возврат</span><span style="color:var(--shiki-token-keyword)"> -</span><span style="color:var(--shiki-token-constant)">1</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЕсли;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Расстояние </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> Соответствие</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">          // "строка:столбец" → шагов от старта</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Расстояние.Вставить(</span><span style="color:var(--shiki-token-string-expression)">"0:1"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Очередь </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> Массив</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Очередь.Добавить(</span><span style="color:var(--shiki-token-function)">Новый</span><span style="color:var(--shiki-foreground)"> Структура(</span><span style="color:var(--shiki-token-string-expression)">"Строка, Столбец"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-foreground)">))</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Голова </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	СдвигиСтрок </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> ЧислаИзСтроки(</span><span style="color:var(--shiki-token-string-expression)">"-1,1,0,0"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">  // вверх, вниз, влево, вправо</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	СдвигиСтолбцов </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> ЧислаИзСтроки(</span><span style="color:var(--shiki-token-string-expression)">"0,0,-1,1"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Пока</span><span style="color:var(--shiki-foreground)"> Голова </span><span style="color:var(--shiki-token-keyword)">&#x3C;=</span><span style="color:var(--shiki-foreground)"> Очередь.ВГраница() </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Клетка </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Очередь[Голова]</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Голова </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Голова </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Шагов </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Расстояние.Получить(</span><span style="color:var(--shiki-token-function)">XMLСтрока</span><span style="color:var(--shiki-foreground)">(Клетка.Строка) </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-string-expression)"> ":"</span><span style="color:var(--shiki-token-keyword)"> +</span><span style="color:var(--shiki-token-function)"> XMLСтрока</span><span style="color:var(--shiki-foreground)">(Клетка.Столбец))</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Если</span><span style="color:var(--shiki-foreground)"> Клетка.Строка </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Строк </span><span style="color:var(--shiki-token-keyword)">-</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)"> И</span><span style="color:var(--shiki-foreground)"> Клетка.Столбец </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Столбцов </span><span style="color:var(--shiki-token-keyword)">Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">			Возврат</span><span style="color:var(--shiki-foreground)"> Шагов</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">                        // дошли до выхода</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Для</span><span style="color:var(--shiki-foreground)"> Направление </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)"> По</span><span style="color:var(--shiki-token-constant)"> 3</span><span style="color:var(--shiki-token-keyword)"> Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			r </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Клетка.Строка </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-foreground)"> СдвигиСтрок[Направление]</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			c </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Клетка.Столбец </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-foreground)"> СдвигиСтолбцов[Направление]</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">			Если</span><span style="color:var(--shiki-foreground)"> r </span><span style="color:var(--shiki-token-keyword)">&#x3C;</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)"> Или</span><span style="color:var(--shiki-foreground)"> r </span><span style="color:var(--shiki-token-keyword)">>=</span><span style="color:var(--shiki-foreground)"> Строк </span><span style="color:var(--shiki-token-keyword)">Или</span><span style="color:var(--shiki-foreground)"> c </span><span style="color:var(--shiki-token-keyword)">&#x3C;</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)"> Или</span><span style="color:var(--shiki-foreground)"> c </span><span style="color:var(--shiki-token-keyword)">></span><span style="color:var(--shiki-foreground)"> Столбцов </span><span style="color:var(--shiki-token-keyword)">Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">				Продолжить;</span><span style="color:var(--shiki-token-comment)">                       // за границей</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">			КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			Ключ </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> XMLСтрока</span><span style="color:var(--shiki-foreground)">(r) </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-string-expression)"> ":"</span><span style="color:var(--shiki-token-keyword)"> +</span><span style="color:var(--shiki-token-function)"> XMLСтрока</span><span style="color:var(--shiki-foreground)">(c)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">			Если</span><span style="color:var(--shiki-token-function)"> Сред</span><span style="color:var(--shiki-foreground)">(Лабиринт[r]</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> c</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-foreground)">) </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-string-expression)"> "."</span><span style="color:var(--shiki-token-keyword)"> И</span><span style="color:var(--shiki-foreground)"> Расстояние.Получить(Ключ) </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> Неопределено</span><span style="color:var(--shiki-token-keyword)"> Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">				Расстояние.Вставить(Ключ</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Шагов </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">				Очередь.Добавить(</span><span style="color:var(--shiki-token-function)">Новый</span><span style="color:var(--shiki-foreground)"> Структура(</span><span style="color:var(--shiki-token-string-expression)">"Строка, Столбец"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> r</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> c))</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">			КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-token-keyword)"> -</span><span style="color:var(--shiki-token-constant)">1</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">                                   // выход недостижим</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure><p>Проверка: <code>КратчайшийПуть(СтрРазделить("..#.,#.#.,....,.##.", ","))</code> → 6.</p><p>Массивы <code>СдвигиСтрок</code> и <code>СдвигиСтолбцов</code> задают четыре направления — так не нужно писать четыре почти одинаковых блока. Строки нумеруем с 0 (индекс массива), столбцы — с 1 (позиция в строке для <code>Сред</code>). BFS гарантирует, что первое попадание в выход — по кратчайшему пути. Время <code>O(Строк × Столбцов)</code>.</p></div>
+</details>
+<h2 id="после-практики">После практики</h2>
+<p>Если задача не получилась — это нормально. Вернитесь к уроку с соответствующим приёмом, решите разобранные там примеры заново <strong>без подсказок</strong>, а через 2–3 дня повторите и эту задачу. Регулярная практика по 1–2 задачи в день даёт больше, чем разовое чтение всех решений.</p>20:["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L2e",null,{"children":"$1d:0:1:d:r:props:children:0:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","18v7yvg",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/06/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"06"}],"Алгоритмы для 1С"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","16"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[13," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Практика — задачи с собеседований"}],["$","div",null,{"className":"mt-7","children":["$","$L2f",null,{"id":"1jbpe","href":"/l/06/16/","title":"Практика — задачи с собеседований"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$30"}}],"$L31","$L32","$L33","$L34","$L35"]}]]}]
+21:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L36",null,{"items":[{"id":"как-тренироваться","text":"Как тренироваться","depth":2},{"id":"1-fizzbuzz","text":"1. FizzBuzz","depth":2},{"id":"2-пропущенное-число","text":"2. Пропущенное число","depth":2},{"id":"3-палиндром-числа","text":"3. Палиндром числа","depth":2},{"id":"4-перевернуть-слова","text":"4. Перевернуть слова","depth":2},{"id":"5-самый-длинный-общий-префикс","text":"5. Самый длинный общий префикс","depth":2},{"id":"6-пересечение-двух-массивов","text":"6. Пересечение двух массивов","depth":2},{"id":"7-элемент-большинства","text":"7. Элемент большинства","depth":2},{"id":"8-сжатие-диапазонов","text":"8. Сжатие диапазонов","depth":2},{"id":"9-минимальное-число-монет","text":"9. Минимальное число монет","depth":2},{"id":"10-кратчайший-путь-в-лабиринте","text":"10. Кратчайший путь в лабиринте","depth":2},{"id":"после-практики","text":"После практики","depth":2}]}]}]
+22:["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true}]
+23:["$","$L37",null,{"children":["$","$29",null,{"name":"Next.MetadataOutlet","children":"$@38"}]}]
+39:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+3a:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+3b:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+3c:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+17:300
+31:["$","$L39",null,{"targetId":"lesson-body"}]
+32:["$","$L3a",null,{"targetId":"lesson-body"}]
+33:["$","$L3b",null,{"targetId":"lesson-body"}]
+34:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L2f",null,{"id":"1jbpe","href":"/l/06/16/","title":"Практика — задачи с собеседований","variant":"footer"}]}]
+35:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/06/15/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L3c",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Жадные алгоритмы и интервалы"}]]}],["$","$L13",null,{"href":"/l/06/17/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L3c",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Памятка — шаблоны и ошибки"}]]}]]}]
+38:null
+2d:true
+17:C
+2c:0
+1c:"$undefined"
+19:"$undefined"
+16:"$undefined"
+2b:"$undefined"
+24:"$undefined"

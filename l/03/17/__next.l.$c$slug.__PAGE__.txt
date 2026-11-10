@@ -1,0 +1,225 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1e:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+1f:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+25:"ViewportBoundary"
+26:I[97367,["$2","$3","$4","$5","$6","$7"],"$25"]
+27:"MetadataBoundary"
+28:I[97367,["$2","$3","$4","$5","$6","$7"],"$27"]
+29:"$Sreact.suspense"
+2a:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+17:X
+1a:X
+1a:C
+1d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L1e",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L1f",null,{"tree":{"kind":"folder","id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/","children":[{"kind":"lesson","id":"17boebz","num":"00","title":"Навигация по разделу","href":"/l/03/00/"},{"kind":"lesson","id":"1lkrwkt","num":"01","title":"Запросы и таблицы базы","href":"/l/03/01/"},{"kind":"lesson","id":"14nptpf","num":"02","title":"Первый запрос в конструкторе и в коде","href":"/l/03/02/"},{"kind":"lesson","id":"1nxb71v","num":"03","title":"Выбор полей, псевдонимы и сортировка","href":"/l/03/03/"},{"kind":"lesson","id":"16ekhad","num":"04","title":"Условия и отбор строк","href":"/l/03/04/"},{"kind":"lesson","id":"1pzidkf","num":"05","title":"Параметры и границы периода","href":"/l/03/05/"},{"kind":"lesson","id":"ym6g8r","num":"06","title":"Ссылки, иерархия и составные типы","href":"/l/03/06/"},{"kind":"lesson","id":"z2l8e8","num":"07","title":"Запрос к табличной части документа","href":"/l/03/07/"},{"kind":"lesson","id":"1jifwj7","num":"08","title":"Соединения таблиц","href":"/l/03/08/"},{"kind":"lesson","id":"ms2o5o","num":"09","title":"NULL и отсутствующие значения","href":"/l/03/09/"},{"kind":"lesson","id":"1lwqgjv","num":"10","title":"Группировка и агрегатные функции","href":"/l/03/10/"},{"kind":"lesson","id":"1jkkxfl","num":"11","title":"Итоги и обход результата запроса","href":"/l/03/11/"},{"kind":"lesson","id":"198d651","num":"12","title":"Выражения и функции языка запросов","href":"/l/03/12/"},{"kind":"lesson","id":"e9pt2h","num":"13","title":"Объединение результатов","href":"/l/03/13/"},{"kind":"lesson","id":"18i7pdj","num":"14","title":"Вложенные запросы","href":"/l/03/14/"},{"kind":"lesson","id":"2hbwfu","num":"15","title":"Временные таблицы и пакеты запросов","href":"/l/03/15/"},{"kind":"lesson","id":"n84mjm","num":"16","title":"Виртуальные таблицы регистров накопления","href":"/l/03/16/"},{"kind":"lesson","id":"pgwonp","num":"17","title":"Регистры сведений и срез последних","href":"/l/03/17/"},{"kind":"lesson","id":"vlr597","num":"18","title":"Проверка и ускорение запросов","href":"/l/03/18/"},{"kind":"lesson","id":"142foy4","num":"19","title":"Как устроена СКД","href":"/l/03/19/"},{"kind":"lesson","id":"152ycof","num":"20","title":"Создание отчёта и набора данных","href":"/l/03/20/"},{"kind":"lesson","id":"1xevjbs","num":"21","title":"Поля и ресурсы СКД","href":"/l/03/21/"},{"kind":"lesson","id":"jk420v","num":"22","title":"Параметры периода в СКД","href":"/l/03/22/"},{"kind":"lesson","id":"58dprv","num":"23","title":"Структура отчёта и выбранные поля","href":"/l/03/23/"},{"kind":"lesson","id":"99pyu7","num":"24","title":"Отбор, сортировка и пользовательские настройки","href":"/l/03/24/"},{"kind":"lesson","id":"5i2ibk","num":"25","title":"Вычисляемые поля и оформление","href":"/l/03/25/"},{"kind":"lesson","id":"1inj8zi","num":"26","title":"Таблицы, диаграммы и варианты отчёта","href":"/l/03/26/"},{"kind":"lesson","id":"w5tpc3","num":"27","title":"Несколько наборов и расширение языка СКД","href":"/l/03/27/"},{"kind":"lesson","id":"knkon2","num":"28","title":"Программное формирование отчёта СКД","href":"/l/03/28/"},{"kind":"lesson","id":"1yiya54","num":"29","title":"Практика по языку запросов","href":"/l/03/29/"},{"kind":"lesson","id":"1lqu8yq","num":"30","title":"Практика по СКД","href":"/l/03/30/"},{"kind":"lesson","id":"113x59o","num":"31","title":"Ошибки и памятка для повторения","href":"/l/03/31/"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"pgwonp"}]}],"$L20","$L21"]}]],["$L22"],"$L23"]}],"p":"$@24","v":null,"s":"$17"}}]]
+1b:[["children",{"s":{"n":"slug","t":"c","k":"03/17","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@1c","v":"$1a","s":"$17"},"c":"$Q1d"}]]
+18:[["children",{"s":"l","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@19","v":"$1a","s":"$17"},"c":"$Q1b"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]]}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":"$@16","v":null,"s":"$17"},"c":"$Q18"},"h":{"r":["$","$1","h",{"children":[null,["$","$L26",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]}],["$","$L28",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$29",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Регистры сведений и срез последних · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L2a","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@2b","v":null,"s":"$17"}},"a":"$@2c","u":"$@2d","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+2e:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+2f:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+36:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+37:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+30:T445b,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p><code>СрезПоследних(&#x26;НаДату, Условие)</code> возвращает по каждому сочетанию измерений последнюю запись <strong>не позже</strong> даты — например, действующую цену. <code>СрезПервых</code> — первую запись начиная с даты. Условие <strong>в параметрах среза</strong> и условие <strong>в ГДЕ</strong> дают разные результаты. Для товаров без цены — левое соединение со справочником.</p></div>
+</div>
+<h2 id="задача-какая-цена-действует-на-дату">Задача: какая цена действует на дату?</h2>
+<p>В разделе 01 мы создали периодический регистр сведений <code>ЦеныНоменклатуры</code> (<a href="/restart/l/01/20/" data-internal="true">20. Регистры сведений</a>): периодичность «в пределах дня», измерение <code>Номенклатура</code>, ресурс <code>Цена</code>, реквизит <code>Комментарий</code>. В нём хранится <strong>история</strong> цен:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Период</th><th>Номенклатура</th><th>Цена</th></tr></thead><tbody><tr><td>01.10.2026</td><td>Чайник</td><td>100</td></tr><tr><td>10.10.2026</td><td>Чайник</td><td>120</td></tr><tr><td>05.10.2026</td><td>Кружка</td><td>50</td></tr></tbody></table></div>
+<p>Цена действует <strong>с даты записи до следующего изменения</strong>. Вопрос «какая цена чайника на 5 октября?» — ответ 100: последняя запись не позже 5 октября — от 01.10.</p>
+<p>Аналогия: ценник в магазине. Его меняют время от времени; чтобы узнать цену на какую-то дату, ищем <strong>последний</strong> ценник, повешенный не позже этой даты.</p>
+<h2 id="срез-последних">Срез последних</h2>
+<p>Платформа решает эту задачу виртуальной таблицей <strong><code>СрезПоследних</code></strong>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">ВЫБРАТЬ</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    Ц.Номенклатура</span><span style="color:var(--shiki-token-keyword)">,</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    Ц.Период</span><span style="color:var(--shiki-token-keyword)">,</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    Ц.Цена</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">ИЗ</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    РегистрСведений.ЦеныНоменклатуры.СрезПоследних(</span><span style="color:var(--shiki-token-keyword)">&#x26;НаДату,</span><span style="color:var(--shiki-foreground)"> ) КАК Ц</span></span></code></pre></figure>
+<p>Срез возвращает <strong>по одной строке на каждое сочетание измерений</strong> (у нас — на каждый товар): последнюю запись не позднее <code>&#x26;НаДату</code>.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th><code>&#x26;НаДату</code></th><th>Чайник</th><th>Кружка</th></tr></thead><tbody><tr><td>30.09.2026</td><td><em>нет строки</em> — цен ещё не было</td><td><em>нет строки</em></td></tr><tr><td>05.10.2026</td><td>100 (запись от 01.10)</td><td>50 (запись от 05.10)</td></tr><tr><td>12.10.2026</td><td>120 (запись от 10.10)</td><td>50</td></tr></tbody></table></div>
+<p>Параметры среза:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Позиция</th><th>Параметр</th><th>Смысл</th></tr></thead><tbody><tr><td>1</td><td>Период</td><td>На какую дату. Пусто — на текущий момент (самые свежие значения)</td></tr><tr><td>2</td><td>Условие</td><td>Отбор по измерениям, например <code>Номенклатура = &#x26;Товар</code></td></tr></tbody></table></div>
+<p>Цена одного товара:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">РегистрСведений.ЦеныНоменклатуры.СрезПоследних(</span><span style="color:var(--shiki-token-keyword)">&#x26;НаДату,</span><span style="color:var(--shiki-foreground)"> Номенклатура </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-keyword)"> &#x26;Товар</span><span style="color:var(--shiki-foreground)">) КАК Ц</span></span></code></pre></figure>
+<p>Если цены на эту дату нет, результат будет <strong>пустым</strong> — 0 строк. Код должен это учитывать:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">Выборка </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Запрос.Выполнить().Выбрать()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Если</span><span style="color:var(--shiki-foreground)"> Выборка.Следующий() </span><span style="color:var(--shiki-token-keyword)">Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    Цена </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Выборка.Цена</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Иначе</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    Цена </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">   // или сообщение «Цена не установлена»</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецЕсли;</span></span></code></pre></figure>
+<h2 id="срез-первых">Срез первых</h2>
+<p>Есть и обратная таблица — <strong><code>СрезПервых</code></strong>: по каждому товару <strong>первая</strong> запись <strong>начиная с</strong> указанной даты. Для поиска действующей цены она не подходит; пригодится, например, чтобы узнать «когда цена изменится в следующий раз».</p>
+<h2 id="почему-не-максимум">Почему не <code>МАКСИМУМ</code></h2>
+<p>Новички иногда пытаются найти актуальную цену так:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">ВЫБРАТЬ Ц.Номенклатура</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> МАКСИМУМ(Ц.Цена)</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">ИЗ</span><span style="color:var(--shiki-foreground)"> РегистрСведений.ЦеныНоменклатуры КАК Ц</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">СГРУППИРОВАТЬ </span><span style="color:var(--shiki-token-keyword)">ПО</span><span style="color:var(--shiki-foreground)"> Ц.Номенклатура</span></span></code></pre></figure>
+<p>Это <strong>самая высокая</strong> цена за всю историю, а не последняя. Если цену снизили со 120 до 90, запрос всё равно вернёт 120. <code>МАКСИМУМ(Ц.Период)</code> найдёт дату последней записи, но не цену из неё. Правильный инструмент — срез последних.</p>
+<h2 id="условие-внутри-среза-или-в-где">Условие внутри среза или в <code>ГДЕ</code>?</h2>
+<p>Цены чайника: 01.10 — 100, 10.10 — 120. Задача на 12.10 с условием «цена меньше 110». Куда поставить условие — меняет смысл:</p>
+<p><strong>Внутри среза:</strong></p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">СрезПоследних(</span><span style="color:var(--shiki-token-keyword)">&#x26;НаДату,</span><span style="color:var(--shiki-foreground)"> Цена </span><span style="color:var(--shiki-token-keyword)">&#x3C;</span><span style="color:var(--shiki-token-constant)"> 110</span><span style="color:var(--shiki-foreground)">)</span></span></code></pre></figure>
+<p>«Найди последнюю запись <strong>среди тех, где цена меньше 110</strong>» → запись от 01.10, цена 100. Получим <em>старую</em> цену, которая уже не действует.</p>
+<p><strong>В <code>ГДЕ</code>:</strong></p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">СрезПоследних(</span><span style="color:var(--shiki-token-keyword)">&#x26;НаДату,</span><span style="color:var(--shiki-foreground)"> ) КАК Ц</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">ГДЕ Ц.Цена </span><span style="color:var(--shiki-token-keyword)">&#x3C;</span><span style="color:var(--shiki-token-constant)"> 110</span></span></code></pre></figure>
+<p>«Найди действующую цену (120), потом проверь, меньше ли она 110» → нет. Чайник <strong>не попадёт</strong> в результат.</p>
+<p>Обычно правильный смысл — второй: условие на <em>действующее</em> значение. Поэтому в параметр среза ставим отбор по <strong>измерениям</strong> (<code>Номенклатура = &#x26;Товар</code>), а условия на <strong>ресурсы</strong> — осознанно, чаще в <code>ГДЕ</code>. <a href="https://1c-dn.com/library/using_filters_in_queries_with_virtual_tables/" target="_blank" rel="noopener noreferrer">Пример 1С о различии отборов</a>.</p>
+<h2 id="все-товары-включая-без-цены">Все товары, включая без цены</h2>
+<p>Срез содержит только товары, у которых есть цена. Нужен полный список — соединяем справочник со срезом <strong>левым соединением</strong>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">ВЫБРАТЬ</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    Н.Ссылка КАК Товар</span><span style="color:var(--shiki-token-keyword)">,</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    Ц.Цена КАК Цена</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">ИЗ</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    Справочник.Номенклатура КАК Н</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    ЛЕВОЕ СОЕДИНЕНИЕ РегистрСведений.ЦеныНоменклатуры.СрезПоследних(</span><span style="color:var(--shiki-token-keyword)">&#x26;НаДату,</span><span style="color:var(--shiki-foreground)"> ) КАК Ц</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">    ПО</span><span style="color:var(--shiki-foreground)"> Н.Ссылка </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Ц.Номенклатура</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">ГДЕ</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">    НЕ</span><span style="color:var(--shiki-foreground)"> Н.ЭтоГруппа</span></span></code></pre></figure>
+<p>У товаров без цены будет <code>NULL</code>. Показывать ли вместо него 0 — решаем по задаче: «цена не установлена» и «цена 0 ₽» — разные ситуации, и иногда их важно различать.</p>
+<h2 id="срез-в-конструкторе">Срез в конструкторе</h2>
+<p>В левом списке раскрываем <strong>РегистрыСведений → ЦеныНоменклатуры</strong> — под регистром видны таблицы <code>СрезПоследних</code> и <code>СрезПервых</code>. Выбираем <code>СрезПоследних</code>, затем кнопкой <strong>Параметры виртуальной таблицы</strong> задаём <code>&#x26;НаДату</code> и условие.</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/03.%20%D0%AF%D0%B7%D1%8B%D0%BA%20%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2%20%D0%B8%20%D0%A1%D0%9A%D0%94/17-%D0%A1%D1%80%D0%B5%D0%B7-%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D1%85-%D0%B2-%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%BE%D1%80%D0%B5.png" alt="17-Срез-последних-в-конструкторе.png" loading="lazy" decoding="async"></p>
+<p><em>Конструктор: у периодического регистра сведений <code>ЦеныНоменклатуры</code> есть виртуальные таблицы <code>СрезПервых</code> и <code>СрезПоследних</code>.</em></p>
+<h2 id="проверка">Проверка</h2>
+<ol>
+<li>Заполните регистр ценами из таблицы в начале урока.</li>
+<li>Срез на 05.10 → чайник 100; на 12.10 → 120; на 30.09 → строк нет.</li>
+<li>Поставьте условие <code>Цена &#x3C; 110</code> сначала в параметр среза, потом в <code>ГДЕ</code> — сравните результаты на 12.10.</li>
+</ol>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Цены: 01.10 — 100, 10.10 — 120. Что вернёт срез на 05.10 и на 12.10?</p>
+</li>
+<li>
+<p>Почему <code>МАКСИМУМ(Цена)</code> не даёт действующую цену?</p>
+</li>
+<li>
+<p>Условие <code>Цена &#x3C; 110</code>: внутри среза или в ГДЕ — в чём разница?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>100 и 120.</li>
+<li>Самая высокая цена не обязательно последняя.</li>
+<li>Внутри — последняя запись среди цен ниже 110 (старая 100); в ГДЕ — актуальная цена 120 отфильтруется.</li>
+</ol></div>
+</details></div>
+</details>20:["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L2e",null,{"children":"$1d:0:1:d:r:props:children:0:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","chv2um",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/03/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"03"}],"Язык запросов и СКД"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","17"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[5," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Регистры сведений и срез последних"}],["$","div",null,{"className":"mt-7","children":["$","$L2f",null,{"id":"pgwonp","href":"/l/03/17/","title":"Регистры сведений и срез последних"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$30"}}],"$L31","$L32","$L33","$L34","$L35"]}]]}]
+21:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L36",null,{"items":[{"id":"задача-какая-цена-действует-на-дату","text":"Задача: какая цена действует на дату?","depth":2},{"id":"срез-последних","text":"Срез последних","depth":2},{"id":"срез-первых","text":"Срез первых","depth":2},{"id":"почему-не-максимум","text":"Почему не МАКСИМУМ","depth":2},{"id":"условие-внутри-среза-или-в-где","text":"Условие внутри среза или в ГДЕ?","depth":2},{"id":"все-товары-включая-без-цены","text":"Все товары, включая без цены","depth":2},{"id":"срез-в-конструкторе","text":"Срез в конструкторе","depth":2},{"id":"проверка","text":"Проверка","depth":2}]}]}]
+22:["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true}]
+23:["$","$L37",null,{"children":["$","$29",null,{"name":"Next.MetadataOutlet","children":"$@38"}]}]
+39:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+3a:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+3b:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+3c:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+17:300
+31:["$","$L39",null,{"targetId":"lesson-body"}]
+32:["$","$L3a",null,{"targetId":"lesson-body"}]
+33:["$","$L3b",null,{"targetId":"lesson-body"}]
+34:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L2f",null,{"id":"pgwonp","href":"/l/03/17/","title":"Регистры сведений и срез последних","variant":"footer"}]}]
+35:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/03/16/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L3c",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Виртуальные таблицы регистров накопления"}]]}],["$","$L13",null,{"href":"/l/03/18/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L3c",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Проверка и ускорение запросов"}]]}]]}]
+38:null
+2d:true
+17:C
+2c:0
+1c:"$undefined"
+19:"$undefined"
+16:"$undefined"
+2b:"$undefined"
+24:"$undefined"

@@ -1,0 +1,320 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1b:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:"ViewportBoundary"
+1f:I[97367,["$2","$3","$4","$5","$6","$7"],"$1e"]
+21:"MetadataBoundary"
+22:I[97367,["$2","$3","$4","$5","$6","$7"],"$21"]
+24:I[68027,["$2","$3","$4","$5","$6","$7"],"default",1]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+:HL["/restart/_next/static/media/051742360c26797e-s.p.1bkzbscqrt8rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/26f284dcc38c84c0-s.p.3hlisc-pwq13z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/42b035f1a63f268d-s.p.2m8t2-vl1h1kf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/b4a06a523f527a0e-s.p.3psl0_mnhzy2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/cfdfbee4d6cf0a93-s.p.1jwcpm6w583_v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/e8768c288fbd3aa6-s.p.1t1z0xjflawjj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+17:X
+19:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L1a",[["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true,"nonce":"$undefined"}]],["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]]}],"p":false,"v":null}}]]
+18:[["children",{"s":{"n":"slug","t":"c","k":"07/15","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q19"}]]
+16:[["children",{"s":"l","h":131584,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q18"}]]
+0:{"P":null,"c":["","l","07","15",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true,"nonce":"$undefined"}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":false,"v":null},"c":"$Q16"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$L20"}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":"$L23"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$24",[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+17:C
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]
+25:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+26:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+27:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+28:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+1a:[["$","$L25",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L26",null,{"tree":{"kind":"folder","id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/","children":[{"kind":"lesson","id":"1hx2s48","num":"00","title":"Навигация по разделу","href":"/l/07/00/","children":"$undefined"},{"kind":"lesson","id":"1vki0ku","num":"01","title":"Зачем нужно тестирование","href":"/l/07/01/","children":"$undefined"},{"kind":"lesson","id":"1ft8vz9","num":"02","title":"Основные понятия тестирования","href":"/l/07/02/","children":"$undefined"},{"kind":"lesson","id":"5olfwt","num":"03","title":"Виды и уровни тестирования","href":"/l/07/03/","children":"$undefined"},{"kind":"lesson","id":"1s0acu1","num":"04","title":"Техники тест-дизайна","href":"/l/07/04/","children":"$undefined"},{"kind":"lesson","id":"1ept4s1","num":"05","title":"Тест-кейсы и баг-репорты","href":"/l/07/05/","children":"$undefined"},{"kind":"lesson","id":"1qld6tb","num":"06","title":"Что и чем тестировать в 1С","href":"/l/07/06/","children":"$undefined"},{"kind":"lesson","id":"fm5x90","num":"07","title":"Модульные тесты своими руками","href":"/l/07/07/","children":"$undefined"},{"kind":"lesson","id":"2e0v2y","num":"08","title":"Модульные тесты в YAxUnit","href":"/l/07/08/","children":"$undefined"},{"kind":"lesson","id":"e3l0hr","num":"09","title":"BDD и язык Gherkin","href":"/l/07/09/","children":"$undefined"},{"kind":"lesson","id":"79gt5r","num":"10","title":"Vanessa Automation — установка и запуск","href":"/l/07/10/","children":"$undefined"},{"kind":"lesson","id":"1lcgo32","num":"11","title":"Первый сценарий в Vanessa Automation","href":"/l/07/11/","children":"$undefined"},{"kind":"lesson","id":"j3qawi","num":"12","title":"Шаги, проверки и запись действий","href":"/l/07/12/","children":"$undefined"},{"kind":"lesson","id":"1aeq2d9","num":"13","title":"Тестовые данные и независимость сценариев","href":"/l/07/13/","children":"$undefined"},{"kind":"lesson","id":"1qqfmo6","num":"14","title":"Регрессия, отчёты и запуск без участия человека","href":"/l/07/14/","children":"$undefined"},{"kind":"lesson","id":"shckox","num":"15","title":"Практика — тестируем расходную накладную","href":"/l/07/15/","children":"$undefined"},{"kind":"lesson","id":"11nejw8","num":"16","title":"Памятка — тестирование","href":"/l/07/16/","children":"$undefined"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"shckox"}]}],["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L27",null,{"children":"$1a:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","14mlr13",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/07/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"07"}],"Тестирование 1С"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","15"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[8," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Практика — тестируем расходную накладную"}],["$","div",null,{"className":"mt-7","children":["$","$L28",null,{"id":"shckox","href":"/l/07/15/","title":"Практика — тестируем расходную накладную"}]}]]}],"$L29","$L2a","$L2b","$L2c","$L2d","$L2e"]}]]}],"$L2f"]}]]
+31:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+32:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+33:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+34:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+35:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+30:T7f1c,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p>Сквозная практика раздела на расходной накладной «1С:Купец»: по требованию составить проверки техниками тест-дизайна → оформить чек-лист и один подробный тест-кейс → написать модульные тесты расчёта и интеграционный тест проведения в тестовой обработке → описать три сценария на Gherkin стандартными шагами Vanessa Automation → оформить баг-репорт на найденный дефект. Решения каждого шага свёрнуты — сначала сделайте сами.</p></div>
+</div>
+<h2 id="требование">Требование</h2>
+<blockquote>
+<p>Доработка «Скидка в расходной накладной».</p>
+<ol>
+<li>Сумма строки товаров = количество × цена, округление до копеек.</li>
+<li>Если количество в строке <strong>от 100 штук включительно</strong>, на сумму строки действует скидка <strong>5%</strong>.</li>
+<li>Количество в строке должно быть <strong>больше 0</strong>; иначе запись запрещена с сообщением «Строка N: количество должно быть больше нуля».</li>
+<li>Накладную нельзя записать без покупателя — сообщение «Выберите покупателя».</li>
+<li>При проведении в регистр <code>Продажи</code> записываются движения на сумму строк <strong>со скидкой</strong>.</li>
+</ol>
+</blockquote>
+<h2 id="шаг-1-тест-дизайн">Шаг 1. Тест-дизайн</h2>
+<p>Составьте список проверок для пунктов 2 и 3, используя классы эквивалентности и граничные значения (<a href="/restart/l/07/04/" data-internal="true">04. Техники тест-дизайна</a>). Для пункта 5 добавьте проверки переходов состояний документа.</p>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">Решение</summary>
+<div class="callout-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Проверка</th><th>Количество</th><th>Цена</th><th>Ожидаемая сумма / результат</th></tr></thead><tbody><tr><td>Недопустимо: ноль</td><td>0</td><td>10</td><td>Запись запрещена, сообщение</td></tr><tr><td>Недопустимо: отрицательное</td><td>−1</td><td>10</td><td>Запись запрещена, сообщение</td></tr><tr><td>Нижняя граница допустимого</td><td>1</td><td>10</td><td>10</td></tr><tr><td>Без скидки, середина</td><td>50</td><td>10</td><td>500</td></tr><tr><td>Граница скидки снизу</td><td>99</td><td>10</td><td>990</td></tr><tr><td>Граница скидки</td><td>100</td><td>10</td><td>950</td></tr><tr><td>Над границей</td><td>101</td><td>10</td><td>959.50</td></tr><tr><td>Округление</td><td>3</td><td>12.345</td><td>37.04</td></tr></tbody></table></div><p>Переходы состояний для пункта 5: проведение → движения со скидкой; повторное проведение → движения не задвоились; отмена проведения → движений нет; пометка на удаление → движений нет.</p></div>
+</details>
+<h2 id="шаг-2-чек-лист-и-тест-кейс">Шаг 2. Чек-лист и тест-кейс</h2>
+<p>Оформите чек-лист на всю доработку и один подробный тест-кейс на пункт 4 (<a href="/restart/l/07/05/" data-internal="true">05. Тест-кейсы и баг-репорты</a>).</p>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">Решение</summary>
+<div class="callout-body"><p><strong>Чек-лист:</strong></p><ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Сумма строки без скидки: 50 × 10 = 500</li>
+<li class="task-list-item"><input type="checkbox" disabled> Граница скидки: 99 шт. — без скидки, 100 шт. — со скидкой</li>
+<li class="task-list-item"><input type="checkbox" disabled> Округление: 3 × 12.345 = 37.04</li>
+<li class="task-list-item"><input type="checkbox" disabled> Количество 0 и −1 — запись запрещена, сообщение с номером строки</li>
+<li class="task-list-item"><input type="checkbox" disabled> Без покупателя — запись запрещена, сообщение</li>
+<li class="task-list-item"><input type="checkbox" disabled> Проведение: движения в регистре <code>Продажи</code> со скидкой</li>
+<li class="task-list-item"><input type="checkbox" disabled> Повторное проведение не задваивает движения</li>
+<li class="task-list-item"><input type="checkbox" disabled> Отмена проведения удаляет движения</li>
+<li class="task-list-item"><input type="checkbox" disabled> Запись из обработки (без формы) применяет скидку и проверки</li>
+<li class="task-list-item"><input type="checkbox" disabled> Всё работает под ролью «Менеджер»</li>
+</ul><p><strong>Тест-кейс ТК-001 «Накладную нельзя записать без покупателя»</strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Поле</th><th>Значение</th></tr></thead><tbody><tr><td>Предусловия</td><td>Пользователь «Менеджер», есть товар «Чайник»</td></tr><tr><td>Шаги</td><td>1. Торговый учёт → Расходные накладные → Создать. 2. Покупателя не заполнять. 3. Добавить строку: «Чайник», 1, 150. 4. Нажать «Записать»</td></tr><tr><td>Ожидаемый результат</td><td>Сообщение «Выберите покупателя», документ не записан, форма открыта</td></tr></tbody></table></div></div>
+</details>
+<h2 id="шаг-3-модульные-и-интеграционный-тесты">Шаг 3. Модульные и интеграционный тесты</h2>
+<p>В тестовой обработке из <a href="/restart/l/07/07/" data-internal="true">07. Модульные тесты своими руками</a>:</p>
+<ol>
+<li>Напишите модульные тесты функции <code>СуммаСоСкидкой</code> для строк таблицы из шага 1 (кроме недопустимых значений).</li>
+<li>Напишите интеграционный тест: в транзакции создать и провести накладную на 100 чайников по 10 ₽, проверить, что в регистре <code>Продажи</code> сумма 950, отменить транзакцию.</li>
+</ol>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">Решение</summary>
+<div class="callout-body"><figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> Тест_Скидка_Граница99</span><span style="color:var(--shiki-foreground)">() </span><span style="color:var(--shiki-token-keyword)">Экспорт</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ПроверитьРавенство(РасчетыКлиентСервер.СуммаСоСкидкой(</span><span style="color:var(--shiki-token-constant)">99</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 10</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 990</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "99 шт."</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> Тест_Скидка_Граница100</span><span style="color:var(--shiki-foreground)">() </span><span style="color:var(--shiki-token-keyword)">Экспорт</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ПроверитьРавенство(РасчетыКлиентСервер.СуммаСоСкидкой(</span><span style="color:var(--shiki-token-constant)">100</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 10</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 950</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "100 шт."</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> Тест_Скидка_Граница101</span><span style="color:var(--shiki-foreground)">() </span><span style="color:var(--shiki-token-keyword)">Экспорт</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ПроверитьРавенство(РасчетыКлиентСервер.СуммаСоСкидкой(</span><span style="color:var(--shiki-token-constant)">101</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 10</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 959.5</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "101 шт."</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> Тест_Округление</span><span style="color:var(--shiki-foreground)">() </span><span style="color:var(--shiki-token-keyword)">Экспорт</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ПроверитьРавенство(РасчетыКлиентСервер.СуммаСоСкидкой(</span><span style="color:var(--shiki-token-constant)">3</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 12.345</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 37.04</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "3 × 12.345"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span></code></pre></figure><p>Интеграционный тест — функция <code>ПроверитьПроведениеНаСервере</code> из урока 07, где количество 100, цена 10, сумма строки 950, а в проверке ожидаются движения 100 шт. на 950. Не забудьте: если в проведении есть контроль остатков, в той же транзакции сначала нужен приход.</p></div>
+</details>
+<h2 id="шаг-4-сценарии-на-gherkin">Шаг 4. Сценарии на Gherkin</h2>
+<p>Напишите файл <code>РасходнаяНакладная_Скидка.feature</code> с тремя сценариями стандартными шагами Vanessa Automation (<a href="/restart/l/07/11/" data-internal="true">11. Первый сценарий в Vanessa Automation</a>, <a href="/restart/l/07/12/" data-internal="true">12. Шаги, проверки и запись действий</a>):</p>
+<ol>
+<li>Скидка применяется со 100 штук — через <code>Структура сценария</code> для 99, 100 и 101.</li>
+<li>Нельзя записать без покупателя.</li>
+<li>Нельзя записать строку с количеством 0.</li>
+</ol>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">Решение</summary>
+<div class="callout-body"><figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="gherkin" data-theme="mono"><code data-language="gherkin" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-comment)">#language: ru</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-function)">@продажи</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функционал</span><span style="color:var(--shiki-foreground)">:</span><span style="color:var(--shiki-token-string)"> Скидка в расходной накладной</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Как менеджер</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Я хочу, чтобы при покупке от 100 штук скидка применялась автоматически</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Чтобы не ошибаться в расчёте</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Контекст</span><span style="color:var(--shiki-foreground)">:</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Дано </span><span style="color:var(--shiki-foreground)">Я открыл новый сеанс TestClient или подключил уже существующий</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">я закрыл все окна клиентского приложения</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Структура сценария</span><span style="color:var(--shiki-foreground)">:</span><span style="color:var(--shiki-token-string)"> Скидка зависит от количества</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Когда </span><span style="color:var(--shiki-foreground)">В командном интерфейсе я выбираю </span><span style="color:var(--shiki-token-string-expression)">'Торговый учёт'</span><span style="color:var(--shiki-token-string-expression)"> 'Расходные накладные'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">я нажимаю на кнопку с именем </span><span style="color:var(--shiki-token-string-expression)">'ФормаСоздать'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">из выпадающего списка с именем </span><span style="color:var(--shiki-token-string-expression)">"Покупатель"</span><span style="color:var(--shiki-foreground)"> я выбираю по строке </span><span style="color:var(--shiki-token-string-expression)">'Ромашка'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">в таблице </span><span style="color:var(--shiki-token-string-expression)">"Товары"</span><span style="color:var(--shiki-foreground)"> я нажимаю на кнопку с именем </span><span style="color:var(--shiki-token-string-expression)">'ТоварыДобавить'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">в таблице </span><span style="color:var(--shiki-token-string-expression)">"Товары"</span><span style="color:var(--shiki-foreground)"> из выпадающего списка с именем </span><span style="color:var(--shiki-token-string-expression)">"ТоварыТовар"</span><span style="color:var(--shiki-foreground)"> я выбираю по строке </span><span style="color:var(--shiki-token-string-expression)">'Чайник'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">в таблице </span><span style="color:var(--shiki-token-string-expression)">"Товары"</span><span style="color:var(--shiki-foreground)"> в поле с именем </span><span style="color:var(--shiki-token-string-expression)">'ТоварыЦена'</span><span style="color:var(--shiki-foreground)"> я ввожу текст </span><span style="color:var(--shiki-token-string-expression)">'10'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">в таблице </span><span style="color:var(--shiki-token-string-expression)">"Товары"</span><span style="color:var(--shiki-foreground)"> в поле с именем </span><span style="color:var(--shiki-token-string-expression)">'ТоварыКоличество'</span><span style="color:var(--shiki-foreground)"> я ввожу текст </span><span style="color:var(--shiki-token-string-expression)">'&#x3C;Количество>'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">в таблице </span><span style="color:var(--shiki-token-string-expression)">"Товары"</span><span style="color:var(--shiki-foreground)"> я завершаю редактирование строки</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Тогда </span><span style="color:var(--shiki-foreground)">таблица </span><span style="color:var(--shiki-token-string-expression)">"Товары"</span><span style="color:var(--shiki-foreground)"> содержит строки:</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		| 'Товар'  | 'Количество'   | 'Сумма'   |</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		| 'Чайник' | '&#x3C;Количество>' | '&#x3C;Сумма>' |</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Примеры:</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		| Количество | Сумма  |</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		| 99         | 990,00 |</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		| 100        | 950,00 |</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		| 101        | 959,50 |</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Сценарий</span><span style="color:var(--shiki-foreground)">:</span><span style="color:var(--shiki-token-string)"> Нельзя записать накладную без покупателя</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Когда </span><span style="color:var(--shiki-foreground)">В командном интерфейсе я выбираю </span><span style="color:var(--shiki-token-string-expression)">'Торговый учёт'</span><span style="color:var(--shiki-token-string-expression)"> 'Расходные накладные'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">я нажимаю на кнопку с именем </span><span style="color:var(--shiki-token-string-expression)">'ФормаСоздать'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">в таблице </span><span style="color:var(--shiki-token-string-expression)">"Товары"</span><span style="color:var(--shiki-foreground)"> я нажимаю на кнопку с именем </span><span style="color:var(--shiki-token-string-expression)">'ТоварыДобавить'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">в таблице </span><span style="color:var(--shiki-token-string-expression)">"Товары"</span><span style="color:var(--shiki-foreground)"> из выпадающего списка с именем </span><span style="color:var(--shiki-token-string-expression)">"ТоварыТовар"</span><span style="color:var(--shiki-foreground)"> я выбираю по строке </span><span style="color:var(--shiki-token-string-expression)">'Чайник'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">в таблице </span><span style="color:var(--shiki-token-string-expression)">"Товары"</span><span style="color:var(--shiki-foreground)"> в поле с именем </span><span style="color:var(--shiki-token-string-expression)">'ТоварыКоличество'</span><span style="color:var(--shiki-foreground)"> я ввожу текст </span><span style="color:var(--shiki-token-string-expression)">'1'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">в таблице </span><span style="color:var(--shiki-token-string-expression)">"Товары"</span><span style="color:var(--shiki-foreground)"> я завершаю редактирование строки</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">я нажимаю на кнопку с именем </span><span style="color:var(--shiki-token-string-expression)">'ФормаЗаписать'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Тогда </span><span style="color:var(--shiki-foreground)">в логе сообщений TestClient есть строка </span><span style="color:var(--shiki-token-string-expression)">'Выберите покупателя'</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Сценарий</span><span style="color:var(--shiki-foreground)">:</span><span style="color:var(--shiki-token-string)"> Нельзя записать строку с нулевым количеством</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Когда </span><span style="color:var(--shiki-foreground)">В командном интерфейсе я выбираю </span><span style="color:var(--shiki-token-string-expression)">'Торговый учёт'</span><span style="color:var(--shiki-token-string-expression)"> 'Расходные накладные'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">я нажимаю на кнопку с именем </span><span style="color:var(--shiki-token-string-expression)">'ФормаСоздать'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">из выпадающего списка с именем </span><span style="color:var(--shiki-token-string-expression)">"Покупатель"</span><span style="color:var(--shiki-foreground)"> я выбираю по строке </span><span style="color:var(--shiki-token-string-expression)">'Ромашка'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">в таблице </span><span style="color:var(--shiki-token-string-expression)">"Товары"</span><span style="color:var(--shiki-foreground)"> я нажимаю на кнопку с именем </span><span style="color:var(--shiki-token-string-expression)">'ТоварыДобавить'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">в таблице </span><span style="color:var(--shiki-token-string-expression)">"Товары"</span><span style="color:var(--shiki-foreground)"> из выпадающего списка с именем </span><span style="color:var(--shiki-token-string-expression)">"ТоварыТовар"</span><span style="color:var(--shiki-foreground)"> я выбираю по строке </span><span style="color:var(--shiki-token-string-expression)">'Чайник'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">в таблице </span><span style="color:var(--shiki-token-string-expression)">"Товары"</span><span style="color:var(--shiki-foreground)"> в поле с именем </span><span style="color:var(--shiki-token-string-expression)">'ТоварыКоличество'</span><span style="color:var(--shiki-foreground)"> я ввожу текст </span><span style="color:var(--shiki-token-string-expression)">'0'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">в таблице </span><span style="color:var(--shiki-token-string-expression)">"Товары"</span><span style="color:var(--shiki-foreground)"> я завершаю редактирование строки</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">я нажимаю на кнопку с именем </span><span style="color:var(--shiki-token-string-expression)">'ФормаЗаписать'</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Тогда </span><span style="color:var(--shiki-foreground)">в логе сообщений TestClient есть строка </span><span style="color:var(--shiki-token-string-expression)">'Строка 1: количество должно быть больше нуля'</span></span></code></pre></figure><p>Формулировки стандартных шагов и заголовки окон сверьте со своей версией Vanessa Automation и своей конфигурацией. Формат сумм в таблице примеров — как они отображаются в колонке.</p></div>
+</details>
+<h2 id="шаг-5-баг-репорт">Шаг 5. Баг-репорт</h2>
+<p>Представьте: при проверке оказалось, что для 100 штук скидка <strong>не</strong> применяется (сумма 1000 вместо 950), а для 101 — применяется. Оформите баг-репорт.</p>
+<details class="callout callout-example" data-callout="example">
+<summary class="callout-title">Решение</summary>
+<div class="callout-body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Поле</th><th>Значение</th></tr></thead><tbody><tr><td>Заголовок</td><td>Расходная накладная: скидка 5% не применяется при количестве ровно 100 шт.</td></tr><tr><td>Шаги</td><td>1. Создать расходную накладную, покупатель «Ромашка». 2. Добавить строку: «Чайник», цена 10, количество 100. 3. Завершить ввод строки</td></tr><tr><td>Ожидаемый результат</td><td>Сумма строки 950 (требование: скидка «от 100 штук включительно»)</td></tr><tr><td>Фактический результат</td><td>Сумма строки 1000. При количестве 101 скидка применяется (959.50)</td></tr><tr><td>Окружение</td><td>База «Купец (тест)», платформа 8.5.1.1150, пользователь «Менеджер»</td></tr><tr><td>Серьёзность</td><td>Значительная: неверные суммы в документах</td></tr><tr><td>Предполагаемая причина</td><td>Условие <code>Количество > 100</code> вместо <code>>= 100</code> (ошибка на границе)</td></tr></tbody></table></div><p>После исправления: ретест на 100 штук и прогон всех тестов скидки (регрессия).</p></div>
+</details>
+<h2 id="готово-если">Готово, если</h2>
+<ul>
+<li>Список проверок построен по классам эквивалентности, границам и переходам состояний.</li>
+<li>Модульные тесты зелёные; если сломать условие скидки на <code>> 100</code>, тест на 100 штук падает.</li>
+<li>Интеграционный тест проверяет движения и не оставляет данных в базе.</li>
+<li>Сценарии написаны с проверками («Тогда …»), начинаются с закрытия окон и не зависят друг от друга.</li>
+<li>Баг-репорт позволяет повторить дефект с первого раза.</li>
+</ul>29:["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$30"}}]
+2a:["$","$L31",null,{"targetId":"lesson-body"}]
+2b:["$","$L32",null,{"targetId":"lesson-body"}]
+2c:["$","$L33",null,{"targetId":"lesson-body"}]
+2d:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L28",null,{"id":"shckox","href":"/l/07/15/","title":"Практика — тестируем расходную накладную","variant":"footer"}]}]
+2e:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/07/14/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L34",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Регрессия, отчёты и запуск без участия человека"}]]}],["$","$L13",null,{"href":"/l/07/16/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L34",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Памятка — тестирование"}]]}]]}]
+2f:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L35",null,{"items":[{"id":"требование","text":"Требование","depth":2},{"id":"шаг-1-тест-дизайн","text":"Шаг 1. Тест-дизайн","depth":2},{"id":"шаг-2-чек-лист-и-тест-кейс","text":"Шаг 2. Чек-лист и тест-кейс","depth":2},{"id":"шаг-3-модульные-и-интеграционный-тесты","text":"Шаг 3. Модульные и интеграционный тесты","depth":2},{"id":"шаг-4-сценарии-на-gherkin","text":"Шаг 4. Сценарии на Gherkin","depth":2},{"id":"шаг-5-баг-репорт","text":"Шаг 5. Баг-репорт","depth":2},{"id":"готово-если","text":"Готово, если","depth":2}]}]}]
+36:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+1d:null
+23:[["$","title","0",{"children":"Практика — тестируем расходную накладную · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L36","3",{}]]

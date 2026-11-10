@@ -1,0 +1,391 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1b:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:"ViewportBoundary"
+1f:I[97367,["$2","$3","$4","$5","$6","$7"],"$1e"]
+21:"MetadataBoundary"
+22:I[97367,["$2","$3","$4","$5","$6","$7"],"$21"]
+24:I[68027,["$2","$3","$4","$5","$6","$7"],"default",1]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+:HL["/restart/_next/static/media/051742360c26797e-s.p.1bkzbscqrt8rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/26f284dcc38c84c0-s.p.3hlisc-pwq13z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/42b035f1a63f268d-s.p.2m8t2-vl1h1kf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/b4a06a523f527a0e-s.p.3psl0_mnhzy2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/cfdfbee4d6cf0a93-s.p.1jwcpm6w583_v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/e8768c288fbd3aa6-s.p.1t1z0xjflawjj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+17:X
+19:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L1a",[["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true,"nonce":"$undefined"}]],["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]]}],"p":false,"v":null}}]]
+18:[["children",{"s":{"n":"slug","t":"c","k":"07/07","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q19"}]]
+16:[["children",{"s":"l","h":131584,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q18"}]]
+0:{"P":null,"c":["","l","07","07",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true,"nonce":"$undefined"}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":false,"v":null},"c":"$Q16"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$L20"}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":"$L23"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$24",[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+17:C
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]
+25:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+26:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+27:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+28:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+29:Tce36,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p><strong>Модульный тест</strong> — маленькая процедура, которая вызывает проверяемую функцию с известными данными и сравнивает результат с ожидаемым. Каждый тест строится по схеме <strong>«Подготовка — Действие — Проверка»</strong> (Arrange — Act — Assert). Самый простой инструмент в 1С — своя <strong>тестовая внешняя обработка</strong>: набор процедур-тестов и процедура <code>ПроверитьРавенство()</code>, которая пишет «ОК» или «ОШИБКА». <strong>Интеграционный</strong> тест проведения выполняется на сервере в <strong>транзакции, которую потом отменяют</strong>: создали и провели документ, проверили движения запросом, откатили — база осталась чистой. Чтобы код было удобно тестировать, расчёты выносят в <strong>отдельные функции</strong> без обращения к форме.</p></div>
+</div>
+<h2 id="что-такое-модульный-тест">Что такое модульный тест</h2>
+<p><strong>Модульный (unit) тест</strong> проверяет <strong>один маленький кусок</strong> кода — одну функцию — отдельно от всего остального. Мы не открываем формы и не нажимаем кнопки: просто вызываем функцию с нужными параметрами и смотрим, что она вернула.</p>
+<p>Аналогия: проверяя калькулятор, вы не разбираете его — вы набираете «2 × 150» и смотрите, показал ли он 300.</p>
+<p>Модульные тесты:</p>
+<ul>
+<li>выполняются за <strong>доли секунды</strong> — можно запускать после каждой правки;</li>
+<li>точно показывают, <strong>какая функция</strong> сломалась;</li>
+<li>не зависят от интерфейса — не ломаются, если кнопку перенесли.</li>
+</ul>
+<h2 id="схема-любого-теста-подготовка--действие--проверка">Схема любого теста: Подготовка — Действие — Проверка</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Шаг</th><th>Что делаем</th><th>Пример</th></tr></thead><tbody><tr><td><strong>Подготовка</strong> (Arrange)</td><td>Готовим входные данные</td><td>Количество = 3, Цена = 12.345</td></tr><tr><td><strong>Действие</strong> (Act)</td><td>Вызываем проверяемую функцию</td><td><code>Сумма = РассчитатьСуммуСтроки(3, 12.345)</code></td></tr><tr><td><strong>Проверка</strong> (Assert)</td><td>Сравниваем результат с ожидаемым</td><td><code>Сумма</code> должна быть 37.04</td></tr></tbody></table></div>
+<p>Тест, у которого нет проверки, ничего не тестирует — он только «запускает» код.</p>
+<h2 id="код-который-удобно-тестировать">Код, который удобно тестировать</h2>
+<p>Возьмём правило из раздела 04: сумма строки = количество × цена, с округлением до копеек (<a href="/restart/l/04/10/" data-internal="true">10. Пересчёт строк</a>). Если формула записана прямо внутри обработчика формы — проверить её отдельно невозможно: обработчик требует открытую форму и текущую строку таблицы.</p>
+<p>Поэтому расчёт выносят в <strong>отдельную функцию</strong>, которая получает значения параметрами и возвращает результат. Лучше всего — в общий модуль с флажками «Клиент» и «Сервер», чтобы ей пользовались и форма, и модуль объекта (<a href="/restart/l/02/26/" data-internal="true">26. Общие модули</a>):</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-comment)">// Общий модуль РасчетыКлиентСервер (Клиент, Сервер)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">// Сумма строки товаров с округлением до копеек.</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> РассчитатьСуммуСтроки</span><span style="color:var(--shiki-foreground)">(Количество</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Цена) </span><span style="color:var(--shiki-token-keyword)">Экспорт</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-token-function)"> Окр</span><span style="color:var(--shiki-foreground)">(Количество </span><span style="color:var(--shiki-token-keyword)">*</span><span style="color:var(--shiki-foreground)"> Цена</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 2</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">// Сумма со скидкой: от 100 штук включительно — 5%.</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> СуммаСоСкидкой</span><span style="color:var(--shiki-foreground)">(Количество</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Цена) </span><span style="color:var(--shiki-token-keyword)">Экспорт</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Сумма </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> РассчитатьСуммуСтроки(Количество</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Цена)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Если</span><span style="color:var(--shiki-foreground)"> Количество </span><span style="color:var(--shiki-token-keyword)">>=</span><span style="color:var(--shiki-token-constant)"> 100</span><span style="color:var(--shiki-token-keyword)"> Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Сумма </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Окр</span><span style="color:var(--shiki-foreground)">(Сумма </span><span style="color:var(--shiki-token-keyword)">*</span><span style="color:var(--shiki-token-constant)"> 0.95</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 2</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-foreground)"> Сумма</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure>
+<div class="callout callout-tip" data-callout="tip">
+<div class="callout-title">Правило тестируемого кода</div>
+<div class="callout-body"><p>Функция, которая <strong>получает всё нужное параметрами</strong> и <strong>возвращает результат</strong>, не читая форму, базу и глобальные переменные, тестируется одной строкой. Такие функции называют «чистыми». Чем больше логики в них, тем проще тестировать.</p></div>
+</div>
+<p>Если в учебной базе нет общего модуля для экспериментов, функции можно положить прямо в модуль тестовой обработки — для изучения техники это не важно.</p>
+<h2 id="тестовая-обработка">Тестовая обработка</h2>
+<p>Создаём внешнюю обработку <code>ТестыКупец</code> — так же, как песочницу из раздела алгоритмов (<a href="/restart/l/06/01/" data-internal="true">01. Песочница</a>): форма, команда «Запустить тесты», обработчик на клиенте.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> ЗапуститьТесты</span><span style="color:var(--shiki-foreground)">(Команда)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Пройдено </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Упало </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ВыполнитьТест(</span><span style="color:var(--shiki-token-string-expression)">"Тест_СуммаСтроки_ЦелыеЧисла"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Пройдено</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Упало)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ВыполнитьТест(</span><span style="color:var(--shiki-token-string-expression)">"Тест_СуммаСтроки_Округление"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Пройдено</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Упало)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ВыполнитьТест(</span><span style="color:var(--shiki-token-string-expression)">"Тест_Скидка_ГраницаСнизу"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Пройдено</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Упало)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ВыполнитьТест(</span><span style="color:var(--shiki-token-string-expression)">"Тест_Скидка_НаГранице"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Пройдено</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Упало)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-function)">	Сообщить</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-function)">СтрШаблон</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-string-expression)">"Итого: пройдено %1, упало %2"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Пройдено</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Упало))</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span></code></pre></figure>
+<h3 id="процедура-проверки">Процедура проверки</h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-comment)">// Сравнивает фактическое значение с ожидаемым; при расхождении вызывает исключение.</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> ПроверитьРавенство</span><span style="color:var(--shiki-foreground)">(Фактическое</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Ожидаемое</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Описание </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-string-expression)"> ""</span><span style="color:var(--shiki-foreground)">)</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Если</span><span style="color:var(--shiki-foreground)"> Фактическое </span><span style="color:var(--shiki-token-keyword)">&#x3C;></span><span style="color:var(--shiki-foreground)"> Ожидаемое </span><span style="color:var(--shiki-token-keyword)">Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		ВызватьИсключение</span><span style="color:var(--shiki-token-function)"> СтрШаблон</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-string-expression)">"%1: ожидалось %2, получено %3"</span><span style="color:var(--shiki-token-keyword)">,</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			Описание</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-function)"> XMLСтрока</span><span style="color:var(--shiki-foreground)">(Ожидаемое)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-function)"> XMLСтрока</span><span style="color:var(--shiki-foreground)">(Фактическое))</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">// Запускает тест по имени процедуры и считает результат.</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> ВыполнитьТест</span><span style="color:var(--shiki-foreground)">(ИмяТеста</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Пройдено</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Упало)</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Попытка</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Выполнить(ИмяТеста </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-string-expression)"> "()"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Пройдено </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Пройдено </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-function)">		Сообщить</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-string-expression)">"ОК      "</span><span style="color:var(--shiki-token-keyword)"> +</span><span style="color:var(--shiki-foreground)"> ИмяТеста)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Исключение</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Упало </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Упало </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-function)">		Сообщить</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-string-expression)">"ОШИБКА  "</span><span style="color:var(--shiki-token-keyword)"> +</span><span style="color:var(--shiki-foreground)"> ИмяТеста </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-string-expression)"> " — "</span><span style="color:var(--shiki-token-keyword)"> +</span><span style="color:var(--shiki-token-function)"> КраткоеПредставлениеОшибки</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-function)">ИнформацияОбОшибке</span><span style="color:var(--shiki-foreground)">()))</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецПопытки;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span></code></pre></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Код</th><th>Зачем</th></tr></thead><tbody><tr><td><code>ВызватьИсключение</code> при расхождении</td><td>Тест «падает» в момент первой неудачной проверки — дальше выполнять бессмысленно</td></tr><tr><td><code>Выполнить(ИмяТеста + "()")</code></td><td>Вызвать процедуру по имени из строки — так список тестов задаётся одной строкой на тест (<a href="/restart/l/02/27/" data-internal="true">27. Ошибки</a>)</td></tr><tr><td><code>Попытка … Исключение</code></td><td>Падение одного теста не останавливает остальные</td></tr><tr><td>Счётчики <code>Пройдено</code>, <code>Упало</code></td><td>Итоговая строка — сразу видно, всё ли в порядке</td></tr></tbody></table></div>
+<div class="callout callout-info" data-callout="info">
+<div class="callout-title">О</div>
+<div class="callout-body"><p><code>Выполнить</code>
+В рабочем коде <code>Выполнить()</code> с произвольной строкой — плохая практика: через неё можно выполнить любой код (<a href="/restart/l/05/11/" data-internal="true">11. Безопасность</a>). В тестовой обработке, где строки — имена наших же процедур, это допустимо. Если не хочется использовать <code>Выполнить</code>, вызывайте тесты напрямую внутри своих <code>Попытка</code>.</p></div>
+</div>
+<h3 id="сами-тесты">Сами тесты</h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> Тест_СуммаСтроки_ЦелыеЧисла</span><span style="color:var(--shiki-foreground)">() </span><span style="color:var(--shiki-token-keyword)">Экспорт</span></span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">	// Подготовка</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Количество </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 2</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Цена </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 150</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">	// Действие</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Сумма </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> РасчетыКлиентСервер.РассчитатьСуммуСтроки(Количество</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Цена)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">	// Проверка</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ПроверитьРавенство(Сумма</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 300</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "2 × 150"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> Тест_СуммаСтроки_Округление</span><span style="color:var(--shiki-foreground)">() </span><span style="color:var(--shiki-token-keyword)">Экспорт</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ПроверитьРавенство(РасчетыКлиентСервер.РассчитатьСуммуСтроки(</span><span style="color:var(--shiki-token-constant)">3</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 12.345</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 37.04</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "3 × 12.345"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> Тест_Скидка_ГраницаСнизу</span><span style="color:var(--shiki-foreground)">() </span><span style="color:var(--shiki-token-keyword)">Экспорт</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ПроверитьРавенство(РасчетыКлиентСервер.СуммаСоСкидкой(</span><span style="color:var(--shiki-token-constant)">99</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 10</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 990</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "99 штук — без скидки"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> Тест_Скидка_НаГранице</span><span style="color:var(--shiki-foreground)">() </span><span style="color:var(--shiki-token-keyword)">Экспорт</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ПроверитьРавенство(РасчетыКлиентСервер.СуммаСоСкидкой(</span><span style="color:var(--shiki-token-constant)">100</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 10</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 950</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "100 штук — скидка 5%"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span></code></pre></figure>
+<p>Тесты на 99 и 100 — это граничные значения из <a href="/restart/l/07/04/" data-internal="true">04. Техники тест-дизайна</a>. Если кто-то поменяет условие на <code>Количество > 100</code>, тест <code>Тест_Скидка_НаГранице</code> сразу упадёт.</p>
+<p>Вывод при запуске:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="plaintext" data-theme="mono"><code data-language="plaintext" data-theme="mono" style="display: grid;"><span data-line=""><span>ОК      Тест_СуммаСтроки_ЦелыеЧисла</span></span>
+<span data-line=""><span>ОК      Тест_СуммаСтроки_Округление</span></span>
+<span data-line=""><span>ОК      Тест_Скидка_ГраницаСнизу</span></span>
+<span data-line=""><span>ОК      Тест_Скидка_НаГранице</span></span>
+<span data-line=""><span>Итого: пройдено 4, упало 0</span></span></code></pre></figure>
+<p>Если сломать округление (убрать <code>Окр</code>), увидим:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="plaintext" data-theme="mono"><code data-language="plaintext" data-theme="mono" style="display: grid;"><span data-line=""><span>ОК      Тест_СуммаСтроки_ЦелыеЧисла</span></span>
+<span data-line=""><span>ОШИБКА  Тест_СуммаСтроки_Округление — 3 × 12.345: ожидалось 37.04, получено 37.035</span></span>
+<span data-line=""><span>...</span></span>
+<span data-line=""><span>Итого: пройдено 3, упало 1</span></span></code></pre></figure>
+<h3 id="как-называть-тесты">Как называть тесты</h3>
+<p>Имя теста — это описание проверки. Удобный шаблон: <code>Тест_ЧтоПроверяем_ПриКакомУсловии</code>. По имени упавшего теста должно быть понятно, что сломалось, без чтения кода.</p>
+<h2 id="интеграционный-тест-проверяем-проведение">Интеграционный тест: проверяем проведение</h2>
+<p>Модульный тест проверяет формулу. Но важнее убедиться, что <strong>документ проводится и пишет правильные движения</strong>. Для этого нужно работать с базой — значит, на <strong>сервере</strong>.</p>
+<p>Проблема: тест создаёт и проводит документ — после теста в базе останется мусор. Решение — выполнить всё <strong>внутри транзакции и отменить её</strong> (<a href="/restart/l/02/28/" data-internal="true">28. Транзакции</a>): документ создастся, проведётся, мы проверим движения, а <code>ОтменитьТранзакцию()</code> вернёт базу в исходное состояние.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> Тест_Проведение_ЗаписываетПродажи</span><span style="color:var(--shiki-foreground)">() </span><span style="color:var(--shiki-token-keyword)">Экспорт</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Результат </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> ПроверитьПроведениеНаСервере()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ПроверитьРавенство(Результат</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> ""</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "Проведение накладной"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">// Возвращает пустую строку, если всё в порядке, иначе — описание ошибки.</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаСервереБезКонтекста</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> ПроверитьПроведениеНаСервере</span><span style="color:var(--shiki-foreground)">()</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-function)">	НачатьТранзакцию</span><span style="color:var(--shiki-foreground)">()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Попытка</span></span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">		// Подготовка: известные данные</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Товар </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> Справочники</span><span style="color:var(--shiki-foreground)">.Номенклатура.НайтиПоНаименованию(</span><span style="color:var(--shiki-token-string-expression)">"Чайник"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Покупатель </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> Справочники</span><span style="color:var(--shiki-foreground)">.Контрагенты.НайтиПоНаименованию(</span><span style="color:var(--shiki-token-string-expression)">"Ромашка"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Если</span><span style="color:var(--shiki-foreground)"> Товар.Пустая() </span><span style="color:var(--shiki-token-keyword)">Или</span><span style="color:var(--shiki-foreground)"> Покупатель.Пустая() </span><span style="color:var(--shiki-token-keyword)">Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-token-function)">			ОтменитьТранзакцию</span><span style="color:var(--shiki-foreground)">()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">			Возврат</span><span style="color:var(--shiki-token-string-expression)"> "В тестовой базе нет товара «Чайник» или покупателя «Ромашка»"</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		КонецЕсли;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Накладная </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> Документы</span><span style="color:var(--shiki-foreground)">.РасходнаяНакладная.СоздатьДокумент()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Накладная.Дата </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> ТекущаяДатаСеанса</span><span style="color:var(--shiki-foreground)">()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Накладная.Покупатель </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Покупатель</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Строка </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Накладная.Товары.Добавить()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Строка.Товар </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Товар</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Строка.Количество </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 2</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Строка.Цена </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 150</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Строка.Сумма </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 300</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">		// Действие</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Накладная.Записать(РежимЗаписиДокумента.Проведение)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">		// Проверка: движения в регистре продаж</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Запрос </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> Запрос(</span></span>
+<span data-line=""><span style="color:var(--shiki-token-string-expression)">		"</span><span style="color:var(--shiki-token-keyword)">ВЫБРАТЬ</span></span>
+<span data-line=""><span style="color:var(--shiki-token-string-expression)">		|	</span><span style="color:var(--shiki-token-function)">СУММА</span><span style="color:var(--shiki-token-string-expression)">(П.Количество) </span><span style="color:var(--shiki-token-keyword)">КАК</span><span style="color:var(--shiki-token-string-expression)"> Количество</span><span style="color:var(--shiki-token-keyword)">,</span></span>
+<span data-line=""><span style="color:var(--shiki-token-string-expression)">		|	</span><span style="color:var(--shiki-token-function)">СУММА</span><span style="color:var(--shiki-token-string-expression)">(П.Сумма) </span><span style="color:var(--shiki-token-keyword)">КАК</span><span style="color:var(--shiki-token-string-expression)"> Сумма</span></span>
+<span data-line=""><span style="color:var(--shiki-token-string-expression)">		|</span><span style="color:var(--shiki-token-keyword)">ИЗ</span></span>
+<span data-line=""><span style="color:var(--shiki-token-string-expression)">		|	РегистрНакопления.Продажи </span><span style="color:var(--shiki-token-keyword)">КАК</span><span style="color:var(--shiki-token-string-expression)"> П</span></span>
+<span data-line=""><span style="color:var(--shiki-token-string-expression)">		|</span><span style="color:var(--shiki-token-keyword)">ГДЕ</span></span>
+<span data-line=""><span style="color:var(--shiki-token-string-expression)">		|	П.Регистратор </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-string-expression)"> &#x26;Ссылка"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Запрос.УстановитьПараметр(</span><span style="color:var(--shiki-token-string-expression)">"Ссылка"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Накладная.Ссылка)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Выборка </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Запрос.Выполнить().Выбрать()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Выборка.Следующий()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Ошибка </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-string-expression)"> ""</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Если</span><span style="color:var(--shiki-foreground)"> Выборка.Количество </span><span style="color:var(--shiki-token-keyword)">&#x3C;></span><span style="color:var(--shiki-token-constant)"> 2</span><span style="color:var(--shiki-token-keyword)"> Или</span><span style="color:var(--shiki-foreground)"> Выборка.Сумма </span><span style="color:var(--shiki-token-keyword)">&#x3C;></span><span style="color:var(--shiki-token-constant)"> 300</span><span style="color:var(--shiki-token-keyword)"> Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			Ошибка </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> СтрШаблон</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-string-expression)">"Ожидались движения 2 шт. на 300, получено %1 шт. на %2"</span><span style="color:var(--shiki-token-keyword)">,</span></span>
+<span data-line=""><span style="color:var(--shiki-token-function)">				XMLСтрока</span><span style="color:var(--shiki-foreground)">(Выборка.Количество)</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-function)"> XMLСтрока</span><span style="color:var(--shiki-foreground)">(Выборка.Сумма))</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		КонецЕсли;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-function)">		ОтменитьТранзакцию</span><span style="color:var(--shiki-foreground)">()</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">   // база возвращается в исходное состояние</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Возврат</span><span style="color:var(--shiki-foreground)"> Ошибка</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Исключение</span></span>
+<span data-line=""><span style="color:var(--shiki-token-function)">		ОтменитьТранзакцию</span><span style="color:var(--shiki-foreground)">()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Возврат</span><span style="color:var(--shiki-token-string-expression)"> "Исключение: "</span><span style="color:var(--shiki-token-keyword)"> +</span><span style="color:var(--shiki-token-function)"> КраткоеПредставлениеОшибки</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-function)">ИнформацияОбОшибке</span><span style="color:var(--shiki-foreground)">())</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецПопытки;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Шаг</th><th>Что происходит</th></tr></thead><tbody><tr><td><code>НачатьТранзакцию()</code></td><td>Все изменения дальше — «черновые»</td></tr><tr><td>Поиск товара и покупателя</td><td>Тест опирается на <strong>известные</strong> данные тестовой базы</td></tr><tr><td>Создание и проведение</td><td>То же, что сделал бы пользователь, но кодом</td></tr><tr><td>Запрос к регистру по регистратору</td><td>Проверяем именно движения этого документа</td></tr><tr><td><code>ОтменитьТранзакцию()</code></td><td>Документ и движения исчезают — база чистая для следующего запуска</td></tr></tbody></table></div>
+<p>Если в проведении накладной уже есть контроль остатков (<a href="/restart/l/05/02/" data-internal="true">02. Контроль остатков</a>), сначала в той же транзакции создайте и проведите приходную накладную на нужное количество — иначе тест упадёт на нехватке товара, и это будет ошибка теста, а не программы.</p>
+<p>Так же проверяют повторное проведение (провести дважды — сумма движений не удвоилась), отмену проведения (<code>Записать(РежимЗаписиДокумента.ОтменаПроведения)</code> — движений 0) и запрет проведения с неверными данными (ожидаем исключение).</p>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Только на тестовой базе</div>
+<div class="callout-body"><p>Даже с откатом транзакции запускаем интеграционные тесты на <strong>копии</strong> базы: ошибка в тесте (например, забытый <code>ОтменитьТранзакцию</code>) может оставить данные.</p></div>
+</div>
+<h2 id="что-тестировать-модульно-в-первую-очередь">Что тестировать модульно в первую очередь</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Кандидат</th><th>Почему</th></tr></thead><tbody><tr><td>Формулы расчёта (суммы, скидки, налоги)</td><td>Ошибка в формуле портит все документы</td></tr><tr><td>Правила проверки (<code>ДанныеКорректны()</code>)</td><td>Легко проверить все ветки <code>Если</code></td></tr><tr><td>Функции разбора и преобразования (JSON, строки, даты)</td><td>Много краевых случаев</td></tr><tr><td>Проведение ключевых документов</td><td>Ошибка в движениях дороже всего</td></tr><tr><td>Исправленные дефекты</td><td>Тест гарантирует, что дефект не вернётся</td></tr></tbody></table></div>
+<div class="callout callout-tip" data-callout="tip">
+<div class="callout-title">Тест на каждый исправленный дефект</div>
+<div class="callout-body"><p>Нашли и исправили ошибку — напишите тест, который её воспроизводит. Если когда-нибудь ошибка вернётся (регрессия), тест сразу это покажет.</p></div>
+</div>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Из каких трёх шагов состоит модульный тест?</p>
+</li>
+<li>
+<p>Почему формулу из обработчика формы трудно протестировать и что с этим делать?</p>
+</li>
+<li>
+<p>Зачем в интеграционном тесте проведения нужна транзакция с отменой?</p>
+</li>
+<li>
+<p>Какие тесты на скидку «от 100 штук» напишете по технике граничных значений?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Подготовка, действие, проверка.</li>
+<li>Обработчику нужна открытая форма и текущая строка. Вынести формулу в отдельную функцию с параметрами (например, в общий модуль «Клиент, Сервер»).</li>
+<li>Чтобы созданный и проведённый тестом документ не остался в базе: после проверки изменения откатываются.</li>
+<li>99 штук — без скидки; 100 — со скидкой (можно ещё 101).</li>
+</ol></div>
+</details></div>
+</details>1a:[["$","$L25",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L26",null,{"tree":{"kind":"folder","id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/","children":[{"kind":"lesson","id":"1hx2s48","num":"00","title":"Навигация по разделу","href":"/l/07/00/","children":"$undefined"},{"kind":"lesson","id":"1vki0ku","num":"01","title":"Зачем нужно тестирование","href":"/l/07/01/","children":"$undefined"},{"kind":"lesson","id":"1ft8vz9","num":"02","title":"Основные понятия тестирования","href":"/l/07/02/","children":"$undefined"},{"kind":"lesson","id":"5olfwt","num":"03","title":"Виды и уровни тестирования","href":"/l/07/03/","children":"$undefined"},{"kind":"lesson","id":"1s0acu1","num":"04","title":"Техники тест-дизайна","href":"/l/07/04/","children":"$undefined"},{"kind":"lesson","id":"1ept4s1","num":"05","title":"Тест-кейсы и баг-репорты","href":"/l/07/05/","children":"$undefined"},{"kind":"lesson","id":"1qld6tb","num":"06","title":"Что и чем тестировать в 1С","href":"/l/07/06/","children":"$undefined"},{"kind":"lesson","id":"fm5x90","num":"07","title":"Модульные тесты своими руками","href":"/l/07/07/","children":"$undefined"},{"kind":"lesson","id":"2e0v2y","num":"08","title":"Модульные тесты в YAxUnit","href":"/l/07/08/","children":"$undefined"},{"kind":"lesson","id":"e3l0hr","num":"09","title":"BDD и язык Gherkin","href":"/l/07/09/","children":"$undefined"},{"kind":"lesson","id":"79gt5r","num":"10","title":"Vanessa Automation — установка и запуск","href":"/l/07/10/","children":"$undefined"},{"kind":"lesson","id":"1lcgo32","num":"11","title":"Первый сценарий в Vanessa Automation","href":"/l/07/11/","children":"$undefined"},{"kind":"lesson","id":"j3qawi","num":"12","title":"Шаги, проверки и запись действий","href":"/l/07/12/","children":"$undefined"},{"kind":"lesson","id":"1aeq2d9","num":"13","title":"Тестовые данные и независимость сценариев","href":"/l/07/13/","children":"$undefined"},{"kind":"lesson","id":"1qqfmo6","num":"14","title":"Регрессия, отчёты и запуск без участия человека","href":"/l/07/14/","children":"$undefined"},{"kind":"lesson","id":"shckox","num":"15","title":"Практика — тестируем расходную накладную","href":"/l/07/15/","children":"$undefined"},{"kind":"lesson","id":"11nejw8","num":"16","title":"Памятка — тестирование","href":"/l/07/16/","children":"$undefined"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"fm5x90"}]}],["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L27",null,{"children":"$1a:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","14mlr13",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/07/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"07"}],"Тестирование 1С"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","07"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[9," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Модульные тесты своими руками"}],["$","div",null,{"className":"mt-7","children":["$","$L28",null,{"id":"fm5x90","href":"/l/07/07/","title":"Модульные тесты своими руками"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$29"}}],"$L2a","$L2b","$L2c","$L2d","$L2e"]}]]}],"$L2f"]}]]
+30:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+31:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+32:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+33:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+34:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+2a:["$","$L30",null,{"targetId":"lesson-body"}]
+2b:["$","$L31",null,{"targetId":"lesson-body"}]
+2c:["$","$L32",null,{"targetId":"lesson-body"}]
+2d:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L28",null,{"id":"fm5x90","href":"/l/07/07/","title":"Модульные тесты своими руками","variant":"footer"}]}]
+2e:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/07/06/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L33",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Что и чем тестировать в 1С"}]]}],["$","$L13",null,{"href":"/l/07/08/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L33",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Модульные тесты в YAxUnit"}]]}]]}]
+2f:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L34",null,{"items":[{"id":"что-такое-модульный-тест","text":"Что такое модульный тест","depth":2},{"id":"схема-любого-теста-подготовка--действие--проверка","text":"Схема любого теста: Подготовка — Действие — Проверка","depth":2},{"id":"код-который-удобно-тестировать","text":"Код, который удобно тестировать","depth":2},{"id":"тестовая-обработка","text":"Тестовая обработка","depth":2},{"id":"процедура-проверки","text":"Процедура проверки","depth":3},{"id":"сами-тесты","text":"Сами тесты","depth":3},{"id":"как-называть-тесты","text":"Как называть тесты","depth":3},{"id":"интеграционный-тест-проверяем-проведение","text":"Интеграционный тест: проверяем проведение","depth":2},{"id":"что-тестировать-модульно-в-первую-очередь","text":"Что тестировать модульно в первую очередь","depth":2}]}]}]
+35:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+1d:null
+23:[["$","title","0",{"children":"Модульные тесты своими руками · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L35","3",{}]]

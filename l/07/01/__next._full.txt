@@ -1,0 +1,244 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1b:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:"ViewportBoundary"
+1f:I[97367,["$2","$3","$4","$5","$6","$7"],"$1e"]
+21:"MetadataBoundary"
+22:I[97367,["$2","$3","$4","$5","$6","$7"],"$21"]
+24:I[68027,["$2","$3","$4","$5","$6","$7"],"default",1]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+:HL["/restart/_next/static/media/051742360c26797e-s.p.1bkzbscqrt8rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/26f284dcc38c84c0-s.p.3hlisc-pwq13z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/42b035f1a63f268d-s.p.2m8t2-vl1h1kf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/b4a06a523f527a0e-s.p.3psl0_mnhzy2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/cfdfbee4d6cf0a93-s.p.1jwcpm6w583_v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/e8768c288fbd3aa6-s.p.1t1z0xjflawjj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+17:X
+19:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L1a",[["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true,"nonce":"$undefined"}]],["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]]}],"p":false,"v":null}}]]
+18:[["children",{"s":{"n":"slug","t":"c","k":"07/01","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q19"}]]
+16:[["children",{"s":"l","h":131584,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q18"}]]
+0:{"P":null,"c":["","l","07","01",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true,"nonce":"$undefined"}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":false,"v":null},"c":"$Q16"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$L20"}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":"$L23"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$24",[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+17:C
+25:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+26:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+27:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+28:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+29:T3692,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p><strong>Тестирование</strong> — проверка того, что программа делает то, что от неё ожидают, и не делает того, чего не должна. Ошибки неизбежны: их вносят все разработчики. Чем <strong>позже</strong> найдена ошибка, тем <strong>дороже</strong> её исправление — ошибка в проведении, найденная разработчиком, стоит минуты, а найденная бухгалтером при закрытии квартала — дни работы и испорченные данные. Тестирование не доказывает отсутствие ошибок, но снижает риск. Проверять свой код — обязанность разработчика, а не только тестировщика.</p></div>
+</div>
+<h2 id="почему-ошибки-неизбежны">Почему ошибки неизбежны</h2>
+<p>Любой программист ошибается: опечатался в имени реквизита, забыл про пустую табличную часть, не подумал, что дата может быть «31 число 00:00». Это не признак плохого специалиста — это свойство сложной работы. Разница между новичком и опытным разработчиком не в том, что опытный не ошибается, а в том, что он <strong>находит</strong> свои ошибки раньше, чем их увидит пользователь.</p>
+<p>Примеры ошибок из 1С-практики:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Ошибка</th><th>Чем обернулась</th></tr></thead><tbody><tr><td>Сумма строки пересчитывается в форме, но не при записи из обработки</td><td>Загруженные накладные с неверными суммами</td></tr><tr><td>Контроль остатков без блокировки</td><td>Два менеджера продали последний товар — остаток −1</td></tr><tr><td>Условие периода <code>Дата &#x3C;= Конец</code> без конца дня</td><td>Отчёт «теряет» продажи последнего дня месяца</td></tr><tr><td>Права проверены только под администратором</td><td>Кладовщик не может провести приходную накладную</td></tr><tr><td>Доработка типовой конфигурации сломала печать</td><td>Склад неделю печатает накладные вручную</td></tr></tbody></table></div>
+<p>Каждая из этих ошибок — тема одного из уроков курса. И каждую можно было поймать <strong>проверкой до</strong> передачи доработки пользователям.</p>
+<h2 id="что-такое-тестирование">Что такое тестирование</h2>
+<p><strong>Тестирование</strong> — это проверка программы: мы выполняем её в заранее продуманных ситуациях и сравниваем <strong>фактическое</strong> поведение с <strong>ожидаемым</strong>.</p>
+<p>Аналогия — <strong>техосмотр автомобиля</strong>. Механик не ждёт, пока у вас откажут тормоза на трассе. Он проверяет тормоза, фары, руль по списку, в контролируемых условиях. Если что-то не так — неисправность чинят до того, как она приведёт к аварии.</p>
+<pre><pre class="mermaid-source">flowchart LR
+    A["Требование&#x3C;br/>«Нельзя провести накладную&#x3C;br/>без покупателя»"] --> B["Проверка&#x3C;br/>Создаём накладную без покупателя,&#x3C;br/>нажимаем «Провести»"]
+    B --> C{"Ожидаемое =&#x3C;br/>фактическое?"}
+    C -- да --> D["Тест пройден"]
+    C -- нет --> E["Найдена ошибка&#x3C;br/>→ исправить"]
+</pre></pre>
+<h2 id="цена-ошибки-растёт-со-временем">Цена ошибки растёт со временем</h2>
+<p>Чем позже обнаружена ошибка, тем дороже её исправить:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Когда нашли</th><th>Кто нашёл</th><th>Чего стоит исправление</th></tr></thead><tbody><tr><td>Во время написания кода</td><td>Сам разработчик</td><td>Минуты</td></tr><tr><td>На проверке перед сдачей</td><td>Разработчик или тестировщик</td><td>Часы</td></tr><tr><td>На тестовой базе у заказчика</td><td>Пользователь при приёмке</td><td>День, повторная сдача</td></tr><tr><td>В рабочей базе через месяц</td><td>Бухгалтер при закрытии периода</td><td>Дни: найти причину, исправить код, <strong>исправить испорченные данные</strong>, перепровести документы</td></tr></tbody></table></div>
+<p>В 1С последняя строка особенно болезненна: ошибка в проведении успевает записать неверные движения в сотни документов. Исправить код — полдела, исправить накопленные данные — главная работа.</p>
+<h2 id="тестирование-не-доказывает-отсутствие-ошибок">Тестирование не доказывает отсутствие ошибок</h2>
+<p>Важная мысль, которую часто спрашивают на собеседованиях: <strong>тестирование может показать наличие ошибок, но не может доказать их отсутствие</strong>. Проверить все возможные комбинации данных невозможно: даже у простой накладной бесконечно много вариантов покупателей, товаров, количеств и дат.</p>
+<p>Поэтому цель тестирования — не «проверить всё», а <strong>разумно снизить риск</strong>: проверить самое важное и самое вероятное место для ошибки. Как выбирать такие проверки — в <a href="/restart/l/07/04/" data-internal="true">04. Техники тест-дизайна</a>.</p>
+<h2 id="кто-тестирует">Кто тестирует</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Кто</th><th>Что проверяет</th></tr></thead><tbody><tr><td><strong>Разработчик</strong></td><td>Свой код: работает ли доработка, не сломалось ли соседнее. Пишет автоматические тесты</td></tr><tr><td><strong>Тестировщик (QA-инженер)</strong></td><td>Систему целиком глазами пользователя; ищет ошибки, которые разработчик не предусмотрел</td></tr><tr><td><strong>Аналитик / консультант</strong></td><td>Соответствие требованиям заказчика</td></tr><tr><td><strong>Пользователь</strong></td><td>Приёмка: «это то, что мы просили?»</td></tr></tbody></table></div>
+<p>В небольших 1С-командах отдельного тестировщика часто нет — проверяет сам разработчик. Даже если тестировщик есть, сдавать непроверенный код — плохая практика: «я же не тестировщик» не принимается на ревью.</p>
+<div class="callout callout-tip" data-callout="tip">
+<div class="callout-title">Привычка, которая отличает хорошего разработчика</div>
+<div class="callout-body"><p>Перед тем как сказать «готово», проверьте доработку <strong>под пользователем с рабочей ролью</strong>, на <strong>новом</strong> документе и на <strong>существующем</strong>, с <strong>корректными</strong> и <strong>ошибочными</strong> данными. Чек-лист самопроверки — в <a href="/restart/l/05/11/" data-internal="true">11. Стандарты кода и самопроверка</a>.</p></div>
+</div>
+<h2 id="ручное-и-автоматическое-тестирование">Ручное и автоматическое тестирование</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th></th><th>Ручное</th><th>Автоматическое</th></tr></thead><tbody><tr><td>Как</td><td>Человек выполняет шаги и смотрит результат</td><td>Программа выполняет шаги и сама сравнивает результат</td></tr><tr><td>Плюсы</td><td>Быстро начать; человек замечает «странное»</td><td>Быстро повторить сотни раз; не устаёт и не пропускает шаги</td></tr><tr><td>Минусы</td><td>Долго и скучно повторять; легко пропустить шаг</td><td>Нужно время на написание и поддержку тестов</td></tr><tr><td>Когда</td><td>Новая функциональность, исследование, разовые проверки</td><td>Регрессия — повторные проверки после каждого изменения</td></tr></tbody></table></div>
+<p>Автотесты особенно ценны в 1С из-за <strong>регрессии</strong>: доработали проведение расходной накладной — а не сломался ли отчёт, печать, ввод на основании? Вручную проверять всё после каждой правки невозможно, а автотест сделает это за минуты. Об автоматизации 1С — уроки с <a href="/restart/l/07/07/" data-internal="true">07. Модульные тесты своими руками</a> по <a href="/restart/l/07/14/" data-internal="true">14. Регрессия, отчёты и запуск без участия человека</a>.</p>
+<h2 id="план-раздела">План раздела</h2>
+<pre><pre class="mermaid-source">flowchart TD
+    A["Общая теория:&#x3C;br/>понятия, виды, тест-дизайн,&#x3C;br/>тест-кейсы и баг-репорты"] --> B["Тестирование в 1С:&#x3C;br/>что и чем проверять"]
+    B --> C["Модульные тесты:&#x3C;br/>своими руками и YAxUnit"]
+    B --> D["BDD и Gherkin"]
+    D --> E["Vanessa Automation:&#x3C;br/>сценарии, шаги, данные,&#x3C;br/>регрессия"]
+    C --> F["Практика:&#x3C;br/>тестируем расходную накладную"]
+    E --> F
+</pre></pre>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Что такое тестирование своими словами?</p>
+</li>
+<li>
+<p>Почему ошибка в проведении, найденная через месяц, стоит намного дороже, чем найденная сразу?</p>
+</li>
+<li>
+<p>Может ли тестирование доказать, что ошибок нет?</p>
+</li>
+<li>
+<p>Для чего особенно полезны автоматические тесты?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Выполнение программы в продуманных ситуациях и сравнение фактического поведения с ожидаемым.</li>
+<li>За месяц неверные движения попадут в множество документов: кроме кода придётся исправлять накопленные данные и перепроводить документы.</li>
+<li>Нет: оно показывает наличие ошибок, но проверить все комбинации данных невозможно. Цель — снизить риск.</li>
+<li>Для регрессии: быстрой повторной проверки всего важного после каждого изменения.</li>
+</ol></div>
+</details></div>
+</details>1a:[["$","$L25",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L26",null,{"tree":{"kind":"folder","id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/","children":[{"kind":"lesson","id":"1hx2s48","num":"00","title":"Навигация по разделу","href":"/l/07/00/","children":"$undefined"},{"kind":"lesson","id":"1vki0ku","num":"01","title":"Зачем нужно тестирование","href":"/l/07/01/","children":"$undefined"},{"kind":"lesson","id":"1ft8vz9","num":"02","title":"Основные понятия тестирования","href":"/l/07/02/","children":"$undefined"},{"kind":"lesson","id":"5olfwt","num":"03","title":"Виды и уровни тестирования","href":"/l/07/03/","children":"$undefined"},{"kind":"lesson","id":"1s0acu1","num":"04","title":"Техники тест-дизайна","href":"/l/07/04/","children":"$undefined"},{"kind":"lesson","id":"1ept4s1","num":"05","title":"Тест-кейсы и баг-репорты","href":"/l/07/05/","children":"$undefined"},{"kind":"lesson","id":"1qld6tb","num":"06","title":"Что и чем тестировать в 1С","href":"/l/07/06/","children":"$undefined"},{"kind":"lesson","id":"fm5x90","num":"07","title":"Модульные тесты своими руками","href":"/l/07/07/","children":"$undefined"},{"kind":"lesson","id":"2e0v2y","num":"08","title":"Модульные тесты в YAxUnit","href":"/l/07/08/","children":"$undefined"},{"kind":"lesson","id":"e3l0hr","num":"09","title":"BDD и язык Gherkin","href":"/l/07/09/","children":"$undefined"},{"kind":"lesson","id":"79gt5r","num":"10","title":"Vanessa Automation — установка и запуск","href":"/l/07/10/","children":"$undefined"},{"kind":"lesson","id":"1lcgo32","num":"11","title":"Первый сценарий в Vanessa Automation","href":"/l/07/11/","children":"$undefined"},{"kind":"lesson","id":"j3qawi","num":"12","title":"Шаги, проверки и запись действий","href":"/l/07/12/","children":"$undefined"},{"kind":"lesson","id":"1aeq2d9","num":"13","title":"Тестовые данные и независимость сценариев","href":"/l/07/13/","children":"$undefined"},{"kind":"lesson","id":"1qqfmo6","num":"14","title":"Регрессия, отчёты и запуск без участия человека","href":"/l/07/14/","children":"$undefined"},{"kind":"lesson","id":"shckox","num":"15","title":"Практика — тестируем расходную накладную","href":"/l/07/15/","children":"$undefined"},{"kind":"lesson","id":"11nejw8","num":"16","title":"Памятка — тестирование","href":"/l/07/16/","children":"$undefined"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"1vki0ku"}]}],["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L27",null,{"children":"$1a:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","14mlr13",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/07/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"07"}],"Тестирование 1С"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","01"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[6," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Зачем нужно тестирование"}],["$","div",null,{"className":"mt-7","children":["$","$L28",null,{"id":"1vki0ku","href":"/l/07/01/","title":"Зачем нужно тестирование"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$29"}}],"$L2a","$L2b","$L2c","$L2d","$L2e"]}]]}],"$L2f"]}]]
+30:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+31:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+32:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+33:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+34:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+2a:["$","$L30",null,{"targetId":"lesson-body"}]
+2b:["$","$L31",null,{"targetId":"lesson-body"}]
+2c:["$","$L32",null,{"targetId":"lesson-body"}]
+2d:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L28",null,{"id":"1vki0ku","href":"/l/07/01/","title":"Зачем нужно тестирование","variant":"footer"}]}]
+2e:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/07/00/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L33",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Навигация по разделу"}]]}],["$","$L13",null,{"href":"/l/07/02/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L33",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Основные понятия тестирования"}]]}]]}]
+2f:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L34",null,{"items":[{"id":"почему-ошибки-неизбежны","text":"Почему ошибки неизбежны","depth":2},{"id":"что-такое-тестирование","text":"Что такое тестирование","depth":2},{"id":"цена-ошибки-растёт-со-временем","text":"Цена ошибки растёт со временем","depth":2},{"id":"тестирование-не-доказывает-отсутствие-ошибок","text":"Тестирование не доказывает отсутствие ошибок","depth":2},{"id":"кто-тестирует","text":"Кто тестирует","depth":2},{"id":"ручное-и-автоматическое-тестирование","text":"Ручное и автоматическое тестирование","depth":2},{"id":"план-раздела","text":"План раздела","depth":2}]}]}]
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]
+35:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+1d:null
+23:[["$","title","0",{"children":"Зачем нужно тестирование · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L35","3",{}]]

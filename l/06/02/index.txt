@@ -1,0 +1,293 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1b:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:"ViewportBoundary"
+1f:I[97367,["$2","$3","$4","$5","$6","$7"],"$1e"]
+21:"MetadataBoundary"
+22:I[97367,["$2","$3","$4","$5","$6","$7"],"$21"]
+24:I[68027,["$2","$3","$4","$5","$6","$7"],"default",1]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+:HL["/restart/_next/static/media/051742360c26797e-s.p.1bkzbscqrt8rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/26f284dcc38c84c0-s.p.3hlisc-pwq13z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/42b035f1a63f268d-s.p.2m8t2-vl1h1kf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/b4a06a523f527a0e-s.p.3psl0_mnhzy2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/cfdfbee4d6cf0a93-s.p.1jwcpm6w583_v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/e8768c288fbd3aa6-s.p.1t1z0xjflawjj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+17:X
+19:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L1a",[["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true,"nonce":"$undefined"}]],["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]]}],"p":false,"v":null}}]]
+18:[["children",{"s":{"n":"slug","t":"c","k":"06/02","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q19"}]]
+16:[["children",{"s":"l","h":131584,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q18"}]]
+0:{"P":null,"c":["","l","06","02",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true,"nonce":"$undefined"}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":false,"v":null},"c":"$Q16"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$L20"}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":"$L23"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$24",[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+17:C
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]
+25:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+26:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+27:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+28:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+29:T511b,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p><strong>Сложность</strong> показывает, как растёт время работы (или расход памяти) при росте объёма данных <code>n</code>. Записывается через «O большое»: <code>O(1)</code> — не зависит от <code>n</code>, <code>O(log n)</code> — бинарный поиск, <code>O(n)</code> — один проход, <code>O(n log n)</code> — хорошая сортировка, <code>O(n²)</code> — вложенные циклы. Константы и младшие слагаемые отбрасываем: <code>3n + 5</code> → <code>O(n)</code>. На собеседовании после каждого решения называйте его сложность по времени и памяти.</p></div>
+</div>
+<h2 id="зачем-считать-сложность">Зачем считать сложность</h2>
+<p>Две программы могут давать одинаковый ответ, но одна работает секунду, а другая — час. Разница становится заметна, когда данных много.</p>
+<p>Представим задачу: в списке из <code>n</code> товаров найти, есть ли товары с одинаковым кодом.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Решение</th><th>Сколько сравнений при n = 1 000</th><th>При n = 100 000</th></tr></thead><tbody><tr><td>Сравнить каждый с каждым</td><td>~500 000</td><td>~5 000 000 000</td></tr><tr><td>Запоминать уже виденные коды в соответствии</td><td>~1 000</td><td>~100 000</td></tr></tbody></table></div>
+<p>Первое решение на 100 000 товаров будет работать в десятки тысяч раз дольше второго. Именно поэтому на собеседовании после любого решения спрашивают: «Какая у него сложность? Можно быстрее?».</p>
+<h2 id="что-такое-o-большое">Что такое «O большое»</h2>
+<p>Мы не считаем точное время в секундах — оно зависит от компьютера. Мы оцениваем, <strong>как растёт число операций при росте данных</strong>. Обозначение <code>O(…)</code> читается «о от …» и описывает этот рост для <strong>больших</strong> <code>n</code>.</p>
+<p>Правила упрощения:</p>
+<ol>
+<li><strong>Константы отбрасываем:</strong> <code>2n</code> и <code>100n</code> — это всё <code>O(n)</code>. Нас интересует характер роста, а не точное число.</li>
+<li><strong>Младшие слагаемые отбрасываем:</strong> <code>n² + n + 10</code> → <code>O(n²)</code>. При большом <code>n</code> слагаемое <code>n²</code> настолько больше остальных, что они не важны.</li>
+<li><strong>Оцениваем худший случай</strong>, если не сказано иное.</li>
+</ol>
+<h2 id="основные-классы-сложности">Основные классы сложности</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Обозначение</th><th>Название</th><th>Пример</th><th>n = 10</th><th>n = 1 000</th><th>n = 1 000 000</th></tr></thead><tbody><tr><td><code>O(1)</code></td><td>Константная</td><td>Взять элемент массива по индексу</td><td>1</td><td>1</td><td>1</td></tr><tr><td><code>O(log n)</code></td><td>Логарифмическая</td><td>Бинарный поиск</td><td>~3</td><td>~10</td><td>~20</td></tr><tr><td><code>O(n)</code></td><td>Линейная</td><td>Один проход по массиву</td><td>10</td><td>1 000</td><td>1 000 000</td></tr><tr><td><code>O(n log n)</code></td><td>Линейно-логарифмическая</td><td>Сортировка слиянием</td><td>~30</td><td>~10 000</td><td>~20 000 000</td></tr><tr><td><code>O(n²)</code></td><td>Квадратичная</td><td>Два вложенных цикла</td><td>100</td><td>1 000 000</td><td>1 000 000 000 000</td></tr><tr><td><code>O(2ⁿ)</code></td><td>Экспоненциальная</td><td>Перебор всех подмножеств</td><td>1 024</td><td>—</td><td>—</td></tr></tbody></table></div>
+<pre><pre class="mermaid-source">flowchart LR
+    A["O(1)&#x3C;br/>мгновенно"] --> B["O(log n)&#x3C;br/>почти мгновенно"] --> C["O(n)&#x3C;br/>быстро"] --> D["O(n log n)&#x3C;br/>нормально"] --> E["O(n²)&#x3C;br/>медленно&#x3C;br/>на больших n"] --> F["O(2ⁿ)&#x3C;br/>только для&#x3C;br/>маленьких n"]
+</pre></pre>
+<p>Практический ориентир: компьютер выполняет порядка десятков миллионов простых операций в секунду (встроенный язык 1С медленнее компилируемых языков, но порядок тот же). Значит, при <code>n = 100 000</code> решение <code>O(n)</code> или <code>O(n log n)</code> уложится в доли секунды, а <code>O(n²)</code> — нет.</p>
+<h2 id="как-определить-сложность-по-коду">Как определить сложность по коду</h2>
+<h3 id="o1--фиксированное-число-действий"><code>O(1)</code> — фиксированное число действий</h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">Первый </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Числа[</span><span style="color:var(--shiki-token-constant)">0</span><span style="color:var(--shiki-foreground)">]</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Последний </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Числа[Числа.ВГраница()]</span><span style="color:var(--shiki-token-keyword)">;</span></span></code></pre></figure>
+<p>Неважно, сколько элементов в массиве, — два обращения по индексу.</p>
+<h3 id="on--один-проход"><code>O(n)</code> — один проход</h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">Сумма </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Для Каждого</span><span style="color:var(--shiki-foreground)"> Элемент </span><span style="color:var(--shiki-token-keyword)">Из</span><span style="color:var(--shiki-foreground)"> Числа </span><span style="color:var(--shiki-token-keyword)">Цикл</span><span style="color:var(--shiki-token-comment)">   // n повторений</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Сумма </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Сумма </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-foreground)"> Элемент</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">         // O(1) на каждом</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецЦикла;</span></span></code></pre></figure>
+<p>Цикл выполняется <code>n</code> раз, тело — за постоянное время: итого <code>O(n)</code>.</p>
+<p>Два цикла <strong>подряд</strong> — по-прежнему <code>O(n)</code>: <code>n + n = 2n</code> → <code>O(n)</code>.</p>
+<h3 id="on--цикл-в-цикле"><code>O(n²)</code> — цикл в цикле</h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-comment)">// Есть ли два одинаковых элемента?</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Для</span><span style="color:var(--shiki-foreground)"> i </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)"> По</span><span style="color:var(--shiki-foreground)"> Числа.ВГраница() </span><span style="color:var(--shiki-token-keyword)">Цикл</span><span style="color:var(--shiki-token-comment)">                 // n раз</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для</span><span style="color:var(--shiki-foreground)"> j </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> i </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)"> По</span><span style="color:var(--shiki-foreground)"> Числа.ВГраница() </span><span style="color:var(--shiki-token-keyword)">Цикл</span><span style="color:var(--shiki-token-comment)">         // до n раз</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Если</span><span style="color:var(--shiki-foreground)"> Числа[i] </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Числа[j] </span><span style="color:var(--shiki-token-keyword)">Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">			Возврат</span><span style="color:var(--shiki-token-constant)"> Истина</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Возврат</span><span style="color:var(--shiki-token-constant)"> Ложь</span><span style="color:var(--shiki-token-keyword)">;</span></span></code></pre></figure>
+<p>Для каждого из <code>n</code> элементов внутренний цикл проходит до <code>n</code> элементов: всего около <code>n × n / 2</code> сравнений → <code>O(n²)</code>.</p>
+<div class="callout callout-tip" data-callout="tip">
+<div class="callout-title">Правило большого пальца</div>
+<div class="callout-body"><p>Вложенные циклы по одним и тем же данным — почти всегда <code>O(n²)</code>. Увидели такое в своём решении — подумайте, нельзя ли заменить внутренний цикл на поиск в соответствии (<a href="/restart/l/06/05/" data-internal="true">05. Соответствие как хеш-таблица</a>).</p></div>
+</div>
+<h3 id="olog-n--каждый-шаг-уменьшает-задачу-вдвое"><code>O(log n)</code> — каждый шаг уменьшает задачу вдвое</h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">Шагов </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Пока</span><span style="color:var(--shiki-foreground)"> n </span><span style="color:var(--shiki-token-keyword)">></span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)"> Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	n </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Цел</span><span style="color:var(--shiki-foreground)">(n </span><span style="color:var(--shiki-token-keyword)">/</span><span style="color:var(--shiki-token-constant)"> 2</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">   // делим пополам</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Шагов </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Шагов </span><span style="color:var(--shiki-token-keyword)">+</span><span style="color:var(--shiki-token-constant)"> 1</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецЦикла;</span></span></code></pre></figure>
+<p>Сколько раз число 1 000 000 можно поделить пополам, пока не останется 1? Около 20 раз. Это и есть логарифм: <code>log₂(1 000 000) ≈ 20</code>. Так работает бинарный поиск (<a href="/restart/l/06/10/" data-internal="true">10. Бинарный поиск</a>).</p>
+<h3 id="скрытая-сложность-встроенных-методов">Скрытая сложность встроенных методов</h3>
+<p>Не каждая строчка кода — <code>O(1)</code>. Некоторые методы коллекций внутри делают проход по всем элементам:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Операция</th><th>Сложность</th><th>Почему</th></tr></thead><tbody><tr><td><code>Массив[i]</code>, <code>Массив.Добавить(x)</code></td><td><code>O(1)</code></td><td>Прямое обращение / добавление в конец</td></tr><tr><td><code>Массив.Найти(x)</code></td><td><code>O(n)</code></td><td>Перебирает элементы по порядку</td></tr><tr><td><code>Массив.Удалить(0)</code>, <code>Массив.Вставить(0, x)</code></td><td><code>O(n)</code></td><td>Сдвигает все остальные элементы</td></tr><tr><td><code>Соответствие.Получить(ключ)</code>, <code>Вставить</code></td><td><code>O(1)</code> в среднем</td><td>Хеш-таблица — см. урок 05</td></tr><tr><td>Сортировка <code>СписокЗначений.СортироватьПоЗначению()</code></td><td><code>O(n log n)</code></td><td>Хороший алгоритм сортировки</td></tr></tbody></table></div>
+<p>Поэтому <code>Массив.Найти()</code> внутри цикла — это скрытое <code>O(n²)</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">Для Каждого</span><span style="color:var(--shiki-foreground)"> Элемент </span><span style="color:var(--shiki-token-keyword)">Из</span><span style="color:var(--shiki-foreground)"> Числа </span><span style="color:var(--shiki-token-keyword)">Цикл</span><span style="color:var(--shiki-token-comment)">          // n раз</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Если</span><span style="color:var(--shiki-foreground)"> Другие.Найти(Элемент) </span><span style="color:var(--shiki-token-keyword)">&#x3C;></span><span style="color:var(--shiki-token-constant)"> Неопределено</span><span style="color:var(--shiki-token-keyword)"> Тогда</span><span style="color:var(--shiki-token-comment)">   // O(n) внутри!</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		...</span></span></code></pre></figure>
+<h2 id="сложность-по-памяти">Сложность по памяти</h2>
+<p>Кроме времени оценивают <strong>дополнительную память</strong> — сколько её нужно сверх входных данных.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Решение</th><th>Память</th></tr></thead><tbody><tr><td>Сумма элементов (одна переменная)</td><td><code>O(1)</code></td></tr><tr><td>Копия массива или соответствие со всеми элементами</td><td><code>O(n)</code></td></tr><tr><td>Таблица <code>n × n</code></td><td><code>O(n²)</code></td></tr></tbody></table></div>
+<p>Часто есть <strong>компромисс</strong>: тратим <code>O(n)</code> памяти на соответствие, чтобы ускорить решение с <code>O(n²)</code> до <code>O(n)</code>. На собеседовании это нормальный ответ — главное, назвать обе сложности.</p>
+<h2 id="как-отвечать-на-собеседовании">Как отвечать на собеседовании</h2>
+<p>После решения скажите одной фразой: «Решение работает за <strong>O(n)</strong> по времени, потому что один раз проходим массив, и использует <strong>O(n)</strong> дополнительной памяти на соответствие». Если решение <code>O(n²)</code> — скажите это честно и предложите, как ускорить.</p>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Упростите: <code>5n + 3</code>, <code>n² + 100n</code>, <code>n/2</code>, <code>1000</code>.</p>
+</li>
+<li>
+<p>Какая сложность у двух вложенных циклов по одному массиву? А у двух циклов подряд?</p>
+</li>
+<li>
+<p>Почему <code>Массив.Найти()</code> внутри цикла по массиву даёт <code>O(n²)</code>?</p>
+</li>
+<li>
+<p>Во сколько раз примерно больше операций сделает решение <code>O(n²)</code> по сравнению с <code>O(n)</code> при <code>n = 10 000</code>?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li><code>O(n)</code>, <code>O(n²)</code>, <code>O(n)</code>, <code>O(1)</code>.</li>
+<li>Вложенные — <code>O(n²)</code>; подряд — <code>O(n)</code> (<code>n + n = 2n</code>).</li>
+<li><code>Найти</code> перебирает элементы — <code>O(n)</code>; выполняется <code>n</code> раз — итого <code>O(n²)</code>.</li>
+<li>В <code>n</code> раз — примерно в 10 000 раз (10⁸ против 10⁴).</li>
+</ol></div>
+</details></div>
+</details>1a:[["$","$L25",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L26",null,{"tree":{"kind":"folder","id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/","children":[{"kind":"lesson","id":"kmxf89","num":"00","title":"Навигация по разделу","href":"/l/06/00/","children":"$undefined"},{"kind":"lesson","id":"59cugg","num":"01","title":"Что такое алгоритм и как решать задачи","href":"/l/06/01/","children":"$undefined"},{"kind":"lesson","id":"lds9qn","num":"02","title":"Сложность алгоритмов","href":"/l/06/02/","children":"$undefined"},{"kind":"lesson","id":"1pjoju1","num":"03","title":"Массивы — базовые приёмы","href":"/l/06/03/","children":"$undefined"},{"kind":"lesson","id":"3cctbr","num":"04","title":"Строки и символы","href":"/l/06/04/","children":"$undefined"},{"kind":"lesson","id":"1ydqhou","num":"05","title":"Соответствие как хеш-таблица","href":"/l/06/05/","children":"$undefined"},{"kind":"lesson","id":"t6dz7i","num":"06","title":"Два указателя","href":"/l/06/06/","children":"$undefined"},{"kind":"lesson","id":"nbwllp","num":"07","title":"Скользящее окно","href":"/l/06/07/","children":"$undefined"},{"kind":"lesson","id":"fr1gf6","num":"08","title":"Префиксные суммы","href":"/l/06/08/","children":"$undefined"},{"kind":"lesson","id":"3irwp2","num":"09","title":"Сортировки","href":"/l/06/09/","children":"$undefined"},{"kind":"lesson","id":"12gwpp6","num":"10","title":"Бинарный поиск","href":"/l/06/10/","children":"$undefined"},{"kind":"lesson","id":"1u9yaso","num":"11","title":"Стек и очередь","href":"/l/06/11/","children":"$undefined"},{"kind":"lesson","id":"dz6s3r","num":"12","title":"Рекурсия","href":"/l/06/12/","children":"$undefined"},{"kind":"lesson","id":"2qxixv","num":"13","title":"Обход в глубину и ширину","href":"/l/06/13/","children":"$undefined"},{"kind":"lesson","id":"ufdpje","num":"14","title":"Динамическое программирование","href":"/l/06/14/","children":"$undefined"},{"kind":"lesson","id":"iokjmp","num":"15","title":"Жадные алгоритмы и интервалы","href":"/l/06/15/","children":"$undefined"},{"kind":"lesson","id":"1jbpe","num":"16","title":"Практика — задачи с собеседований","href":"/l/06/16/","children":"$undefined"},{"kind":"lesson","id":"1h9efqa","num":"17","title":"Памятка — шаблоны и ошибки","href":"/l/06/17/","children":"$undefined"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"lds9qn"}]}],["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L27",null,{"children":"$1a:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","18v7yvg",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/06/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"06"}],"Алгоритмы для 1С"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","02"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[6," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Сложность алгоритмов"}],["$","div",null,{"className":"mt-7","children":["$","$L28",null,{"id":"lds9qn","href":"/l/06/02/","title":"Сложность алгоритмов"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$29"}}],"$L2a","$L2b","$L2c","$L2d","$L2e"]}]]}],"$L2f"]}]]
+30:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+31:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+32:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+33:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+34:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+2a:["$","$L30",null,{"targetId":"lesson-body"}]
+2b:["$","$L31",null,{"targetId":"lesson-body"}]
+2c:["$","$L32",null,{"targetId":"lesson-body"}]
+2d:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L28",null,{"id":"lds9qn","href":"/l/06/02/","title":"Сложность алгоритмов","variant":"footer"}]}]
+2e:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/06/01/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L33",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Что такое алгоритм и как решать задачи"}]]}],["$","$L13",null,{"href":"/l/06/03/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L33",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Массивы — базовые приёмы"}]]}]]}]
+2f:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L34",null,{"items":[{"id":"зачем-считать-сложность","text":"Зачем считать сложность","depth":2},{"id":"что-такое-o-большое","text":"Что такое «O большое»","depth":2},{"id":"основные-классы-сложности","text":"Основные классы сложности","depth":2},{"id":"как-определить-сложность-по-коду","text":"Как определить сложность по коду","depth":2},{"id":"o1--фиксированное-число-действий","text":"O(1) — фиксированное число действий","depth":3},{"id":"on--один-проход","text":"O(n) — один проход","depth":3},{"id":"on--цикл-в-цикле","text":"O(n²) — цикл в цикле","depth":3},{"id":"olog-n--каждый-шаг-уменьшает-задачу-вдвое","text":"O(log n) — каждый шаг уменьшает задачу вдвое","depth":3},{"id":"скрытая-сложность-встроенных-методов","text":"Скрытая сложность встроенных методов","depth":3},{"id":"сложность-по-памяти","text":"Сложность по памяти","depth":2},{"id":"как-отвечать-на-собеседовании","text":"Как отвечать на собеседовании","depth":2}]}]}]
+35:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+1d:null
+23:[["$","title","0",{"children":"Сложность алгоритмов · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L35","3",{}]]

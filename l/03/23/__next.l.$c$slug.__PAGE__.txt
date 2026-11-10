@@ -1,0 +1,202 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1e:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+1f:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+25:"ViewportBoundary"
+26:I[97367,["$2","$3","$4","$5","$6","$7"],"$25"]
+27:"MetadataBoundary"
+28:I[97367,["$2","$3","$4","$5","$6","$7"],"$27"]
+29:"$Sreact.suspense"
+2a:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+17:X
+1a:X
+1a:C
+1d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L1e",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L1f",null,{"tree":{"kind":"folder","id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/","children":[{"kind":"lesson","id":"17boebz","num":"00","title":"Навигация по разделу","href":"/l/03/00/"},{"kind":"lesson","id":"1lkrwkt","num":"01","title":"Запросы и таблицы базы","href":"/l/03/01/"},{"kind":"lesson","id":"14nptpf","num":"02","title":"Первый запрос в конструкторе и в коде","href":"/l/03/02/"},{"kind":"lesson","id":"1nxb71v","num":"03","title":"Выбор полей, псевдонимы и сортировка","href":"/l/03/03/"},{"kind":"lesson","id":"16ekhad","num":"04","title":"Условия и отбор строк","href":"/l/03/04/"},{"kind":"lesson","id":"1pzidkf","num":"05","title":"Параметры и границы периода","href":"/l/03/05/"},{"kind":"lesson","id":"ym6g8r","num":"06","title":"Ссылки, иерархия и составные типы","href":"/l/03/06/"},{"kind":"lesson","id":"z2l8e8","num":"07","title":"Запрос к табличной части документа","href":"/l/03/07/"},{"kind":"lesson","id":"1jifwj7","num":"08","title":"Соединения таблиц","href":"/l/03/08/"},{"kind":"lesson","id":"ms2o5o","num":"09","title":"NULL и отсутствующие значения","href":"/l/03/09/"},{"kind":"lesson","id":"1lwqgjv","num":"10","title":"Группировка и агрегатные функции","href":"/l/03/10/"},{"kind":"lesson","id":"1jkkxfl","num":"11","title":"Итоги и обход результата запроса","href":"/l/03/11/"},{"kind":"lesson","id":"198d651","num":"12","title":"Выражения и функции языка запросов","href":"/l/03/12/"},{"kind":"lesson","id":"e9pt2h","num":"13","title":"Объединение результатов","href":"/l/03/13/"},{"kind":"lesson","id":"18i7pdj","num":"14","title":"Вложенные запросы","href":"/l/03/14/"},{"kind":"lesson","id":"2hbwfu","num":"15","title":"Временные таблицы и пакеты запросов","href":"/l/03/15/"},{"kind":"lesson","id":"n84mjm","num":"16","title":"Виртуальные таблицы регистров накопления","href":"/l/03/16/"},{"kind":"lesson","id":"pgwonp","num":"17","title":"Регистры сведений и срез последних","href":"/l/03/17/"},{"kind":"lesson","id":"vlr597","num":"18","title":"Проверка и ускорение запросов","href":"/l/03/18/"},{"kind":"lesson","id":"142foy4","num":"19","title":"Как устроена СКД","href":"/l/03/19/"},{"kind":"lesson","id":"152ycof","num":"20","title":"Создание отчёта и набора данных","href":"/l/03/20/"},{"kind":"lesson","id":"1xevjbs","num":"21","title":"Поля и ресурсы СКД","href":"/l/03/21/"},{"kind":"lesson","id":"jk420v","num":"22","title":"Параметры периода в СКД","href":"/l/03/22/"},{"kind":"lesson","id":"58dprv","num":"23","title":"Структура отчёта и выбранные поля","href":"/l/03/23/"},{"kind":"lesson","id":"99pyu7","num":"24","title":"Отбор, сортировка и пользовательские настройки","href":"/l/03/24/"},{"kind":"lesson","id":"5i2ibk","num":"25","title":"Вычисляемые поля и оформление","href":"/l/03/25/"},{"kind":"lesson","id":"1inj8zi","num":"26","title":"Таблицы, диаграммы и варианты отчёта","href":"/l/03/26/"},{"kind":"lesson","id":"w5tpc3","num":"27","title":"Несколько наборов и расширение языка СКД","href":"/l/03/27/"},{"kind":"lesson","id":"knkon2","num":"28","title":"Программное формирование отчёта СКД","href":"/l/03/28/"},{"kind":"lesson","id":"1yiya54","num":"29","title":"Практика по языку запросов","href":"/l/03/29/"},{"kind":"lesson","id":"1lqu8yq","num":"30","title":"Практика по СКД","href":"/l/03/30/"},{"kind":"lesson","id":"113x59o","num":"31","title":"Ошибки и памятка для повторения","href":"/l/03/31/"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"58dprv"}]}],"$L20","$L21"]}]],["$L22"],"$L23"]}],"p":"$@24","v":null,"s":"$17"}}]]
+1b:[["children",{"s":{"n":"slug","t":"c","k":"03/23","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@1c","v":"$1a","s":"$17"},"c":"$Q1d"}]]
+18:[["children",{"s":"l","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@19","v":"$1a","s":"$17"},"c":"$Q1b"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]]}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":"$@16","v":null,"s":"$17"},"c":"$Q18"},"h":{"r":["$","$1","h",{"children":[null,["$","$L26",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]}],["$","$L28",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$29",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Структура отчёта и выбранные поля · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L2a","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@2b","v":null,"s":"$17"}},"a":"$@2c","u":"$@2d","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+2e:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+2f:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+36:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+37:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+30:T3568,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p><strong>Структура</strong> настроек определяет вид отчёта: группировки (вложенные уровни) и <code>&#x3C;Детальные записи></code>. <strong>Выбранные поля</strong> — какие колонки выводить; у каждого узла структуры могут быть свои. Конструктор настроек удобен для первого раза, но при повторном запуске перезапишет ручные правки.</p></div>
+</div>
+<h2 id="структура--скелет-отчёта">Структура — скелет отчёта</h2>
+<p>Набор данных, ресурсы и параметры готовы, но отчёт пока пустой. Не хватает главного: <strong>как</strong> раскладывать строки. Это задаёт <strong>структура</strong> — дерево на вкладке <strong>Настройки</strong>.</p>
+<p>Сравним два отчёта на одних и тех же данных:</p>
+<p><strong>Структура «Номенклатура → Детальные записи»:</strong></p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="plaintext" data-theme="mono"><code data-language="plaintext" data-theme="mono" style="display: grid;"><span data-line=""><span>Чайник           3    500</span></span>
+<span data-line=""><span>   Ромашка       2    300</span></span>
+<span data-line=""><span>   Петров        1    200</span></span>
+<span data-line=""><span>Блендер          1    300</span></span>
+<span data-line=""><span>   Петров        1    300</span></span>
+<span data-line=""><span>Итого            4    800</span></span></code></pre></figure>
+<p><strong>Структура «Контрагент → Номенклатура»:</strong></p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="plaintext" data-theme="mono"><code data-language="plaintext" data-theme="mono" style="display: grid;"><span data-line=""><span>Петров           2    500</span></span>
+<span data-line=""><span>   Чайник        1    200</span></span>
+<span data-line=""><span>   Блендер       1    300</span></span>
+<span data-line=""><span>Ромашка          2    300</span></span>
+<span data-line=""><span>   Чайник        2    300</span></span>
+<span data-line=""><span>Итого            4    800</span></span></code></pre></figure>
+<p>Данные одни, а вид разный — его определяет только структура.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Элемент структуры</th><th>Что это</th></tr></thead><tbody><tr><td><strong>Отчёт</strong></td><td>Корень дерева: настройки всего отчёта</td></tr><tr><td><strong>Группировка</strong> (например, <code>Номенклатура</code>)</td><td>Уровень, на котором строки сворачиваются по значению поля и показывается итог</td></tr><tr><td><strong><code>&#x3C;Детальные записи></code></strong></td><td>Группировка <strong>без поля</strong>: выводит исходные строки набора как есть</td></tr></tbody></table></div>
+<p>Вложенность в дереве = вложенность в отчёте: группировка внутри группировки даёт подуровень.</p>
+<h2 id="шаг-1-быстрый-старт--конструктор-настроек">Шаг 1. Быстрый старт — конструктор настроек</h2>
+<p>Для первой настройки удобно воспользоваться мастером:</p>
+<ol>
+<li>Открываем вкладку <strong>Настройки</strong>. Слева вверху — дерево структуры, внизу — закладки настроек выбранного элемента.</li>
+<li>Нажимаем кнопку <strong>Открыть конструктор настроек</strong> (на панели над деревом).</li>
+<li>Тип отчёта — <strong>Список</strong>. <strong>Далее</strong>.</li>
+<li>Переносим поля <code>Номенклатура</code>, <code>Контрагент</code>, <code>Количество</code>, <code>Выручка</code> в правый список. <strong>Далее</strong>.</li>
+<li>Группировка: переносим <code>Номенклатура</code>. <strong>Далее</strong>.</li>
+<li>Порядок: <code>Номенклатура</code> по возрастанию. <strong>Готово</strong>.</li>
+</ol>
+<h2 id="шаг-2-проверяем-дерево">Шаг 2. Проверяем дерево</h2>
+<p>Должно получиться:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="plaintext" data-theme="mono"><code data-language="plaintext" data-theme="mono" style="display: grid;"><span data-line=""><span>Отчёт</span></span>
+<span data-line=""><span>└─ Номенклатура</span></span>
+<span data-line=""><span>   └─ &#x3C;Детальные записи></span></span></code></pre></figure>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/03.%20%D0%AF%D0%B7%D1%8B%D0%BA%20%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2%20%D0%B8%20%D0%A1%D0%9A%D0%94/09-%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0-%D0%B8-%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D1%8B-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA.jpg" alt="09-Структура-и-параметры-настроек.jpg" loading="lazy" decoding="async"></p>
+<p><em>Вкладка «Настройки»: дерево структуры вверху, закладки настроек выбранного узла внизу.</em></p>
+<p>Если детальных записей нет (только <code>Номенклатура</code>), добавляем их вручную: выделяем группировку <code>Номенклатура</code> → <strong>ПКМ → Новая группировка</strong> → поле группировки <strong>не выбираем</strong> → <strong>ОК</strong>. Группировка без поля и есть <code>&#x3C;Детальные записи></code>.</p>
+<h2 id="шаг-3-какие-колонки-показывать--выбранные-поля">Шаг 3. Какие колонки показывать — «Выбранные поля»</h2>
+<ol>
+<li>Выделяем корень <strong>Отчёт</strong>.</li>
+<li>Внизу открываем закладку <strong>Выбранные поля</strong>.</li>
+<li>Слева — все доступные поля, справа — выводимые. Переносим нужные и задаём порядок стрелками.</li>
+<li>Флажок слева от поля включает или временно выключает его вывод.</li>
+</ol>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/03.%20%D0%AF%D0%B7%D1%8B%D0%BA%20%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2%20%D0%B8%20%D0%A1%D0%9A%D0%94/10-%D0%92%D1%8B%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D0%BF%D0%BE%D0%BB%D1%8F.jpg" alt="10-Выбранные-поля.jpg" loading="lazy" decoding="async"></p>
+<p><em>Закладка «Выбранные поля» существующего отчёта (поля с исходными именами <code>КоличествоОборот</code>, <code>СуммаОборот</code>; в новом отчёте — <code>Количество</code>, <code>Выручка</code>).</em></p>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Поле есть в наборе, но не выводится</div>
+<div class="callout-body"><p>Наличие поля в наборе данных означает только, что его <strong>можно</strong> вывести. Выводятся лишь поля из «Выбранных полей». Не видите колонку — проверьте выбранные поля и флажок рядом с ней.</p></div>
+</div>
+<h3 id="настройки-у-каждого-узла-свои">Настройки у каждого узла свои</h3>
+<p>Закладки внизу (Выбранные поля, Отбор, Сортировка, Условное оформление…) показывают настройки <strong>выделенного</strong> узла дерева. У корня «Отчёт» — для всего отчёта, у группировки — только для неё. Прежде чем что-то менять внизу, посмотрите, какой узел выделен вверху. Новички часто меняют настройки не того уровня и удивляются, что ничего не изменилось.</p>
+<h2 id="варианты-структуры">Варианты структуры</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Нужно</th><th>Как сделать</th></tr></thead><tbody><tr><td>Только итоги по товарам, без покупателей</td><td>Снять флажок у <code>&#x3C;Детальные записи></code> или удалить этот узел</td></tr><tr><td>Сначала покупатель, внутри товар</td><td>Группировка <code>Контрагент</code>, внутри неё — <code>Номенклатура</code></td></tr><tr><td>Плоский список без группировок</td><td>Только <code>&#x3C;Детальные записи></code> прямо под «Отчёт»</td></tr><tr><td>Итог по товару без строки «Итого» внизу</td><td>Закладка <strong>Другие настройки</strong> корня → «Расположение общих итогов по вертикали» → Нет</td></tr></tbody></table></div>
+<h2 id="осторожно-с-повторным-запуском-конструктора">Осторожно с повторным запуском конструктора</h2>
+<p>Конструктор настроек создаёт структуру <strong>заново</strong>. Если вы вручную донастроили отчёт, а потом снова запустили конструктор, ручные изменения будут потеряны — платформа об этом предупредит:</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/03.%20%D0%AF%D0%B7%D1%8B%D0%BA%20%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2%20%D0%B8%20%D0%A1%D0%9A%D0%94/13-%D0%9F%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B9-%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA-%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%BE%D1%80%D0%B0-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA.jpg" alt="13-Повторный-запуск-конструктора-настроек.jpg" loading="lazy" decoding="async"></p>
+<p><em>Повторный запуск конструктора настроек: «Настройки, введённые вручную, будут утеряны. Продолжить?». Отвечаем «Нет», если структура уже донастроена руками.</em></p>
+<p>Конструктор — для первого раза. Дальше правим дерево и закладки напрямую.</p>
+<h2 id="проверка">Проверка</h2>
+<ol>
+<li>Сохраните, обновите БД, сформируйте отчёт за октябрь.</li>
+<li>Видны товары с итогами и вложенные строки покупателей; внизу — «Итого».</li>
+<li>Отключите <code>&#x3C;Детальные записи></code> — остались только строки товаров, итоги те же.</li>
+<li>Поменяйте структуру на «Контрагент → Номенклатура» — общий итог не изменился.</li>
+</ol>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Как получить детальные строки внутри группы товара?</p>
+</li>
+<li>
+<p>Поле есть в наборе, но не выводится. Почему?</p>
+</li>
+<li>
+<p>Нужны только итоги по товарам. Что сделать?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Добавить в группу вложенную группировку без поля — <code>&#x3C;Детальные записи></code>.</li>
+<li>Оно не добавлено в выбранные поля.</li>
+<li>Отключить <code>&#x3C;Детальные записи></code>.</li>
+</ol></div>
+</details></div>
+</details>20:["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L2e",null,{"children":"$1d:0:1:d:r:props:children:0:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","chv2um",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/03/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"03"}],"Язык запросов и СКД"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","23"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[4," ","минуты"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Структура отчёта и выбранные поля"}],["$","div",null,{"className":"mt-7","children":["$","$L2f",null,{"id":"58dprv","href":"/l/03/23/","title":"Структура отчёта и выбранные поля"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$30"}}],"$L31","$L32","$L33","$L34","$L35"]}]]}]
+21:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L36",null,{"items":[{"id":"структура--скелет-отчёта","text":"Структура — скелет отчёта","depth":2},{"id":"шаг-1-быстрый-старт--конструктор-настроек","text":"Шаг 1. Быстрый старт — конструктор настроек","depth":2},{"id":"шаг-2-проверяем-дерево","text":"Шаг 2. Проверяем дерево","depth":2},{"id":"шаг-3-какие-колонки-показывать--выбранные-поля","text":"Шаг 3. Какие колонки показывать — «Выбранные поля»","depth":2},{"id":"настройки-у-каждого-узла-свои","text":"Настройки у каждого узла свои","depth":3},{"id":"варианты-структуры","text":"Варианты структуры","depth":2},{"id":"осторожно-с-повторным-запуском-конструктора","text":"Осторожно с повторным запуском конструктора","depth":2},{"id":"проверка","text":"Проверка","depth":2}]}]}]
+22:["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true}]
+23:["$","$L37",null,{"children":["$","$29",null,{"name":"Next.MetadataOutlet","children":"$@38"}]}]
+39:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+3a:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+3b:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+3c:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+17:300
+31:["$","$L39",null,{"targetId":"lesson-body"}]
+32:["$","$L3a",null,{"targetId":"lesson-body"}]
+33:["$","$L3b",null,{"targetId":"lesson-body"}]
+34:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L2f",null,{"id":"58dprv","href":"/l/03/23/","title":"Структура отчёта и выбранные поля","variant":"footer"}]}]
+35:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/03/22/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L3c",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Параметры периода в СКД"}]]}],["$","$L13",null,{"href":"/l/03/24/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L3c",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Отбор, сортировка и пользовательские настройки"}]]}]]}]
+38:null
+2d:true
+17:C
+2c:0
+1c:"$undefined"
+19:"$undefined"
+16:"$undefined"
+2b:"$undefined"
+24:"$undefined"

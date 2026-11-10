@@ -1,0 +1,345 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1e:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+1f:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+25:"ViewportBoundary"
+26:I[97367,["$2","$3","$4","$5","$6","$7"],"$25"]
+27:"MetadataBoundary"
+28:I[97367,["$2","$3","$4","$5","$6","$7"],"$27"]
+29:"$Sreact.suspense"
+2a:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+17:X
+1a:X
+1a:C
+1d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L1e",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L1f",null,{"tree":{"kind":"folder","id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/","children":[{"kind":"lesson","id":"17boebz","num":"00","title":"Навигация по разделу","href":"/l/03/00/"},{"kind":"lesson","id":"1lkrwkt","num":"01","title":"Запросы и таблицы базы","href":"/l/03/01/"},{"kind":"lesson","id":"14nptpf","num":"02","title":"Первый запрос в конструкторе и в коде","href":"/l/03/02/"},{"kind":"lesson","id":"1nxb71v","num":"03","title":"Выбор полей, псевдонимы и сортировка","href":"/l/03/03/"},{"kind":"lesson","id":"16ekhad","num":"04","title":"Условия и отбор строк","href":"/l/03/04/"},{"kind":"lesson","id":"1pzidkf","num":"05","title":"Параметры и границы периода","href":"/l/03/05/"},{"kind":"lesson","id":"ym6g8r","num":"06","title":"Ссылки, иерархия и составные типы","href":"/l/03/06/"},{"kind":"lesson","id":"z2l8e8","num":"07","title":"Запрос к табличной части документа","href":"/l/03/07/"},{"kind":"lesson","id":"1jifwj7","num":"08","title":"Соединения таблиц","href":"/l/03/08/"},{"kind":"lesson","id":"ms2o5o","num":"09","title":"NULL и отсутствующие значения","href":"/l/03/09/"},{"kind":"lesson","id":"1lwqgjv","num":"10","title":"Группировка и агрегатные функции","href":"/l/03/10/"},{"kind":"lesson","id":"1jkkxfl","num":"11","title":"Итоги и обход результата запроса","href":"/l/03/11/"},{"kind":"lesson","id":"198d651","num":"12","title":"Выражения и функции языка запросов","href":"/l/03/12/"},{"kind":"lesson","id":"e9pt2h","num":"13","title":"Объединение результатов","href":"/l/03/13/"},{"kind":"lesson","id":"18i7pdj","num":"14","title":"Вложенные запросы","href":"/l/03/14/"},{"kind":"lesson","id":"2hbwfu","num":"15","title":"Временные таблицы и пакеты запросов","href":"/l/03/15/"},{"kind":"lesson","id":"n84mjm","num":"16","title":"Виртуальные таблицы регистров накопления","href":"/l/03/16/"},{"kind":"lesson","id":"pgwonp","num":"17","title":"Регистры сведений и срез последних","href":"/l/03/17/"},{"kind":"lesson","id":"vlr597","num":"18","title":"Проверка и ускорение запросов","href":"/l/03/18/"},{"kind":"lesson","id":"142foy4","num":"19","title":"Как устроена СКД","href":"/l/03/19/"},{"kind":"lesson","id":"152ycof","num":"20","title":"Создание отчёта и набора данных","href":"/l/03/20/"},{"kind":"lesson","id":"1xevjbs","num":"21","title":"Поля и ресурсы СКД","href":"/l/03/21/"},{"kind":"lesson","id":"jk420v","num":"22","title":"Параметры периода в СКД","href":"/l/03/22/"},{"kind":"lesson","id":"58dprv","num":"23","title":"Структура отчёта и выбранные поля","href":"/l/03/23/"},{"kind":"lesson","id":"99pyu7","num":"24","title":"Отбор, сортировка и пользовательские настройки","href":"/l/03/24/"},{"kind":"lesson","id":"5i2ibk","num":"25","title":"Вычисляемые поля и оформление","href":"/l/03/25/"},{"kind":"lesson","id":"1inj8zi","num":"26","title":"Таблицы, диаграммы и варианты отчёта","href":"/l/03/26/"},{"kind":"lesson","id":"w5tpc3","num":"27","title":"Несколько наборов и расширение языка СКД","href":"/l/03/27/"},{"kind":"lesson","id":"knkon2","num":"28","title":"Программное формирование отчёта СКД","href":"/l/03/28/"},{"kind":"lesson","id":"1yiya54","num":"29","title":"Практика по языку запросов","href":"/l/03/29/"},{"kind":"lesson","id":"1lqu8yq","num":"30","title":"Практика по СКД","href":"/l/03/30/"},{"kind":"lesson","id":"113x59o","num":"31","title":"Ошибки и памятка для повторения","href":"/l/03/31/"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"1jifwj7"}]}],"$L20","$L21"]}]],["$L22"],"$L23"]}],"p":"$@24","v":null,"s":"$17"}}]]
+1b:[["children",{"s":{"n":"slug","t":"c","k":"03/08","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@1c","v":"$1a","s":"$17"},"c":"$Q1d"}]]
+18:[["children",{"s":"l","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@19","v":"$1a","s":"$17"},"c":"$Q1b"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]]}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":"$@16","v":null,"s":"$17"},"c":"$Q18"},"h":{"r":["$","$1","h",{"children":[null,["$","$L26",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]}],["$","$L28",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$29",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Соединения таблиц · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L2a","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@2b","v":null,"s":"$17"}},"a":"$@2c","u":"$@2d","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+2e:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+2f:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+36:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+37:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+30:T48a6,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p><strong>Соединение</strong> сопоставляет строки двух таблиц по условию <code>ПО</code> и добавляет колонки. Внутреннее — только совпавшие, левое — все слева + найденные справа (у ненайденных <code>NULL</code>), полное — все с обеих сторон. Если справа несколько совпадений, строки <strong>размножаются</strong>: 2 × 3 = 6. Перед соединением приводим таблицы к одной детализации.</p></div>
+</div>
+<h2 id="зачем-соединять-таблицы">Зачем соединять таблицы</h2>
+<p>До сих пор каждый запрос брал данные из <strong>одной</strong> таблицы. Но часто ответ собирается из двух. Задача: «покажи <strong>все</strong> товары и выручку по каждому за октябрь». Товары лежат в справочнике, выручка — в регистре продаж. Нужно поставить их рядом: к каждой строке справочника приписать строку продаж того же товара. Это и есть <strong>соединение</strong>.</p>
+<p>Аналогия: у вас два списка — список сотрудников и список телефонов «фамилия → номер». Соединение — это когда к каждой фамилии из первого списка вы приписываете номер из второго, сопоставляя по фамилии.</p>
+<h2 id="учебные-данные">Учебные данные</h2>
+<p>Будем разбирать на маленьких таблицах:</p>
+<p><strong>Слева — справочник товаров:</strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Товар</th></tr></thead><tbody><tr><td>Чайник</td></tr><tr><td>Блендер</td></tr><tr><td>Кружка</td></tr></tbody></table></div>
+<p><strong>Справа — продажи за октябрь (обороты):</strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Номенклатура</th><th>Выручка</th></tr></thead><tbody><tr><td>Чайник</td><td>500</td></tr><tr><td>Блендер</td><td>300</td></tr><tr><td>Тостер</td><td>200</td></tr></tbody></table></div>
+<p>Кружку в октябре не продавали. Тостер продавали, но (допустим) его уже удалили из нашего списка слева.</p>
+<h2 id="четыре-вида-соединения">Четыре вида соединения</h2>
+<p>Условие сопоставления у всех одно — «товар слева = номенклатура справа». Отличаются они тем, что делать со строками, <strong>не нашедшими пару</strong>.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Вид</th><th>Что останется</th><th>Результат на наших данных</th></tr></thead><tbody><tr><td><strong>Внутреннее</strong></td><td>Только строки, у которых нашлась пара</td><td>Чайник 500, Блендер 300</td></tr><tr><td><strong>Левое</strong></td><td><strong>Все</strong> строки слева; справа — найденная пара или <code>NULL</code></td><td>Чайник 500, Блендер 300, Кружка <code>NULL</code></td></tr><tr><td><strong>Правое</strong></td><td>Все строки справа; слева — пара или <code>NULL</code></td><td>Чайник 500, Блендер 300, <code>NULL</code> 200 (Тостер)</td></tr><tr><td><strong>Полное</strong></td><td>Все строки с обеих сторон</td><td>Чайник, Блендер, Кружка <code>NULL</code>, <code>NULL</code> Тостер 200</td></tr></tbody></table></div>
+<pre><pre class="mermaid-source">flowchart LR
+    subgraph Л["Слева: товары"]
+    a1[Чайник]
+    a2[Блендер]
+    a3[Кружка]
+    end
+    subgraph П["Справа: продажи"]
+    b1["Чайник 500"]
+    b2["Блендер 300"]
+    b3["Тостер 200"]
+    end
+    a1 --- b1
+    a2 --- b2
+</pre></pre>
+<p>На практике чаще всего нужны <strong>левое</strong> («все из главного списка, плюс что нашлось») и <strong>внутреннее</strong> («только то, что есть в обоих»). Правое соединение — то же левое, только таблицы переставлены местами; обычно пишут левое.</p>
+<p><code>NULL</code> в результате означает «пары не нашлось, значения нет». Что с ним делать — в <a href="/restart/l/03/09/" data-internal="true">09. NULL и отсутствующие значения</a>.</p>
+<h2 id="пример-все-товары-с-выручкой">Пример: все товары с выручкой</h2>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">ВЫБРАТЬ</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    Н.Ссылка КАК Товар</span><span style="color:var(--shiki-token-keyword)">,</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    ЕСТЬNULL(П.СуммаОборот</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-foreground)">) КАК Выручка</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">ИЗ</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    Справочник.Номенклатура КАК Н</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    ЛЕВОЕ СОЕДИНЕНИЕ РегистрНакопления.Продажи.Обороты(</span><span style="color:var(--shiki-token-keyword)">&#x26;Начало,</span><span style="color:var(--shiki-token-keyword)"> &#x26;Конец,</span><span style="color:var(--shiki-token-keyword)"> ,</span><span style="color:var(--shiki-foreground)"> ) КАК П</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">    ПО</span><span style="color:var(--shiki-foreground)"> Н.Ссылка </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> П.Номенклатура</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">ГДЕ</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">    НЕ</span><span style="color:var(--shiki-foreground)"> Н.ЭтоГруппа</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">    И</span><span style="color:var(--shiki-token-keyword)"> НЕ</span><span style="color:var(--shiki-foreground)"> Н.ПометкаУдаления</span></span></code></pre></figure>
+<p>Разберём:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Часть</th><th>Смысл</th></tr></thead><tbody><tr><td><code>Справочник.Номенклатура КАК Н</code></td><td>Левая таблица — <strong>главная</strong>: все её строки останутся</td></tr><tr><td><code>ЛЕВОЕ СОЕДИНЕНИЕ … КАК П</code></td><td>Правая таблица — обороты продаж за период</td></tr><tr><td><code>ПО Н.Ссылка = П.Номенклатура</code></td><td>Условие сопоставления: товар справочника = товар в продажах</td></tr><tr><td><code>ЕСТЬNULL(П.СуммаОборот, 0)</code></td><td>Если пары нет (<code>NULL</code>), показать 0</td></tr></tbody></table></div>
+<p>Конец периода передаём с временем конца дня (<code>КонецДня(...)</code>, см. <a href="/restart/l/03/05/" data-internal="true">05. Параметры и границы периода</a>).</p>
+<p>Сопоставляем <strong>по ссылкам</strong>, а не по названиям: <code>Н.Наименование = П.Номенклатура.Наименование</code> склеит разные товары с одинаковым названием.</p>
+<h2 id="главная-опасность-строки-размножаются">Главная опасность: строки размножаются</h2>
+<p>Если для одной строки слева нашлось <strong>несколько</strong> пар справа, в результате будет несколько строк — по одной на каждую пару.</p>
+<p>Пусть продажи справа разбиты по покупателям:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Номенклатура</th><th>Контрагент</th><th>Выручка</th></tr></thead><tbody><tr><td>Чайник</td><td>Ромашка</td><td>300</td></tr><tr><td>Чайник</td><td>Петров</td><td>200</td></tr></tbody></table></div>
+<p>Соединяем с таблицей, где у чайника <strong>две</strong> строки (например, две цены поставщиков):</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Товар</th><th>Поставщик</th></tr></thead><tbody><tr><td>Чайник</td><td>Альфа</td></tr><tr><td>Чайник</td><td>Бета</td></tr></tbody></table></div>
+<p>Результат — 2 × 2 = <strong>4 строки</strong>, и выручка 300 и 200 встретится по <strong>два</strong> раза. Сумма выручки станет 1000 вместо 500.</p>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Перед соединением спросите себя</div>
+<div class="callout-body"><p>«Сколько строк справа может подойти к одной строке слева?» Если больше одной — результат размножится. Чтобы получить «одна строка на товар», правую таблицу сначала <strong>сворачивают</strong> до одной строки на товар: группировкой во вложенном запросе (<a href="/restart/l/03/14/" data-internal="true">14. Вложенные запросы</a>) или временной таблицей (<a href="/restart/l/03/15/" data-internal="true">15. Временные таблицы и пакеты запросов</a>).</p></div>
+</div>
+<h2 id="условие-в-по-или-в-где">Условие в <code>ПО</code> или в <code>ГДЕ</code>?</h2>
+<p>Пример: нужны все товары, но с выручкой только от покупателя «Ромашка».</p>
+<p>Если написать условие на правую таблицу в <code>ГДЕ</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">ГДЕ П.Контрагент </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-keyword)"> &#x26;Ромашка</span></span></code></pre></figure>
+<p>то строки товаров <strong>без продаж</strong> (там <code>П.Контрагент</code> = <code>NULL</code>) не пройдут условие и пропадут. Левое соединение фактически превратится во внутреннее.</p>
+<p>Правильно — ограничить правую таблицу <strong>до</strong> соединения: в параметрах виртуальной таблицы или в <code>ПО</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">ЛЕВОЕ СОЕДИНЕНИЕ РегистрНакопления.Продажи.Обороты(</span><span style="color:var(--shiki-token-keyword)">&#x26;Начало,</span><span style="color:var(--shiki-token-keyword)"> &#x26;Конец,</span><span style="color:var(--shiki-token-keyword)"> ,</span><span style="color:var(--shiki-foreground)"> Контрагент </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-keyword)"> &#x26;Ромашка</span><span style="color:var(--shiki-foreground)">) КАК П</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">ПО</span><span style="color:var(--shiki-foreground)"> Н.Ссылка </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> П.Номенклатура</span></span></code></pre></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Где условие на правую таблицу</th><th>Что будет с товарами без пары</th></tr></thead><tbody><tr><td>В <code>ГДЕ</code></td><td><strong>Пропадут</strong></td></tr><tr><td>В <code>ПО</code> или в параметрах виртуальной таблицы</td><td>Останутся, с <code>NULL</code> справа</td></tr></tbody></table></div>
+<h2 id="соединение-в-конструкторе">Соединение в конструкторе</h2>
+<ol>
+<li>На вкладке <strong>Таблицы и поля</strong> добавляем обе таблицы: <code>Номенклатура</code> и <code>Продажи.Обороты</code>.</li>
+<li>Открываем вкладку <strong>Связи</strong>. Конструктор мог создать связь сам — проверяем её.</li>
+<li>Слева в строке связи — <strong>Таблица 1</strong>, справа — <strong>Таблица 2</strong>. Флажок <strong>«Все»</strong> у таблицы означает «брать все её строки»:</li>
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Флажок «Все»</th><th>Вид соединения</th></tr></thead><tbody><tr><td>Ни у одной таблицы</td><td>Внутреннее</td></tr><tr><td>Только у левой</td><td>Левое</td></tr><tr><td>Только у правой</td><td>Правое</td></tr><tr><td>У обеих</td><td>Полное</td></tr></tbody></table></div>
+<ol start="4">
+<li>В колонке <strong>Условие связи</strong> выбираем поля: <code>Номенклатура.Ссылка = ПродажиОбороты.Номенклатура</code>.</li>
+<li>После <strong>ОК</strong> читаем текст: в нём должно появиться <code>ЛЕВОЕ СОЕДИНЕНИЕ … ПО …</code>.</li>
+</ol>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/03.%20%D0%AF%D0%B7%D1%8B%D0%BA%20%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2%20%D0%B8%20%D0%A1%D0%9A%D0%94/21-%D0%A1%D0%B2%D1%8F%D0%B7%D0%B8-%D0%B2-%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%BE%D1%80%D0%B5.png" alt="21-Связи-в-конструкторе.png" loading="lazy" decoding="async"></p>
+<p><em>Вкладка «Связи» для запроса из начала заметки: флажок «Все» у таблицы <code>Н</code> и снятый у <code>П</code> дают <code>ЛЕВОЕ СОЕДИНЕНИЕ</code>, условие связи <code>Н.Ссылка = П.Номенклатура</code>.</em></p>
+<h2 id="проверка">Проверка</h2>
+<ol>
+<li>Выполните запрос из примера. Каждый товар справочника (без групп и помеченных) должен встретиться в результате — в том числе непроданные.</li>
+<li>У непроданного товара — 0.</li>
+<li>Замените <code>ЛЕВОЕ</code> на <code>ВНУТРЕННЕЕ</code> — непроданный товар исчезнет.</li>
+<li>Сложите выручку всех строк и сравните с общей выручкой из оборотов без соединения. Если стало больше — строки размножились.</li>
+</ol>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Нужны все товары, включая непроданные. Какое соединение?</p>
+</li>
+<li>
+<p>Почему сумма выросла после соединения?</p>
+</li>
+<li>
+<p>Условие <code>ГДЕ П.Сумма > 0</code> после левого соединения — что произойдёт с непроданными товарами?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li><code>ЛЕВОЕ СОЕДИНЕНИЕ</code> от справочника к продажам.</li>
+<li>Для одной строки слева нашлось несколько строк справа, значения повторились.</li>
+<li>Пропадут: для них <code>П.Сумма</code> = <code>NULL</code>, условие ложно.</li>
+</ol></div>
+</details></div>
+</details>20:["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L2e",null,{"children":"$1d:0:1:d:r:props:children:0:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","chv2um",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/03/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"03"}],"Язык запросов и СКД"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","08"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[6," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Соединения таблиц"}],["$","div",null,{"className":"mt-7","children":["$","$L2f",null,{"id":"1jifwj7","href":"/l/03/08/","title":"Соединения таблиц"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$30"}}],"$L31","$L32","$L33","$L34","$L35"]}]]}]
+21:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L36",null,{"items":[{"id":"зачем-соединять-таблицы","text":"Зачем соединять таблицы","depth":2},{"id":"учебные-данные","text":"Учебные данные","depth":2},{"id":"четыре-вида-соединения","text":"Четыре вида соединения","depth":2},{"id":"пример-все-товары-с-выручкой","text":"Пример: все товары с выручкой","depth":2},{"id":"главная-опасность-строки-размножаются","text":"Главная опасность: строки размножаются","depth":2},{"id":"условие-в-по-или-в-где","text":"Условие в ПО или в ГДЕ?","depth":2},{"id":"соединение-в-конструкторе","text":"Соединение в конструкторе","depth":2},{"id":"проверка","text":"Проверка","depth":2}]}]}]
+22:["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true}]
+23:["$","$L37",null,{"children":["$","$29",null,{"name":"Next.MetadataOutlet","children":"$@38"}]}]
+39:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+3a:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+3b:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+3c:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+17:300
+31:["$","$L39",null,{"targetId":"lesson-body"}]
+32:["$","$L3a",null,{"targetId":"lesson-body"}]
+33:["$","$L3b",null,{"targetId":"lesson-body"}]
+34:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L2f",null,{"id":"1jifwj7","href":"/l/03/08/","title":"Соединения таблиц","variant":"footer"}]}]
+35:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/03/07/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L3c",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Запрос к табличной части документа"}]]}],["$","$L13",null,{"href":"/l/03/09/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L3c",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"NULL и отсутствующие значения"}]]}]]}]
+38:null
+2d:true
+17:C
+2c:0
+1c:"$undefined"
+19:"$undefined"
+16:"$undefined"
+2b:"$undefined"
+24:"$undefined"

@@ -1,0 +1,259 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1e:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+1f:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+25:"ViewportBoundary"
+26:I[97367,["$2","$3","$4","$5","$6","$7"],"$25"]
+27:"MetadataBoundary"
+28:I[97367,["$2","$3","$4","$5","$6","$7"],"$27"]
+29:"$Sreact.suspense"
+2a:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+17:X
+1a:X
+1a:C
+1d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L1e",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L1f",null,{"tree":{"kind":"folder","id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/","children":[{"kind":"lesson","id":"1ocm90a","num":"00","title":"Навигация по разделу","href":"/l/05/00/"},{"kind":"lesson","id":"156dahn","num":"01","title":"Регистр остатков на практике","href":"/l/05/01/"},{"kind":"lesson","id":"12ipfvj","num":"02","title":"Контроль остатков и блокировки","href":"/l/05/02/"},{"kind":"lesson","id":"17sy5u8","num":"03","title":"Печатная форма документа","href":"/l/05/03/"},{"kind":"lesson","id":"1mwbtob","num":"04","title":"Расширения и перехват методов","href":"/l/05/04/"},{"kind":"lesson","id":"rnlg54","num":"05","title":"Права доступа и RLS в коде","href":"/l/05/05/"},{"kind":"lesson","id":"zdu71r","num":"06","title":"HTTP-запросы к внешним сервисам","href":"/l/05/06/"},{"kind":"lesson","id":"1gtg1nd","num":"07","title":"HTTP-сервисы своей базы","href":"/l/05/07/"},{"kind":"lesson","id":"19by7yp","num":"08","title":"XML и обмен данными","href":"/l/05/08/"},{"kind":"lesson","id":"1liwwkn","num":"09","title":"БСП и типовые конфигурации","href":"/l/05/09/"},{"kind":"lesson","id":"8cetis","num":"10","title":"Хранилище, EDT и Git","href":"/l/05/10/"},{"kind":"lesson","id":"3um01i","num":"11","title":"Стандарты кода и самопроверка","href":"/l/05/11/"},{"kind":"lesson","id":"g4vhr2","num":"12","title":"Итоговый проект и собеседование","href":"/l/05/12/"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"19by7yp"}]}],"$L20","$L21"]}]],["$L22"],"$L23"]}],"p":"$@24","v":null,"s":"$17"}}]]
+1b:[["children",{"s":{"n":"slug","t":"c","k":"05/08","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@1c","v":"$1a","s":"$17"},"c":"$Q1d"}]]
+18:[["children",{"s":"l","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@19","v":"$1a","s":"$17"},"c":"$Q1b"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]]}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":"$@16","v":null,"s":"$17"},"c":"$Q18"},"h":{"r":["$","$1","h",{"children":[null,["$","$L26",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]}],["$","$L28",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$29",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"XML и обмен данными · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L2a","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@2b","v":null,"s":"$17"}},"a":"$@2c","u":"$@2d","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+2e:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+2f:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+36:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+37:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+30:T65f0,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p>XML пишут потоково <code>ЗаписьXML</code> (<code>ЗаписатьНачалоЭлемента</code> → <code>ЗаписатьАтрибут</code> → <code>ЗаписатьТекст</code> → <code>ЗаписатьКонецЭлемента</code>) и читают <code>ЧтениеXML</code> в цикле <code>Пока Чтение.Прочитать()</code> по <code>ТипУзла</code>. Для объектов 1С есть сериализация XDTO (<code>СериализаторXDTO</code>). Регулярный обмен между базами строят на <strong>планах обмена</strong> и готовых механизмах (Конвертация данных, EnterpriseData), а не на «ручной выгрузке».</p></div>
+</div>
+<h2 id="что-такое-xml-и-зачем-он-нужен">Что такое XML и зачем он нужен</h2>
+<p><strong>XML</strong> — текстовый формат для обмена данными между программами. Данные записываются в виде вложенных <strong>элементов</strong> с тегами:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="xml" data-theme="mono"><code data-language="xml" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">&#x3C;</span><span style="color:var(--shiki-token-string-expression)">Товары</span><span style="color:var(--shiki-foreground)">></span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    &#x3C;</span><span style="color:var(--shiki-token-string-expression)">Товар</span><span style="color:var(--shiki-token-function)"> Код</span><span style="color:var(--shiki-foreground)">=</span><span style="color:var(--shiki-token-string-expression)">"000000001"</span><span style="color:var(--shiki-foreground)">>Чайник&#x3C;/</span><span style="color:var(--shiki-token-string-expression)">Товар</span><span style="color:var(--shiki-foreground)">></span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">    &#x3C;</span><span style="color:var(--shiki-token-string-expression)">Товар</span><span style="color:var(--shiki-token-function)"> Код</span><span style="color:var(--shiki-foreground)">=</span><span style="color:var(--shiki-token-string-expression)">"000000002"</span><span style="color:var(--shiki-foreground)">>Кружка&#x3C;/</span><span style="color:var(--shiki-token-string-expression)">Товар</span><span style="color:var(--shiki-foreground)">></span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">&#x3C;/</span><span style="color:var(--shiki-token-string-expression)">Товары</span><span style="color:var(--shiki-foreground)">></span></span></code></pre></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Часть</th><th>Пример</th><th>Смысл</th></tr></thead><tbody><tr><td>Элемент</td><td><code>&#x3C;Товар>…&#x3C;/Товар></code></td><td>Единица данных: открывающий и закрывающий тег</td></tr><tr><td>Атрибут</td><td><code>Код="000000001"</code></td><td>Дополнительное свойство элемента</td></tr><tr><td>Текст</td><td><code>Чайник</code></td><td>Значение внутри элемента</td></tr><tr><td>Вложенность</td><td><code>&#x3C;Товары></code> содержит <code>&#x3C;Товар></code></td><td>Структура: список внутри списка</td></tr></tbody></table></div>
+<p>XML — «старший брат» JSON: многословнее, но строже. Его используют банки, налоговая (электронная отчётность), обмены между базами 1С, многие государственные сервисы. Junior-разработчику часто достаются задачи «выгрузить в XML» и «загрузить из XML».</p>
+<p>В 1С с XML работают двумя способами:</p>
+<ul>
+<li><strong>потоково</strong> — <code>ЗаписьXML</code> и <code>ЧтениеXML</code>: пишем и читаем элемент за элементом, как книгу по строчкам. Подходит для файлов любого размера;</li>
+<li><strong>через XDTO</strong> — сериализация: объект 1С целиком превращается в XML и обратно.</li>
+</ul>
+<h2 id="запись-xml">Запись XML</h2>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-comment)">// На сервере: выгрузка товаров в файл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Запись </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> ЗаписьXML</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Запись.ОткрытьФайл(ПутьКФайлу</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "UTF-8"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">      // или Запись.УстановитьСтроку() — в строку</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Запись.ЗаписатьОбъявлениеXML()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Запись.ЗаписатьНачалоЭлемента(</span><span style="color:var(--shiki-token-string-expression)">"Товары"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Запись.ЗаписатьАтрибут(</span><span style="color:var(--shiki-token-string-expression)">"Дата"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-function)"> XMLСтрока</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-function)">ТекущаяДатаСеанса</span><span style="color:var(--shiki-foreground)">()))</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Выборка </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> Справочники</span><span style="color:var(--shiki-foreground)">.Номенклатура.Выбрать()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Пока</span><span style="color:var(--shiki-foreground)"> Выборка.Следующий() </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Если</span><span style="color:var(--shiki-foreground)"> Выборка.ЭтоГруппа </span><span style="color:var(--shiki-token-keyword)">Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Продолжить;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Запись.ЗаписатьНачалоЭлемента(</span><span style="color:var(--shiki-token-string-expression)">"Товар"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Запись.ЗаписатьАтрибут(</span><span style="color:var(--shiki-token-string-expression)">"Код"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Выборка.Код)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Запись.ЗаписатьТекст(Выборка.Наименование)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Запись.ЗаписатьКонецЭлемента()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецЦикла;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Запись.ЗаписатьКонецЭлемента()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Запись.Закрыть()</span><span style="color:var(--shiki-token-keyword)">;</span></span></code></pre></figure>
+<p>Результат:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="xml" data-theme="mono"><code data-language="xml" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">&#x3C;?</span><span style="color:var(--shiki-token-string-expression)">xml</span><span style="color:var(--shiki-token-function)"> version</span><span style="color:var(--shiki-foreground)">=</span><span style="color:var(--shiki-token-string-expression)">"1.0"</span><span style="color:var(--shiki-token-function)"> encoding</span><span style="color:var(--shiki-foreground)">=</span><span style="color:var(--shiki-token-string-expression)">"UTF-8"</span><span style="color:var(--shiki-foreground)">?></span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">&#x3C;</span><span style="color:var(--shiki-token-string-expression)">Товары</span><span style="color:var(--shiki-token-function)"> Дата</span><span style="color:var(--shiki-foreground)">=</span><span style="color:var(--shiki-token-string-expression)">"2026-10-19T15:00:00"</span><span style="color:var(--shiki-foreground)">></span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	&#x3C;</span><span style="color:var(--shiki-token-string-expression)">Товар</span><span style="color:var(--shiki-token-function)"> Код</span><span style="color:var(--shiki-foreground)">=</span><span style="color:var(--shiki-token-string-expression)">"000000001"</span><span style="color:var(--shiki-foreground)">>Чайник "Победа"&#x3C;/</span><span style="color:var(--shiki-token-string-expression)">Товар</span><span style="color:var(--shiki-foreground)">></span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	...</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">&#x3C;/</span><span style="color:var(--shiki-token-string-expression)">Товары</span><span style="color:var(--shiki-foreground)">></span></span></code></pre></figure>
+<p><code>XMLСтрока()</code> даёт каноническое представление значения (дата — ISO, число — с точкой, булево — <code>true/false</code>); обратно — <code>XMLЗначение(Тип("Дата"), Строка)</code>.</p>
+<h2 id="чтение-xml">Чтение XML</h2>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">Чтение </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> ЧтениеXML</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Чтение.ОткрытьФайл(ПутьКФайлу)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Пока</span><span style="color:var(--shiki-foreground)"> Чтение.Прочитать() </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Если</span><span style="color:var(--shiki-foreground)"> Чтение.ТипУзла </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> ТипУзлаXML.НачалоЭлемента </span><span style="color:var(--shiki-token-keyword)">И</span><span style="color:var(--shiki-foreground)"> Чтение.Имя </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-string-expression)"> "Товар"</span><span style="color:var(--shiki-token-keyword)"> Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Код </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Чтение.ЗначениеАтрибута(</span><span style="color:var(--shiki-token-string-expression)">"Код"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Чтение.Прочитать()</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">                          // переходим к текстовому узлу</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Наименование </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Чтение.Значение</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">		// ... найти или создать товар по коду</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецЦикла;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Чтение.Закрыть()</span><span style="color:var(--shiki-token-keyword)">;</span></span></code></pre></figure>
+<p><code>ЧтениеXML</code> — курсор: <code>Прочитать()</code> переходит к следующему узлу (начало элемента, текст, конец элемента). Так читается файл любого размера без загрузки целиком в память.</p>
+<p>Показанный читатель рассчитан только на простой формат <code>&#x3C;Товар Код="…">текст&#x3C;/Товар></code> из примера записи. Для произвольного XML одного <code>Прочитать()</code> недостаточно: текст может быть разбит на несколько узлов, а элемент — пустым или вложенным. В рабочем загрузчике накапливайте текст до соответствующего конца элемента и проверяйте атрибуты перед созданием объекта.</p>
+<div class="callout callout-tip" data-callout="tip">
+<div class="callout-title">DOM для небольших файлов</div>
+<div class="callout-body"><p>Для небольших документов удобнее модель DOM: <code>ПостроительDOM.Прочитать(Чтение)</code> → <code>ДокументDOM</code> → поиск через <code>ПолучитьЭлементыПоИмени()</code>. Для больших — только потоковое чтение.</p></div>
+</div>
+<h2 id="xdto-объекты-1с--xml">XDTO: объекты 1С ↔ XML</h2>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-comment)">// Выгрузить объект целиком (с реквизитами и табличными частями)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Запись </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> ЗаписьXML</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Запись.УстановитьСтроку()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-constant)">СериализаторXDTO</span><span style="color:var(--shiki-foreground)">.ЗаписатьXML(Запись</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Ссылка.ПолучитьОбъект())</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">ТекстXML </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Запись.Закрыть()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">// Прочитать обратно в объект (в базе с такой же структурой)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Чтение </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> ЧтениеXML</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Чтение.УстановитьСтроку(ТекстXML)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Объект </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> СериализаторXDTO</span><span style="color:var(--shiki-foreground)">.ПрочитатьXML(Чтение)</span><span style="color:var(--shiki-token-keyword)">;</span></span></code></pre></figure>
+<p>Так устроена выгрузка «один в один» между базами с одинаковой конфигурацией. Для обмена по чужой схеме (XSD от партнёра) импортируют <strong>XDTO-пакет</strong> (Общие → XDTO-пакеты) и работают с объектами <code>ФабрикаXDTO</code>.</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/05.%20%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/08-%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82-XDTO.png" alt="08-Импорт-XDTO.png" loading="lazy" decoding="async"></p>
+<p><em>Контекстное меню ветки <code>XDTO-пакеты</code>: «Импорт XML-схемы…» — точка входа для схемы XSD партнёра. Для потокового чтения простого XML из начала темы импорт XSD не требуется.</em></p>
+<p><code>ПрочитатьXML</code> восстанавливает значение в памяти, а не сохраняет объект в базе. После чтения нужны сопоставление ссылок, проверки и явная запись; одинаковая структура конфигураций сама по себе не гарантирует наличие объектов, на которые ссылается XML.</p>
+<h2 id="правила-загрузки-данных">Правила загрузки данных</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Правило</th><th>Почему</th></tr></thead><tbody><tr><td>Сопоставление по <strong>ключу</strong> (код, ИНН, GUID), а не по наименованию</td><td>Наименования не уникальны</td></tr><tr><td>Повторная загрузка не создаёт дубли</td><td>Сначала ищем существующий объект</td></tr><tr><td>Проверка значений до записи</td><td>Отрицательное количество, неизвестный товар</td></tr><tr><td>Порция + транзакция на порцию</td><td>Ошибка в одной записи не «роняет» всю загрузку и не держит длинную транзакцию</td></tr><tr><td>Протокол</td><td>Что загружено, что пропущено и почему</td></tr><tr><td><code>ОбменДанными.Загрузка = Истина</code> при массовой загрузке</td><td>Устанавливает признак загрузки. Прикладные проверки пропускаются, только если сами обработчики и подписки проверяют этот признак; целостность загружаемых данных обеспечивает вызывающий код</td></tr></tbody></table></div>
+<p>Флаг <strong>не отключает произвольный код автоматически</strong>. Типичный обработчик сам делает ранний выход <code>Если ОбменДанными.Загрузка Тогда Возврат; КонецЕсли;</code>. Это правило и ответственность загрузчика описаны в <a href="https://kb.1ci.com/1C_Enterprise_Platform/Guides/Developer_Guides/1C_Enterprise_Development_Standards/Creating_and_modifying_metadata_objects/Object_event_handlers/DataExchange.Load_flag_in_object_event_handlers/" target="_blank" rel="noopener noreferrer">стандарте 1С</a>.</p>
+<h2 id="обмен-между-базами">Обмен между базами</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Механизм</th><th>Для чего</th></tr></thead><tbody><tr><td><strong>План обмена</strong></td><td>Узлы обмена и регистрация изменений: какие объекты изменились с прошлой выгрузки</td></tr><tr><td><strong>Конвертация данных</strong> (КД 2/3)</td><td>Правила преобразования между разными конфигурациями</td></tr><tr><td><strong>EnterpriseData</strong></td><td>Универсальный формат обмена типовых конфигураций 1С</td></tr><tr><td>HTTP-сервисы / REST</td><td>Онлайн-обмен с сайтами и внешними системами (<a href="/restart/l/05/07/" data-internal="true">07. HTTP-сервисы своей базы</a>)</td></tr></tbody></table></div>
+<p>Junior-разработчику чаще всего достаются доработки готовых правил обмена в типовых конфигурациях — поэтому важно понимать регистрацию изменений и сопоставление объектов, а не писать обмен с нуля.</p>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Почему XML большого размера читают <code>ЧтениеXML</code>, а не DOM?</p>
+</li>
+<li>
+<p>Как избежать дублей при повторной загрузке?</p>
+</li>
+<li>
+<p>Зачем нужен план обмена, если можно просто выгрузить все товары?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Потоковое чтение не загружает документ целиком в память.</li>
+<li>Искать существующий объект по устойчивому ключу (код, GUID) перед созданием.</li>
+<li>Он регистрирует изменения — выгружаются только изменённые объекты, и известно, что уже передано.</li>
+</ol></div>
+</details></div>
+</details>20:["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L2e",null,{"children":"$1d:0:1:d:r:props:children:0:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","1c9mnd1",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/05/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"05"}],"Профессиональная разработка"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","08"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[5," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"XML и обмен данными"}],["$","div",null,{"className":"mt-7","children":["$","$L2f",null,{"id":"19by7yp","href":"/l/05/08/","title":"XML и обмен данными"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$30"}}],"$L31","$L32","$L33","$L34","$L35"]}]]}]
+21:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L36",null,{"items":[{"id":"что-такое-xml-и-зачем-он-нужен","text":"Что такое XML и зачем он нужен","depth":2},{"id":"запись-xml","text":"Запись XML","depth":2},{"id":"чтение-xml","text":"Чтение XML","depth":2},{"id":"xdto-объекты-1с--xml","text":"XDTO: объекты 1С ↔ XML","depth":2},{"id":"правила-загрузки-данных","text":"Правила загрузки данных","depth":2},{"id":"обмен-между-базами","text":"Обмен между базами","depth":2}]}]}]
+22:["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true}]
+23:["$","$L37",null,{"children":["$","$29",null,{"name":"Next.MetadataOutlet","children":"$@38"}]}]
+39:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+3a:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+3b:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+3c:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+17:300
+31:["$","$L39",null,{"targetId":"lesson-body"}]
+32:["$","$L3a",null,{"targetId":"lesson-body"}]
+33:["$","$L3b",null,{"targetId":"lesson-body"}]
+34:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L2f",null,{"id":"19by7yp","href":"/l/05/08/","title":"XML и обмен данными","variant":"footer"}]}]
+35:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/05/07/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L3c",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"HTTP-сервисы своей базы"}]]}],["$","$L13",null,{"href":"/l/05/09/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L3c",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"БСП и типовые конфигурации"}]]}]]}]
+38:null
+2d:true
+17:C
+2c:0
+1c:"$undefined"
+19:"$undefined"
+16:"$undefined"
+2b:"$undefined"
+24:"$undefined"

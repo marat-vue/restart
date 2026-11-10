@@ -1,0 +1,315 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1e:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+1f:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+25:"ViewportBoundary"
+26:I[97367,["$2","$3","$4","$5","$6","$7"],"$25"]
+27:"MetadataBoundary"
+28:I[97367,["$2","$3","$4","$5","$6","$7"],"$27"]
+29:"$Sreact.suspense"
+2a:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+17:X
+1a:X
+1a:C
+1d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L1e",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L1f",null,{"tree":{"kind":"folder","id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/","children":[{"kind":"lesson","id":"1hx2s48","num":"00","title":"Навигация по разделу","href":"/l/07/00/"},{"kind":"lesson","id":"1vki0ku","num":"01","title":"Зачем нужно тестирование","href":"/l/07/01/"},{"kind":"lesson","id":"1ft8vz9","num":"02","title":"Основные понятия тестирования","href":"/l/07/02/"},{"kind":"lesson","id":"5olfwt","num":"03","title":"Виды и уровни тестирования","href":"/l/07/03/"},{"kind":"lesson","id":"1s0acu1","num":"04","title":"Техники тест-дизайна","href":"/l/07/04/"},{"kind":"lesson","id":"1ept4s1","num":"05","title":"Тест-кейсы и баг-репорты","href":"/l/07/05/"},{"kind":"lesson","id":"1qld6tb","num":"06","title":"Что и чем тестировать в 1С","href":"/l/07/06/"},{"kind":"lesson","id":"fm5x90","num":"07","title":"Модульные тесты своими руками","href":"/l/07/07/"},{"kind":"lesson","id":"2e0v2y","num":"08","title":"Модульные тесты в YAxUnit","href":"/l/07/08/"},{"kind":"lesson","id":"e3l0hr","num":"09","title":"BDD и язык Gherkin","href":"/l/07/09/"},{"kind":"lesson","id":"79gt5r","num":"10","title":"Vanessa Automation — установка и запуск","href":"/l/07/10/"},{"kind":"lesson","id":"1lcgo32","num":"11","title":"Первый сценарий в Vanessa Automation","href":"/l/07/11/"},{"kind":"lesson","id":"j3qawi","num":"12","title":"Шаги, проверки и запись действий","href":"/l/07/12/"},{"kind":"lesson","id":"1aeq2d9","num":"13","title":"Тестовые данные и независимость сценариев","href":"/l/07/13/"},{"kind":"lesson","id":"1qqfmo6","num":"14","title":"Регрессия, отчёты и запуск без участия человека","href":"/l/07/14/"},{"kind":"lesson","id":"shckox","num":"15","title":"Практика — тестируем расходную накладную","href":"/l/07/15/"},{"kind":"lesson","id":"11nejw8","num":"16","title":"Памятка — тестирование","href":"/l/07/16/"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"5olfwt"}]}],"$L20","$L21"]}]],["$L22"],"$L23"]}],"p":"$@24","v":null,"s":"$17"}}]]
+1b:[["children",{"s":{"n":"slug","t":"c","k":"07/03","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@1c","v":"$1a","s":"$17"},"c":"$Q1d"}]]
+18:[["children",{"s":"l","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@19","v":"$1a","s":"$17"},"c":"$Q1b"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]]}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":"$@16","v":null,"s":"$17"},"c":"$Q18"},"h":{"r":["$","$1","h",{"children":[null,["$","$L26",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]}],["$","$L28",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$29",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Виды и уровни тестирования · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L2a","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@2b","v":null,"s":"$17"}},"a":"$@2c","u":"$@2d","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+2e:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+2f:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+36:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+37:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+30:T41c2,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p><strong>Уровни</strong> тестирования — по размеру проверяемой части: <strong>модульное</strong> (одна функция), <strong>интеграционное</strong> (несколько частей вместе), <strong>системное</strong> (вся программа через интерфейс), <strong>приёмочное</strong> (заказчик). <strong>Пирамида тестирования</strong>: много быстрых модульных тестов внизу, меньше интеграционных, совсем немного медленных UI-тестов наверху. <strong>Виды</strong> — по цели: функциональное и нефункциональное (производительность, безопасность, удобство), <strong>дымовое</strong> (smoke — «вообще запускается?»), <strong>регрессионное</strong>. По знанию кода: <strong>чёрный ящик</strong> (только входы и выходы) и <strong>белый ящик</strong> (с учётом кода).</p></div>
+</div>
+<h2 id="уровни-тестирования-от-винтика-до-автомобиля">Уровни тестирования: от винтика до автомобиля</h2>
+<p>Представьте завод, который собирает автомобиль. Проверки идут на разных уровнях:</p>
+<ol>
+<li>Проверяют каждую <strong>деталь</strong> отдельно: болт нужного размера, лампа горит.</li>
+<li>Проверяют <strong>узлы</strong>: двигатель собран из деталей и заводится.</li>
+<li>Проверяют <strong>машину целиком</strong> на тестовой трассе.</li>
+<li><strong>Покупатель</strong> делает тест-драйв и решает, берёт ли он машину.</li>
+</ol>
+<p>В программировании — то же самое:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Уровень</th><th>Что проверяем</th><th>Пример в 1С</th><th>Кто обычно</th></tr></thead><tbody><tr><td><strong>Модульное</strong> (unit)</td><td>Одну функцию или процедуру отдельно от остального</td><td>Функция <code>РассчитатьСумму(Количество, Цена)</code> возвращает 300 для 2 × 150</td><td>Разработчик</td></tr><tr><td><strong>Интеграционное</strong></td><td>Несколько частей вместе</td><td>Проведение накладной записывает правильные движения в регистры</td><td>Разработчик</td></tr><tr><td><strong>Системное</strong></td><td>Всю программу через интерфейс, как пользователь</td><td>Создать накладную в форме, выбрать товары, провести, распечатать</td><td>Тестировщик</td></tr><tr><td><strong>Приёмочное</strong></td><td>Подходит ли программа заказчику</td><td>Бухгалтер проверяет новую печатную форму на своих данных</td><td>Заказчик, аналитик</td></tr></tbody></table></div>
+<h2 id="пирамида-тестирования">Пирамида тестирования</h2>
+<p>Тесты разных уровней сильно различаются по скорости и стоимости. Модульный тест выполняется за миллисекунды и почти не ломается; UI-тест, который открывает формы и нажимает кнопки, идёт секунды или минуты и ломается от любого переименования кнопки.</p>
+<p>Поэтому хороший набор тестов похож на <strong>пирамиду</strong>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="plaintext" data-theme="mono"><code data-language="plaintext" data-theme="mono" style="display: grid;"><span data-line=""><span>              ▲</span></span>
+<span data-line=""><span>             ╱ ╲            UI / сквозные (end-to-end)</span></span>
+<span data-line=""><span>            ╱   ╲           — мало: медленные, хрупкие, дорогие</span></span>
+<span data-line=""><span>           ╱─────╲</span></span>
+<span data-line=""><span>          ╱       ╲         Интеграционные</span></span>
+<span data-line=""><span>         ╱         ╲        — средне</span></span>
+<span data-line=""><span>        ╱───────────╲</span></span>
+<span data-line=""><span>       ╱             ╲      Модульные</span></span>
+<span data-line=""><span>      ╱               ╲     — много: быстрые, стабильные, дешёвые</span></span>
+<span data-line=""><span>     ╱─────────────────╲</span></span></code></pre></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Уровень пирамиды</th><th>Скорость</th><th>Стабильность</th><th>Что ловит</th></tr></thead><tbody><tr><td>Модульные</td><td>Очень быстро</td><td>Высокая</td><td>Ошибки в формулах и алгоритмах</td></tr><tr><td>Интеграционные</td><td>Средне</td><td>Средняя</td><td>Ошибки взаимодействия: проведение, запросы, регистры</td></tr><tr><td>UI / сквозные</td><td>Медленно</td><td>Низкая</td><td>Ошибки «как у пользователя»: формы, кнопки, сценарии целиком</td></tr></tbody></table></div>
+<div class="callout callout-info" data-callout="info">
+<div class="callout-title">Пирамида в мире 1С</div>
+<div class="callout-body"><p>Исторически в 1С много проверяют <strong>через интерфейс</strong> — инструментами вроде Vanessa Automation (<a href="/restart/l/07/10/" data-internal="true">10. Vanessa Automation — установка и запуск</a>): так проверяется именно то, что видит пользователь. Это нормально, но помните цену: UI-тестов должно быть столько, сколько нужно для ключевых сценариев, а формулы и правила лучше проверять быстрыми модульными тестами (<a href="/restart/l/07/07/" data-internal="true">07. Модульные тесты своими руками</a>).</p></div>
+</div>
+<h2 id="виды-тестирования-по-цели">Виды тестирования по цели</h2>
+<h3 id="функциональное-и-нефункциональное">Функциональное и нефункциональное</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Вид</th><th>Вопрос</th><th>Пример</th></tr></thead><tbody><tr><td><strong>Функциональное</strong></td><td>Делает ли программа <strong>что</strong> нужно?</td><td>Проводится ли накладная, правильны ли движения</td></tr><tr><td><strong>Нефункциональное</strong></td><td><strong>Как</strong> она это делает?</td><td>Насколько быстро, безопасно, удобно</td></tr></tbody></table></div>
+<p>Нефункциональное тестирование включает:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Подвид</th><th>Что проверяем</th><th>Пример в 1С</th></tr></thead><tbody><tr><td><strong>Производительность</strong> (нагрузочное)</td><td>Скорость под нагрузкой</td><td>Проведение накладной на 500 строк, 50 пользователей одновременно</td></tr><tr><td><strong>Безопасность</strong></td><td>Защищены ли данные</td><td>Менеджер не видит накладные чужой организации (RLS)</td></tr><tr><td><strong>Удобство</strong> (юзабилити)</td><td>Понятно ли пользователю</td><td>Нужное поле не спрятано в меню «Ещё»</td></tr><tr><td><strong>Совместимость</strong></td><td>Работает ли в разных средах</td><td>Тонкий клиент, веб-клиент, разные версии платформы</td></tr></tbody></table></div>
+<h3 id="дымовое-тестирование-smoke-test">Дымовое тестирование (smoke test)</h3>
+<p>Название пришло из электроники: включили новую плату — <strong>пошёл ли дым?</strong> Если пошёл, дальше проверять бессмысленно.</p>
+<p><strong>Дымовой тест</strong> — короткая проверка самого главного: программа запускается, основные формы открываются, ключевой документ записывается. Делается <strong>первым</strong> после каждой сборки или обновления — за несколько минут. Если дымовой тест не прошёл, глубокое тестирование не начинают.</p>
+<p>Пример дымового набора для «1С:Купец»:</p>
+<ol>
+<li>База открывается без ошибок.</li>
+<li>Открывается список расходных накладных.</li>
+<li>Создаётся и проводится простая накладная с одной строкой.</li>
+<li>Формируется отчёт по продажам.</li>
+</ol>
+<h3 id="регрессионное-тестирование">Регрессионное тестирование</h3>
+<p>Повторная проверка уже работавшей функциональности после изменений (<a href="/restart/l/07/02/" data-internal="true">02. Основные понятия тестирования</a>). Регрессионный набор растёт с каждой доработкой — поэтому его автоматизируют.</p>
+<h3 id="повторное-тестирование-ретест">Повторное тестирование (ретест)</h3>
+<p>После исправления дефекта проверяем <strong>именно этот</strong> дефект: действительно ли он исправлен. Не путаем с регрессией: ретест — «починили ли сломанное», регрессия — «не сломали ли целое».</p>
+<h2 id="чёрный-белый-и-серый-ящик">Чёрный, белый и серый ящик</h2>
+<p>По тому, знает ли тестировщик код:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Подход</th><th>Что известно</th><th>Как придумываем тесты</th><th>Пример</th></tr></thead><tbody><tr><td><strong>Чёрный ящик</strong></td><td>Только требования: что на входе, что на выходе</td><td>По требованиям и поведению</td><td>«Без покупателя накладная не проводится» — проверяем через форму, не глядя в код</td></tr><tr><td><strong>Белый ящик</strong></td><td>Код программы</td><td>Чтобы выполнилась каждая ветка <code>Если</code> и каждый цикл</td><td>Видим в коде ветку <code>Если Количество &#x3C;= 0</code> — пишем тест именно на неё</td></tr><tr><td><strong>Серый ящик</strong></td><td>Частично: структура данных, схема регистров</td><td>Комбинация</td><td>Знаем, что движения пишутся в регистр <code>Продажи</code>, — проверяем его записи после проведения</td></tr></tbody></table></div>
+<p>Разработчик, тестируя свой код, обычно работает как «белый ящик». Но полезно иногда посмотреть на доработку глазами «чёрного ящика» — как пользователь, который ничего не знает о коде.</p>
+<h2 id="ручное-автоматическое-исследовательское">Ручное, автоматическое, исследовательское</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Подход</th><th>Суть</th></tr></thead><tbody><tr><td><strong>По сценариям (тест-кейсам)</strong></td><td>Выполняем заранее написанные шаги</td></tr><tr><td><strong>Исследовательское</strong></td><td>Изучаем программу «свободно», придумывая проверки на ходу: «а если так?»</td></tr><tr><td><strong>Автоматизированное</strong></td><td>Шаги выполняет программа (<a href="/restart/l/07/07/" data-internal="true">07. Модульные тесты своими руками</a>, <a href="/restart/l/07/11/" data-internal="true">11. Первый сценарий в Vanessa Automation</a>)</td></tr></tbody></table></div>
+<p>Исследовательское тестирование отлично находит неожиданные дефекты: опытный тестировщик за полчаса «поиграв» с формой находит то, что не предусмотрено ни в одном тест-кейсе.</p>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Назовите четыре уровня тестирования и приведите пример из 1С для каждого.</p>
+</li>
+<li>
+<p>Почему в пирамиде тестирования внизу модульные тесты, а наверху — UI?</p>
+</li>
+<li>
+<p>Чем дымовой тест отличается от регрессионного?</p>
+</li>
+<li>
+<p>Чем ретест отличается от регрессии?</p>
+</li>
+<li>
+<p>Вы проверяете отчёт, не глядя в его схему, — какой это подход?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Модульное — функция расчёта суммы; интеграционное — движения при проведении; системное — сценарий в форме; приёмочное — проверка заказчиком на своих данных.</li>
+<li>Модульные быстрые, стабильные и дешёвые — их должно быть много; UI-тесты медленные и хрупкие — только для ключевых сценариев.</li>
+<li>Дымовой — короткая проверка самого главного «вообще работает?»; регрессионный — подробная проверка того, что после изменений ничего не сломалось.</li>
+<li>Ретест проверяет, что исправлен конкретный дефект; регрессия — что исправление не сломало другое.</li>
+<li>Чёрный ящик.</li>
+</ol></div>
+</details></div>
+</details>20:["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L2e",null,{"children":"$1d:0:1:d:r:props:children:0:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","14mlr13",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/07/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"07"}],"Тестирование 1С"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","03"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[6," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Виды и уровни тестирования"}],["$","div",null,{"className":"mt-7","children":["$","$L2f",null,{"id":"5olfwt","href":"/l/07/03/","title":"Виды и уровни тестирования"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$30"}}],"$L31","$L32","$L33","$L34","$L35"]}]]}]
+21:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L36",null,{"items":[{"id":"уровни-тестирования-от-винтика-до-автомобиля","text":"Уровни тестирования: от винтика до автомобиля","depth":2},{"id":"пирамида-тестирования","text":"Пирамида тестирования","depth":2},{"id":"виды-тестирования-по-цели","text":"Виды тестирования по цели","depth":2},{"id":"функциональное-и-нефункциональное","text":"Функциональное и нефункциональное","depth":3},{"id":"дымовое-тестирование-smoke-test","text":"Дымовое тестирование (smoke test)","depth":3},{"id":"регрессионное-тестирование","text":"Регрессионное тестирование","depth":3},{"id":"повторное-тестирование-ретест","text":"Повторное тестирование (ретест)","depth":3},{"id":"чёрный-белый-и-серый-ящик","text":"Чёрный, белый и серый ящик","depth":2},{"id":"ручное-автоматическое-исследовательское","text":"Ручное, автоматическое, исследовательское","depth":2}]}]}]
+22:["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true}]
+23:["$","$L37",null,{"children":["$","$29",null,{"name":"Next.MetadataOutlet","children":"$@38"}]}]
+39:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+3a:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+3b:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+3c:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+17:300
+31:["$","$L39",null,{"targetId":"lesson-body"}]
+32:["$","$L3a",null,{"targetId":"lesson-body"}]
+33:["$","$L3b",null,{"targetId":"lesson-body"}]
+34:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L2f",null,{"id":"5olfwt","href":"/l/07/03/","title":"Виды и уровни тестирования","variant":"footer"}]}]
+35:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/07/02/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L3c",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Основные понятия тестирования"}]]}],["$","$L13",null,{"href":"/l/07/04/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L3c",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Техники тест-дизайна"}]]}]]}]
+38:null
+2d:true
+17:C
+2c:0
+1c:"$undefined"
+19:"$undefined"
+16:"$undefined"
+2b:"$undefined"
+24:"$undefined"

@@ -1,0 +1,291 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1b:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:"ViewportBoundary"
+1f:I[97367,["$2","$3","$4","$5","$6","$7"],"$1e"]
+21:"MetadataBoundary"
+22:I[97367,["$2","$3","$4","$5","$6","$7"],"$21"]
+24:I[68027,["$2","$3","$4","$5","$6","$7"],"default",1]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+:HL["/restart/_next/static/media/051742360c26797e-s.p.1bkzbscqrt8rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/26f284dcc38c84c0-s.p.3hlisc-pwq13z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/42b035f1a63f268d-s.p.2m8t2-vl1h1kf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/b4a06a523f527a0e-s.p.3psl0_mnhzy2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/cfdfbee4d6cf0a93-s.p.1jwcpm6w583_v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/e8768c288fbd3aa6-s.p.1t1z0xjflawjj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+17:X
+19:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L1a",[["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true,"nonce":"$undefined"}]],["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]]}],"p":false,"v":null}}]]
+18:[["children",{"s":{"n":"slug","t":"c","k":"07/09","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q19"}]]
+16:[["children",{"s":"l","h":131584,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q18"}]]
+0:{"P":null,"c":["","l","07","09",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true,"nonce":"$undefined"}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":false,"v":null},"c":"$Q16"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$L20"}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":"$L23"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$24",[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+17:C
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]
+25:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+26:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+27:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+28:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+29:T5b40,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p><strong>BDD</strong> (разработка через поведение) — подход, при котором требования записываются как <strong>сценарии поведения</strong> программы на понятном человеку языке, а затем эти же сценарии выполняются как автотесты. Язык записи — <strong>Gherkin</strong>: файл <code>.feature</code> с блоками <strong>Функционал</strong> (что за возможность), <strong>Контекст</strong> (общая подготовка), <strong>Сценарий</strong> (один пример поведения) и шагами <strong>Дано</strong> (исходное состояние) → <strong>Когда</strong> (действие) → <strong>Тогда</strong> (ожидаемый результат), плюс <strong>И</strong> / <strong>Но</strong> для продолжения. <strong>Структура сценария</strong> с таблицей <strong>Примеры</strong> запускает один сценарий на нескольких наборах данных. Vanessa Automation выполняет такие файлы в 1С.</p></div>
+</div>
+<h2 id="проблема-требования-и-тесты-живут-отдельно">Проблема: требования и тесты живут отдельно</h2>
+<p>Обычно бывает так: аналитик пишет требования в документе Word, разработчик читает их и пишет код, тестировщик пишет тест-кейсы в таблице. Три разных текста об одном и том же — и они расходятся: требование уточнили, а тест-кейсы забыли поправить.</p>
+<p><strong>BDD</strong> (Behaviour-Driven Development — разработка через поведение) предлагает другое: описать поведение <strong>один раз</strong> в виде конкретных примеров, понятных всем — заказчику, аналитику, разработчику, тестировщику. И сделать так, чтобы эти примеры <strong>выполнялись</strong> как автотесты.</p>
+<pre><pre class="mermaid-source">flowchart LR
+    A["Аналитик и заказчик&#x3C;br/>описывают поведение&#x3C;br/>примерами"] --> B["Файл .feature&#x3C;br/>на языке Gherkin"]
+    B --> C["Разработчик&#x3C;br/>реализует поведение"]
+    B --> D["Vanessa Automation&#x3C;br/>выполняет сценарии&#x3C;br/>как автотесты"]
+    D --> E["Отчёт:&#x3C;br/>какие сценарии прошли"]
+</pre></pre>
+<p>Сценарий становится одновременно <strong>требованием</strong>, <strong>документацией</strong> и <strong>тестом</strong>.</p>
+<h2 id="язык-gherkin">Язык Gherkin</h2>
+<p><strong>Gherkin</strong> — простой язык описания сценариев. Его ключевые слова есть и на английском, и на русском. В 1С-проектах обычно пишут по-русски.</p>
+<p>Первая строка файла указывает язык:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="gherkin" data-theme="mono"><code data-language="gherkin" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-comment)">#language: ru</span></span></code></pre></figure>
+<p>Vanessa Automation может сама создать заготовку файла — с директивой языка, меткой, заголовком функционала, описанием «Как … я хочу …» и пустым сценарием:</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/07.%20%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%201%D0%A1/VA-02-%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80-feature-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.png" alt="VA-02-Редактор-feature-шаблон.png" loading="lazy" decoding="async"></p>
+<p><em>Встроенный редактор Vanessa Automation после команды «Быстро создать временный feature файл»: шаблон с ключевыми словами Gherkin, подсветка синтаксиса и нумерация строк.</em></p>
+<h3 id="пример-полного-файла">Пример полного файла</h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="gherkin" data-theme="mono"><code data-language="gherkin" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-comment)">#language: ru</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функционал</span><span style="color:var(--shiki-foreground)">:</span><span style="color:var(--shiki-token-string)"> Расчёт суммы в расходной накладной</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Как менеджер по продажам</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Я хочу, чтобы сумма строки считалась автоматически</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Чтобы не ошибаться при ручном расчёте</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Контекст</span><span style="color:var(--shiki-foreground)">:</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Дано </span><span style="color:var(--shiki-foreground)">в базе есть товар </span><span style="color:var(--shiki-token-string-expression)">"Чайник"</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">в базе есть покупатель </span><span style="color:var(--shiki-token-string-expression)">"Ромашка"</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Сценарий</span><span style="color:var(--shiki-foreground)">:</span><span style="color:var(--shiki-token-string)"> Сумма строки равна количеству, умноженному на цену</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Дано </span><span style="color:var(--shiki-foreground)">я создал новую расходную накладную</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Когда </span><span style="color:var(--shiki-foreground)">я добавляю строку с товаром </span><span style="color:var(--shiki-token-string-expression)">"Чайник"</span><span style="color:var(--shiki-foreground)">, количеством 2 и ценой 150</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Тогда </span><span style="color:var(--shiki-foreground)">сумма строки равна 300</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">итог товаров равен 300</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Сценарий</span><span style="color:var(--shiki-foreground)">:</span><span style="color:var(--shiki-token-string)"> Накладную нельзя провести без покупателя</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Дано </span><span style="color:var(--shiki-foreground)">я создал новую расходную накладную</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">поле </span><span style="color:var(--shiki-token-string-expression)">"Покупатель"</span><span style="color:var(--shiki-foreground)"> не заполнено</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Когда </span><span style="color:var(--shiki-foreground)">я нажимаю </span><span style="color:var(--shiki-token-string-expression)">"Провести и закрыть"</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Тогда </span><span style="color:var(--shiki-foreground)">появляется сообщение </span><span style="color:var(--shiki-token-string-expression)">"Выберите покупателя"</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	И </span><span style="color:var(--shiki-foreground)">форма накладной остаётся открытой</span></span></code></pre></figure>
+<p>Такой текст понятен без знания программирования — его можно показать заказчику и спросить: «Мы правильно поняли, как должно работать?».</p>
+<h2 id="ключевые-слова">Ключевые слова</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Ключевое слово</th><th>Английский аналог</th><th>Смысл</th></tr></thead><tbody><tr><td><code>Функционал:</code></td><td>Feature</td><td>Название возможности программы, которую описывает файл. Ниже — свободное описание: кто, что и зачем</td></tr><tr><td><code>Контекст:</code></td><td>Background</td><td>Шаги, которые выполняются <strong>перед каждым</strong> сценарием файла — общая подготовка</td></tr><tr><td><code>Сценарий:</code></td><td>Scenario</td><td>Один конкретный пример поведения</td></tr><tr><td><code>Дано</code></td><td>Given</td><td><strong>Исходное состояние</strong>: что есть до действия</td></tr><tr><td><code>Когда</code></td><td>When</td><td><strong>Действие</strong> пользователя или системы</td></tr><tr><td><code>Тогда</code></td><td>Then</td><td><strong>Ожидаемый результат</strong></td></tr><tr><td><code>И</code>, <code>Но</code></td><td>And, But</td><td>Продолжение предыдущего типа шага</td></tr><tr><td><code>Структура сценария:</code></td><td>Scenario Outline</td><td>Шаблон сценария, который запускается для каждой строки таблицы <code>Примеры</code></td></tr><tr><td><code>Примеры:</code></td><td>Examples</td><td>Таблица данных для структуры сценария</td></tr><tr><td><code>@метка</code></td><td>Tag</td><td>Метка для группировки и отбора сценариев</td></tr><tr><td><code>#</code></td><td>—</td><td>Комментарий</td></tr></tbody></table></div>
+<p>Отступы — табуляция или пробелы — только для читаемости.</p>
+<h3 id="дано--когда--тогда">Дано — Когда — Тогда</h3>
+<p>Это тот же принцип, что «Подготовка — Действие — Проверка» в модульных тестах (<a href="/restart/l/07/07/" data-internal="true">07. Модульные тесты своими руками</a>), только на человеческом языке:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Шаг</th><th>Вопрос</th><th>Пример</th></tr></thead><tbody><tr><td><strong>Дано</strong></td><td>В каком состоянии программа до начала?</td><td>Дано открыта новая расходная накладная</td></tr><tr><td><strong>Когда</strong></td><td>Что делает пользователь?</td><td>Когда я ввожу количество 2</td></tr><tr><td><strong>Тогда</strong></td><td>Что должно получиться?</td><td>Тогда сумма строки равна 300</td></tr></tbody></table></div>
+<div class="callout callout-tip" data-callout="tip">
+<div class="callout-title">Один сценарий — одно поведение</div>
+<div class="callout-body"><p>Хороший сценарий проверяет <strong>одно</strong> правило и содержит обычно одно «Когда». Если в сценарии три «Когда» и пять «Тогда», скорее всего, это несколько сценариев, склеенных в один.</p></div>
+</div>
+<h2 id="структура-сценария-и-примеры">Структура сценария и примеры</h2>
+<p>Когда одно и то же поведение нужно проверить на разных данных — например, на граничных значениях (<a href="/restart/l/07/04/" data-internal="true">04. Техники тест-дизайна</a>), — не копируем сценарий, а пишем <strong>шаблон</strong> с таблицей:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="gherkin" data-theme="mono"><code data-language="gherkin" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">Структура сценария</span><span style="color:var(--shiki-foreground)">:</span><span style="color:var(--shiki-token-string)"> Скидка зависит от количества</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Дано </span><span style="color:var(--shiki-foreground)">я создал новую расходную накладную</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Когда </span><span style="color:var(--shiki-foreground)">я добавляю строку с товаром </span><span style="color:var(--shiki-token-string-expression)">"Чайник"</span><span style="color:var(--shiki-foreground)">, количеством &#x3C;Количество> и ценой 10</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Тогда </span><span style="color:var(--shiki-foreground)">сумма строки равна &#x3C;Сумма></span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Примеры:</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		| Количество | Сумма |</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		| 99         | 990   |</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		| 100        | 950   |</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		| 101        | 959.5 |</span></span></code></pre></figure>
+<p>Сценарий выполнится три раза: в каждом запуске <code>&#x3C;Количество></code> и <code>&#x3C;Сумма></code> заменяются значениями из очередной строки таблицы.</p>
+<h2 id="таблицы-в-шагах">Таблицы в шагах</h2>
+<p>Шаг может принимать таблицу — например, список строк документа:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="gherkin" data-theme="mono"><code data-language="gherkin" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">Когда </span><span style="color:var(--shiki-foreground)">я добавляю в накладную товары:</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	| Товар  | Количество | Цена |</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	| Чайник | 2          | 150  |</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	| Кружка | 3          | 50   |</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Тогда </span><span style="color:var(--shiki-foreground)">итог товаров равен 450</span></span></code></pre></figure>
+<h2 id="метки">Метки</h2>
+<p>Метки (теги) пишутся перед <code>Функционал</code> или <code>Сценарий</code> и позволяют выбирать, что запускать:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="gherkin" data-theme="mono"><code data-language="gherkin" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-function)">@smoke</span></span>
+<span data-line=""><span style="color:var(--shiki-token-function)">@продажи</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Сценарий</span><span style="color:var(--shiki-foreground)">:</span><span style="color:var(--shiki-token-string)"> Накладная с одной строкой проводится</span></span></code></pre></figure>
+<p>Например, перед каждой сборкой запускают только сценарии с меткой <code>@smoke</code> (дымовые тесты, <a href="/restart/l/07/03/" data-internal="true">03. Виды и уровни тестирования</a>), а ночью — все.</p>
+<h2 id="как-текст-превращается-в-действия">Как текст превращается в действия</h2>
+<p>Сам по себе Gherkin — просто текст. Чтобы шаг «Когда я нажимаю "Провести и закрыть"» что-то сделал, инструмент должен знать, <strong>какой код</strong> выполнить для этой фразы. В Vanessa Automation это решается двумя способами:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Способ</th><th>Что это</th></tr></thead><tbody><tr><td><strong>Библиотека стандартных шагов</strong></td><td>Сотни готовых фраз для работы с формами: открыть раздел, нажать кнопку, ввести значение в поле, проверить таблицу. Их можно использовать сразу, без программирования</td></tr><tr><td><strong>Свои шаги</strong></td><td>Для фразы пишется процедура на встроенном языке — например, «в базе есть товар "Чайник"», которая создаёт элемент справочника</td></tr></tbody></table></div>
+<p>Поэтому шаги из примера выше — «я добавляю строку с товаром…» — это пока <strong>описание на языке заказчика</strong>. В следующих уроках мы запишем такой сценарий <strong>стандартными шагами</strong> Vanessa Automation, которые она умеет выполнять (<a href="/restart/l/07/11/" data-internal="true">11. Первый сценарий в Vanessa Automation</a>).</p>
+<div class="callout callout-info" data-callout="info">
+<div class="callout-title">Два стиля сценариев</div>
+<div class="callout-body"><ul>
+<li><strong>Декларативный</strong> — на языке бизнеса: «Когда я провожу накладную на 2 чайника». Хорош для требований и общения с заказчиком.</li>
+<li><strong>Императивный</strong> — пошагово по интерфейсу: «И я нажимаю на кнопку с именем "ФормаПровести"». Его выполняют стандартные шаги без программирования.
+На практике часто комбинируют: для ключевых действий заводят свои «бизнес-шаги», внутри которых — стандартные интерфейсные.</li>
+</ul></div>
+</div>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Что означает BDD и чем этот подход полезен?</p>
+</li>
+<li>
+<p>Чем <code>Контекст</code> отличается от обычного <code>Сценарий</code>?</p>
+</li>
+<li>
+<p>Распределите по Дано / Когда / Тогда: «итог равен 300», «открыта новая накладная», «я ввожу количество 2».</p>
+</li>
+<li>
+<p>Как проверить один сценарий на пяти наборах данных, не копируя его?</p>
+</li>
+<li>
+<p>Для чего нужны метки?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Разработка через поведение: требования записываются примерами поведения на понятном языке, и эти примеры выполняются как автотесты — один текст служит требованием, документацией и тестом.</li>
+<li>Шаги <code>Контекст</code> выполняются перед каждым сценарием файла; это общая подготовка, а не самостоятельная проверка.</li>
+<li>Дано — «открыта новая накладная»; Когда — «я ввожу количество 2»; Тогда — «итог равен 300».</li>
+<li><code>Структура сценария</code> с таблицей <code>Примеры</code>.</li>
+<li>Чтобы группировать и выборочно запускать сценарии (например, только дымовые <code>@smoke</code>).</li>
+</ol></div>
+</details></div>
+</details>1a:[["$","$L25",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L26",null,{"tree":{"kind":"folder","id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/","children":[{"kind":"lesson","id":"1hx2s48","num":"00","title":"Навигация по разделу","href":"/l/07/00/","children":"$undefined"},{"kind":"lesson","id":"1vki0ku","num":"01","title":"Зачем нужно тестирование","href":"/l/07/01/","children":"$undefined"},{"kind":"lesson","id":"1ft8vz9","num":"02","title":"Основные понятия тестирования","href":"/l/07/02/","children":"$undefined"},{"kind":"lesson","id":"5olfwt","num":"03","title":"Виды и уровни тестирования","href":"/l/07/03/","children":"$undefined"},{"kind":"lesson","id":"1s0acu1","num":"04","title":"Техники тест-дизайна","href":"/l/07/04/","children":"$undefined"},{"kind":"lesson","id":"1ept4s1","num":"05","title":"Тест-кейсы и баг-репорты","href":"/l/07/05/","children":"$undefined"},{"kind":"lesson","id":"1qld6tb","num":"06","title":"Что и чем тестировать в 1С","href":"/l/07/06/","children":"$undefined"},{"kind":"lesson","id":"fm5x90","num":"07","title":"Модульные тесты своими руками","href":"/l/07/07/","children":"$undefined"},{"kind":"lesson","id":"2e0v2y","num":"08","title":"Модульные тесты в YAxUnit","href":"/l/07/08/","children":"$undefined"},{"kind":"lesson","id":"e3l0hr","num":"09","title":"BDD и язык Gherkin","href":"/l/07/09/","children":"$undefined"},{"kind":"lesson","id":"79gt5r","num":"10","title":"Vanessa Automation — установка и запуск","href":"/l/07/10/","children":"$undefined"},{"kind":"lesson","id":"1lcgo32","num":"11","title":"Первый сценарий в Vanessa Automation","href":"/l/07/11/","children":"$undefined"},{"kind":"lesson","id":"j3qawi","num":"12","title":"Шаги, проверки и запись действий","href":"/l/07/12/","children":"$undefined"},{"kind":"lesson","id":"1aeq2d9","num":"13","title":"Тестовые данные и независимость сценариев","href":"/l/07/13/","children":"$undefined"},{"kind":"lesson","id":"1qqfmo6","num":"14","title":"Регрессия, отчёты и запуск без участия человека","href":"/l/07/14/","children":"$undefined"},{"kind":"lesson","id":"shckox","num":"15","title":"Практика — тестируем расходную накладную","href":"/l/07/15/","children":"$undefined"},{"kind":"lesson","id":"11nejw8","num":"16","title":"Памятка — тестирование","href":"/l/07/16/","children":"$undefined"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"e3l0hr"}]}],["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L27",null,{"children":"$1a:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","14mlr13",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/07/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"07"}],"Тестирование 1С"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","09"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[7," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"BDD и язык Gherkin"}],["$","div",null,{"className":"mt-7","children":["$","$L28",null,{"id":"e3l0hr","href":"/l/07/09/","title":"BDD и язык Gherkin"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$29"}}],"$L2a","$L2b","$L2c","$L2d","$L2e"]}]]}],"$L2f"]}]]
+30:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+31:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+32:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+33:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+34:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+2a:["$","$L30",null,{"targetId":"lesson-body"}]
+2b:["$","$L31",null,{"targetId":"lesson-body"}]
+2c:["$","$L32",null,{"targetId":"lesson-body"}]
+2d:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L28",null,{"id":"e3l0hr","href":"/l/07/09/","title":"BDD и язык Gherkin","variant":"footer"}]}]
+2e:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/07/08/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L33",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Модульные тесты в YAxUnit"}]]}],["$","$L13",null,{"href":"/l/07/10/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L33",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Vanessa Automation — установка и запуск"}]]}]]}]
+2f:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L34",null,{"items":[{"id":"проблема-требования-и-тесты-живут-отдельно","text":"Проблема: требования и тесты живут отдельно","depth":2},{"id":"язык-gherkin","text":"Язык Gherkin","depth":2},{"id":"пример-полного-файла","text":"Пример полного файла","depth":3},{"id":"ключевые-слова","text":"Ключевые слова","depth":2},{"id":"дано--когда--тогда","text":"Дано — Когда — Тогда","depth":3},{"id":"структура-сценария-и-примеры","text":"Структура сценария и примеры","depth":2},{"id":"таблицы-в-шагах","text":"Таблицы в шагах","depth":2},{"id":"метки","text":"Метки","depth":2},{"id":"как-текст-превращается-в-действия","text":"Как текст превращается в действия","depth":2}]}]}]
+35:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+1d:null
+23:[["$","title","0",{"children":"BDD и язык Gherkin · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L35","3",{}]]

@@ -1,0 +1,309 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1e:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+1f:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+25:"ViewportBoundary"
+26:I[97367,["$2","$3","$4","$5","$6","$7"],"$25"]
+27:"MetadataBoundary"
+28:I[97367,["$2","$3","$4","$5","$6","$7"],"$27"]
+29:"$Sreact.suspense"
+2a:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+17:X
+1a:X
+1a:C
+1d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L1e",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L1f",null,{"tree":{"kind":"folder","id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/","children":[{"kind":"lesson","id":"hom46a","num":"00","title":"Навигация по разделу","href":"/l/01/00/"},{"kind":"lesson","id":"h2iria","num":"01","title":"Платформа 1С","href":"/l/01/01/"},{"kind":"lesson","id":"1lf6e8v","num":"02","title":"Версии платформы 1С","href":"/l/01/02/"},{"kind":"lesson","id":"17l0vhk","num":"03","title":"Информационная база 1С","href":"/l/01/03/"},{"kind":"lesson","id":"hutb90","num":"04","title":"Интерфейс конфигуратора","href":"/l/01/04/"},{"kind":"lesson","id":"7e7ii2","num":"05","title":"Версии конфигураций","href":"/l/01/05/"},{"kind":"lesson","id":"wjgvo2","num":"06","title":"Интерфейс платформы","href":"/l/01/06/"},{"kind":"lesson","id":"yy0x3e","num":"07","title":"Константы","href":"/l/01/07/"},{"kind":"lesson","id":"mg1w0c","num":"08","title":"Справочники","href":"/l/01/08/"},{"kind":"lesson","id":"d1jije","num":"09","title":"Форма справочника","href":"/l/01/09/"},{"kind":"lesson","id":"ed46b","num":"10","title":"Интерфейс справочника","href":"/l/01/10/"},{"kind":"lesson","id":"5x1i2z","num":"11","title":"Ссылочный тип данных","href":"/l/01/11/"},{"kind":"lesson","id":"1b2xem5","num":"12","title":"Перечисления","href":"/l/01/12/"},{"kind":"lesson","id":"lq053x","num":"13","title":"Пометка удаления","href":"/l/01/13/"},{"kind":"lesson","id":"3lm8w0","num":"14","title":"Документы","href":"/l/01/14/"},{"kind":"lesson","id":"i4gl6k","num":"15","title":"Подсистемы, интерфейс и общие объекты","href":"/l/01/15/"},{"kind":"lesson","id":"1gr37lx","num":"16","title":"Приёмы работы в Конфигураторе","href":"/l/01/16/"},{"kind":"lesson","id":"1a1bfi6","num":"17","title":"Регистры накоплений","href":"/l/01/17/"},{"kind":"lesson","id":"q2bhrx","num":"18","title":"Отчёты","href":"/l/01/18/"},{"kind":"lesson","id":"y6bbwm","num":"19","title":"Пользователи и Роли","href":"/l/01/19/"},{"kind":"lesson","id":"1wjslw7","num":"20","title":"Регистры сведений","href":"/l/01/20/"},{"kind":"lesson","id":"pjpmlr","num":"21","title":"Журналы документов и нумерация","href":"/l/01/21/"},{"kind":"lesson","id":"1g1o0c4","num":"22","title":"Предопределённые данные и заполнение","href":"/l/01/22/"},{"kind":"lesson","id":"gvk4pp","num":"23","title":"Обработки и внешние файлы","href":"/l/01/23/"},{"kind":"lesson","id":"1jb94cl","num":"24","title":"Макеты и печатные формы","href":"/l/01/24/"},{"kind":"lesson","id":"m7az4z","num":"25","title":"Общие реквизиты и составные типы","href":"/l/01/25/"},{"kind":"lesson","id":"ybfz73","num":"26","title":"Функциональные опции и параметры сеанса","href":"/l/01/26/"},{"kind":"lesson","id":"1dc5r6b","num":"27","title":"Сравнение, поддержка и расширения","href":"/l/01/27/"},{"kind":"lesson","id":"1yftpyy","num":"28","title":"Резервные копии и обслуживание базы","href":"/l/01/28/"},{"kind":"lesson","id":"1mz15kx","num":"29","title":"Остальные объекты конфигурации","href":"/l/01/29/"},{"kind":"lesson","id":"ciqlsu","num":"30","title":"Практика по конфигурированию","href":"/l/01/30/"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"3lm8w0"}]}],"$L20","$L21"]}]],["$L22"],"$L23"]}],"p":"$@24","v":null,"s":"$17"}}]]
+1b:[["children",{"s":{"n":"slug","t":"c","k":"01/14","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@1c","v":"$1a","s":"$17"},"c":"$Q1d"}]]
+18:[["children",{"s":"l","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@19","v":"$1a","s":"$17"},"c":"$Q1b"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]]}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":"$@16","v":null,"s":"$17"},"c":"$Q18"},"h":{"r":["$","$1","h",{"children":[null,["$","$L26",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]}],["$","$L28",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$29",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Документы · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L2a","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@2b","v":null,"s":"$17"}},"a":"$@2c","u":"$@2d","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+2e:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+2f:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+36:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+37:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+30:T7bf0,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p><strong>Документ</strong> фиксирует событие или хозяйственную операцию: заказ, продажу, поступление, приём на работу. У документа есть <strong>номер, дата и признак «Проведён»</strong>. <strong>Проведение</strong> — момент, когда документ влияет на учёт: формирует <strong>движения</strong> в регистрах. Документ можно связать с другими через <strong>ввод на основании</strong>.</p></div>
+</div>
+<h2 id="что-это-такое">Что это такое</h2>
+<p><strong>Документы</strong> хранят информацию о совершённых операциях и событиях: приходные и расходные накладные, счета, платёжные поручения, приказы.</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260910203336.png" alt="Pasted image 20260910203336.png" loading="lazy" decoding="async"></p>
+<p><em>Пример документа «ЗаказКлиента»: у каждого — номер, дата со временем и сумма.</em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th></th><th>Справочник</th><th>Документ</th></tr></thead><tbody><tr><td>Что описывает</td><td>Объект учёта: <strong>что/кто</strong> (товар, клиент)</td><td>Событие: <strong>что произошло</strong> (продали товар клиенту)</td></tr><tr><td>Ключевые реквизиты</td><td>Код, Наименование</td><td>Номер, <strong>Дата</strong>, Проведён</td></tr><tr><td>Влияет на учёт</td><td>Нет</td><td>Да, при проведении — через регистры</td></tr></tbody></table></div>
+<h2 id="создание-документа">Создание документа</h2>
+<p><strong>Документы → ПКМ → Добавить</strong>:</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260911105525.png" alt="Pasted image 20260911105525.png" loading="lazy" decoding="async"></p>
+<p><em>Новый документ <code>ЗаказКлиента</code>: вкладки похожи на справочник, но добавились «Движения», «Последовательности», «Журналы».</em></p>
+<h2 id="реквизиты-шапки">Реквизиты шапки</h2>
+<p>На вкладке <strong>«Данные»</strong> добавим два ссылочных реквизита — <code>Покупатель</code> (<code>СправочникСсылка.Контрагенты</code>) и <code>Договор</code> (<code>СправочникСсылка.Договоры</code>):</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260911105827.png" alt="Pasted image 20260911105827.png" loading="lazy" decoding="async"></p>
+<p><em>Реквизиты шапки документа: <code>Покупатель</code> и <code>Договор</code>.</em></p>
+<h3 id="связь-параметров-выбора">Связь параметров выбора</h3>
+<p>Договор должен выбираться <strong>только из договоров выбранного покупателя</strong>. Открываем свойства реквизита <code>Договор</code> → вкладка <strong>«Представление»</strong> → <strong>«Связи параметров выбора»</strong>:</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260911110533.png" alt="Pasted image 20260911110533.png" loading="lazy" decoding="async"></p>
+<p><em>Свойство «Связи параметров выбора» реквизита <code>Договор</code>: уже настроено <code>Отбор.Владелец(Покупатель)</code>.</em></p>
+<p>В окне связей переносим <code>Покупатель</code> вправо и выбираем параметр <code>Отбор.Владелец</code>:</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260911111151.png" alt="Pasted image 20260911111151.png" loading="lazy" decoding="async"></p>
+<p><em>Окно связей параметров выбора: слева реквизиты документа.</em></p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260911111240.png" alt="Pasted image 20260911111240.png" loading="lazy" decoding="async"></p>
+<p><em>Связь <code>Отбор.Владелец = Покупатель</code>; «Режим изменения: Очищать» — при смене покупателя договор очистится.</em></p>
+<p>Теперь форма выбора договора открывается с отбором по владельцу. Подчинённость договоров контрагенту настраивается в самом справочнике <code>Договоры</code> (<a href="/restart/l/01/08/" data-internal="true">08. Справочники</a>), а связь параметров выбора лишь использует её в поле.</p>
+<div class="callout callout-info" data-callout="info">
+<div class="callout-title">Связи и параметры выбора</div>
+<div class="callout-body"><ul>
+<li><strong>Связи параметров выбора</strong> — отбор берётся из <strong>другого реквизита</strong> этого же объекта (<code>Отбор.Владелец ← Покупатель</code>).</li>
+<li><strong>Параметры выбора</strong> — отбор по <strong>фиксированному значению</strong> (<code>Отбор.ВидНоменклатуры = Товар</code>), см. ниже.</li>
+</ul><p>Оба механизма облегчают ввод, но не гарантируют правильность данных при программной записи: проверку дублируем в модуле объекта (<a href="/restart/l/02/24/" data-internal="true">24. Программная работа с документами</a>).</p></div>
+</div>
+<h2 id="стандартные-реквизиты">Стандартные реквизиты</h2>
+<p>Кнопка <strong>«Стандартные реквизиты»</strong>:</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260911112308.png" alt="Pasted image 20260911112308.png" loading="lazy" decoding="async"></p>
+<p><em>Стандартные реквизиты документа: Ссылка, Номер, Дата, Проведен, ПометкаУдаления.</em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Реквизит</th><th>Смысл</th></tr></thead><tbody><tr><td><code>Ссылка</code></td><td><code>ДокументСсылка.Имя</code> — уникальный идентификатор документа</td></tr><tr><td><code>Номер</code></td><td>Номер для пользователя; автонумерация, уникальность и периодичность — на вкладке «Нумерация» (<a href="/restart/l/01/21/" data-internal="true">21. Журналы документов и нумерация</a>)</td></tr><tr><td><code>Дата</code></td><td>Дата <strong>и время</strong> документа. Определяет момент, на который документ влияет на учёт. При создании подставляется текущая, но её можно изменить</td></tr><tr><td><code>Проведен</code></td><td>Признак того, что документ отражён в учёте</td></tr><tr><td><code>ПометкаУдаления</code></td><td>Помечен ли на удаление (<a href="/restart/l/01/13/" data-internal="true">13. Пометка удаления</a>)</td></tr></tbody></table></div>
+<h2 id="проведение">Проведение</h2>
+<p><strong>Проведение</strong> отвечает на вопрос «влияет ли документ на учёт». Учётные данные хранятся в <strong>регистрах</strong>: при проведении документ записывает в них <strong>движения</strong>, при отмене проведения — удаляет их.</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260911120708.png" alt="Pasted image 20260911120708.png" loading="lazy" decoding="async"></p>
+<p><em>Признак «Проведен»: первые два документа учтены, третий — нет.</em></p>
+<ul>
+<li>Проводимые: расходная накладная (уменьшает остаток, увеличивает продажи), поступление товаров.</li>
+<li>Непроводимые: коммерческое предложение — клиент может и отказаться, на учёт оно не влияет. Для таких документов на вкладке «Движения» ставим <strong>Проведение: Запретить</strong>.</li>
+</ul>
+<p>Как документ формирует движения — в <a href="/restart/l/01/17/" data-internal="true">17. Регистры накоплений</a>.</p>
+<h3 id="состояния-документа-в-списке">Состояния документа в списке</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Состояние</th><th>Значок</th></tr></thead><tbody><tr><td>Записан, не проведён</td><td><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260911124113.png" alt="Pasted image 20260911124113.png" loading="lazy" decoding="async"></td></tr><tr><td>Проведён (зелёная галочка)</td><td><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260911124204.png" alt="Pasted image 20260911124204.png" loading="lazy" decoding="async"></td></tr><tr><td>Помечен на удаление</td><td><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260911124235.png" alt="Pasted image 20260911124235.png" loading="lazy" decoding="async"></td></tr></tbody></table></div>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Пометка удаления отменяет проведение</div>
+<div class="callout-body"><p>Документ не может быть одновременно проведённым и помеченным на удаление. При пометке проведение отменяется (движения удаляются); при снятии пометки документ остаётся непроведённым — его нужно провести заново.</p></div>
+</div>
+<h2 id="табличные-части">Табличные части</h2>
+<p>Создаются так же, как у справочника, — в нижнем списке вкладки «Данные». Сделаем две: <code>Товары</code> (Товар, Количество, Цена, Сумма) и <code>Услуги</code> (Услуга, Сумма):</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260911145054.png" alt="Pasted image 20260911145054.png" loading="lazy" decoding="async"></p>
+<p><em>Табличные части <code>Товары</code> и <code>Услуги</code>. Тип суммы — определяемый тип <code>ДенежныеСредства</code> (<a href="/restart/l/01/25/" data-internal="true">25. Общие реквизиты и составные типы</a>).</em></p>
+<p>Если табличных частей несколько, автоматическая форма разносит их по страницам:</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260911150651.png" alt="Pasted image 20260911150651.png" loading="lazy" decoding="async"></p>
+<p><em>Форма документа: шапка, а ниже вкладки «Товары» и «Услуги».</em></p>
+<h3 id="параметры-выбора">Параметры выбора</h3>
+<p>В колонке <code>Товар</code> должны выбираться только товары, в <code>Услуга</code> — только услуги. Открываем реквизит табличной части <code>Товар</code> → «Представление» → <strong>«Параметры выбора»</strong>:</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260911145434.png" alt="Pasted image 20260911145434.png" loading="lazy" decoding="async"></p>
+<p><em>Свойства реквизита <code>Товар</code>: поле «Параметры выбора».</em></p>
+<p>Нажимаем «+», указываем имя параметра <code>Отбор.ВидНоменклатуры</code>, затем кнопкой «T» выбираем тип значения — <code>ПеречислениеСсылка.ВидыНоменклатуры</code>:</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260911145926.png" alt="Pasted image 20260911145926.png" loading="lazy" decoding="async"></p>
+<p><em>Добавлен параметр выбора <code>Отбор.ВидНоменклатуры</code>.</em></p>
+<p>Через «…» выбираем значение:</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260911150110.png" alt="Pasted image 20260911150110.png" loading="lazy" decoding="async"></p>
+<p><em>Значение параметра — <code>Товар</code>.</em></p>
+<p>Теперь в колонке «Товары» при выборе показываются только товары. Для <code>Услуги</code> аналогично задаём значение <code>Услуга</code>.</p>
+<h2 id="настройка-формы-документа">Настройка формы документа</h2>
+<p>Несколько приёмов, которые понадобятся в собственной форме документа (подробно — <a href="/restart/l/04/00/" data-internal="true">раздел 04</a>).</p>
+<p><strong>Только просмотр.</strong> У элемента формы включаем <strong>ТолькоПросмотр</strong> — например, для рассчитываемой колонки <code>Сумма</code>:</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260915001319.png" alt="Pasted image 20260915001319.png" loading="lazy" decoding="async"></p>
+<p><em>Колонка <code>ТоварыСумма</code>: включено «ТолькоПросмотр». Внизу — свойства подвала.</em></p>
+<p><strong>Подвал таблицы с итогом.</strong> У таблицы на вкладке «Использование» включаем <strong>Подвал</strong>:</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260915203451.png" alt="Pasted image 20260915203451.png" loading="lazy" decoding="async"></p>
+<p><em>Свойство «Подвал» таблицы <code>Услуги</code>.</em></p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260915203525.png" alt="Pasted image 20260915203525.png" loading="lazy" decoding="async"></p>
+<p><em>В таблице появилась строка подвала.</em></p>
+<p>Затем у колонки задаём <strong>ТекстПодвала</strong> и <strong>ПутьКДаннымПодвала</strong>:</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260915203709.png" alt="Pasted image 20260915203709.png" loading="lazy" decoding="async"></p>
+<p><em>Колонка <code>ТоварыСумма</code>: текст подвала «Итого:», путь <code>Объект.Товары.ИтогСумма</code>.</em></p>
+<p>Платформа сама считает итоги числовых колонок табличной части — они доступны как <code>ИтогКоличество</code>, <code>ИтогСумма</code>:</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260915203947.png" alt="Pasted image 20260915203947.png" loading="lazy" decoding="async"></p>
+<p><em>Выбор пути к данным подвала: у табличной части есть готовые итоги (Σ).</em></p>
+<p><strong>Гиперссылка.</strong> Чтобы показать ссылочный реквизит как кликабельный текст, задаём <strong>Вид = Поле надписи</strong> и включаем <strong>Гиперссылка</strong>:</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260915234823.png" alt="Pasted image 20260915234823.png" loading="lazy" decoding="async"></p>
+<p><em>Реквизит <code>Основание</code> (ссылка на заказ) выводится гиперссылкой — щелчок откроет документ-основание.</em></p>
+<h2 id="ввод-на-основании">Ввод на основании</h2>
+<p>Ввод на основании создаёт новый документ, заполненный данными другого объекта: по заказу клиента — расходную накладную.</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260916001052.png" alt="Pasted image 20260916001052.png" loading="lazy" decoding="async"></p>
+<p><em>Из заказа в накладную переносятся контрагент, договор, сумма и товары.</em></p>
+<p>Настраиваем в документе, <strong>который будем создавать</strong> (<code>РасходнаяНакладная</code>) → вкладка <strong>«Ввод на основании»</strong>:</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260916002518.png" alt="Pasted image 20260916002518.png" loading="lazy" decoding="async"></p>
+<p><em>Вкладка «Ввод на основании»: сверху — на основании чего вводится этот документ, снизу — для чего он сам является основанием.</em></p>
+<p>Карандашом у списка «Вводится на основании» выбираем <code>ЗаказКлиента</code>:</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260916011856.png" alt="Pasted image 20260916011856.png" loading="lazy" decoding="async"></p>
+<p><em>Выбор объекта-основания.</em></p>
+<p>Нажимаем <strong>«Конструктор ввода на основании»</strong>: слева вверху — основание, справа — его реквизиты, внизу — соответствие полей нового документа:</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260916012159.png" alt="Pasted image 20260916012159.png" loading="lazy" decoding="async"></p>
+<p><em>Пустой конструктор: поля новой накладной ещё не связаны с заказом.</em></p>
+<p><strong>«Заполнить выражения»</strong> проставит соответствия по совпадающим именам — остаётся проверить их:</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260916012228.png" alt="Pasted image 20260916012228.png" loading="lazy" decoding="async"></p>
+<p><em>Выражения заполнены: <code>ДанныеЗаполнения.Покупатель</code>, строки — из <code>ТекСтрокаТовары</code>, <code>Основание = ДанныеЗаполнения.Ссылка</code>.</em></p>
+<p>После <strong>ОК</strong> в модуле объекта появится обработчик <code>ОбработкаЗаполнения</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> ОбработкаЗаполнения</span><span style="color:var(--shiki-foreground)">(ДанныеЗаполнения</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> СтандартнаяОбработка)</span></span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">	//{{__КОНСТРУКТОР_ВВОД_НА_ОСНОВАНИИ</span></span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">	// Данный фрагмент построен конструктором.</span></span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">	// При повторном использовании конструктора, внесенные вручную изменения будут утеряны!!!</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Если</span><span style="color:var(--shiki-token-function)"> ТипЗнч</span><span style="color:var(--shiki-foreground)">(ДанныеЗаполнения) </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Тип</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-string-expression)">"ДокументСсылка.ЗаказКлиента"</span><span style="color:var(--shiki-foreground)">) </span><span style="color:var(--shiki-token-keyword)">Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">		// Заполнение шапки</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Договор </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> ДанныеЗаполнения.Договор</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		ИтоговаяСумма </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> ДанныеЗаполнения.ИтоговаяСумма</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Покупатель </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> ДанныеЗаполнения.Покупатель</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Основание </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> ДанныеЗаполнения.Ссылка</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Для Каждого</span><span style="color:var(--shiki-foreground)"> ТекСтрокаТовары </span><span style="color:var(--shiki-token-keyword)">Из</span><span style="color:var(--shiki-foreground)"> ДанныеЗаполнения.Товары </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			НоваяСтрока </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Товары.Добавить()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			НоваяСтрока.Количество </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> ТекСтрокаТовары.Количество</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			НоваяСтрока.Сумма </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> ТекСтрокаТовары.Сумма</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			НоваяСтрока.Товар </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> ТекСтрокаТовары.Товар</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			НоваяСтрока.Цена </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> ТекСтрокаТовары.Цена</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Для Каждого</span><span style="color:var(--shiki-foreground)"> ТекСтрокаУслуги </span><span style="color:var(--shiki-token-keyword)">Из</span><span style="color:var(--shiki-foreground)"> ДанныеЗаполнения.Услуги </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			НоваяСтрока </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Услуги.Добавить()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			НоваяСтрока.Сумма </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> ТекСтрокаУслуги.Сумма</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">			НоваяСтрока.Услуга </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> ТекСтрокаУслуги.Услуга</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">	//}}__КОНСТРУКТОР_ВВОД_НА_ОСНОВАНИИ</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span></code></pre></figure>
+<p>Разбор:</p>
+<ul>
+<li><code>ДанныеЗаполнения</code> — то, на основании чего заполняем документ. Здесь — ссылка на заказ клиента.</li>
+<li><code>ТипЗнч(...) = Тип(...)</code> — проверяем, что основание именно заказ: документ может вводиться на основании разных объектов.</li>
+<li>Обращения через точку (<code>ДанныеЗаполнения.Договор</code>) читают реквизиты заказа по ссылке.</li>
+<li><code>Товары.Добавить()</code> — добавляем строку в табличную часть <strong>нового</strong> документа.</li>
+</ul>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Ручные правки внутри блока конструктора</div>
+<div class="callout-body"><p>Код между <code>//{{__КОНСТРУКТОР…</code> и <code>//}}__КОНСТРУКТОР…</code> будет перезаписан при повторном запуске конструктора. Свою логику пишем вне этого блока.</p></div>
+</div>
+<p>В Предприятии в форме заказа появится команда <strong>«Создать на основании → Расходная накладная»</strong>.</p>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Чем документ принципиально отличается от справочника?</p>
+</li>
+<li>
+<p>Что физически происходит при проведении документа?</p>
+</li>
+<li>
+<p>Документ проведён, его пометили на удаление, потом сняли пометку. Он проведён?</p>
+</li>
+<li>
+<p>Чем связи параметров выбора отличаются от параметров выбора?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Документ описывает событие во времени (есть дата) и может влиять на учёт, формируя движения регистров.</li>
+<li>Выполняется <code>ОбработкаПроведения</code>: в регистры записываются движения, <code>Проведен = Истина</code>.</li>
+<li>Нет: пометка отменила проведение, документ нужно провести заново.</li>
+<li>Связи берут значение отбора из другого реквизита объекта, параметры выбора — фиксированное значение.</li>
+</ol></div>
+</details></div>
+</details>20:["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L2e",null,{"children":"$1d:0:1:d:r:props:children:0:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","1alhswt",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/01/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"01"}],"Основы конфигурирования"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","14"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[8," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Документы"}],["$","div",null,{"className":"mt-7","children":["$","$L2f",null,{"id":"3lm8w0","href":"/l/01/14/","title":"Документы"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$30"}}],"$L31","$L32","$L33","$L34","$L35"]}]]}]
+21:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L36",null,{"items":[{"id":"что-это-такое","text":"Что это такое","depth":2},{"id":"создание-документа","text":"Создание документа","depth":2},{"id":"реквизиты-шапки","text":"Реквизиты шапки","depth":2},{"id":"связь-параметров-выбора","text":"Связь параметров выбора","depth":3},{"id":"стандартные-реквизиты","text":"Стандартные реквизиты","depth":2},{"id":"проведение","text":"Проведение","depth":2},{"id":"состояния-документа-в-списке","text":"Состояния документа в списке","depth":3},{"id":"табличные-части","text":"Табличные части","depth":2},{"id":"параметры-выбора","text":"Параметры выбора","depth":3},{"id":"настройка-формы-документа","text":"Настройка формы документа","depth":2},{"id":"ввод-на-основании","text":"Ввод на основании","depth":2}]}]}]
+22:["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true}]
+23:["$","$L37",null,{"children":["$","$29",null,{"name":"Next.MetadataOutlet","children":"$@38"}]}]
+39:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+3a:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+3b:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+3c:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+17:300
+31:["$","$L39",null,{"targetId":"lesson-body"}]
+32:["$","$L3a",null,{"targetId":"lesson-body"}]
+33:["$","$L3b",null,{"targetId":"lesson-body"}]
+34:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L2f",null,{"id":"3lm8w0","href":"/l/01/14/","title":"Документы","variant":"footer"}]}]
+35:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/01/13/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L3c",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Пометка удаления"}]]}],["$","$L13",null,{"href":"/l/01/15/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L3c",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Подсистемы, интерфейс и общие объекты"}]]}]]}]
+38:null
+2d:true
+17:C
+2c:0
+1c:"$undefined"
+19:"$undefined"
+16:"$undefined"
+2b:"$undefined"
+24:"$undefined"

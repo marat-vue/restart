@@ -1,0 +1,267 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1e:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+1f:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+25:"ViewportBoundary"
+26:I[97367,["$2","$3","$4","$5","$6","$7"],"$25"]
+27:"MetadataBoundary"
+28:I[97367,["$2","$3","$4","$5","$6","$7"],"$27"]
+29:"$Sreact.suspense"
+2a:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+17:X
+1a:X
+1a:C
+1d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L1e",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L1f",null,{"tree":{"kind":"folder","id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/","children":[{"kind":"lesson","id":"1ocm90a","num":"00","title":"Навигация по разделу","href":"/l/05/00/"},{"kind":"lesson","id":"156dahn","num":"01","title":"Регистр остатков на практике","href":"/l/05/01/"},{"kind":"lesson","id":"12ipfvj","num":"02","title":"Контроль остатков и блокировки","href":"/l/05/02/"},{"kind":"lesson","id":"17sy5u8","num":"03","title":"Печатная форма документа","href":"/l/05/03/"},{"kind":"lesson","id":"1mwbtob","num":"04","title":"Расширения и перехват методов","href":"/l/05/04/"},{"kind":"lesson","id":"rnlg54","num":"05","title":"Права доступа и RLS в коде","href":"/l/05/05/"},{"kind":"lesson","id":"zdu71r","num":"06","title":"HTTP-запросы к внешним сервисам","href":"/l/05/06/"},{"kind":"lesson","id":"1gtg1nd","num":"07","title":"HTTP-сервисы своей базы","href":"/l/05/07/"},{"kind":"lesson","id":"19by7yp","num":"08","title":"XML и обмен данными","href":"/l/05/08/"},{"kind":"lesson","id":"1liwwkn","num":"09","title":"БСП и типовые конфигурации","href":"/l/05/09/"},{"kind":"lesson","id":"8cetis","num":"10","title":"Хранилище, EDT и Git","href":"/l/05/10/"},{"kind":"lesson","id":"3um01i","num":"11","title":"Стандарты кода и самопроверка","href":"/l/05/11/"},{"kind":"lesson","id":"g4vhr2","num":"12","title":"Итоговый проект и собеседование","href":"/l/05/12/"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"12ipfvj"}]}],"$L20","$L21"]}]],["$L22"],"$L23"]}],"p":"$@24","v":null,"s":"$17"}}]]
+1b:[["children",{"s":{"n":"slug","t":"c","k":"05/02","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@1c","v":"$1a","s":"$17"},"c":"$Q1d"}]]
+18:[["children",{"s":"l","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@19","v":"$1a","s":"$17"},"c":"$Q1b"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]]}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":"$@16","v":null,"s":"$17"},"c":"$Q18"},"h":{"r":["$","$1","h",{"children":[null,["$","$L26",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]}],["$","$L28",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$29",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Контроль остатков и блокировки · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L2a","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@2b","v":null,"s":"$17"}},"a":"$@2c","u":"$@2d","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+2e:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+2f:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+36:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+37:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+30:T753f,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p>Контроль «нельзя отгрузить больше, чем есть» пишет разработчик в <code>ОбработкаПроведения</code>. Современная схема («новая методика»): <strong>записать расход с блокировкой</strong> (<code>БлокироватьДляИзменения = Истина</code>, <code>Записать()</code>), затем <strong>запросом найти отрицательные остатки</strong> по товарам документа; нашли — сообщение и <code>Отказ = Истина</code>, транзакция откатится. Управляемая блокировка не даёт двум пользователям одновременно продать последнюю штуку.</p></div>
+</div>
+<h2 id="задача-нельзя-продать-больше-чем-есть">Задача: нельзя продать больше, чем есть</h2>
+<p>В конце прошлого урока регистр спокойно ушёл в минус: на складе 0 чайников, а накладная на 1 чайник провелась. Платформа <strong>не запрещает</strong> отрицательные остатки сама — это правило пишет разработчик.</p>
+<p>Кажется, решение простое: при проведении прочитать остаток и, если не хватает, отказать. Но в реальной базе одновременно работают несколько пользователей, и здесь кроется ловушка — гонка за последней штукой. Этот урок — про то, как написать контроль остатков <strong>правильно</strong>: это одна из самых частых задач и самых частых тем на собеседовании.</p>
+<h2 id="почему-проверить-и-записать-недостаточно">Почему «проверить и записать» недостаточно</h2>
+<pre><pre class="mermaid-source">sequenceDiagram
+    participant P1 as Менеджер P1
+    participant P2 as Менеджер P2
+    participant P3 as Регистр (остаток 1)
+    P1->>P3: читает остаток: 1 ✔
+    P2->>P3: читает остаток: 1 ✔
+    P1->>P3: пишет расход 1
+    P2->>P3: пишет расход 1
+    Note over P3: остаток −1
+</pre></pre>
+<p>Обе проверки прошли, потому что выполнялись <strong>до</strong> записи другого. Нужна <strong>блокировка</strong>: пока транзакция А не завершилась, Б ждёт, а затем видит уже уменьшенный остаток.</p>
+<h2 id="режим-блокировок">Режим блокировок</h2>
+<p>В свойствах корня конфигурации задаём <strong>Режим управления блокировкой данных = Управляемый</strong>. Если основная конфигурация работает в смешанном режиме «Автоматический и управляемый», у участвующих документов и регистров явно выбираем <strong>Управляемый</strong>. Смешанный режим корня сам по себе не гарантирует, что конкретная транзакция выполняется в управляемом режиме.</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/05.%20%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/02-%D0%A0%D0%B5%D0%B6%D0%B8%D0%BC-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%BA.png" alt="02-Режим-блокировок.png" loading="lazy" decoding="async"></p>
+<p><em>Свойство режима блокировок в палитре свойств конфигурации. Перед примером проверьте режим также у документов и регистра.</em></p>
+<p>Управляемая блокировка задаёт логическую <strong>область</strong> — сочетания товаров и складов. Физические блокировки СУБД и файловой базы могут быть шире: не следует обещать одинаковую параллельность для этих вариантов. Подробнее — <a href="https://1c-dn.com/1c_enterprise/transaction_lock_management/" target="_blank" rel="noopener noreferrer">документация 1С о режимах блокировок</a>.</p>
+<h2 id="новая-методика-записать--проверить">Новая методика: записать → проверить</h2>
+<p>Модуль объекта <code>РасходнаяНакладная</code>:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> ОбработкаПроведения</span><span style="color:var(--shiki-foreground)">(Отказ</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Режим)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">	// 1. Формируем расход и записываем его сразу, с блокировкой</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Движения.ТоварыНаСкладах.Записывать </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> Истина</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Движения.ТоварыНаСкладах.БлокироватьДляИзменения </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> Истина</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Для Каждого</span><span style="color:var(--shiki-foreground)"> СтрокаТовара </span><span style="color:var(--shiki-token-keyword)">Из</span><span style="color:var(--shiki-foreground)"> Товары </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Движение </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Движения.ТоварыНаСкладах.ДобавитьРасход()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Движение.Период </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Дата</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Движение.Номенклатура </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> СтрокаТовара.Товар</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Движение.Склад </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Склад</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Движение.Количество </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> СтрокаТовара.Количество</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Движения.ТоварыНаСкладах.Записать()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">	// 2. Контроль — только при оперативном проведении (текущей датой)</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Если</span><span style="color:var(--shiki-foreground)"> Режим </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> РежимПроведенияДокумента.Оперативный </span><span style="color:var(--shiki-token-keyword)">Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		ПроверитьОстатки(Отказ)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЕсли;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">	// ... движения продаж и прочее — как раньше</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> ПроверитьОстатки</span><span style="color:var(--shiki-foreground)">(Отказ)</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Запрос </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> Запрос(</span></span>
+<span data-line=""><span style="color:var(--shiki-token-string-expression)">	"</span><span style="color:var(--shiki-token-keyword)">ВЫБРАТЬ</span></span>
+<span data-line=""><span style="color:var(--shiki-token-string-expression)">	|	О.Номенклатура </span><span style="color:var(--shiki-token-keyword)">КАК</span><span style="color:var(--shiki-token-string-expression)"> Номенклатура</span><span style="color:var(--shiki-token-keyword)">,</span></span>
+<span data-line=""><span style="color:var(--shiki-token-string-expression)">	|	О.Номенклатура.Наименование </span><span style="color:var(--shiki-token-keyword)">КАК</span><span style="color:var(--shiki-token-string-expression)"> Наименование</span><span style="color:var(--shiki-token-keyword)">,</span></span>
+<span data-line=""><span style="color:var(--shiki-token-string-expression)">	|	</span><span style="color:var(--shiki-token-keyword)">-</span><span style="color:var(--shiki-token-string-expression)">О.КоличествоОстаток </span><span style="color:var(--shiki-token-keyword)">КАК</span><span style="color:var(--shiki-token-string-expression)"> Нехватка</span></span>
+<span data-line=""><span style="color:var(--shiki-token-string-expression)">	|</span><span style="color:var(--shiki-token-keyword)">ИЗ</span></span>
+<span data-line=""><span style="color:var(--shiki-token-string-expression)">	|	РегистрНакопления.ТоварыНаСкладах.Остатки(</span></span>
+<span data-line=""><span style="color:var(--shiki-token-string-expression)">	|		</span><span style="color:var(--shiki-token-keyword)">,</span></span>
+<span data-line=""><span style="color:var(--shiki-token-string-expression)">	|		(Номенклатура</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> Склад) </span><span style="color:var(--shiki-token-keyword)">В</span></span>
+<span data-line=""><span style="color:var(--shiki-token-string-expression)">	|			(</span><span style="color:var(--shiki-token-keyword)">ВЫБРАТЬ</span><span style="color:var(--shiki-token-string-expression)"> Т.Номенклатура</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> Т.Склад</span></span>
+<span data-line=""><span style="color:var(--shiki-token-string-expression)">	|			</span><span style="color:var(--shiki-token-keyword)">ИЗ</span><span style="color:var(--shiki-token-string-expression)"> РегистрНакопления.ТоварыНаСкладах </span><span style="color:var(--shiki-token-keyword)">КАК</span><span style="color:var(--shiki-token-string-expression)"> Т</span></span>
+<span data-line=""><span style="color:var(--shiki-token-string-expression)">	|			</span><span style="color:var(--shiki-token-keyword)">ГДЕ</span><span style="color:var(--shiki-token-string-expression)"> Т.Регистратор </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-string-expression)"> &#x26;Ссылка)) </span><span style="color:var(--shiki-token-keyword)">КАК</span><span style="color:var(--shiki-token-string-expression)"> О</span></span>
+<span data-line=""><span style="color:var(--shiki-token-string-expression)">	|</span><span style="color:var(--shiki-token-keyword)">ГДЕ</span></span>
+<span data-line=""><span style="color:var(--shiki-token-string-expression)">	|	О.КоличествоОстаток </span><span style="color:var(--shiki-token-keyword)">&#x3C;</span><span style="color:var(--shiki-token-constant)"> 0</span><span style="color:var(--shiki-token-string-expression)">"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Запрос.УстановитьПараметр(</span><span style="color:var(--shiki-token-string-expression)">"Ссылка"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Ссылка)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Выборка </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Запрос.Выполнить().Выбрать()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Пока</span><span style="color:var(--shiki-foreground)"> Выборка.Следующий() </span><span style="color:var(--shiki-token-keyword)">Цикл</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Сообщение </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> СообщениеПользователю</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Сообщение.Текст </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> СтрШаблон</span><span style="color:var(--shiki-foreground)">(</span><span style="color:var(--shiki-token-string-expression)">"Не хватает «%1»: %2 шт."</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Выборка.Наименование</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Выборка.Нехватка)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Сообщение.УстановитьДанные(ЭтотОбъект)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Сообщение.Сообщить()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">		Отказ </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> Истина</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЦикла;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span></code></pre></figure>
+<p>Разбор:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Строка</th><th>Зачем</th></tr></thead><tbody><tr><td><code>БлокироватьДляИзменения = Истина</code></td><td>При записи набор <strong>исключительно блокирует</strong> изменяемую область регистра до конца транзакции</td></tr><tr><td><code>Записать()</code> сразу</td><td>Движения уже в базе (внутри транзакции проведения) — запрос остатков их учтёт. После <code>Записать()</code> флаг <code>Записывать</code> сбрасывается, повторной записи в конце не будет</td></tr><tr><td>Условие <code>(Номенклатура, Склад) В (… Регистратор = &#x26;Ссылка)</code></td><td>Проверяем только товары этого документа</td></tr><tr><td>Пустой первый параметр <code>Остатки(, …)</code></td><td>Текущие итоги с учётом уже записанных движений документа; после ожидания блокировки учитываем и завершившуюся чужую транзакцию</td></tr><tr><td><code>ГДЕ КоличествоОстаток &#x3C; 0</code></td><td>Отрицательный остаток = нехватка</td></tr><tr><td><code>Отказ = Истина</code></td><td>Проведение отменяется, транзакция откатывает записанные движения</td></tr></tbody></table></div>
+<div class="callout callout-info" data-callout="info">
+<div class="callout-title">Почему проверка только в оперативном режиме</div>
+<div class="callout-body"><p>Это <strong>выбранное правило учебного примера</strong>: проверяем текущие итоги только при оперативном проведении. При неоперативном проведении этот код проверки не выполняет и минус возможен. Если по заданию расход без остатка запрещён всегда, отдельно определите правила для прошлых и будущих дат, отмены проведения прихода и перепроведения зависимых документов. Исторический остаток на момент документа и текущий остаток — разные проверки; замена пустого параметра на <code>МоментВремени()</code> сама по себе задачу не решает.</p></div>
+</div>
+<h2 id="классическая-схема-заблокировать--прочитать--записать">Классическая схема: заблокировать → прочитать → записать</h2>
+<p>Встречается в старом коде и полезна, когда остатки нужны <strong>до</strong> формирования движений (например, для списания по партиям):</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-foreground)">Блокировка </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-function)"> Новый</span><span style="color:var(--shiki-foreground)"> БлокировкаДанных</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">ЭлементБлокировки </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Блокировка.Добавить(</span><span style="color:var(--shiki-token-string-expression)">"РегистрНакопления.ТоварыНаСкладах"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">ЭлементБлокировки.Режим </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> РежимБлокировкиДанных.Исключительный</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">ЭлементБлокировки.ИсточникДанных </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Товары</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">ЭлементБлокировки.ИспользоватьИзИсточникаДанных(</span><span style="color:var(--shiki-token-string-expression)">"Номенклатура"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "Товар"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">ЭлементБлокировки.УстановитьЗначение(</span><span style="color:var(--shiki-token-string-expression)">"Склад"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> Склад)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Блокировка.Заблокировать()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">// теперь читаем остатки запросом — никто не изменит их до конца транзакции</span></span></code></pre></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Свойство</th><th>Смысл</th></tr></thead><tbody><tr><td><code>Добавить("РегистрНакопления.…")</code></td><td>Какое пространство блокируем</td></tr><tr><td><code>Режим</code></td><td><code>Исключительный</code> — для изменения; <code>Разделяемый</code> — для согласованного чтения</td></tr><tr><td><code>ИсточникДанных</code> + <code>ИспользоватьИзИсточникаДанных</code></td><td>Значения поля берём из колонки табличной части — блокируются только эти товары</td></tr><tr><td><code>УстановитьЗначение</code></td><td>Фиксированное значение поля</td></tr><tr><td><code>Заблокировать()</code></td><td>Работает только <strong>внутри транзакции</strong> (в проведении она уже есть)</td></tr></tbody></table></div>
+<h2 id="где-ещё-нужна-блокировка">Где ещё нужна блокировка</h2>
+<ul>
+<li>Нумерация «своими силами», расчёт очередного номера — блокируем, иначе дубли.</li>
+<li>Изменение объекта, прочитанного ранее: <code>Объект.Заблокировать()</code> — отдельный механизм блокировки редактирования объекта; он не заменяет блокировку области регистра и имеет свой порядок освобождения.</li>
+<li>Обработка, которая читает и затем меняет одни и те же данные.</li>
+</ul>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Короткие транзакции</div>
+<div class="callout-body"><p>Блокировка держится до конца транзакции. Никаких вопросов пользователю, HTTP-запросов и долгих циклов внутри проведения — иначе другие пользователи будут ждать, а при большой очереди получат ошибку таймаута блокировки. Подробнее — <a href="/restart/l/02/28/" data-internal="true">28. Транзакции и блокировки</a>.</p></div>
+</div>
+<h2 id="проверка">Проверка</h2>
+<ol>
+<li>Приход 10 чайников → расход 3 → проведён, остаток 7.</li>
+<li>Расход 8 → отказ «Не хватает «Чайник»: 1 шт.», движений нет.</li>
+<li>Две строки одного товара по 4 и 4 при остатке 7 → отказ на нехватку 1 (запрос остатков учитывает обе строки).</li>
+<li>На платформе, допускающей два сеанса: приход 1; в каждом сеансе подготовить расход 1 одного товара с одного склада. В первом остановиться после <code>Записать()</code>, во втором начать проведение, затем продолжить первый. Первый расход проходит, второй после ожидания получает отказ. При достаточном остатке оба расхода должны проходить.</li>
+</ol>
+<div class="callout callout-info" data-callout="info">
+<div class="callout-title">Проверка на учебной платформе</div>
+<div class="callout-body"><p>В версии для обучения программированию разрешён один сеанс работы с базой. Пункты 1–3 можно выполнить здесь; конкурентный сценарий — на отдельном стенде с платформой, допускающей несколько сеансов. См. <a href="https://v8.1c.ru/upload/iblock/989/9893a2b23aa198b9b491dd90ffe2bffa.pdf" target="_blank" rel="noopener noreferrer">ограничения учебной версии от 1С</a>.</p></div>
+</div>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Почему проверка «прочитать остаток → записать» без блокировки ненадёжна?</p>
+</li>
+<li>
+<p>Зачем в новой методике писать движения <strong>до</strong> проверки?</p>
+</li>
+<li>
+<p>Что откатывает <code>Отказ = Истина</code> после <code>Записать()</code>?</p>
+</li>
+<li>
+<p>Где работает <code>Блокировка.Заблокировать()</code>?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Два сеанса могут прочитать одинаковый остаток до записи друг друга.</li>
+<li>Запись с блокировкой захватывает область и сразу учитывает движения документа в остатке — проверка становится одним запросом.</li>
+<li>Всю транзакцию проведения, включая записанные движения.</li>
+<li>Только внутри транзакции.</li>
+</ol></div>
+</details></div>
+</details>20:["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L2e",null,{"children":"$1d:0:1:d:r:props:children:0:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","1c9mnd1",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/05/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"05"}],"Профессиональная разработка"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","02"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[6," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Контроль остатков и блокировки"}],["$","div",null,{"className":"mt-7","children":["$","$L2f",null,{"id":"12ipfvj","href":"/l/05/02/","title":"Контроль остатков и блокировки"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$30"}}],"$L31","$L32","$L33","$L34","$L35"]}]]}]
+21:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L36",null,{"items":[{"id":"задача-нельзя-продать-больше-чем-есть","text":"Задача: нельзя продать больше, чем есть","depth":2},{"id":"почему-проверить-и-записать-недостаточно","text":"Почему «проверить и записать» недостаточно","depth":2},{"id":"режим-блокировок","text":"Режим блокировок","depth":2},{"id":"новая-методика-записать--проверить","text":"Новая методика: записать → проверить","depth":2},{"id":"классическая-схема-заблокировать--прочитать--записать","text":"Классическая схема: заблокировать → прочитать → записать","depth":2},{"id":"где-ещё-нужна-блокировка","text":"Где ещё нужна блокировка","depth":2},{"id":"проверка","text":"Проверка","depth":2}]}]}]
+22:["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true}]
+23:["$","$L37",null,{"children":["$","$29",null,{"name":"Next.MetadataOutlet","children":"$@38"}]}]
+39:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+3a:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+3b:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+3c:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+17:300
+31:["$","$L39",null,{"targetId":"lesson-body"}]
+32:["$","$L3a",null,{"targetId":"lesson-body"}]
+33:["$","$L3b",null,{"targetId":"lesson-body"}]
+34:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L2f",null,{"id":"12ipfvj","href":"/l/05/02/","title":"Контроль остатков и блокировки","variant":"footer"}]}]
+35:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/05/01/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L3c",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Регистр остатков на практике"}]]}],["$","$L13",null,{"href":"/l/05/03/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L3c",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Печатная форма документа"}]]}]]}]
+38:null
+2d:true
+17:C
+2c:0
+1c:"$undefined"
+19:"$undefined"
+16:"$undefined"
+2b:"$undefined"
+24:"$undefined"

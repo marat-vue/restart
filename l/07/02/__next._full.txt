@@ -1,0 +1,263 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1b:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:"ViewportBoundary"
+1f:I[97367,["$2","$3","$4","$5","$6","$7"],"$1e"]
+21:"MetadataBoundary"
+22:I[97367,["$2","$3","$4","$5","$6","$7"],"$21"]
+24:I[68027,["$2","$3","$4","$5","$6","$7"],"default",1]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+:HL["/restart/_next/static/media/051742360c26797e-s.p.1bkzbscqrt8rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/26f284dcc38c84c0-s.p.3hlisc-pwq13z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/42b035f1a63f268d-s.p.2m8t2-vl1h1kf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/b4a06a523f527a0e-s.p.3psl0_mnhzy2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/cfdfbee4d6cf0a93-s.p.1jwcpm6w583_v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/e8768c288fbd3aa6-s.p.1t1z0xjflawjj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+17:X
+19:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L1a",[["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true,"nonce":"$undefined"}]],["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]]}],"p":false,"v":null}}]]
+18:[["children",{"s":{"n":"slug","t":"c","k":"07/02","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q19"}]]
+16:[["children",{"s":"l","h":131584,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q18"}]]
+0:{"P":null,"c":["","l","07","02",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true,"nonce":"$undefined"}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":false,"v":null},"c":"$Q16"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$L20"}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":"$L23"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$24",[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+17:C
+25:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+26:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+27:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+28:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+29:T39e3,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p><strong>Требование</strong> — что должна делать программа. <strong>Тест</strong> (тест-кейс) — проверка одного поведения: предусловия, шаги, <strong>ожидаемый результат</strong>. Выполнив тест, получаем <strong>фактический результат</strong>; если он отличается от ожидаемого — найден <strong>дефект</strong> (баг). <strong>Ошибка</strong> человека в коде приводит к <strong>дефекту</strong> в программе, а дефект — к <strong>сбою</strong> у пользователя. <strong>Позитивный</strong> тест проверяет нормальную работу, <strong>негативный</strong> — реакцию на неправильные данные. <strong>Регрессия</strong> — когда после изменения ломается то, что раньше работало.</p></div>
+</div>
+<h2 id="словарь-тестировщика">Словарь тестировщика</h2>
+<p>Без общего словаря разработчик и тестировщик плохо понимают друг друга. Разберём основные термины на одном примере — расходной накладной из учебной базы.</p>
+<h3 id="требование">Требование</h3>
+<p><strong>Требование</strong> — описание того, как должна работать программа. Без требования нельзя сказать, ошибка перед нами или «так и задумано».</p>
+<blockquote>
+<p><em>Требование:</em> сумма строки товаров равна количеству, умноженному на цену, с округлением до копеек. Накладную нельзя провести без покупателя.</p>
+</blockquote>
+<h3 id="тест-и-тест-кейс">Тест и тест-кейс</h3>
+<p><strong>Тест-кейс</strong> — описание одной проверки: что подготовить, какие действия выполнить и что должно получиться.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Часть</th><th>Пример</th></tr></thead><tbody><tr><td><strong>Название</strong></td><td>Расчёт суммы строки при вводе количества</td></tr><tr><td><strong>Предусловия</strong> — что должно быть до начала</td><td>Открыта новая расходная накладная, есть товар «Чайник»</td></tr><tr><td><strong>Шаги</strong> — что делаем</td><td>1. Добавить строку. 2. Выбрать «Чайник». 3. Ввести цену 150. 4. Ввести количество 2</td></tr><tr><td><strong>Ожидаемый результат</strong> — что должно получиться</td><td>Сумма строки = 300</td></tr></tbody></table></div>
+<p>Подробно об оформлении — в <a href="/restart/l/07/05/" data-internal="true">05. Тест-кейсы и баг-репорты</a>.</p>
+<h3 id="ожидаемый-и-фактический-результат">Ожидаемый и фактический результат</h3>
+<ul>
+<li><strong>Ожидаемый результат</strong> — что <strong>должно</strong> получиться по требованию. Записывается <strong>до</strong> выполнения теста.</li>
+<li><strong>Фактический результат</strong> — что получилось на самом деле.</li>
+</ul>
+<p>Совпали — тест <strong>пройден</strong>. Не совпали — тест <strong>не пройден</strong>, найден дефект.</p>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Ожидаемый результат — до запуска</div>
+<div class="callout-body"><p>Если сначала посмотреть, что выдала программа, а потом решить «ну, наверное, так и надо», можно «узаконить» ошибку. Ожидаемый результат записываем заранее, опираясь на требование.</p></div>
+</div>
+<h3 id="ошибка-дефект-сбой">Ошибка, дефект, сбой</h3>
+<p>Эти слова в быту путают, а в тестировании различают:</p>
+<pre><pre class="mermaid-source">flowchart LR
+    A["Ошибка (error)&#x3C;br/>человек ошибся:&#x3C;br/>забыл Окр()"] --> B["Дефект (bug, defect)&#x3C;br/>в коде неправильная формула"] --> C["Сбой (failure)&#x3C;br/>пользователь видит&#x3C;br/>сумму 37.035 вместо 37.04"]
+</pre></pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Термин</th><th>Где</th><th>Пример</th></tr></thead><tbody><tr><td><strong>Ошибка</strong></td><td>В голове человека</td><td>Разработчик забыл, что цену можно ввести с тремя знаками</td></tr><tr><td><strong>Дефект (баг)</strong></td><td>В коде или настройках</td><td>Нет округления в формуле суммы</td></tr><tr><td><strong>Сбой</strong></td><td>Видимое проявление при работе</td><td>В печатной форме сумма с тремя знаками после запятой</td></tr></tbody></table></div>
+<p>Дефект может долго «спать» и проявиться только при определённых данных — например, только когда цена дробная.</p>
+<h2 id="позитивные-и-негативные-тесты">Позитивные и негативные тесты</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Вид</th><th>Что проверяет</th><th>Пример для накладной</th></tr></thead><tbody><tr><td><strong>Позитивный</strong></td><td>Программа правильно работает с <strong>правильными</strong> данными</td><td>Количество 2, цена 150 → сумма 300, документ проводится</td></tr><tr><td><strong>Негативный</strong></td><td>Программа правильно <strong>реагирует</strong> на <strong>неправильные</strong> данные и действия</td><td>Нет покупателя → понятное сообщение, документ <strong>не</strong> проводится</td></tr></tbody></table></div>
+<p>Новички проверяют в основном позитивные сценарии: «ввёл нормальные данные — работает». Но пользователи постоянно делают «неправильные» вещи: оставляют поля пустыми, вводят ноль и отрицательные числа, нажимают кнопки дважды. Большая часть дефектов прячется именно в негативных сценариях.</p>
+<div class="callout callout-tip" data-callout="tip">
+<div class="callout-title">Правило</div>
+<div class="callout-body"><p>На каждый позитивный тест придумайте хотя бы один-два негативных: «а что, если поле пустое? ноль? минус? очень большое число? нет прав?».</p></div>
+</div>
+<h2 id="регрессия">Регрессия</h2>
+<p><strong>Регрессия</strong> — ситуация, когда после изменения программы <strong>перестаёт работать то, что раньше работало</strong>.</p>
+<p>Пример: мы добавили в проведение расходной накладной контроль остатков (<a href="/restart/l/05/02/" data-internal="true">02. Контроль остатков</a>). Новая проверка работает. Но в коде случайно сломался расчёт движений по регистру продаж — и отчёт по продажам стал показывать нули.</p>
+<p><strong>Регрессионное тестирование</strong> — повторная проверка старой функциональности после изменений. Это самая скучная и самая важная часть тестирования, поэтому её автоматизируют в первую очередь.</p>
+<h2 id="верификация-и-валидация">Верификация и валидация</h2>
+<p>Два похожих вопроса, которые задают на собеседованиях:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th></th><th>Вопрос</th><th>Пример</th></tr></thead><tbody><tr><td><strong>Верификация</strong></td><td>«Мы <strong>правильно</strong> сделали продукт?» — соответствует ли он требованиям</td><td>Сумма строки считается по формуле из ТЗ</td></tr><tr><td><strong>Валидация</strong></td><td>«Мы сделали <strong>правильный</strong> продукт?» — решает ли он задачу пользователя</td><td>Кладовщику действительно удобно вводить накладные</td></tr></tbody></table></div>
+<p>Программа может идеально соответствовать требованиям и всё равно оказаться бесполезной, если требования были неверными.</p>
+<h2 id="покрытие">Покрытие</h2>
+<p><strong>Покрытие</strong> — насколько полно тесты проверяют программу. Его оценивают по-разному:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Покрытие</th><th>Вопрос</th></tr></thead><tbody><tr><td>Требований</td><td>Для каждого ли требования есть тест?</td></tr><tr><td>Кода</td><td>Какая доля строк кода выполнилась при прогоне тестов?</td></tr><tr><td>Сценариев</td><td>Проверены ли основные пути пользователя?</td></tr></tbody></table></div>
+<p>Стопроцентное покрытие кода не означает отсутствия ошибок: строка выполнилась, но с одним набором данных, а с другим может сломаться.</p>
+<h2 id="семь-принципов-тестирования">Семь принципов тестирования</h2>
+<p>Эти принципы часто спрашивают на собеседованиях по тестированию:</p>
+<ol>
+<li><strong>Тестирование показывает наличие дефектов</strong>, а не их отсутствие.</li>
+<li><strong>Исчерпывающее тестирование невозможно</strong> — проверить все комбинации нельзя, нужно выбирать.</li>
+<li><strong>Раннее тестирование</strong> экономит время и деньги — чем раньше нашли, тем дешевле.</li>
+<li><strong>Скопление дефектов</strong>: большинство ошибок обычно сосредоточено в небольшой части программы (сложное проведение, интеграции).</li>
+<li><strong>Парадокс пестицида</strong>: если повторять одни и те же тесты, они перестают находить новые ошибки — тесты нужно обновлять.</li>
+<li><strong>Тестирование зависит от контекста</strong>: банковскую систему и сайт-визитку проверяют по-разному.</li>
+<li><strong>Заблуждение об отсутствии ошибок</strong>: программа без ошибок, которая не нужна пользователю, — всё равно плохая программа.</li>
+</ol>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Из каких частей состоит тест-кейс?</p>
+</li>
+<li>
+<p>Почему ожидаемый результат нужно записать до выполнения теста?</p>
+</li>
+<li>
+<p>Чем ошибка отличается от дефекта и сбоя?</p>
+</li>
+<li>
+<p>Приведите негативный тест для поля «Количество» в строке накладной.</p>
+</li>
+<li>
+<p>Что такое регрессия?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Название, предусловия, шаги, ожидаемый результат.</li>
+<li>Чтобы не подогнать «ожидание» под фактический результат программы и не узаконить ошибку.</li>
+<li>Ошибка — промах человека; дефект — неправильность в коде; сбой — видимое проявление дефекта при работе.</li>
+<li>Ввести количество 0 или −1 и попытаться провести — ожидаем сообщение об ошибке и отказ в проведении.</li>
+<li>Поломка ранее работавшей функциональности после изменения программы.</li>
+</ol></div>
+</details></div>
+</details>1a:[["$","$L25",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L26",null,{"tree":{"kind":"folder","id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/","children":[{"kind":"lesson","id":"1hx2s48","num":"00","title":"Навигация по разделу","href":"/l/07/00/","children":"$undefined"},{"kind":"lesson","id":"1vki0ku","num":"01","title":"Зачем нужно тестирование","href":"/l/07/01/","children":"$undefined"},{"kind":"lesson","id":"1ft8vz9","num":"02","title":"Основные понятия тестирования","href":"/l/07/02/","children":"$undefined"},{"kind":"lesson","id":"5olfwt","num":"03","title":"Виды и уровни тестирования","href":"/l/07/03/","children":"$undefined"},{"kind":"lesson","id":"1s0acu1","num":"04","title":"Техники тест-дизайна","href":"/l/07/04/","children":"$undefined"},{"kind":"lesson","id":"1ept4s1","num":"05","title":"Тест-кейсы и баг-репорты","href":"/l/07/05/","children":"$undefined"},{"kind":"lesson","id":"1qld6tb","num":"06","title":"Что и чем тестировать в 1С","href":"/l/07/06/","children":"$undefined"},{"kind":"lesson","id":"fm5x90","num":"07","title":"Модульные тесты своими руками","href":"/l/07/07/","children":"$undefined"},{"kind":"lesson","id":"2e0v2y","num":"08","title":"Модульные тесты в YAxUnit","href":"/l/07/08/","children":"$undefined"},{"kind":"lesson","id":"e3l0hr","num":"09","title":"BDD и язык Gherkin","href":"/l/07/09/","children":"$undefined"},{"kind":"lesson","id":"79gt5r","num":"10","title":"Vanessa Automation — установка и запуск","href":"/l/07/10/","children":"$undefined"},{"kind":"lesson","id":"1lcgo32","num":"11","title":"Первый сценарий в Vanessa Automation","href":"/l/07/11/","children":"$undefined"},{"kind":"lesson","id":"j3qawi","num":"12","title":"Шаги, проверки и запись действий","href":"/l/07/12/","children":"$undefined"},{"kind":"lesson","id":"1aeq2d9","num":"13","title":"Тестовые данные и независимость сценариев","href":"/l/07/13/","children":"$undefined"},{"kind":"lesson","id":"1qqfmo6","num":"14","title":"Регрессия, отчёты и запуск без участия человека","href":"/l/07/14/","children":"$undefined"},{"kind":"lesson","id":"shckox","num":"15","title":"Практика — тестируем расходную накладную","href":"/l/07/15/","children":"$undefined"},{"kind":"lesson","id":"11nejw8","num":"16","title":"Памятка — тестирование","href":"/l/07/16/","children":"$undefined"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"1ft8vz9"}]}],["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L27",null,{"children":"$1a:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","14mlr13",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/07/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"07"}],"Тестирование 1С"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","02"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[6," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Основные понятия тестирования"}],["$","div",null,{"className":"mt-7","children":["$","$L28",null,{"id":"1ft8vz9","href":"/l/07/02/","title":"Основные понятия тестирования"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$29"}}],"$L2a","$L2b","$L2c","$L2d","$L2e"]}]]}],"$L2f"]}]]
+30:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+31:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+32:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+33:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+34:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+2a:["$","$L30",null,{"targetId":"lesson-body"}]
+2b:["$","$L31",null,{"targetId":"lesson-body"}]
+2c:["$","$L32",null,{"targetId":"lesson-body"}]
+2d:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L28",null,{"id":"1ft8vz9","href":"/l/07/02/","title":"Основные понятия тестирования","variant":"footer"}]}]
+2e:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/07/01/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L33",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Зачем нужно тестирование"}]]}],["$","$L13",null,{"href":"/l/07/03/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L33",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Виды и уровни тестирования"}]]}]]}]
+2f:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L34",null,{"items":[{"id":"словарь-тестировщика","text":"Словарь тестировщика","depth":2},{"id":"требование","text":"Требование","depth":3},{"id":"тест-и-тест-кейс","text":"Тест и тест-кейс","depth":3},{"id":"ожидаемый-и-фактический-результат","text":"Ожидаемый и фактический результат","depth":3},{"id":"ошибка-дефект-сбой","text":"Ошибка, дефект, сбой","depth":3},{"id":"позитивные-и-негативные-тесты","text":"Позитивные и негативные тесты","depth":2},{"id":"регрессия","text":"Регрессия","depth":2},{"id":"верификация-и-валидация","text":"Верификация и валидация","depth":2},{"id":"покрытие","text":"Покрытие","depth":2},{"id":"семь-принципов-тестирования","text":"Семь принципов тестирования","depth":2}]}]}]
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]
+35:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+1d:null
+23:[["$","title","0",{"children":"Основные понятия тестирования · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L35","3",{}]]

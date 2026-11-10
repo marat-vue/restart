@@ -1,0 +1,211 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1b:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:"ViewportBoundary"
+1f:I[97367,["$2","$3","$4","$5","$6","$7"],"$1e"]
+21:"MetadataBoundary"
+22:I[97367,["$2","$3","$4","$5","$6","$7"],"$21"]
+24:I[68027,["$2","$3","$4","$5","$6","$7"],"default",1]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+:HL["/restart/_next/static/media/051742360c26797e-s.p.1bkzbscqrt8rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/26f284dcc38c84c0-s.p.3hlisc-pwq13z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/42b035f1a63f268d-s.p.2m8t2-vl1h1kf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/b4a06a523f527a0e-s.p.3psl0_mnhzy2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/cfdfbee4d6cf0a93-s.p.1jwcpm6w583_v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/e8768c288fbd3aa6-s.p.1t1z0xjflawjj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+17:X
+19:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L1a",[["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true,"nonce":"$undefined"}]],["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]]}],"p":false,"v":null}}]]
+18:[["children",{"s":{"n":"slug","t":"c","k":"03/22","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q19"}]]
+16:[["children",{"s":"l","h":131584,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q18"}]]
+0:{"P":null,"c":["","l","03","22",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true,"nonce":"$undefined"}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":false,"v":null},"c":"$Q16"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$L20"}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":"$L23"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$24",[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+17:C
+25:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+26:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+1a:[["$","$L25",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L26",null,{"tree":{"kind":"folder","id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/","children":[{"kind":"lesson","id":"17boebz","num":"00","title":"Навигация по разделу","href":"/l/03/00/","children":"$undefined"},{"kind":"lesson","id":"1lkrwkt","num":"01","title":"Запросы и таблицы базы","href":"/l/03/01/","children":"$undefined"},{"kind":"lesson","id":"14nptpf","num":"02","title":"Первый запрос в конструкторе и в коде","href":"/l/03/02/","children":"$undefined"},{"kind":"lesson","id":"1nxb71v","num":"03","title":"Выбор полей, псевдонимы и сортировка","href":"/l/03/03/","children":"$undefined"},{"kind":"lesson","id":"16ekhad","num":"04","title":"Условия и отбор строк","href":"/l/03/04/","children":"$undefined"},{"kind":"lesson","id":"1pzidkf","num":"05","title":"Параметры и границы периода","href":"/l/03/05/","children":"$undefined"},{"kind":"lesson","id":"ym6g8r","num":"06","title":"Ссылки, иерархия и составные типы","href":"/l/03/06/","children":"$undefined"},{"kind":"lesson","id":"z2l8e8","num":"07","title":"Запрос к табличной части документа","href":"/l/03/07/","children":"$undefined"},{"kind":"lesson","id":"1jifwj7","num":"08","title":"Соединения таблиц","href":"/l/03/08/","children":"$undefined"},{"kind":"lesson","id":"ms2o5o","num":"09","title":"NULL и отсутствующие значения","href":"/l/03/09/","children":"$undefined"},{"kind":"lesson","id":"1lwqgjv","num":"10","title":"Группировка и агрегатные функции","href":"/l/03/10/","children":"$undefined"},{"kind":"lesson","id":"1jkkxfl","num":"11","title":"Итоги и обход результата запроса","href":"/l/03/11/","children":"$undefined"},{"kind":"lesson","id":"198d651","num":"12","title":"Выражения и функции языка запросов","href":"/l/03/12/","children":"$undefined"},{"kind":"lesson","id":"e9pt2h","num":"13","title":"Объединение результатов","href":"/l/03/13/","children":"$undefined"},{"kind":"lesson","id":"18i7pdj","num":"14","title":"Вложенные запросы","href":"/l/03/14/","children":"$undefined"},{"kind":"lesson","id":"2hbwfu","num":"15","title":"Временные таблицы и пакеты запросов","href":"/l/03/15/","children":"$undefined"},{"kind":"lesson","id":"n84mjm","num":"16","title":"Виртуальные таблицы регистров накопления","href":"/l/03/16/","children":"$undefined"},{"kind":"lesson","id":"pgwonp","num":"17","title":"Регистры сведений и срез последних","href":"/l/03/17/","children":"$undefined"},{"kind":"lesson","id":"vlr597","num":"18","title":"Проверка и ускорение запросов","href":"/l/03/18/","children":"$undefined"},{"kind":"lesson","id":"142foy4","num":"19","title":"Как устроена СКД","href":"/l/03/19/","children":"$undefined"},{"kind":"lesson","id":"152ycof","num":"20","title":"Создание отчёта и набора данных","href":"/l/03/20/","children":"$undefined"},{"kind":"lesson","id":"1xevjbs","num":"21","title":"Поля и ресурсы СКД","href":"/l/03/21/","children":"$undefined"},{"kind":"lesson","id":"jk420v","num":"22","title":"Параметры периода в СКД","href":"/l/03/22/","children":"$undefined"},{"kind":"lesson","id":"58dprv","num":"23","title":"Структура отчёта и выбранные поля","href":"/l/03/23/","children":"$undefined"},{"kind":"lesson","id":"99pyu7","num":"24","title":"Отбор, сортировка и пользовательские настройки","href":"/l/03/24/","children":"$undefined"},{"kind":"lesson","id":"5i2ibk","num":"25","title":"Вычисляемые поля и оформление","href":"/l/03/25/","children":"$undefined"},{"kind":"lesson","id":"1inj8zi","num":"26","title":"Таблицы, диаграммы и варианты отчёта","href":"/l/03/26/","children":"$undefined"},{"kind":"lesson","id":"w5tpc3","num":"27","title":"Несколько наборов и расширение языка СКД","href":"/l/03/27/","children":"$undefined"},{"kind":"lesson","id":"knkon2","num":"28","title":"Программное формирование отчёта СКД","href":"/l/03/28/","children":"$undefined"},{"kind":"lesson","id":"1yiya54","num":"29","title":"Практика по языку запросов","href":"/l/03/29/","children":"$undefined"},{"kind":"lesson","id":"1lqu8yq","num":"30","title":"Практика по СКД","href":"/l/03/30/","children":"$undefined"},{"kind":"lesson","id":"113x59o","num":"31","title":"Ошибки и памятка для повторения","href":"/l/03/31/","children":"$undefined"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"jk420v"}]}],"$L27","$L28"]}]]
+29:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+2a:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+31:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+2b:T2faf,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p>Пользователь вводит <strong>даты</strong> (<code>ДатаНачала</code>, <code>ДатаОкончания</code>), а технические границы считаем выражениями СКД: <code>НачалоПериода(&#x26;ДатаНачала, "День")</code>, <code>КонецПериода(&#x26;ДатаОкончания, "День")</code>. Технические параметры ограничиваем от изменения, вводимые — выводим в <strong>быстрые пользовательские настройки</strong>.</p></div>
+</div>
+<h2 id="проблема-последний-день-периода">Проблема: последний день периода</h2>
+<p>В наборе данных запрос использует параметры <code>&#x26;НачалоПериода</code> и <code>&#x26;КонецПериода</code>. СКД добавила их сама (урок 20). Если просто вывести их пользователю, он выберет «с 01.10.2026 по 31.10.2026» — и <strong>продажи 31 октября не попадут в отчёт</strong>. Почему?</p>
+<p>Потому что дата без времени — это начало дня: 31.10.2026 <strong>00:00:00</strong>. Продажа в 15:00 того же дня позже этой границы (<a href="/restart/l/03/05/" data-internal="true">05. Параметры и границы периода</a>). Нужно, чтобы конец периода был 31.10.2026 <strong>23:59:59</strong>.</p>
+<p>Решение: разделить параметры на два вида.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Вид</th><th>Параметры</th><th>Кто задаёт</th><th>Пример значения</th></tr></thead><tbody><tr><td><strong>Вводимые</strong></td><td><code>ДатаНачала</code>, <code>ДатаОкончания</code></td><td>Пользователь — просто даты</td><td>01.10.2026, 31.10.2026</td></tr><tr><td><strong>Технические</strong></td><td><code>НачалоПериода</code>, <code>КонецПериода</code></td><td>СКД вычисляет по формуле из вводимых</td><td>01.10.2026 00:00:00, 31.10.2026 23:59:59</td></tr></tbody></table></div>
+<p>Запрос продолжает использовать технические параметры, а пользователь видит только удобные даты.</p>
+<h2 id="шаг-1-создаём-вводимые-параметры">Шаг 1. Создаём вводимые параметры</h2>
+<ol>
+<li>В редакторе схемы открываем вкладку <strong>Параметры</strong>.</li>
+<li>Кнопкой <strong>Добавить</strong> создаём параметр <code>ДатаНачала</code>:
+<ul>
+<li><strong>Заголовок</strong> — «Дата начала»;</li>
+<li><strong>Тип</strong> — Дата, <strong>состав даты</strong> — Дата (без времени).</li>
+</ul>
+</li>
+<li>Так же создаём <code>ДатаОкончания</code> с заголовком «Дата окончания».</li>
+</ol>
+<h2 id="шаг-2-технические-параметры--формулой">Шаг 2. Технические параметры — формулой</h2>
+<ol start="4">
+<li>У существующих <code>НачалоПериода</code> и <code>КонецПериода</code> тип оставляем <strong>Дата и время</strong>.</li>
+<li>В колонке <strong>Выражение</strong> задаём формулы:</li>
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Параметр</th><th>Выражение</th><th>Результат для 01.10 – 31.10</th></tr></thead><tbody><tr><td><code>НачалоПериода</code></td><td><code>НачалоПериода(&#x26;ДатаНачала, "День")</code></td><td>01.10.2026 00:00:00</td></tr><tr><td><code>КонецПериода</code></td><td><code>КонецПериода(&#x26;ДатаОкончания, "День")</code></td><td>31.10.2026 23:59:59</td></tr></tbody></table></div>
+<p>Прочитаем формулу <code>КонецПериода(&#x26;ДатаОкончания, "День")</code>: «возьми значение параметра ДатаОкончания и верни конец этого дня».</p>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Это язык выражений СКД, а не встроенный язык</div>
+<div class="callout-body"><p>В выражениях СКД функции пишутся иначе, чем в коде: не <code>КонецДня(Дата)</code>, а <code>КонецПериода(&#x26;Дата, "День")</code> — период указывается <strong>строкой в кавычках</strong>. Сравнение трёх языков — в <a href="/restart/l/03/12/" data-internal="true">12. Выражения и функции языка запросов</a>.</p></div>
+</div>
+<ol start="6">
+<li>У <code>НачалоПериода</code> и <code>КонецПериода</code> включаем флажок <strong>Ограничение доступности</strong>. Тогда пользователь не увидит и не сможет вручную изменить вычисленные границы.</li>
+<li>У <code>ДатаНачала</code> и <code>ДатаОкончания</code> ограничение доступности, наоборот, <strong>снимаем</strong>.</li>
+<li>Для удобства проверки зададим вводимым датам значения по умолчанию: 01.10.2026 и 31.10.2026.</li>
+</ol>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/03.%20%D0%AF%D0%B7%D1%8B%D0%BA%20%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2%20%D0%B8%20%D0%A1%D0%9A%D0%94/08-%D0%9F%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D1%8B-%D1%81%D1%85%D0%B5%D0%BC%D1%8B.jpg" alt="08-Параметры-схемы.jpg" loading="lazy" decoding="async"></p>
+<p><em>Вкладка «Параметры» существующего отчёта: пока только два параметра периода. В новом отчёте добавляем ещё две строки и выражения по таблице выше.</em></p>
+<p>Официальный пример 1С с отдельной датой окончания — <a href="https://1c-dn.com/library/tutorials/practical_developer_guide_parameters2/" target="_blank" rel="noopener noreferrer">здесь</a>.</p>
+<h2 id="шаг-3-показываем-даты-в-шапке-отчёта">Шаг 3. Показываем даты в шапке отчёта</h2>
+<p>Параметр в схеме ещё не значит, что пользователь его увидит. Нужно вывести его в <strong>пользовательские настройки</strong> — тогда он появится в шапке формы отчёта.</p>
+<ol>
+<li>Открываем вкладку <strong>Настройки</strong> и выделяем корень дерева — <strong>Отчёт</strong>.</li>
+<li>Внизу открываем закладку <strong>Параметры</strong>. Видим список параметров схемы.</li>
+<li>Ставим флажки использования у <code>ДатаНачала</code> и <code>ДатаОкончания</code>, задаём значения.</li>
+<li>Выделяем <code>ДатаНачала</code> → <strong>ПКМ → Свойства элемента пользовательских настроек</strong>.</li>
+<li>Включаем <strong>Включать в пользовательские настройки</strong>, режим редактирования — <strong>Быстрый доступ</strong>.</li>
+<li>То же для <code>ДатаОкончания</code>.</li>
+</ol>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/03.%20%D0%AF%D0%B7%D1%8B%D0%BA%20%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2%20%D0%B8%20%D0%A1%D0%9A%D0%94/12-%D0%91%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF-%D0%BA-%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D1%83.jpg" alt="12-Быстрый-доступ-к-параметру.jpg" loading="lazy" decoding="async"></p>
+<p><em>Окно «Свойства элемента пользовательских настроек»: флажок включения и режим «Быстрый доступ».</em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Режим редактирования</th><th>Где пользователь увидит параметр</th></tr></thead><tbody><tr><td><strong>Быстрый доступ</strong></td><td>Прямо в шапке формы отчёта, над кнопкой «Сформировать»</td></tr><tr><td><strong>Обычный</strong></td><td>В окне «Настройки…»</td></tr><tr><td><strong>Недоступный</strong></td><td>Нигде — значение задаёт только разработчик</td></tr></tbody></table></div>
+<div class="callout callout-info" data-callout="info">
+<div class="callout-title">Два разных флажка</div>
+<div class="callout-body"><p>Флажок <strong>использования</strong> параметра (слева в строке) — «параметр участвует в отчёте со значением». Флажок <strong>включения в пользовательские настройки</strong> — «пользователь может его менять». Это разные вещи.</p></div>
+</div>
+<h2 id="проверка">Проверка</h2>
+<ol>
+<li>Сохраните конфигурацию, обновите БД (<code>F7</code>), откройте отчёт в Предприятии.</li>
+<li>В шапке видны поля «Дата начала» и «Дата окончания».</li>
+<li>Создайте продажу 31.10.2026 в 15:00 и 01.11.2026 в 10:00. Период 01.10–31.10: первая продажа <strong>есть</strong>, вторая — <strong>нет</strong>.</li>
+<li>Если на форме видны старые параметры — проверьте, какой вариант отчёта загружен, и восстановите стандартные настройки (<strong>Ещё → Стандартные настройки</strong>).</li>
+</ol>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Почему конец периода нельзя оставлять датой без времени?</p>
+</li>
+<li>
+<p>Как вывести параметр в шапку формы отчёта?</p>
+</li>
+<li>
+<p>Зачем ограничивать доступность параметров <code>НачалоПериода/КонецПериода</code>?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Это 00:00:00 последнего дня — продажи этого дня не попадут.</li>
+<li>«Свойства элемента пользовательских настроек» → включить, режим «Быстрый доступ».</li>
+<li>Чтобы пользователь не изменил вычисляемую границу напрямую.</li>
+</ol></div>
+</details></div>
+</details>27:["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L29",null,{"children":"$1a:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","chv2um",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/03/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"03"}],"Язык запросов и СКД"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","22"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[4," ","минуты"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Параметры периода в СКД"}],["$","div",null,{"className":"mt-7","children":["$","$L2a",null,{"id":"jk420v","href":"/l/03/22/","title":"Параметры периода в СКД"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$2b"}}],"$L2c","$L2d","$L2e","$L2f","$L30"]}]]}]
+28:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L31",null,{"items":[{"id":"проблема-последний-день-периода","text":"Проблема: последний день периода","depth":2},{"id":"шаг-1-создаём-вводимые-параметры","text":"Шаг 1. Создаём вводимые параметры","depth":2},{"id":"шаг-2-технические-параметры--формулой","text":"Шаг 2. Технические параметры — формулой","depth":2},{"id":"шаг-3-показываем-даты-в-шапке-отчёта","text":"Шаг 3. Показываем даты в шапке отчёта","depth":2},{"id":"проверка","text":"Проверка","depth":2}]}]}]
+32:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+33:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+34:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+35:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+2c:["$","$L32",null,{"targetId":"lesson-body"}]
+2d:["$","$L33",null,{"targetId":"lesson-body"}]
+2e:["$","$L34",null,{"targetId":"lesson-body"}]
+2f:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L2a",null,{"id":"jk420v","href":"/l/03/22/","title":"Параметры периода в СКД","variant":"footer"}]}]
+30:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/03/21/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L35",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Поля и ресурсы СКД"}]]}],["$","$L13",null,{"href":"/l/03/23/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L35",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Структура отчёта и выбранные поля"}]]}]]}]
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]
+36:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+1d:null
+23:[["$","title","0",{"children":"Параметры периода в СКД · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L36","3",{}]]

@@ -1,0 +1,147 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1b:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:"ViewportBoundary"
+1f:I[97367,["$2","$3","$4","$5","$6","$7"],"$1e"]
+21:"MetadataBoundary"
+22:I[97367,["$2","$3","$4","$5","$6","$7"],"$21"]
+24:I[68027,["$2","$3","$4","$5","$6","$7"],"default",1]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+:HL["/restart/_next/static/media/051742360c26797e-s.p.1bkzbscqrt8rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/26f284dcc38c84c0-s.p.3hlisc-pwq13z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/42b035f1a63f268d-s.p.2m8t2-vl1h1kf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/b4a06a523f527a0e-s.p.3psl0_mnhzy2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/cfdfbee4d6cf0a93-s.p.1jwcpm6w583_v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/e8768c288fbd3aa6-s.p.1t1z0xjflawjj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+17:X
+19:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L1a",[["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true,"nonce":"$undefined"}]],["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]]}],"p":false,"v":null}}]]
+18:[["children",{"s":{"n":"slug","t":"c","k":"01/11","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q19"}]]
+16:[["children",{"s":"l","h":131584,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q18"}]]
+0:{"P":null,"c":["","l","01","11",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true,"nonce":"$undefined"}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":false,"v":null},"c":"$Q16"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$L20"}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":"$L23"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$24",[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+17:C
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]
+25:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+26:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+27:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+1a:[["$","$L25",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L26",null,{"tree":{"kind":"folder","id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/","children":[{"kind":"lesson","id":"hom46a","num":"00","title":"Навигация по разделу","href":"/l/01/00/","children":"$undefined"},{"kind":"lesson","id":"h2iria","num":"01","title":"Платформа 1С","href":"/l/01/01/","children":"$undefined"},{"kind":"lesson","id":"1lf6e8v","num":"02","title":"Версии платформы 1С","href":"/l/01/02/","children":"$undefined"},{"kind":"lesson","id":"17l0vhk","num":"03","title":"Информационная база 1С","href":"/l/01/03/","children":"$undefined"},{"kind":"lesson","id":"hutb90","num":"04","title":"Интерфейс конфигуратора","href":"/l/01/04/","children":"$undefined"},{"kind":"lesson","id":"7e7ii2","num":"05","title":"Версии конфигураций","href":"/l/01/05/","children":"$undefined"},{"kind":"lesson","id":"wjgvo2","num":"06","title":"Интерфейс платформы","href":"/l/01/06/","children":"$undefined"},{"kind":"lesson","id":"yy0x3e","num":"07","title":"Константы","href":"/l/01/07/","children":"$undefined"},{"kind":"lesson","id":"mg1w0c","num":"08","title":"Справочники","href":"/l/01/08/","children":"$undefined"},{"kind":"lesson","id":"d1jije","num":"09","title":"Форма справочника","href":"/l/01/09/","children":"$undefined"},{"kind":"lesson","id":"ed46b","num":"10","title":"Интерфейс справочника","href":"/l/01/10/","children":"$undefined"},{"kind":"lesson","id":"5x1i2z","num":"11","title":"Ссылочный тип данных","href":"/l/01/11/","children":"$undefined"},{"kind":"lesson","id":"1b2xem5","num":"12","title":"Перечисления","href":"/l/01/12/","children":"$undefined"},{"kind":"lesson","id":"lq053x","num":"13","title":"Пометка удаления","href":"/l/01/13/","children":"$undefined"},{"kind":"lesson","id":"3lm8w0","num":"14","title":"Документы","href":"/l/01/14/","children":"$undefined"},{"kind":"lesson","id":"i4gl6k","num":"15","title":"Подсистемы, интерфейс и общие объекты","href":"/l/01/15/","children":"$undefined"},{"kind":"lesson","id":"1gr37lx","num":"16","title":"Приёмы работы в Конфигураторе","href":"/l/01/16/","children":"$undefined"},{"kind":"lesson","id":"1a1bfi6","num":"17","title":"Регистры накоплений","href":"/l/01/17/","children":"$undefined"},{"kind":"lesson","id":"q2bhrx","num":"18","title":"Отчёты","href":"/l/01/18/","children":"$undefined"},{"kind":"lesson","id":"y6bbwm","num":"19","title":"Пользователи и Роли","href":"/l/01/19/","children":"$undefined"},{"kind":"lesson","id":"1wjslw7","num":"20","title":"Регистры сведений","href":"/l/01/20/","children":"$undefined"},{"kind":"lesson","id":"pjpmlr","num":"21","title":"Журналы документов и нумерация","href":"/l/01/21/","children":"$undefined"},{"kind":"lesson","id":"1g1o0c4","num":"22","title":"Предопределённые данные и заполнение","href":"/l/01/22/","children":"$undefined"},{"kind":"lesson","id":"gvk4pp","num":"23","title":"Обработки и внешние файлы","href":"/l/01/23/","children":"$undefined"},{"kind":"lesson","id":"1jb94cl","num":"24","title":"Макеты и печатные формы","href":"/l/01/24/","children":"$undefined"},{"kind":"lesson","id":"m7az4z","num":"25","title":"Общие реквизиты и составные типы","href":"/l/01/25/","children":"$undefined"},{"kind":"lesson","id":"ybfz73","num":"26","title":"Функциональные опции и параметры сеанса","href":"/l/01/26/","children":"$undefined"},{"kind":"lesson","id":"1dc5r6b","num":"27","title":"Сравнение, поддержка и расширения","href":"/l/01/27/","children":"$undefined"},{"kind":"lesson","id":"1yftpyy","num":"28","title":"Резервные копии и обслуживание базы","href":"/l/01/28/","children":"$undefined"},{"kind":"lesson","id":"1mz15kx","num":"29","title":"Остальные объекты конфигурации","href":"/l/01/29/","children":"$undefined"},{"kind":"lesson","id":"ciqlsu","num":"30","title":"Практика по конфигурированию","href":"/l/01/30/","children":"$undefined"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"5x1i2z"}]}],["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L27",null,{"children":"$1a:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":["$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f"]}]]}],"$L30"]}]]
+31:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+33:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+34:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+35:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+36:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+37:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+28:["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","1alhswt",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/01/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"01"}],"Основы конфигурирования"]}]]}]]]}]
+29:["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","11"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[3," ","минуты"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Ссылочный тип данных"}],["$","div",null,{"className":"mt-7","children":["$","$L31",null,{"id":"5x1i2z","href":"/l/01/11/","title":"Ссылочный тип данных"}]}]]}]
+32:T244f,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p><strong>Ссылка</strong> — значение, которое однозначно указывает на объект базы: элемент справочника, документ, значение перечисления. В реквизите хранится не текст «Магомедов М.М.», а ссылка на сотрудника; текст — лишь её <strong>представление</strong>. Переименовали сотрудника — все ссылки показывают новое имя.</p></div>
+</div>
+<h2 id="что-такое-ссылка">Что такое ссылка</h2>
+<p>Тип ссылки называется по объекту: <code>СправочникСсылка.Номенклатура</code>, <code>ДокументСсылка.РасходнаяНакладная</code>, <code>ПеречислениеСсылка.ВидыНоменклатуры</code>.</p>
+<p>Внутри ссылка содержит <strong>уникальный идентификатор</strong> объекта. Его можно увидеть в Предприятии: ПКМ по элементу → <strong>Получить ссылку</strong>:</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260909170909.png" alt="Pasted image 20260909170909.png" loading="lazy" decoding="async"></p>
+<p><em>Навигационная ссылка на сотрудника «Магомедов М.М.»: в конце строки — его уникальный идентификатор.</em></p>
+<p>Текст, который мы видим на экране, — <strong>представление ссылки</strong> (обычно наименование). У двух сотрудников могут быть одинаковые ФИО, но ссылки разные.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th></th><th>Ссылка</th><th>Представление</th></tr></thead><tbody><tr><td>Что это</td><td>Идентификатор объекта</td><td>Текст для человека</td></tr><tr><td>Уникально</td><td>Да</td><td>Нет</td></tr><tr><td>Меняется при переименовании</td><td>Нет</td><td>Да</td></tr><tr><td>Используем для</td><td>Хранения, связей, отборов, поиска</td><td>Показа пользователю</td></tr></tbody></table></div>
+<h2 id="ссылочный-реквизит">Ссылочный реквизит</h2>
+<p>Укажем ссылочный тип у константы «Генеральный директор»: в свойстве <strong>Тип</strong> выбираем <code>СправочникСсылка.Сотрудники</code>:</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Pasted%20image%2020260909171051.png" alt="Pasted image 20260909171051.png" loading="lazy" decoding="async"></p>
+<p><em>Окно «Редактирование типа данных»: кроме примитивных типов доступны ссылки на справочники, документы, перечисления и другие объекты.</em></p>
+<p>Теперь в Предприятии значение константы выбирается из справочника сотрудников. Константа хранит <strong>ссылку</strong>; если изменить ФИО в справочнике, в константе сразу отобразится новое имя — она указывает на того же сотрудника.</p>
+<h2 id="пустая-ссылка">Пустая ссылка</h2>
+<p>Если сотрудник не выбран, в реквизите лежит <strong>пустая ссылка этого типа</strong> — это не <code>Неопределено</code> и не пустая строка.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">Если</span><span style="color:var(--shiki-foreground)"> Директор.Пустая() </span><span style="color:var(--shiki-token-keyword)">Тогда</span><span style="color:var(--shiki-foreground)"> ...               </span><span style="color:var(--shiki-token-comment)">// метод ссылки</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Если</span><span style="color:var(--shiki-token-keyword)"> НЕ</span><span style="color:var(--shiki-token-function)"> ЗначениеЗаполнено</span><span style="color:var(--shiki-foreground)">(Директор) </span><span style="color:var(--shiki-token-keyword)">Тогда</span><span style="color:var(--shiki-foreground)"> ...  </span><span style="color:var(--shiki-token-comment)">// универсальная проверка</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Директор </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> Справочники</span><span style="color:var(--shiki-foreground)">.Сотрудники.ПустаяСсылка()</span><span style="color:var(--shiki-token-keyword)">;</span></span></code></pre></figure>
+<h2 id="ссылка-и-объект">Ссылка и объект</h2>
+<p>Ссылка позволяет <strong>прочитать</strong> реквизиты объекта (<code>Директор.Наименование</code>), но не изменить их. Для изменения по ссылке получаем объект, меняем и записываем:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-comment)">// На сервере</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">СотрудникОбъект </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> Директор.ПолучитьОбъект()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">СотрудникОбъект.Наименование </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-string-expression)"> "Магомедов М.А."</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">СотрудникОбъект.Записать()</span><span style="color:var(--shiki-token-keyword)">;</span></span></code></pre></figure>
+<p>Подробно — <a href="/restart/l/02/23/" data-internal="true">23. Программная работа со справочниками</a>.</p>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Удаление объекта, на который ссылаются</div>
+<div class="callout-body"><p>Если объект удалить без контроля ссылок, ссылка в реквизитах останется, но объекта уже не будет — появится «битая ссылка» <code>&#x3C;Объект не найден></code>. Поэтому в 1С есть пометка удаления: <a href="/restart/l/01/13/" data-internal="true">13. Пометка удаления</a>.</p></div>
+</div>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>В документе выбран покупатель «ООО Ромашка», потом его переименовали в «ООО Лютик». Что покажет документ?</p>
+</li>
+<li>
+<p>Чем пустая ссылка отличается от <code>Неопределено</code>?</p>
+</li>
+<li>
+<p>Можно ли написать <code>Директор.Наименование = "…"</code> и записать?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>«ООО Лютик» — документ хранит ссылку, а не текст.</li>
+<li>Пустая ссылка имеет конкретный тип (<code>СправочникСсылка.Сотрудники</code>), <code>Неопределено</code> — отдельное значение без типа объекта.</li>
+<li>Нет, ссылка только для чтения. Нужно получить объект через <code>ПолучитьОбъект()</code>.</li>
+</ol></div>
+</details></div>
+</details>2a:["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$32"}}]
+2b:["$","$L33",null,{"targetId":"lesson-body"}]
+2c:["$","$L34",null,{"targetId":"lesson-body"}]
+2d:["$","$L35",null,{"targetId":"lesson-body"}]
+2e:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L31",null,{"id":"5x1i2z","href":"/l/01/11/","title":"Ссылочный тип данных","variant":"footer"}]}]
+2f:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/01/10/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L36",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Интерфейс справочника"}]]}],["$","$L13",null,{"href":"/l/01/12/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L36",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Перечисления"}]]}]]}]
+30:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L37",null,{"items":[{"id":"что-такое-ссылка","text":"Что такое ссылка","depth":2},{"id":"ссылочный-реквизит","text":"Ссылочный реквизит","depth":2},{"id":"пустая-ссылка","text":"Пустая ссылка","depth":2},{"id":"ссылка-и-объект","text":"Ссылка и объект","depth":2}]}]}]
+38:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+1d:null
+23:[["$","title","0",{"children":"Ссылочный тип данных · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L38","3",{}]]

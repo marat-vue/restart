@@ -1,0 +1,294 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1b:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:"ViewportBoundary"
+1f:I[97367,["$2","$3","$4","$5","$6","$7"],"$1e"]
+21:"MetadataBoundary"
+22:I[97367,["$2","$3","$4","$5","$6","$7"],"$21"]
+24:I[68027,["$2","$3","$4","$5","$6","$7"],"default",1]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+:HL["/restart/_next/static/media/051742360c26797e-s.p.1bkzbscqrt8rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/26f284dcc38c84c0-s.p.3hlisc-pwq13z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/42b035f1a63f268d-s.p.2m8t2-vl1h1kf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/b4a06a523f527a0e-s.p.3psl0_mnhzy2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/cfdfbee4d6cf0a93-s.p.1jwcpm6w583_v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/e8768c288fbd3aa6-s.p.1t1z0xjflawjj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+17:X
+19:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L1a",[["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true,"nonce":"$undefined"}]],["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]]}],"p":false,"v":null}}]]
+18:[["children",{"s":{"n":"slug","t":"c","k":"07/06","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q19"}]]
+16:[["children",{"s":"l","h":131584,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q18"}]]
+0:{"P":null,"c":["","l","07","06",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true,"nonce":"$undefined"}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":false,"v":null},"c":"$Q16"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$L20"}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":"$L23"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$24",[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+17:C
+25:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+26:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+27:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+28:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+29:T3e4e,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p>В 1С проверяют не только «что видно в форме», но и <strong>данные под капотом</strong>: движения регистров после проведения и отмены, результат запросов и отчётов, работу <strong>под разными ролями</strong>, поведение <strong>без формы</strong> (обработки, обмены). Инструменты: <strong>ручные</strong> проверки по чек-листам; <strong>модульные</strong> тесты — своей тестовой обработкой или фреймворком <strong>YAxUnit</strong>; <strong>сценарные UI-тесты</strong> — <strong>Vanessa Automation</strong> (сценарии на языке Gherkin, выполняются в клиенте тестирования); встроенный в платформу механизм <strong>автоматизированного тестирования</strong> (менеджер и клиент тестирования), на котором Vanessa Automation и работает. Для всех автотестов нужна отдельная <strong>тестовая база</strong> с известными данными.</p></div>
+</div>
+<h2 id="что-особенного-в-тестировании-1с">Что особенного в тестировании 1С</h2>
+<p>В обычной программе тестировщик смотрит на экран: правильная ли надпись, правильная ли сумма. В 1С этого мало: самая важная часть работы — <strong>данные в регистрах</strong>, которые пользователь напрямую не видит. Накладная может выглядеть идеально, но записать неверные движения — и это всплывёт только в отчёте через месяц.</p>
+<pre><pre class="mermaid-source">flowchart LR
+    A["Форма&#x3C;br/>что видит пользователь"] --> B["Объект&#x3C;br/>модуль объекта,&#x3C;br/>проверки при записи"]
+    B --> C["Движения&#x3C;br/>регистры накопления&#x3C;br/>и сведений"]
+    C --> D["Отчёты&#x3C;br/>запросы и СКД"]
+    E["Права&#x3C;br/>роли и RLS"] -.-> A
+    E -.-> D
+</pre></pre>
+<h2 id="что-проверять-в-1с">Что проверять в 1С</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Что</th><th>Как проверить</th><th>Пример</th></tr></thead><tbody><tr><td><strong>Форма</strong></td><td>Ввести данные, посмотреть пересчёт, сообщения, доступность полей</td><td>Сумма строки пересчитывается при вводе</td></tr><tr><td><strong>Запись без формы</strong></td><td>Записать объект кодом или обработкой</td><td>Обработка загрузки создаёт накладную — суммы и проверки работают</td></tr><tr><td><strong>Проведение</strong></td><td>Посмотреть <strong>движения</strong> документа</td><td>После проведения в регистре <code>Продажи</code> строка на 300 ₽</td></tr><tr><td><strong>Повторное проведение</strong></td><td>Провести дважды, сравнить движения</td><td>Движения не задвоились</td></tr><tr><td><strong>Отмена проведения</strong></td><td>Отменить, посмотреть регистры</td><td>Движения исчезли</td></tr><tr><td><strong>Отчёты</strong></td><td>Сравнить итог отчёта с известными данными</td><td>Продажи за октябрь = сумма проведённых накладных</td></tr><tr><td><strong>Границы периода</strong></td><td>Документ в последний день, в 23:59</td><td>Отчёт за месяц включает продажи 31 числа</td></tr><tr><td><strong>Права</strong></td><td>Войти под пользователем с рабочей ролью</td><td>Кладовщик не видит цены, менеджер не может удалить документ</td></tr><tr><td><strong>Одновременная работа</strong></td><td>Два сеанса проводят расход одного товара</td><td>Остаток не уходит в минус</td></tr><tr><td><strong>Печать</strong></td><td>Сформировать печатную форму с 1 и 100 строками</td><td>Итог совпадает, страницы переносятся</td></tr><tr><td><strong>Обновление</strong></td><td>После обновления типовой — проверить свои доработки</td><td>Расширение применилось, сценарии работают</td></tr></tbody></table></div>
+<h3 id="как-посмотреть-движения-документа">Как посмотреть движения документа</h3>
+<p>Самый частый вопрос при проверке проведения — «а что документ записал в регистры?». В 1С:Предприятии:</p>
+<ul>
+<li>открыть документ → <strong>Ещё → Перейти → Движения документа</strong> (если в конфигурации включено) или</li>
+<li><strong>Сервис и настройки → Функции для технического специалиста → Регистры накопления → Продажи</strong> и отобрать по регистратору (<a href="/restart/l/01/17/" data-internal="true">17. Регистры накоплений</a>).</li>
+</ul>
+<p>Удобнее всего — небольшой отчёт или запрос к таблице регистра с отбором по регистратору: его можно использовать и при ручной, и при автоматической проверке.</p>
+<h2 id="инструменты-тестирования-в-1с">Инструменты тестирования в 1С</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Инструмент</th><th>Что это</th><th>Уровень пирамиды</th><th>Где разобран</th></tr></thead><tbody><tr><td><strong>Ручная проверка</strong> по чек-листу</td><td>Человек выполняет шаги</td><td>Любой</td><td><a href="/restart/l/07/05/" data-internal="true">05. Тест-кейсы и баг-репорты</a></td></tr><tr><td><strong>Своя тестовая обработка</strong></td><td>Внешняя обработка с функциями-проверками</td><td>Модульные, интеграционные</td><td><a href="/restart/l/07/07/" data-internal="true">07. Модульные тесты своими руками</a></td></tr><tr><td><strong>YAxUnit</strong></td><td>Фреймворк модульных тестов в виде расширения конфигурации</td><td>Модульные, интеграционные</td><td><a href="/restart/l/07/08/" data-internal="true">08. Модульные тесты в YAxUnit</a></td></tr><tr><td><strong>Vanessa Automation</strong></td><td>Открытый инструмент сценарного тестирования интерфейса: сценарии на языке Gherkin выполняются в клиенте тестирования</td><td>UI / сквозные, приёмочные</td><td><a href="/restart/l/07/10/" data-internal="true">10. Vanessa Automation — установка и запуск</a> и далее</td></tr><tr><td><strong>Механизм автоматизированного тестирования платформы</strong></td><td>Режимы «менеджер тестирования» и «клиент тестирования»: одна программа управляет другой, нажимая кнопки и заполняя поля</td><td>Основа UI-тестов</td><td><a href="/restart/l/07/10/" data-internal="true">10. Vanessa Automation — установка и запуск</a></td></tr><tr><td><strong>Сценарное тестирование 1С</strong></td><td>Инструмент фирмы 1С для записи и воспроизведения сценариев</td><td>UI</td><td>Упоминание</td></tr><tr><td><strong>АПК, BSL Language Server</strong></td><td>Автоматическая проверка <strong>кода</strong> по стандартам без запуска</td><td>Статический анализ</td><td><a href="/restart/l/05/10/" data-internal="true">10. Инструменты качества</a></td></tr></tbody></table></div>
+<div class="callout callout-info" data-callout="info">
+<div class="callout-title">Почему в курсе основной инструмент — Vanessa Automation</div>
+<div class="callout-body"><p>Vanessa Automation — бесплатный открытый проект, широко распространённый в 1С-сообществе: его используют и для автотестов, и для приёмочных сценариев, понятных аналитикам и заказчикам, и даже для записи обучающих видеоинструкций. Знание этого инструмента часто упоминают в вакансиях.</p></div>
+</div>
+<h2 id="тестовая-база-и-тестовые-данные">Тестовая база и тестовые данные</h2>
+<p>Автотест должен запускаться <strong>много раз</strong> и каждый раз давать одинаковый результат. Поэтому:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Правило</th><th>Почему</th></tr></thead><tbody><tr><td>Тесты запускаем в <strong>отдельной тестовой базе</strong>, не в рабочей</td><td>Тесты создают и проводят документы — в рабочей базе они испортят учёт</td></tr><tr><td>Данные для теста известны заранее</td><td>Ожидаемый результат можно посчитать: «остаток 10, продали 3 → 7»</td></tr><tr><td>Тест не зависит от других тестов</td><td>Если тест А сломался, тест Б не должен падать «за компанию»</td></tr><tr><td>После теста база возвращается в исходное состояние (или тест создаёт свои уникальные данные)</td><td>Следующий запуск не должен видеть «мусор» от предыдущего</td></tr></tbody></table></div>
+<p>Подробно о подготовке данных — в <a href="/restart/l/07/13/" data-internal="true">13. Тестовые данные и независимость сценариев</a>.</p>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Никогда не запускайте автотесты на рабочей базе</div>
+<div class="callout-body"><p>Сценарий, который «создаёт и проводит накладную на 1000 чайников», в рабочей базе создаст настоящую накладную и испортит остатки. Перед запуском тестов проверяйте, к какой базе вы подключены.</p></div>
+</div>
+<h2 id="ограничения-учебной-платформы">Ограничения учебной платформы</h2>
+<p>Учебная версия платформы разрешает работать с базой только <strong>одному сеансу</strong> (<a href="/restart/l/05/02/" data-internal="true">02. Ограничения учебной версии</a>). Для UI-тестов нужно <strong>два</strong> сеанса одновременно: один управляет (менеджер тестирования), другой — управляемое приложение (клиент тестирования). Поэтому:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Что</th><th>На учебной платформе</th></tr></thead><tbody><tr><td>Ручные проверки</td><td>Работают</td></tr><tr><td>Своя тестовая обработка с модульными тестами</td><td>Работает</td></tr><tr><td>Изучение языка Gherkin и написание сценариев</td><td>Работает — это просто текст</td></tr><tr><td>Запуск сценариев Vanessa Automation в клиенте тестирования</td><td>Скорее всего <strong>не</strong> заработает — нужен стенд с полноценной платформой</td></tr></tbody></table></div>
+<p>Это не мешает изучить раздел: теорию, модульные тесты и написание сценариев можно отработать на учебной платформе, а запуск UI-сценариев — на рабочем стенде или в компании.</p>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Почему в 1С недостаточно проверить только то, что видно в форме?</p>
+</li>
+<li>
+<p>Какие три состояния проведения документа стоит проверять после доработки?</p>
+</li>
+<li>
+<p>Какой инструмент подходит для модульных тестов, а какой — для сценарных тестов интерфейса?</p>
+</li>
+<li>
+<p>Почему автотесты нельзя запускать на рабочей базе?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Главное — данные в регистрах; форма может выглядеть правильно, а движения быть неверными. Кроме того, документ может записываться без формы.</li>
+<li>Проведение, повторное проведение (без задвоения) и отмена проведения (движения удалены).</li>
+<li>Модульные — своя тестовая обработка или YAxUnit; сценарные UI — Vanessa Automation.</li>
+<li>Тесты создают и проводят документы — в рабочей базе они испортят реальный учёт.</li>
+</ol></div>
+</details></div>
+</details>1a:[["$","$L25",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L26",null,{"tree":{"kind":"folder","id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/","children":[{"kind":"lesson","id":"1hx2s48","num":"00","title":"Навигация по разделу","href":"/l/07/00/","children":"$undefined"},{"kind":"lesson","id":"1vki0ku","num":"01","title":"Зачем нужно тестирование","href":"/l/07/01/","children":"$undefined"},{"kind":"lesson","id":"1ft8vz9","num":"02","title":"Основные понятия тестирования","href":"/l/07/02/","children":"$undefined"},{"kind":"lesson","id":"5olfwt","num":"03","title":"Виды и уровни тестирования","href":"/l/07/03/","children":"$undefined"},{"kind":"lesson","id":"1s0acu1","num":"04","title":"Техники тест-дизайна","href":"/l/07/04/","children":"$undefined"},{"kind":"lesson","id":"1ept4s1","num":"05","title":"Тест-кейсы и баг-репорты","href":"/l/07/05/","children":"$undefined"},{"kind":"lesson","id":"1qld6tb","num":"06","title":"Что и чем тестировать в 1С","href":"/l/07/06/","children":"$undefined"},{"kind":"lesson","id":"fm5x90","num":"07","title":"Модульные тесты своими руками","href":"/l/07/07/","children":"$undefined"},{"kind":"lesson","id":"2e0v2y","num":"08","title":"Модульные тесты в YAxUnit","href":"/l/07/08/","children":"$undefined"},{"kind":"lesson","id":"e3l0hr","num":"09","title":"BDD и язык Gherkin","href":"/l/07/09/","children":"$undefined"},{"kind":"lesson","id":"79gt5r","num":"10","title":"Vanessa Automation — установка и запуск","href":"/l/07/10/","children":"$undefined"},{"kind":"lesson","id":"1lcgo32","num":"11","title":"Первый сценарий в Vanessa Automation","href":"/l/07/11/","children":"$undefined"},{"kind":"lesson","id":"j3qawi","num":"12","title":"Шаги, проверки и запись действий","href":"/l/07/12/","children":"$undefined"},{"kind":"lesson","id":"1aeq2d9","num":"13","title":"Тестовые данные и независимость сценариев","href":"/l/07/13/","children":"$undefined"},{"kind":"lesson","id":"1qqfmo6","num":"14","title":"Регрессия, отчёты и запуск без участия человека","href":"/l/07/14/","children":"$undefined"},{"kind":"lesson","id":"shckox","num":"15","title":"Практика — тестируем расходную накладную","href":"/l/07/15/","children":"$undefined"},{"kind":"lesson","id":"11nejw8","num":"16","title":"Памятка — тестирование","href":"/l/07/16/","children":"$undefined"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"1qld6tb"}]}],["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L27",null,{"children":"$1a:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","14mlr13",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/07/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"07"}],"Тестирование 1С"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","06"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[6," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Что и чем тестировать в 1С"}],["$","div",null,{"className":"mt-7","children":["$","$L28",null,{"id":"1qld6tb","href":"/l/07/06/","title":"Что и чем тестировать в 1С"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$29"}}],"$L2a","$L2b","$L2c","$L2d","$L2e"]}]]}],"$L2f"]}]]
+30:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+31:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+32:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+33:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+34:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+2a:["$","$L30",null,{"targetId":"lesson-body"}]
+2b:["$","$L31",null,{"targetId":"lesson-body"}]
+2c:["$","$L32",null,{"targetId":"lesson-body"}]
+2d:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L28",null,{"id":"1qld6tb","href":"/l/07/06/","title":"Что и чем тестировать в 1С","variant":"footer"}]}]
+2e:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/07/05/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L33",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Тест-кейсы и баг-репорты"}]]}],["$","$L13",null,{"href":"/l/07/07/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L33",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Модульные тесты своими руками"}]]}]]}]
+2f:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L34",null,{"items":[{"id":"что-особенного-в-тестировании-1с","text":"Что особенного в тестировании 1С","depth":2},{"id":"что-проверять-в-1с","text":"Что проверять в 1С","depth":2},{"id":"как-посмотреть-движения-документа","text":"Как посмотреть движения документа","depth":3},{"id":"инструменты-тестирования-в-1с","text":"Инструменты тестирования в 1С","depth":2},{"id":"тестовая-база-и-тестовые-данные","text":"Тестовая база и тестовые данные","depth":2},{"id":"ограничения-учебной-платформы","text":"Ограничения учебной платформы","depth":2}]}]}]
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]
+35:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+1d:null
+23:[["$","title","0",{"children":"Что и чем тестировать в 1С · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L35","3",{}]]

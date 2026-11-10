@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,16868,e=>{"use strict";var t=e.i(43476),l=e.i(18566);e.s(["default",0,function({children:e}){let i=(0,l.usePathname)();return(0,t.jsx)("div",{className:"page-enter flex min-w-0 flex-1 flex-col",children:e},i)}])}]);

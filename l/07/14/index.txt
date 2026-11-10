@@ -1,0 +1,290 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1b:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:"ViewportBoundary"
+1f:I[97367,["$2","$3","$4","$5","$6","$7"],"$1e"]
+21:"MetadataBoundary"
+22:I[97367,["$2","$3","$4","$5","$6","$7"],"$21"]
+24:I[68027,["$2","$3","$4","$5","$6","$7"],"default",1]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+:HL["/restart/_next/static/media/051742360c26797e-s.p.1bkzbscqrt8rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/26f284dcc38c84c0-s.p.3hlisc-pwq13z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/42b035f1a63f268d-s.p.2m8t2-vl1h1kf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/b4a06a523f527a0e-s.p.3psl0_mnhzy2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/cfdfbee4d6cf0a93-s.p.1jwcpm6w583_v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/e8768c288fbd3aa6-s.p.1t1z0xjflawjj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+17:X
+19:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L1a",[["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true,"nonce":"$undefined"}]],["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]]}],"p":false,"v":null}}]]
+18:[["children",{"s":{"n":"slug","t":"c","k":"07/14","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q19"}]]
+16:[["children",{"s":"l","h":131584,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q18"}]]
+0:{"P":null,"c":["","l","07","14",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true,"nonce":"$undefined"}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":false,"v":null},"c":"$Q16"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$L20"}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":"$L23"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$24",[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+17:C
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]
+25:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+26:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+27:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+28:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+1a:[["$","$L25",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L26",null,{"tree":{"kind":"folder","id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/","children":[{"kind":"lesson","id":"1hx2s48","num":"00","title":"Навигация по разделу","href":"/l/07/00/","children":"$undefined"},{"kind":"lesson","id":"1vki0ku","num":"01","title":"Зачем нужно тестирование","href":"/l/07/01/","children":"$undefined"},{"kind":"lesson","id":"1ft8vz9","num":"02","title":"Основные понятия тестирования","href":"/l/07/02/","children":"$undefined"},{"kind":"lesson","id":"5olfwt","num":"03","title":"Виды и уровни тестирования","href":"/l/07/03/","children":"$undefined"},{"kind":"lesson","id":"1s0acu1","num":"04","title":"Техники тест-дизайна","href":"/l/07/04/","children":"$undefined"},{"kind":"lesson","id":"1ept4s1","num":"05","title":"Тест-кейсы и баг-репорты","href":"/l/07/05/","children":"$undefined"},{"kind":"lesson","id":"1qld6tb","num":"06","title":"Что и чем тестировать в 1С","href":"/l/07/06/","children":"$undefined"},{"kind":"lesson","id":"fm5x90","num":"07","title":"Модульные тесты своими руками","href":"/l/07/07/","children":"$undefined"},{"kind":"lesson","id":"2e0v2y","num":"08","title":"Модульные тесты в YAxUnit","href":"/l/07/08/","children":"$undefined"},{"kind":"lesson","id":"e3l0hr","num":"09","title":"BDD и язык Gherkin","href":"/l/07/09/","children":"$undefined"},{"kind":"lesson","id":"79gt5r","num":"10","title":"Vanessa Automation — установка и запуск","href":"/l/07/10/","children":"$undefined"},{"kind":"lesson","id":"1lcgo32","num":"11","title":"Первый сценарий в Vanessa Automation","href":"/l/07/11/","children":"$undefined"},{"kind":"lesson","id":"j3qawi","num":"12","title":"Шаги, проверки и запись действий","href":"/l/07/12/","children":"$undefined"},{"kind":"lesson","id":"1aeq2d9","num":"13","title":"Тестовые данные и независимость сценариев","href":"/l/07/13/","children":"$undefined"},{"kind":"lesson","id":"1qqfmo6","num":"14","title":"Регрессия, отчёты и запуск без участия человека","href":"/l/07/14/","children":"$undefined"},{"kind":"lesson","id":"shckox","num":"15","title":"Практика — тестируем расходную накладную","href":"/l/07/15/","children":"$undefined"},{"kind":"lesson","id":"11nejw8","num":"16","title":"Памятка — тестирование","href":"/l/07/16/","children":"$undefined"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"1qqfmo6"}]}],["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L27",null,{"children":"$1a:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","14mlr13",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/07/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"07"}],"Тестирование 1С"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","14"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[6," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Регрессия, отчёты и запуск без участия человека"}],["$","div",null,{"className":"mt-7","children":["$","$L28",null,{"id":"1qqfmo6","href":"/l/07/14/","title":"Регрессия, отчёты и запуск без участия человека"}]}]]}],"$L29","$L2a","$L2b","$L2c","$L2d","$L2e"]}]]}],"$L2f"]}]]
+31:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+32:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+33:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+34:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+35:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+30:T42e8,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p>Автотесты окупаются, когда запускаются <strong>регулярно и сами</strong>: после каждого изменения или каждую ночь. Vanessa Automation запускается из командной строки: 1С:Предприятие в режиме менеджера тестирования открывает <code>vanessa-automation.epf</code> с параметром <code>/C"StartFeaturePlayer;VAParams=путь\VAParams.json"</code>; в файле <strong>VAParams.json</strong> — каталог сценариев, отбор по меткам, формирование отчётов (например, Allure или JUnit) и завершение работы после прогона. YAxUnit запускается параметром <code>/C RunUnitTests=…</code>. <strong>CI</strong> (непрерывная интеграция) — сервер, который при каждом изменении в Git собирает базу, запускает тесты и показывает отчёт. Регрессионный набор делят по меткам: быстрые дымовые — часто, полный — ночью.</p></div>
+</div>
+<h2 id="зачем-запускать-тесты-автоматически">Зачем запускать тесты автоматически</h2>
+<p>Набор из 50 сценариев, который нужно запускать руками, со временем перестают запускать: «некогда, потом». А регрессия случается именно тогда, когда тесты не запускали (<a href="/restart/l/07/02/" data-internal="true">02. Основные понятия тестирования</a>).</p>
+<p>Поэтому тесты запускают <strong>автоматически</strong>:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Когда</th><th>Что запускать</th><th>Зачем</th></tr></thead><tbody><tr><td>После каждого изменения (коммита)</td><td>Модульные тесты + дымовые сценарии <code>@smoke</code></td><td>Быстро узнать, что ничего не сломано — за минуты</td></tr><tr><td>Каждую ночь</td><td>Полный регрессионный набор</td><td>Подробная проверка всего — время не важно</td></tr><tr><td>Перед выпуском обновления</td><td>Полный набор + приёмочные сценарии</td><td>Уверенность перед передачей пользователям</td></tr></tbody></table></div>
+<h2 id="запуск-vanessa-automation-из-командной-строки">Запуск Vanessa Automation из командной строки</h2>
+<p>Для запуска без участия человека VA получает настройки из <strong>файла профиля</strong> <code>VAParams.json</code>.</p>
+<h3 id="команда-запуска">Команда запуска</h3>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="mono"><code data-language="bash" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-function)">"C:\Program Files\1cv8\&#x3C;версия>\bin\1cv8c.exe"</span><span style="color:var(--shiki-token-string)"> ENTERPRISE</span><span style="color:var(--shiki-token-string)"> /IBName</span><span style="color:var(--shiki-token-string-expression)"> "Купец (тест)"</span><span style="color:var(--shiki-token-string)"> /N</span><span style="color:var(--shiki-token-string-expression)"> "Тестировщик"</span><span style="color:var(--shiki-token-string)"> /TESTMANAGER</span><span style="color:var(--shiki-token-string)"> /Execute</span><span style="color:var(--shiki-token-string-expression)"> "C:\VA\vanessa-automation.epf"</span><span style="color:var(--shiki-token-string)"> /C</span><span style="color:var(--shiki-token-string-expression)">"StartFeaturePlayer;VAParams=C:\Tests\VAParams.json"</span></span></code></pre></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Часть</th><th>Смысл</th></tr></thead><tbody><tr><td><code>1cv8c.exe ENTERPRISE</code></td><td>Запустить 1С:Предприятие (тонкий клиент)</td></tr><tr><td><code>/IBName "Купец (тест)"</code></td><td>Имя базы из списка баз; вместо него можно указать <code>/F "путь к каталогу"</code> для файловой базы</td></tr><tr><td><code>/N "Тестировщик"</code></td><td>Пользователь</td></tr><tr><td><code>/TESTMANAGER</code></td><td>Режим менеджера тестирования (<a href="/restart/l/07/10/" data-internal="true">10. Vanessa Automation — установка и запуск</a>)</td></tr><tr><td><code>/Execute "…epf"</code></td><td>Сразу открыть обработку Vanessa Automation</td></tr><tr><td><code>/C"StartFeaturePlayer;VAParams=…"</code></td><td>Параметр для VA: запустить выполнение сценариев с настройками из файла</td></tr></tbody></table></div>
+<h3 id="файл-vaparamsjson">Файл VAParams.json</h3>
+<p>Профиль — JSON-файл (<a href="/restart/l/02/31/" data-internal="true">31. JSON</a>) с настройками прогона. Состав параметров и их точные имена описаны в документации VA (<a href="https://pr-mex.github.io/vanessa-automation/dev/JsonParams/JsonParamsRU/" target="_blank" rel="noopener noreferrer">описание VAParams.json</a>); удобнее всего <strong>сохранить профиль из интерфейса</strong> VA, настроив всё мышкой, а затем править файл.</p>
+<p>Что обычно задают в профиле:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Настройка</th><th>Зачем</th></tr></thead><tbody><tr><td>Каталог с <code>.feature</code>-файлами</td><td>Что запускать</td></tr><tr><td>Выполнять сценарии сразу</td><td>Без нажатия кнопок</td></tr><tr><td>Отбор и исключение по <strong>меткам</strong></td><td>Например, только <code>@smoke</code> или всё, кроме <code>@медленный</code></td></tr><tr><td>Клиенты тестирования</td><td>К какой базе и под каким пользователем подключаться</td></tr><tr><td>Формировать отчёты и куда их сохранять</td><td>Отчёт о прогоне для людей и для CI</td></tr><tr><td>Сохранить итоговый статус в файл</td><td>Чтобы скрипт понял: прогон успешен или нет</td></tr><tr><td>Завершить работу после выполнения</td><td>Чтобы 1С закрылась сама</td></tr></tbody></table></div>
+<h2 id="отчёты-о-прогоне">Отчёты о прогоне</h2>
+<p>После прогона нужно понять: что прошло, что упало и почему. VA умеет формировать отчёты в нескольких форматах:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Формат</th><th>Для кого</th><th>Что даёт</th></tr></thead><tbody><tr><td><strong>Allure</strong></td><td>Люди</td><td>Наглядный веб-отчёт: графики, список сценариев, шаги, ошибки, снимки экрана в момент падения</td></tr><tr><td><strong>JUnit (XML)</strong></td><td>CI-системы</td><td>Стандартный формат, который понимают Jenkins, GitLab CI, TeamCity: число тестов, упавшие, время</td></tr><tr><td>Итоговый статус в файле</td><td>Скрипты</td><td>Одна строка — «успех / провал» — для решения, продолжать ли сборку</td></tr></tbody></table></div>
+<div class="callout callout-tip" data-callout="tip">
+<div class="callout-title">Снимки экрана при падении</div>
+<div class="callout-body"><p>Включите в профиле сохранение скриншота при ошибке. Красный шаг «не найден элемент формы» вместе со снимком окна в момент падения разбирается за минуту, без повторного прогона.</p></div>
+</div>
+<h2 id="запуск-yaxunit-без-участия-человека">Запуск YAxUnit без участия человека</h2>
+<p>Модульные тесты YAxUnit запускаются похожим образом — параметром <code>RunUnitTests</code> (<a href="/restart/l/07/08/" data-internal="true">08. Модульные тесты в YAxUnit</a>):</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bash" data-theme="mono"><code data-language="bash" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-function)">"C:\Program Files\1cv8\&#x3C;версия>\bin\1cv8c.exe"</span><span style="color:var(--shiki-token-string)"> ENTERPRISE</span><span style="color:var(--shiki-token-string)"> /IBName</span><span style="color:var(--shiki-token-string-expression)"> "Купец (тест)"</span><span style="color:var(--shiki-token-string)"> /N</span><span style="color:var(--shiki-token-string-expression)"> "Тестировщик"</span><span style="color:var(--shiki-token-string)"> /C</span><span style="color:var(--shiki-token-string)"> RunUnitTests=C:</span><span style="color:var(--shiki-foreground)">\T</span><span style="color:var(--shiki-token-string)">ests</span><span style="color:var(--shiki-foreground)">\y</span><span style="color:var(--shiki-token-string)">axunit-config.json</span></span></code></pre></figure>
+<p>В файле настроек указывают, какие тестовые модули запускать и куда сохранить отчёт (в том числе в формате JUnit).</p>
+<h2 id="непрерывная-интеграция-ci">Непрерывная интеграция (CI)</h2>
+<p><strong>CI</strong> (Continuous Integration — непрерывная интеграция) — практика, при которой каждое изменение кода <strong>автоматически</strong> проверяется. Специальный сервер (Jenkins, GitLab CI, TeamCity и др.) следит за Git-репозиторием (<a href="/restart/l/05/10/" data-internal="true">10. Git</a>) и при каждом изменении запускает цепочку:</p>
+<pre><pre class="mermaid-source">flowchart LR
+    A["Разработчик&#x3C;br/>отправил изменение&#x3C;br/>в Git"] --> B["CI-сервер&#x3C;br/>забирает исходники"]
+    B --> C["Собирает&#x3C;br/>тестовую базу:&#x3C;br/>загрузка .dt +&#x3C;br/>обновление конфигурации"]
+    C --> D["Проверка кода&#x3C;br/>статическим анализом"]
+    D --> E["Модульные тесты&#x3C;br/>YAxUnit"]
+    E --> F["Сценарии&#x3C;br/>Vanessa Automation"]
+    F --> G["Отчёт:&#x3C;br/>зелёный — можно сливать,&#x3C;br/>красный — исправлять"]
+</pre></pre>
+<p>Результат виден прямо в запросе на слияние: «все проверки пройдены» или «упал сценарий такой-то». Изменение, которое ломает тесты, не попадает в основную ветку.</p>
+<p>Настройка CI для 1С — отдельная инженерная задача (нужны агенты с установленной платформой, лицензии, скрипты сборки базы). От junior-разработчика обычно ждут не умения настроить конвейер с нуля, а:</p>
+<ul>
+<li>понимать, <strong>что</strong> проверяет конвейер и как читать его отчёт;</li>
+<li>уметь запустить тесты <strong>локально</strong>, прежде чем отправлять изменения;</li>
+<li>писать новые тесты к своим доработкам;</li>
+<li>не «чинить» упавший тест, удаляя проверку, а разбираться в причине.</li>
+</ul>
+<h2 id="как-организовать-регрессионный-набор">Как организовать регрессионный набор</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Метка</th><th>Что внутри</th><th>Когда запускается</th></tr></thead><tbody><tr><td><code>@smoke</code></td><td>5–10 самых важных сценариев: открытие базы, создание и проведение ключевых документов</td><td>При каждом изменении</td></tr><tr><td><code>@регрессия</code></td><td>Все стабильные сценарии</td><td>Ночью</td></tr><tr><td><code>@медленный</code></td><td>Длинные сценарии (большие документы, отчёты за год)</td><td>Ночью или по отдельному расписанию</td></tr><tr><td><code>@в_разработке</code></td><td>Новые, ещё не стабильные</td><td>Исключаются из автоматического прогона</td></tr></tbody></table></div>
+<p>Правило: <strong>упавший тест — это задача</strong>, а не «шум». Если тест падает из-за ошибки в самом тесте — исправляем тест. Если тест «мигает» — разбираемся с данными (<a href="/restart/l/07/13/" data-internal="true">13. Тестовые данные и независимость сценариев</a>), а не отключаем его навсегда.</p>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Зачем запускать автотесты автоматически, а не вручную?</p>
+</li>
+<li>
+<p>Что означают части команды запуска VA: <code>/TESTMANAGER</code>, <code>/Execute</code>, <code>/C"StartFeaturePlayer;VAParams=…"</code>?</p>
+</li>
+<li>
+<p>Что обычно задают в VAParams.json?</p>
+</li>
+<li>
+<p>Чем отличается отчёт Allure от отчёта JUnit?</p>
+</li>
+<li>
+<p>Что такое CI и чего от junior-разработчика ожидают в работе с ним?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Ручной запуск откладывают, и регрессия проходит незамеченной; автоматический запуск проверяет каждое изменение.</li>
+<li>Режим менеджера тестирования; сразу открыть обработку VA; передать VA команду запустить сценарии с профилем из файла.</li>
+<li>Каталог сценариев, автозапуск, отбор по меткам, клиентов тестирования, отчёты и путь к ним, запись итогового статуса, завершение работы.</li>
+<li>Allure — наглядный отчёт для людей (шаги, ошибки, скриншоты); JUnit — стандартный XML для CI-систем.</li>
+<li>Непрерывная интеграция: автоматическая сборка и проверка каждого изменения. От junior ждут понимать отчёт, запускать тесты локально, писать тесты к своим доработкам и разбираться с причинами падений.</li>
+</ol></div>
+</details></div>
+</details>29:["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$30"}}]
+2a:["$","$L31",null,{"targetId":"lesson-body"}]
+2b:["$","$L32",null,{"targetId":"lesson-body"}]
+2c:["$","$L33",null,{"targetId":"lesson-body"}]
+2d:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L28",null,{"id":"1qqfmo6","href":"/l/07/14/","title":"Регрессия, отчёты и запуск без участия человека","variant":"footer"}]}]
+2e:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/07/13/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L34",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Тестовые данные и независимость сценариев"}]]}],["$","$L13",null,{"href":"/l/07/15/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L34",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Практика — тестируем расходную накладную"}]]}]]}]
+2f:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L35",null,{"items":[{"id":"зачем-запускать-тесты-автоматически","text":"Зачем запускать тесты автоматически","depth":2},{"id":"запуск-vanessa-automation-из-командной-строки","text":"Запуск Vanessa Automation из командной строки","depth":2},{"id":"команда-запуска","text":"Команда запуска","depth":3},{"id":"файл-vaparamsjson","text":"Файл VAParams.json","depth":3},{"id":"отчёты-о-прогоне","text":"Отчёты о прогоне","depth":2},{"id":"запуск-yaxunit-без-участия-человека","text":"Запуск YAxUnit без участия человека","depth":2},{"id":"непрерывная-интеграция-ci","text":"Непрерывная интеграция (CI)","depth":2},{"id":"как-организовать-регрессионный-набор","text":"Как организовать регрессионный набор","depth":2}]}]}]
+36:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+1d:null
+23:[["$","title","0",{"children":"Регрессия, отчёты и запуск без участия человека · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L36","3",{}]]

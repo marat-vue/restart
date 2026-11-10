@@ -1,0 +1,196 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1b:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:"ViewportBoundary"
+1f:I[97367,["$2","$3","$4","$5","$6","$7"],"$1e"]
+21:"MetadataBoundary"
+22:I[97367,["$2","$3","$4","$5","$6","$7"],"$21"]
+24:I[68027,["$2","$3","$4","$5","$6","$7"],"default",1]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+:HL["/restart/_next/static/media/051742360c26797e-s.p.1bkzbscqrt8rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/26f284dcc38c84c0-s.p.3hlisc-pwq13z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/42b035f1a63f268d-s.p.2m8t2-vl1h1kf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/b4a06a523f527a0e-s.p.3psl0_mnhzy2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/cfdfbee4d6cf0a93-s.p.1jwcpm6w583_v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/restart/_next/static/media/e8768c288fbd3aa6-s.p.1t1z0xjflawjj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+17:X
+19:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$L1a",[["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true,"nonce":"$undefined"}]],["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]]}],"p":false,"v":null}}]]
+18:[["children",{"s":{"n":"slug","t":"c","k":"05/09","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q19"}]]
+16:[["children",{"s":"l","h":131584,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L11",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$17"},"c":"$Q18"}]]
+0:{"P":null,"c":["","l","05","09",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true,"nonce":"$undefined"}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":false,"v":null},"c":"$Q16"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$L20"}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":"$L23"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$24",[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+17:C
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]
+25:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+26:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+27:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+28:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+29:T513b,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p><strong>БСП</strong> (Библиотека стандартных подсистем) — библиотека общих механизмов, используемая во многих современных типовых конфигурациях 1С: пользователи и права, печать, дополнительные отчёты и обработки, файлы, обмены, длительные операции и десятки служебных функций (<code>ОбщегоНазначения.*</code>). При доработке типовой используем механизмы установленной БСП и расширения, проверяя совместимость после обновлений.</p></div>
+</div>
+<div class="callout callout-info" data-callout="info">
+<div class="callout-title">Отдельная среда для этой темы</div>
+<div class="callout-body"><p>В учебной «1С:Купец» БСП не внедрена. Поэтому вызовы <code>ОбщегоНазначения.*</code> нельзя просто скопировать в неё: используйте копию решения с БСП и документацию <strong>его</strong> версии. Состав подсистем и экспортных методов в разных конфигурациях различается.</p></div>
+</div>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/05.%20%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/09-%D0%9E%D0%B1%D1%89%D0%B8%D0%B5-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B8-%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%BE%D0%B9-%D0%B1%D0%B0%D0%B7%D1%8B.png" alt="09-Общие-модули-учебной-базы.png" loading="lazy" decoding="async"></p>
+<p><em>Реальный состав ветки «Общие модули» учебной базы: <code>РасчетыКлиентСервер</code>, <code>ПроверкиОбъектов</code>, <code>ФоноваяПроверка</code>. Модуля <code>ОбщегоНазначения</code> здесь нет. В решении с БСП ищите нужный экспортный метод в модуле этой библиотеки и сверяйте его параметры.</em></p>
+<h2 id="что-такое-бсп-простыми-словами">Что такое БСП простыми словами</h2>
+<p>Почти каждой программе на 1С нужны одни и те же механизмы: пользователи и права, печать документов, прикреплённые файлы, подключение внешних отчётов, обмен данными. Писать их каждый раз заново — огромная работа. Поэтому фирма 1С сделала <strong>Библиотеку стандартных подсистем (БСП)</strong> — набор готовых механизмов, на котором построены почти все современные типовые конфигурации: «Бухгалтерия», «Управление торговлей», «ЗУП» и другие.</p>
+<p>Аналогия — <strong>набор готовых модулей для конструктора</strong>: вместо того чтобы вытачивать каждое колесо, берёшь готовое из коробки.</p>
+<p>Для junior-разработчика это значит: в реальной работе вы будете дорабатывать конфигурации <strong>на БСП</strong>. Первый вопрос перед написанием своего кода — «нет ли этого уже в БСП?».</p>
+<h2 id="часто-используемые-подсистемы-бсп">Часто используемые подсистемы БСП</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Подсистема БСП</th><th>Что даёт</th><th>Где встретите</th></tr></thead><tbody><tr><td>Базовая функциональность</td><td><code>ОбщегоНазначения</code>, <code>ОбщегоНазначенияКлиентСервер</code>, <code>СтроковыеФункцииКлиентСервер</code></td><td>В любом модуле</td></tr><tr><td>Пользователи, Управление доступом</td><td>Группы доступа, профили, RLS по шаблонам</td><td>Администрирование</td></tr><tr><td>Печать</td><td>Общее окно печати, подключаемые команды, PDF/почта</td><td>Кнопка «Печать»</td></tr><tr><td>Дополнительные отчёты и обработки</td><td>Подключение <code>.epf/.erf</code> без изменения конфигурации</td><td>Администрирование → Печатные формы, отчёты и обработки</td></tr><tr><td>Длительные операции</td><td>Фоновое выполнение с индикатором</td><td>Тяжёлые отчёты, обработки</td></tr><tr><td>Подключаемые команды</td><td>Команды «Создать на основании», «Заполнить» для многих объектов</td><td>Формы документов</td></tr><tr><td>Обмен данными, Работа с файлами, Свойства, Версионирование…</td><td>Готовые механизмы</td><td>По задаче</td></tr></tbody></table></div>
+<p>Документация — на <a href="https://its.1c.ru/db/bsp3doc" target="_blank" rel="noopener noreferrer">ИТС</a> (раздел «Библиотека стандартных подсистем»). Перед тем как писать своё — ищем готовое в БСП.</p>
+<h2 id="самые-нужные-функции">Самые нужные функции</h2>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-comment)">// Значение одного реквизита по ссылке — одним запросом, без получения объекта</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">ИНН </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> ОбщегоНазначения.ЗначениеРеквизитаОбъекта(Контрагент</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "ИНН"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">// Несколько реквизитов → Структура</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">Реквизиты </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> ОбщегоНазначения.ЗначенияРеквизитовОбъекта(Договор</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "Владелец, Организация, ВалютаВзаиморасчетов"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">// Сообщение с привязкой к полю (в БСП 3.x — серверный/клиентский варианты)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">ОбщегоНазначения.СообщитьПользователю(</span><span style="color:var(--shiki-token-string-expression)">"Не заполнен покупатель"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> ЭтотОбъект</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "Покупатель"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-keyword)"> ,</span><span style="color:var(--shiki-foreground)"> Отказ)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">// Отбор динамического списка без ручного поиска элемента</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">ОбщегоНазначенияКлиентСервер.УстановитьЭлементОтбораДинамическогоСписка(</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Список</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-string-expression)"> "Покупатель"</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> ПокупательОтбор</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> ВидСравненияКомпоновкиДанных.Равно</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-token-keyword)"> ,</span><span style="color:var(--shiki-token-function)"> ЗначениеЗаполнено</span><span style="color:var(--shiki-foreground)">(ПокупательОтбор))</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">// Проверка: есть ли подсистема в этой конфигурации</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Если</span><span style="color:var(--shiki-foreground)"> ОбщегоНазначения.ПодсистемаСуществует(</span><span style="color:var(--shiki-token-string-expression)">"СтандартныеПодсистемы.Печать"</span><span style="color:var(--shiki-foreground)">) </span><span style="color:var(--shiki-token-keyword)">Тогда</span><span style="color:var(--shiki-foreground)"> ...</span></span></code></pre></figure>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">Сверяйте версию</div>
+<div class="callout-body"><p>Сигнатуры функций меняются между редакциями БСП (например, <code>СообщитьПользователю</code> в старых версиях жило в <code>ОбщегоНазначенияКлиентСервер</code>). Открываем модуль в конкретной конфигурации и читаем комментарий к экспортной функции — он описывает параметры.</p></div>
+</div>
+<div class="callout callout-tip" data-callout="tip">
+<div class="callout-title">Почему</div>
+<div class="callout-body"><p><code>ЗначениеРеквизитаОбъекта</code>, а не <code>Ссылка.ИНН</code>
+Обращение через точку от ссылки может загрузить объект в кэш и привести к лишним чтениям, особенно в цикле. В тонком клиенте разыменование прикладных ссылок недоступно. Получайте нужные поля на сервере одним запросом или подходящей функцией БСП; несколько полей одной ссылки лучше читать вместе. Выигрыш зависит от кэша и контекста вызова.</p></div>
+</div>
+<h2 id="правила-доработки-типовой">Правила доработки типовой</h2>
+<ol>
+<li><strong>Сначала расширение</strong> (<a href="/restart/l/05/04/" data-internal="true">04. Расширения и перехват методов</a>). Основная конфигурация остаётся на поддержке — обновления ставятся быстро.</li>
+<li>Если правка основной конфигурации неизбежна — включаем возможность изменения только <strong>у нужного объекта</strong>, а не снимаем с поддержки всю конфигурацию.</li>
+<li><strong>Размечаем изменения</strong> в коде — по ним при обновлении находят «свои» правки:</li>
+</ol>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-comment)">// ++ Иванов И.И. 19.10.2026 Задача №123 Проверка лимита кредита</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Если</span><span style="color:var(--shiki-foreground)"> ПревышенЛимит(Покупатель</span><span style="color:var(--shiki-token-keyword)">,</span><span style="color:var(--shiki-foreground)"> СуммаДокумента) </span><span style="color:var(--shiki-token-keyword)">Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	Отказ </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-constant)"> Истина</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">// -- Иванов И.И. 19.10.2026 Задача №123</span></span></code></pre></figure>
+<ol start="4">
+<li>Используем <strong>механизмы БСП</strong> вместо самописных: печать — через подсистему «Печать», права — через профили групп доступа, внешние формы — через «Дополнительные отчёты и обработки».</li>
+<li>Не меняем типовые общие модули БСП — для этого есть <strong>переопределяемые модули</strong> (<code>…Переопределяемый</code>), куда разработчик встраивает свою логику.</li>
+</ol>
+<h2 id="внешние-обработки-в-типовой">Внешние обработки в типовой</h2>
+<p>Внешняя обработка подключается к типовой через «Дополнительные отчёты и обработки», если в её модуле объекта есть функция регистрации:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> СведенияОВнешнейОбработке</span><span style="color:var(--shiki-foreground)">() </span><span style="color:var(--shiki-token-keyword)">Экспорт</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ПараметрыРегистрации </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> ДополнительныеОтчетыИОбработки.СведенияОВнешнейОбработке(</span><span style="color:var(--shiki-token-string-expression)">"2.4.1.1"</span><span style="color:var(--shiki-foreground)">)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ПараметрыРегистрации.Вид </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> ДополнительныеОтчетыИОбработкиКлиентСервер.ВидОбработкиДополнительнаяОбработка()</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ПараметрыРегистрации.Версия </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-token-string-expression)"> "1.0"</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">	// команды обработки: ПараметрыРегистрации.Команды.Добавить() ...</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-foreground)"> ПараметрыРегистрации</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure>
+<p>Так распространяют небольшие доработки (печатные формы, заполнение, загрузки) без обновления конфигурации.</p>
+<h2 id="обновление-типовой-с-доработками">Обновление типовой с доработками</h2>
+<p><strong>Конфигурация → Поддержка → Обновить конфигурацию</strong> → файл <code>.cfu</code>/<code>.cf</code> поставщика → окно <strong>сравнения/объединения трёх конфигураций</strong>: старая поставщика, новая поставщика, ваша. Изменённые вами объекты требуют решения: взять поставщика, оставить своё или объединить по модулям. Чем меньше правок в основной конфигурации, тем проще этот шаг — ещё один довод за расширения.</p>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Почему в типовой предпочитают <code>ОбщегоНазначения.ЗначениеРеквизитаОбъекта</code>, а не обращение через точку?</p>
+</li>
+<li>
+<p>Нужна новая печатная форма в «Бухгалтерии». Как сделать, не меняя конфигурацию?</p>
+</li>
+<li>
+<p>Зачем размечать изменения комментариями <code>// ++</code> и <code>// --</code>?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Серверное получение нужных полей позволяет избежать лишних чтений объекта; в тонком клиенте разыменование прикладных ссылок недоступно. Несколько полей лучше получать вместе.</li>
+<li>Внешняя печатная форма через «Дополнительные отчёты и обработки» или расширение.</li>
+<li>Чтобы при обновлении и поиске быстро найти и перенести свои правки.</li>
+</ol></div>
+</details></div>
+</details>1a:[["$","$L25",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L26",null,{"tree":{"kind":"folder","id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/","children":[{"kind":"lesson","id":"1ocm90a","num":"00","title":"Навигация по разделу","href":"/l/05/00/","children":"$undefined"},{"kind":"lesson","id":"156dahn","num":"01","title":"Регистр остатков на практике","href":"/l/05/01/","children":"$undefined"},{"kind":"lesson","id":"12ipfvj","num":"02","title":"Контроль остатков и блокировки","href":"/l/05/02/","children":"$undefined"},{"kind":"lesson","id":"17sy5u8","num":"03","title":"Печатная форма документа","href":"/l/05/03/","children":"$undefined"},{"kind":"lesson","id":"1mwbtob","num":"04","title":"Расширения и перехват методов","href":"/l/05/04/","children":"$undefined"},{"kind":"lesson","id":"rnlg54","num":"05","title":"Права доступа и RLS в коде","href":"/l/05/05/","children":"$undefined"},{"kind":"lesson","id":"zdu71r","num":"06","title":"HTTP-запросы к внешним сервисам","href":"/l/05/06/","children":"$undefined"},{"kind":"lesson","id":"1gtg1nd","num":"07","title":"HTTP-сервисы своей базы","href":"/l/05/07/","children":"$undefined"},{"kind":"lesson","id":"19by7yp","num":"08","title":"XML и обмен данными","href":"/l/05/08/","children":"$undefined"},{"kind":"lesson","id":"1liwwkn","num":"09","title":"БСП и типовые конфигурации","href":"/l/05/09/","children":"$undefined"},{"kind":"lesson","id":"8cetis","num":"10","title":"Хранилище, EDT и Git","href":"/l/05/10/","children":"$undefined"},{"kind":"lesson","id":"3um01i","num":"11","title":"Стандарты кода и самопроверка","href":"/l/05/11/","children":"$undefined"},{"kind":"lesson","id":"g4vhr2","num":"12","title":"Итоговый проект и собеседование","href":"/l/05/12/","children":"$undefined"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"1liwwkn"}]}],["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L27",null,{"children":"$1a:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","1c9mnd1",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/05/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"05"}],"Профессиональная разработка"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","09"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[5," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"БСП и типовые конфигурации"}],["$","div",null,{"className":"mt-7","children":["$","$L28",null,{"id":"1liwwkn","href":"/l/05/09/","title":"БСП и типовые конфигурации"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$29"}}],"$L2a","$L2b","$L2c","$L2d","$L2e"]}]]}],"$L2f"]}]]
+30:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+31:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+32:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+33:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+34:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+2a:["$","$L30",null,{"targetId":"lesson-body"}]
+2b:["$","$L31",null,{"targetId":"lesson-body"}]
+2c:["$","$L32",null,{"targetId":"lesson-body"}]
+2d:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L28",null,{"id":"1liwwkn","href":"/l/05/09/","title":"БСП и типовые конфигурации","variant":"footer"}]}]
+2e:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/05/08/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L33",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"XML и обмен данными"}]]}],["$","$L13",null,{"href":"/l/05/10/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L33",null,{"ref":"$undefined","icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Хранилище, EDT и Git"}]]}]]}]
+2f:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L34",null,{"items":[{"id":"что-такое-бсп-простыми-словами","text":"Что такое БСП простыми словами","depth":2},{"id":"часто-используемые-подсистемы-бсп","text":"Часто используемые подсистемы БСП","depth":2},{"id":"самые-нужные-функции","text":"Самые нужные функции","depth":2},{"id":"правила-доработки-типовой","text":"Правила доработки типовой","depth":2},{"id":"внешние-обработки-в-типовой","text":"Внешние обработки в типовой","depth":2},{"id":"обновление-типовой-с-доработками","text":"Обновление типовой с доработками","depth":2}]}]}]
+35:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+1d:null
+23:[["$","title","0",{"children":"БСП и типовые конфигурации · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L35","3",{}]]

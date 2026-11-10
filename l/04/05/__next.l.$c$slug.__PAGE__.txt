@@ -1,0 +1,261 @@
+1:"$Sreact.fragment"
+2:"/restart/_next/static/chunks/38loak8trqvh2.js"
+3:"/restart/_next/static/chunks/2dad3--1jbz_b.js"
+4:"/restart/_next/static/chunks/3idpyiylk5kk_.js"
+5:"/restart/_next/static/chunks/33qcs7nhk-96-.js"
+6:"/restart/_next/static/chunks/2h01aasd38279.js"
+7:"/restart/_next/static/chunks/0u8j509gx7umj.js"
+8:I[63178,["$2","$3","$4","$5","$6","$7"],"ThemeProvider"]
+9:I[22069,["$2","$3","$4","$5","$6","$7"],"StoreProvider"]
+a:"MotionPreferences"
+b:I[84818,["$2","$3","$4","$5","$6","$7"],"$a"]
+c:I[46798,["$2","$3","$4","$5","$6","$7"],"TooltipProvider"]
+d:I[3020,["$2","$3","$4","$5","$6","$7"],"SiteHeader"]
+e:I[39756,["$2","$3","$4","$5","$6","$7"],"default"]
+f:"/restart/_next/static/chunks/10m5-ma_2qdvj.js"
+10:I[16868,["$2","$3","$4","$5","$6","$7","$f"],"default"]
+11:I[37457,["$2","$3","$4","$5","$6","$7"],"default"]
+12:"/restart/_next/static/chunks/3aiu57zcu13rs.js"
+13:I[22016,["$2","$3","$4","$5","$6","$7","$12"],""]
+14:I[11719,["$2","$3","$4","$5","$6","$7"],"CommandMenu"]
+15:I[13354,["$2","$3","$4","$5","$6","$7"],"Toaster"]
+1e:I[94327,["$2","$3","$4","$5","$6","$7","$12"],"ReadingProgress"]
+1f:I[25450,["$2","$3","$4","$5","$6","$7","$12"],"SectionNav"]
+25:"ViewportBoundary"
+26:I[97367,["$2","$3","$4","$5","$6","$7"],"$25"]
+27:"MetadataBoundary"
+28:I[97367,["$2","$3","$4","$5","$6","$7"],"$27"]
+29:"$Sreact.suspense"
+2a:I[27201,["$2","$3","$4","$5","$6","$7"],"IconMark"]
+:HL["/restart/_next/static/chunks/3u8ihrz6_ag7e.css","style"]
+:HL["/restart/_next/static/chunks/0kfqj5dzj_8gp.css","style"]
+17:X
+1a:X
+1a:C
+1d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L1e",null,{}],["$","div",null,{"className":"mx-auto grid w-full max-w-[1440px] flex-1 lg:grid-cols-[300px_minmax(0,1fr)] xl:grid-cols-[300px_minmax(0,1fr)_260px]","children":[["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] border-r lg:block","children":["$","$L1f",null,{"tree":{"kind":"folder","id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/","children":[{"kind":"lesson","id":"g6edv1","num":"00","title":"Навигация по разделу","href":"/l/04/00/"},{"kind":"lesson","id":"1xnmznj","num":"01","title":"Управляемая форма и её данные","href":"/l/04/01/"},{"kind":"lesson","id":"mhgb45","num":"02","title":"Создание формы документа","href":"/l/04/02/"},{"kind":"lesson","id":"a7qf8u","num":"03","title":"Реквизиты формы и ПутьКДанным","href":"/l/04/03/"},{"kind":"lesson","id":"2o6zyr","num":"04","title":"Группы и страницы","href":"/l/04/04/"},{"kind":"lesson","id":"svgi2d","num":"05","title":"Модуль формы и клиент-сервер","href":"/l/04/05/"},{"kind":"lesson","id":"oby9em","num":"06","title":"Команды формы и кнопки","href":"/l/04/06/"},{"kind":"lesson","id":"7le7s3","num":"07","title":"Создание, открытие и закрытие формы","href":"/l/04/07/"},{"kind":"lesson","id":"1k0fki6","num":"08","title":"Изменение полей и обработчики событий","href":"/l/04/08/"},{"kind":"lesson","id":"nd996n","num":"09","title":"Таблица формы и текущая строка","href":"/l/04/09/"},{"kind":"lesson","id":"11wtbct","num":"10","title":"Пересчёт строк и итога товаров","href":"/l/04/10/"},{"kind":"lesson","id":"i96h1o","num":"11","title":"Видимость, доступность и ТолькоПросмотр","href":"/l/04/11/"},{"kind":"lesson","id":"8hedv0","num":"12","title":"Проверка заполнения и сообщения","href":"/l/04/12/"},{"kind":"lesson","id":"co25zd","num":"13","title":"Запись из формы и события записи","href":"/l/04/13/"},{"kind":"lesson","id":"nnmm5o","num":"14","title":"Данные формы и прикладной объект","href":"/l/04/14/"},{"kind":"lesson","id":"emmzl6","num":"15","title":"Открытие форм и параметры","href":"/l/04/15/"},{"kind":"lesson","id":"xzv03w","num":"16","title":"Общая форма для подбора товара","href":"/l/04/16/"},{"kind":"lesson","id":"1k0ilgs","num":"17","title":"Выбор и возврат результата","href":"/l/04/17/"},{"kind":"lesson","id":"myamgl","num":"18","title":"Ограничение выбора значений","href":"/l/04/18/"},{"kind":"lesson","id":"j1pkry","num":"19","title":"Форма списка и динамический список","href":"/l/04/19/"},{"kind":"lesson","id":"1x5teva","num":"20","title":"Программный отбор списка","href":"/l/04/20/"},{"kind":"lesson","id":"1cqww30","num":"21","title":"Условное оформление","href":"/l/04/21/"},{"kind":"lesson","id":"1xnnjfs","num":"22","title":"Асинхронные вопросы пользователю","href":"/l/04/22/"},{"kind":"lesson","id":"8aaryv","num":"23","title":"Программное создание элементов формы","href":"/l/04/23/"},{"kind":"lesson","id":"ey1csk","num":"24","title":"Загрузка таблицы формы на сервере","href":"/l/04/24/"},{"kind":"lesson","id":"1bgryr1","num":"25","title":"Отладка управляемой формы","href":"/l/04/25/"},{"kind":"lesson","id":"1hg970j","num":"26","title":"Практика по форме документа","href":"/l/04/26/"},{"kind":"lesson","id":"1xgw5tl","num":"27","title":"Практика по взаимодействию форм","href":"/l/04/27/"},{"kind":"lesson","id":"3yhy1m","num":"28","title":"Ошибки и памятка для повторения","href":"/l/04/28/"},{"kind":"lesson","id":"lrcdc9","num":"29","title":"Учебная обработка и проверка примеров","href":"/l/04/29/"}]},"sections":[{"id":"3uhe47","num":"00","title":"Оглавление","href":"/l/00/"},{"id":"1alhswt","num":"01","title":"Основы конфигурирования","href":"/l/01/"},{"id":"1awfm0x","num":"02","title":"Программирование","href":"/l/02/"},{"id":"chv2um","num":"03","title":"Язык запросов и СКД","href":"/l/03/"},{"id":"wfg5ts","num":"04","title":"Программирование управляемых форм","href":"/l/04/"},{"id":"1c9mnd1","num":"05","title":"Профессиональная разработка","href":"/l/05/"},{"id":"18v7yvg","num":"06","title":"Алгоритмы для 1С","href":"/l/06/"},{"id":"14mlr13","num":"07","title":"Тестирование 1С","href":"/l/07/"},{"id":"6h5z3e","num":"08","title":"Шпаргалки","href":"/l/08/"}],"currentId":"svgi2d"}]}],"$L20","$L21"]}]],["$L22"],"$L23"]}],"p":"$@24","v":null,"s":"$17"}}]]
+1b:[["children",{"s":{"n":"slug","t":"c","k":"04/05","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@1c","v":"$1a","s":"$17"},"c":"$Q1d"}]]
+18:[["children",{"s":"l","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"p":"$@19","v":"$1a","s":"$17"},"c":"$Q1b"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/restart/_next/static/chunks/3u8ihrz6_ag7e.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/restart/_next/static/chunks/0kfqj5dzj_8gp.css","precedence":"next"}],["$","script","script-0",{"src":"/restart/_next/static/chunks/38loak8trqvh2.js","async":true}],["$","script","script-1",{"src":"/restart/_next/static/chunks/2dad3--1jbz_b.js","async":true}],["$","script","script-2",{"src":"/restart/_next/static/chunks/3idpyiylk5kk_.js","async":true}],["$","script","script-3",{"src":"/restart/_next/static/chunks/33qcs7nhk-96-.js","async":true}],["$","script","script-4",{"src":"/restart/_next/static/chunks/2h01aasd38279.js","async":true}],["$","script","script-5",{"src":"/restart/_next/static/chunks/0u8j509gx7umj.js","async":true}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"className":"antialiased j3zq1W_variable zE99YG_variable ljgmIG_variable","children":["$","body",null,{"className":"min-h-dvh flex flex-col","children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L9",null,{"children":["$","$Lb",null,{"children":["$","$Lc",null,{"delay":300,"children":[["$","$Ld",null,{}],["$","div",null,{"className":"flex-1 flex flex-col","children":["$","$Le",null,{"parallelRouterKey":"children","template":["$","$L10",null,{"children":["$","$L11",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/restart/_next/static/chunks/10m5-ma_2qdvj.js","async":true}]],"notFound":[["$","main",null,{"className":"grid flex-1 place-items-center px-4 py-24","children":["$","div",null,{"className":"text-center","children":[["$","div",null,{"className":"font-display text-[clamp(6rem,20vw,12rem)] font-semibold leading-none text-faint","children":"404"}],["$","h1",null,{"className":"mt-4 text-2xl font-semibold tracking-tight","children":"Такой страницы нет"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Возможно, урок переименовали или перенесли."}],["$","$L13",null,{"href":"/","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-9 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-8 px-5","children":"К разделам"}]]}]}],[]]}]}],["$","$L14",null,{}],["$","$L15",null,{"position":"bottom-center"}]]}]}]}]}]}]}]]}],"p":"$@16","v":null,"s":"$17"},"c":"$Q18"},"h":{"r":["$","$1","h",{"children":[null,["$","$L26",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#232528","media":"(prefers-color-scheme: dark)"}]]}],["$","$L28",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$29",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Модуль формы и клиент-сервер · re:start"}],["$","meta","1",{"name":"description","content":"Конспект по разработке на 1С:Предприятие: конфигурирование, встроенный язык, запросы, СКД и управляемые формы. Поиск и прогресс обучения."}],["$","link","2",{"rel":"icon","href":"/restart/icon.svg?icon.0l_txppbhysp3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L2a","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@2b","v":null,"s":"$17"}},"a":"$@2c","u":"$@2d","b":"KiO8q2Z_5-BSJw_TlWHJn"}
+2e:I[731,["$2","$3","$4","$5","$6","$7","$12"],"MobileNav"]
+2f:I[78688,["$2","$3","$4","$5","$6","$7","$12"],"LessonActions"]
+36:I[70669,["$2","$3","$4","$5","$6","$7","$12"],"Toc"]
+37:I[97367,["$2","$3","$4","$5","$6","$7"],"OutletBoundary"]
+30:T4d03,<div class="callout callout-abstract" data-callout="abstract">
+<div class="callout-title">Коротко</div>
+<div class="callout-body"><p>Каждый метод модуля формы помечается директивой: <code>&#x26;НаКлиенте</code> — интерфейс и действия пользователя, <code>&#x26;НаСервере</code> — сервер <strong>с данными формы</strong>, <code>&#x26;НаСервереБезКонтекста</code> — сервер <strong>только с параметрами</strong> (быстрее), <code>&#x26;НаКлиентеНаСервереБезКонтекста</code> — где вызвали. Работа с базой — только на сервере. Число серверных вызовов минимизируем.</p></div>
+</div>
+<h2 id="клиент-и-сервер--простыми-словами">Клиент и сервер — простыми словами</h2>
+<p>В управляемом приложении программа работает <strong>на двух компьютерах</strong> (или в двух «половинках» одной программы, если база файловая):</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th></th><th>Клиент</th><th>Сервер</th></tr></thead><tbody><tr><td>Где</td><td>Компьютер пользователя (или браузер)</td><td>Сервер 1С рядом с базой данных</td></tr><tr><td>Что умеет</td><td>Показывать окна, реагировать на клики и ввод, задавать вопросы</td><td>Читать и писать базу, выполнять запросы, работать с объектами</td></tr><tr><td>Чего не умеет</td><td>Обращаться к базе напрямую</td><td>Показывать окна и спрашивать пользователя</td></tr></tbody></table></div>
+<p>Аналогия — <strong>ресторан</strong>. Клиент — это <strong>официант</strong> в зале: принимает заказ, общается с гостем, приносит блюда. Сервер — <strong>кухня</strong>: там продукты (база данных) и повара (запросы). Официант не готовит сам — он передаёт заказ на кухню и ждёт. Повар не выходит в зал спрашивать гостя — он работает с тем, что ему передали.</p>
+<p>Каждая передача «зал ↔ кухня» — это <strong>серверный вызов</strong>. Он занимает время (особенно если сервер далеко), поэтому хорошая программа гоняет официанта как можно реже.</p>
+<div class="callout callout-info" data-callout="info">
+<div class="callout-title">А если база файловая?</div>
+<div class="callout-body"><p>В файловой базе «кухня» работает на том же компьютере, но разделение всё равно соблюдается: код на клиенте не может выполнить запрос. Так программа без изменений заработает и в клиент-серверном варианте, и в браузере.</p></div>
+</div>
+<h2 id="модуль-формы-и-модуль-объекта">Модуль формы и модуль объекта</h2>
+<p><strong>Модуль формы</strong> (вкладка «Модуль» в редакторе) — код <strong>этой</strong> формы: реакции на кнопки, ввод, открытие окна. <strong>Модуль объекта</strong> документа — правила записи и проведения, которые работают <strong>и без формы</strong> (например, когда документ записывает обработка).</p>
+<p><img src="/restart/vault/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/04.%20%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D1%8B%D0%B5%20%D1%84%D0%BE%D1%80%D0%BC%D1%8B/%D0%A3%D0%A4-08-%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C-%D1%84%D0%BE%D1%80%D0%BC%D1%8B.png" alt="УФ-08-Модуль-формы.png" loading="lazy" decoding="async"></p>
+<p><em>Модуль существующей формы накладной: директивы <code>&#x26;НаКлиенте</code>, <code>&#x26;НаСервере</code> перед каждым методом.</em></p>
+<div class="callout callout-tip" data-callout="tip">
+<div class="callout-title">Где что писать</div>
+<div class="callout-body"><p>Быстрый пересчёт при вводе — в форме. Гарантированный пересчёт и проверки при записи — в модуле объекта. Перед правками читаем существующие методы: вторую процедуру с тем же именем создать нельзя.</p></div>
+</div>
+<h2 id="директивы-где-выполнится-процедура">Директивы: где выполнится процедура</h2>
+<p>Перед <strong>каждой</strong> процедурой и функцией модуля формы пишется <strong>директива</strong> — пометка, где её выполнять:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Директива</th><th>Где выполняется</th><th>Что доступно</th><th>Аналогия</th></tr></thead><tbody><tr><td><code>&#x26;НаКлиенте</code></td><td>На клиенте</td><td>Данные формы, элементы, окна, вопросы</td><td>Официант в зале</td></tr><tr><td><code>&#x26;НаСервере</code></td><td>На сервере, <strong>с данными формы</strong></td><td>Реквизиты формы (<code>Объект</code>…), запросы, объекты базы</td><td>Официант относит на кухню <strong>весь поднос</strong> с заказом</td></tr><tr><td><code>&#x26;НаСервереБезКонтекста</code></td><td>На сервере, <strong>без данных формы</strong></td><td>Только то, что передали параметрами</td><td>Официант передаёт на кухню <strong>одну записку</strong></td></tr><tr><td><code>&#x26;НаКлиентеНаСервереБезКонтекста</code></td><td>Там, откуда вызвали</td><td>Только параметры и вычисления</td><td>Рецепт, который знают и в зале, и на кухне</td></tr></tbody></table></div>
+<pre><pre class="mermaid-source">sequenceDiagram
+    participant P1 as Клиент
+    participant P2 as Сервер
+    P1->>P2: &#x26;НаСервере — передаются данные формы
+    P2-->>P1: данные формы возвращаются обратно
+    P1->>P2: &#x26;НаСервереБезКонтекста — только параметры
+    P2-->>P1: только результат функции
+</pre></pre>
+<p><code>&#x26;НаСервере</code> удобен — на сервере доступны все реквизиты формы. Но за удобство платим: при вызове на сервер и обратно передаётся <strong>вся</strong> форма — все строки таблиц, все реквизиты. <code>&#x26;НаСервереБезКонтекста</code> передаёт только параметры — быстрее.</p>
+<div class="callout callout-warning" data-callout="warning">
+<div class="callout-title">На сервере нет интерфейса</div>
+<div class="callout-body"><p>Даже с контекстом формы на сервере нет «текущей строки таблицы» и нельзя показать окно или задать вопрос. Всё интерактивное — только на клиенте.</p></div>
+</div>
+<h2 id="пример-два-способа-получить-имя-покупателя">Пример: два способа получить имя покупателя</h2>
+<p>Задача: показать сообщением наименование покупателя. Ссылка на покупателя есть на клиенте, а его наименование лежит в базе — значит, нужен сервер.</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-comment)">// Способ 1: с контекстом формы</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаСервере</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> ПредставлениеПокупателяСКонтекстом</span><span style="color:var(--shiki-foreground)">()</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Если</span><span style="color:var(--shiki-token-keyword)"> НЕ</span><span style="color:var(--shiki-token-function)"> ЗначениеЗаполнено</span><span style="color:var(--shiki-foreground)">(Объект.Покупатель) </span><span style="color:var(--shiki-token-keyword)">Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Возврат</span><span style="color:var(--shiki-token-string-expression)"> "Покупатель не выбран"</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-foreground)"> Объект.Покупатель.Наименование</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">   // читает Объект — нужны данные формы</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span>
+<span data-line=""> </span>
+<span data-line=""><span style="color:var(--shiki-token-comment)">// Способ 2: без контекста — предпочтительный</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаСервереБезКонтекста</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Функция</span><span style="color:var(--shiki-token-function)"> ПредставлениеПокупателя</span><span style="color:var(--shiki-foreground)">(СсылкаНаПокупателя)</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Если</span><span style="color:var(--shiki-token-keyword)"> НЕ</span><span style="color:var(--shiki-token-function)"> ЗначениеЗаполнено</span><span style="color:var(--shiki-foreground)">(СсылкаНаПокупателя) </span><span style="color:var(--shiki-token-keyword)">Тогда</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">		Возврат</span><span style="color:var(--shiki-token-string-expression)"> "Покупатель не выбран"</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	КонецЕсли;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">	Возврат</span><span style="color:var(--shiki-foreground)"> СсылкаНаПокупателя.Наименование</span><span style="color:var(--shiki-token-keyword)">;</span><span style="color:var(--shiki-token-comment)">  // работает только с параметром</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецФункции</span></span></code></pre></figure>
+<p>Вызов второй функции из клиентского обработчика кнопки той же формы:</p>
+<figure data-rehype-pretty-code-figure=""><pre tabindex="0" data-language="bsl" data-theme="mono"><code data-language="bsl" data-theme="mono" style="display: grid;"><span data-line=""><span style="color:var(--shiki-token-keyword)">&#x26;НаКлиенте</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">Процедура</span><span style="color:var(--shiki-token-function)"> ПоказатьПокупателя</span><span style="color:var(--shiki-foreground)">(Команда)</span></span>
+<span data-line=""><span style="color:var(--shiki-foreground)">	ИмяПокупателя </span><span style="color:var(--shiki-token-keyword)">=</span><span style="color:var(--shiki-foreground)"> ПредставлениеПокупателя(Объект.Покупатель)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-function)">	Сообщить</span><span style="color:var(--shiki-foreground)">(ИмяПокупателя)</span><span style="color:var(--shiki-token-keyword)">;</span></span>
+<span data-line=""><span style="color:var(--shiki-token-keyword)">КонецПроцедуры</span></span></code></pre></figure>
+<p>Что происходит по шагам:</p>
+<ol>
+<li>Клиент берёт ссылку <code>Объект.Покупатель</code> из данных формы.</li>
+<li>Вызывает серверную функцию и передаёт ей <strong>только ссылку</strong> — «записку на кухню».</li>
+<li>Сервер читает наименование из базы и возвращает строку.</li>
+<li>Клиент показывает сообщение.</li>
+</ol>
+<p>Вторая функция предпочтительнее: на сервер уходит одна ссылка, а не вся форма с таблицами. Обращение к <code>Объект</code> внутри <code>&#x26;НаСервереБезКонтекста</code> — <strong>ошибка</strong>: данных формы там нет.</p>
+<p>Для вызова метода <strong>своей</strong> формы с сервера ничего дополнительно настраивать не нужно. Флажок «Вызов сервера» относится к общим модулям (<a href="/restart/l/02/26/" data-internal="true">26. Общие модули</a>).</p>
+<h2 id="правила-хорошего-тона">Правила хорошего тона</h2>
+<ul>
+<li><strong>Передаём простые значения</strong>: числа, строки, ссылки, структуры. Не передаём на клиент <code>ДокументОбъект</code> — на тонком клиенте его не существует.</li>
+<li><strong>Сложение двух чисел — на клиенте.</strong> Не нужно ходить на сервер за тем, что можно посчитать на месте.</li>
+<li><strong>Цены для ста строк — одним вызовом</strong>, а не ста. Собираем товары в массив и получаем все цены за один раз.</li>
+<li><strong>Данные при открытии формы готовим в <code>ПриСозданииНаСервере</code></strong>, а не вызовом сервера из <code>ПриОткрытии</code> (<a href="/restart/l/04/07/" data-internal="true">07. Создание, открытие и закрытие формы</a>) — см. <a href="https://kb.1ci.com/1C_Enterprise_Platform/Guides/Developer_Guides/1C_Enterprise_Development_Standards/Client_server_interaction/Server_call_optimization/?language=en" target="_blank" rel="noopener noreferrer">стандарт 1С об оптимизации серверных вызовов</a>.</li>
+</ul>
+<p>Серверный вызов <strong>синхронный</strong>: клиент ждёт ответа, и код продолжится, только когда придёт результат. Это не фоновое выполнение.</p>
+<h2 id="типичные-ошибки">Типичные ошибки</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Сообщение или симптом</th><th>Причина</th><th>Что сделать</th></tr></thead><tbody><tr><td>«Переменная не определена (Объект)»</td><td>Метод <code>&#x26;НаСервереБезКонтекста</code> обращается к данным формы</td><td>Передать нужное значение параметром</td></tr><tr><td>«Тип не определён (Запрос)» / «Метод недоступен на клиенте»</td><td>Запрос или <code>ПолучитьОбъект()</code> в процедуре <code>&#x26;НаКлиенте</code></td><td>Вынести в серверную функцию</td></tr><tr><td>Функция есть, но ничего не происходит</td><td>Её никто не вызывает: нет связи с командой или событием</td><td>Проверить свойство «Действие» команды или событие элемента</td></tr><tr><td>Метод не виден из другого модуля</td><td>Методы формы локальны</td><td>Общие методы — в общих модулях</td></tr><tr><td>Директиву забыли</td><td>Без директивы метод формы считается <code>&#x26;НаСервере</code></td><td>Всегда писать директиву явно</td></tr></tbody></table></div>
+<details class="callout callout-question" data-callout="question">
+<summary class="callout-title">Проверь себя</summary>
+<div class="callout-body"><ol>
+<li>
+<p>Почему <code>&#x26;НаСервереБезКонтекста</code> предпочтительнее <code>&#x26;НаСервере</code>?</p>
+</li>
+<li>
+<p>Можно ли в серверном методе формы спросить пользователя «Продолжить?»</p>
+</li>
+<li>
+<p>Где выполнить запрос цены выбранного товара?</p>
+</li>
+</ol><details class="callout callout-success" data-callout="success">
+<summary class="callout-title">Ответы</summary>
+<div class="callout-body"><ol>
+<li>Не передаются данные формы — меньше трафика и быстрее.</li>
+<li>Нет, вопросы — только на клиенте.</li>
+<li>В серверной функции (лучше без контекста), передав ссылку на товар.</li>
+</ol></div>
+</details></div>
+</details>20:["$","main",null,{"className":"min-w-0 px-4 pb-24 pt-6 sm:px-8 lg:px-12 xl:px-16","children":[["$","div",null,{"className":"mb-8 flex items-center gap-3 lg:hidden","children":["$","$L2e",null,{"children":"$1d:0:1:d:r:props:children:0:1:props:children:0:props:children"}]}],["$","article",null,{"className":"mx-auto max-w-[760px]","children":[["$","nav",null,{"aria-label":"Навигация","className":"flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-[11px] uppercase tracking-[0.12em] text-muted-foreground","children":[["$","$L13",null,{"href":"/","className":"hover:text-foreground transition-colors","children":"Разделы"}],[["$","span","wfg5ts",{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"text-faint","children":"/"}],["$","$L13",null,{"href":"/l/04/","className":"hover:text-foreground transition-colors","children":[["$","span",null,{"className":"text-faint mr-1.5","children":"04"}],"Программирование управляемых форм"]}]]}]]]}],["$","header",null,{"className":"mt-8 animate-rise","children":[["$","div",null,{"className":"label flex items-center gap-3","children":[["$","span",null,{"children":["Урок ","05"]}],["$","span",null,{"className":"accent-square"}],["$","span",null,{"children":[6," ","минут"," чтения"]}]]}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold leading-[1.1] text-balance sm:text-[2.6rem]","children":"Модуль формы и клиент-сервер"}],["$","div",null,{"className":"mt-7","children":["$","$L2f",null,{"id":"svgi2d","href":"/l/04/05/","title":"Модуль формы и клиент-сервер"}]}]]}],["$","div",null,{"id":"lesson-body","className":"prose mt-10 animate-rise [animation-delay:80ms]","dangerouslySetInnerHTML":{"__html":"$30"}}],"$L31","$L32","$L33","$L34","$L35"]}]]}]
+21:["$","aside",null,{"className":"sticky top-14 hidden h-[calc(100dvh-3.5rem)] overflow-y-auto py-10 pr-6 thin-scrollbar xl:block","children":["$","$L36",null,{"items":[{"id":"клиент-и-сервер--простыми-словами","text":"Клиент и сервер — простыми словами","depth":2},{"id":"модуль-формы-и-модуль-объекта","text":"Модуль формы и модуль объекта","depth":2},{"id":"директивы-где-выполнится-процедура","text":"Директивы: где выполнится процедура","depth":2},{"id":"пример-два-способа-получить-имя-покупателя","text":"Пример: два способа получить имя покупателя","depth":2},{"id":"правила-хорошего-тона","text":"Правила хорошего тона","depth":2},{"id":"типичные-ошибки","text":"Типичные ошибки","depth":2}]}]}]
+22:["$","script","script-0",{"src":"/restart/_next/static/chunks/3aiu57zcu13rs.js","async":true}]
+23:["$","$L37",null,{"children":["$","$29",null,{"name":"Next.MetadataOutlet","children":"$@38"}]}]
+39:I[89123,["$2","$3","$4","$5","$6","$7","$12"],"ArticleEnhancer"]
+3a:I[7581,["$2","$3","$4","$5","$6","$7","$12"],"DiagramEnhancer"]
+3b:I[76084,["$2","$3","$4","$5","$6","$7","$12"],"ImageZoom"]
+3c:I[5014,["$2","$3","$4","$5","$6","$7","$12"],"default"]
+17:300
+31:["$","$L39",null,{"targetId":"lesson-body"}]
+32:["$","$L3a",null,{"targetId":"lesson-body"}]
+33:["$","$L3b",null,{"targetId":"lesson-body"}]
+34:["$","div",null,{"className":"mt-16 border-t pt-8","children":["$","$L2f",null,{"id":"svgi2d","href":"/l/04/05/","title":"Модуль формы и клиент-сервер","variant":"footer"}]}]
+35:["$","nav",null,{"className":"mt-10 grid grid-cols-1 gap-px border bg-border sm:grid-cols-2","children":[["$","$L13",null,{"href":"/l/04/04/","className":"group flex flex-col gap-1.5 bg-background p-5 transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":[["$","$L3c",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-3 transition-transform group-hover:-translate-x-1"}]," Назад"]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Группы и страницы"}]]}],["$","$L13",null,{"href":"/l/04/06/","className":"group flex flex-col items-end gap-1.5 bg-background p-5 text-right transition-colors hover:bg-foreground hover:text-background","children":[["$","span",null,{"className":"label flex items-center gap-2","children":["Далее ",["$","$L3c",null,{"icon":{"name":"arrow-right","size":24,"node":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]]},"className":"size-3 transition-transform group-hover:translate-x-1"}]]}],["$","span",null,{"className":"line-clamp-2 font-medium leading-snug","children":"Команды формы и кнопки"}]]}]]}]
+38:null
+2d:true
+17:C
+2c:0
+1c:"$undefined"
+19:"$undefined"
+16:"$undefined"
+2b:"$undefined"
+24:"$undefined"
